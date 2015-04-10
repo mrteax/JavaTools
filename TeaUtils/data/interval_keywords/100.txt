@@ -1,0 +1,726 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VT/9DfAdRQJzGZXWaRkoNcke5xmSpQpT5xVhsGgmKH18uqCZ7SjM55FY2236U4Bj
+ udN7RofUWBdeub3U1m4kng==
+
+<SEC-DOCUMENT>0000914039-00-000220.txt : 20000508
+<SEC-HEADER>0000914039-00-000220.hdr.sgml : 20000508
+ACCESSION NUMBER:		0000914039-00-000220
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000622
+FILED AS OF DATE:		20000505
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACMAT CORP
+		CENTRAL INDEX KEY:			0000002062
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURETY INSURANCE [6351]
+		IRS NUMBER:				060682460
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-06234
+		FILM NUMBER:		620210
+
+	BUSINESS ADDRESS:	
+		STREET 1:		233 MAIN ST
+		STREET 2:		P O BOX 2350
+		CITY:			NEW BRITAIN
+		STATE:			CT
+		ZIP:			06050-2350
+		BUSINESS PHONE:		2032299000
+
+	MAIL ADDRESS:	
+		STREET 1:		233 MAIN STREET
+		STREET 2:		P O BOX 2350
+		CITY:			NEW BRITAIN
+		STATE:			CT
+		ZIP:			06050-2350
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>DEF 14A
+<TEXT>
+
+<PAGE>   1
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 14A
+
+
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of
+1934
+
+Filed by the Registrant |X|
+Filed by a Party other than the Registrant |_|
+Check the appropriate box:
+
+| |   Preliminary Proxy Statement
+
+|_|   Confidential, for Use of the Commission Only (as permitted by Rule
+      14a-6(e) (2))
+
+|X|   Definitive Proxy Statement
+
+|_|   Definitive Additional Materials
+
+|_|   Soliciting Material Pursuant to ss.  240.14a-11(c) or ss.  240.14a-12
+
+
+                               ACMAT CORPORATION
+                (Name of Registrant as Specified In Its Charter)
+
+                                       N/A
+
+
+(Name of Person(s) Filing Proxy Statement if other than the Registrant) Payment
+of Filing Fee (Check the appropriate box):
+
+|X|   No fee required
+
+| |   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+
+      (1)   Title of each class of securities to which transaction applies:
+            Common Stock, par value $.01 per share
+
+      (2)   Aggregate number of securities to which transaction applies: [ ]
+
+      (3)   Per unit price or other underlying value of transaction computed
+            pursuant to Exchange Act Rule 0-11 (Set forth the amount on which
+            the filing fee is calculated and state how it was determined):
+            $[  ]
+
+      (4)   Proposed maximum aggregate value of transaction:  $[  ]
+
+      (5)   Total fee paid:  $[  ]
+
+|_|   Fee paid previously with preliminary materials.
+
+|_|   Check box if any part of the fee is offset as provided by Exchange Act
+      Rule 0-11(a)(2) and identify the filing for which the offsetting fee was
+      paid previously. Identify the previous filing by registration statement
+      number, or the Form or Schedule and the date of its filing.
+
+      1)    Amount Previously Paid:  [  ]
+
+      2)    Form, Schedule or Registration Statement No.:  [  ]
+
+      3)    Filing Party:  [  ]
+
+      4)    Date Filed:  [  ]
+<PAGE>   2
+
+ACMAT LOGO
+
+                                233 MAIN STREET
+                           NEW BRITAIN, CT 06050-2350
+
+                  NOTICE OF ANNUAL MEETING OF STOCKHOLDERS OF
+                               ACMAT CORPORATION
+
+                                   TO BE HELD
+                                 JUNE 22, 2000
+
+To the ACMAT Stockholders:
+
+     The Annual Meeting of Stockholders of ACMAT CORPORATION will be held at
+ACMAT's headquarters, 233 Main Street, New Britain, CT, on June 22, 2000, at
+11:00 A.M., for the following purposes:
+
+     1. To elect six directors for the ensuing year;
+
+     2. To approve the appointment of KPMG LLP as auditors of the books and
+        accounts of the Company for the current fiscal year; and
+
+     3. To transact such other business as may properly come before the meeting.
+
+     Only stockholders of record at the close of business on April 21, 2000 will
+be entitled to notice of and to vote at this meeting.
+
+     We hope that as many stockholders as possible will attend the Annual
+Meeting in person. Management will be present to answer any questions you may
+have with respect to the operations of the Company. We would appreciate it if
+you would complete, date, sign and return the enclosed proxy. A self-addressed
+envelope is enclosed for your convenience in returning the proxy to us.
+
+                                          /s/ Henry W. Nozko, Sr.
+                                          HENRY W. NOZKO, SR.
+May 5, 2000                               Chairman of the Board and President
+<PAGE>   3
+
+                               ACMAT CORPORATION
+                  233 MAIN STREET, NEW BRITAIN, CT 06050-2350
+                                 (860) 229-9000
+
+                                PROXY STATEMENT
+
+     The enclosed proxy is solicited by the Board of Directors of ACMAT
+CORPORATION (sometimes referred to as "ACMAT", the "Company" or the
+"Corporation") for use at the Annual Meeting of Stockholders of the Company to
+be held on June 22, 2000, at 11:00 A.M., at ACMAT's headquarters, 233 Main
+Street, New Britain, CT, for the purposes set forth in the accompanying Notice
+of Annual Meeting. Any stockholder giving a proxy has the power to revoke it at
+any time prior to its exercise by giving written notice of its revocation to the
+Secretary of the Company, delivering a proxy bearing a later date or attending
+the Annual Meeting and voting in person.
+
+  Outstanding Shares and Voting Rights
+
+     On April 30, 2000, there were outstanding 570,568 shares of Common Stock
+and 2,288,527 shares of Class A Stock of the Company. Each share of Common Stock
+is entitled to one vote and each share of Class A Stock is entitled to 1/10
+vote. Only stockholders of record at the close of business on April 21, 2000
+will be entitled to vote at the Annual Meeting. These proxy materials will be
+mailed to stockholders on or about May 5, 2000.
+
+  Security Ownership of Certain Beneficial Owners and Management
+
+     As of April 30, 2000, no person was known to the Company to be the
+beneficial owner of more than five percent of its outstanding shares of Common
+Stock or Class A Stock except as set forth in the following table which also
+shows, as of that date, the total number of shares of each class of stock of the
+Company beneficially owned, and the percent of the outstanding class of stock so
+owned, by each director, and by all directors and officers of the Company, as a
+group:
+
+<TABLE>
+<CAPTION>
+                                                                         PERCENTAGE        PERCENTAGE
+                                 CLASS        NUMBER OF SHARES            OF CLASS          OF TOTAL
+       BENEFICIAL OWNER         OF STOCK    BENEFICIALLY OWNED(1)        OUTSTANDING    VOTING POWER(14)
+       ----------------         --------    ---------------------        -----------    ----------------
+<S>                             <C>         <C>                          <C>            <C>
+Henry W. Nozko, Sr. ..........  Common              432,000(4)             69.61%              49.35%
+                                Class A              51,000(3)               2.18
+Henry W. Nozko, Jr. ..........  Common              191,274(2)(4)           30.82              23.49
+                                Class A             167,074(2)(5)            7.16
+Victoria C. Nozko.............  Class A              42,000(6)               1.82                .50
+John C. Creasy................  Common                3,300                   .58                .62
+                                Class A              18,453(7)                .80
+Sheet Metal Workers' National
+  Pension Fund................                    1,400,000(8)              37.96              14.42
+Franklin Resources, Inc. .....  Class A             445,000(9)              19.44
+First Manhattan Co............  Class A             208,913(10)              9.13               2.51
+Queensway Financial Holdings
+  Limited.....................  Class A             454,050(11)             19.84               5.46
+Investment Counselor of
+  Maryland, Inc. .............  Class A             175,000(12)              7.65               2.11
+EQSF Advisors, Inc. ..........  Class A             200,678(13)              8.77               2.41
+All Directors and Officers (8
+  persons) As a Group.........  Common              626,574                 93.44              69.53
+                                Class A             324,242                 13.20
+</TABLE>
+
+- ---------------
+ (1) The person listed has the sole power to vote the shares of Common Stock and
+     Class A Stock listed above as beneficially owned by such person and has
+     sole investment power with respect to such shares.
+<PAGE>   4
+
+ (2) Does not include 24,250 shares of Class A Stock and 7,500 shares of Common
+     Stock held by Mr. Nozko, Jr. as custodian for his minor child nor 500
+     shares of Class A Stock and 4,750 shares of Common Stock held by his wife,
+     Gloria C. Nozko.
+
+ (3) Includes options to purchase 46,000 shares of Class A Stock.
+
+ (4) Includes options to purchase 50,000 shares of Common Stock.
+
+ (5) Includes options to purchase 45,000 shares of Class A Stock.
+
+ (6) Includes options to purchase 15,000 shares of Class A Stock.
+
+ (7) Includes options to purchase 16,500 shares of Class A Stock.
+
+ (8) Assumes the full conversion of $15,400,000 principal amount of 11.5%
+     Convertible Note into 1,400,000 shares of Class A Stock. The Address of the
+     Fund is Suite 500, 601 North Fairfax Street, Alexandria, VA 22314.
+
+ (9) Address of Franklin Resources, Inc. is 777 Mariners Island Blvd. San Mateo,
+     CA 94404.
+
+(10) Address of First Manhattan Co. is 437 Madison Avenue, New York, NY 10022.
+
+(11) Address of Queensway Financial Holdings Limited is 90 Adelaide Street West,
+     Toronto, Ontario M5H3V9.
+
+(12) Address of Investment Counselor's of Maryland, Inc. is 803 Cathedral
+     Street, Baltimore, MD 21201.
+
+(13) Address of EQSF Advisors, Inc. is 767 Third Avenue, New York, NY
+     10017-2023.
+
+(14) Based upon one vote for each share of Common Stock and one-tenth vote for
+     each share of Class A Stock.
+
+                           1.  ELECTION OF DIRECTORS
+
+     The first purpose of the meeting is to elect a Board of Directors, six in
+number, for a term of one year and until their successors shall be elected and
+qualify in their stead. It is the intention of the persons named in the proxy to
+vote, unless otherwise instructed, the proxies for the election as directors of
+the six nominees listed below. All of the nominees are presently directors of
+the Company previously elected by stockholders. In the event that any nominee
+should be unwilling or unable to serve as director (which is not now
+anticipated) the persons named as proxies reserve full discretion to vote for
+such other person as may be nominated by the Board of Directors.
+
+                                        2
+<PAGE>   5
+
+     The following table shows for each director (a) his or her age, (b) the
+year in which the director first served as a director of the Company, (c)
+position with the Company and business experience during the past five years,
+including principal occupation, (d) his or her committee assignments, and (e)
+his or her other directorships. Each director is elected for a term of one year
+and until his or her successor shall be elected.
+
+<TABLE>
+<CAPTION>
+                                    DIRECTOR   POSITION WITH THE COMPANY AND BUSINESS EXPERIENCE DURING
+            NAME              AGE    SINCE              LAST FIVE YEARS, INCLUDING OCCUPATION
+            ----              ---   --------   --------------------------------------------------------
+<S>                           <C>   <C>        <C>
+Henry W. Nozko, Sr.(1)......  80    1951       Chairman of the Board, President and Chief Executive
+                                               Officer of the Company. Chairman of the Board and
+                                               Director of United Coastal Insurance Company, ACSTAR
+                                               Holdings, Inc. and ACSTAR Insurance Company. Co-Chief
+                                               Executive Officer of United Coastal Insurance Company.
+Henry W. Nozko, Jr.(1)......  53    1971       Executive Vice President, Chief Operating Officer, and
+                                               Treasurer of the Company. Member of the Audit Committee.
+                                               President, Co-Chief Executive Officer and Treasurer of
+                                               United Coastal Insurance Company. President and
+                                               Treasurer of ACSTAR Holdings, Inc. and ACSTAR Insurance
+                                               Company. Member, Boards of Directors of United Coastal
+                                               Insurance Company, ACSTAR Holdings, Inc., ACSTAR
+                                               Insurance Company.
+Victoria C. Nozko(1)........  81    1982       Housewife during past five years. Member of the Audit
+                                               Committee.
+John C. Creasy..............  80    1987       Retired Chief Executive Officer of Danbury Hospital,
+                                               Member, Board of United Coastal Insurance Company.
+                                               Member of the Compensation Committee and Audit
+                                               Committee.
+Arthur R. Moore.............  66    1999       Former General President of Sheet Metal Workers'
+                                               International Association. Member of the Audit
+                                               Committee.
+Alfred T. Zlotopolski.......  53    1999       General Secretary-Treasurer of the Sheet Metal Workers'
+                                               International Association. Previously was the Business
+                                               Manager and President of Local 36 of the Sheet Metal
+                                               Workers' International Association.
+</TABLE>
+
+- ---------------
+(1) Mr. Henry W. Nozko, Sr. and Mrs. Victoria C. Nozko are husband and wife and
+    Mr. Henry W. Nozko, Jr. is their son.
+
+  Committees and Meetings
+
+     The Board of Directors of the Company held 3 meetings during 1999. The
+Company has two committees of its Board of Directors -- a Compensation Committee
+and an Audit Committee. During 1999 only the Compensation Committee held a
+meeting. The Audit Committee considers and reviews all matters arising in
+connection with external audit reports, auditors' management reports and related
+matters. These matters were discussed by the full Board of Directors throughout
+the year. The Compensation Committee reviews the compensation of all officers of
+the Company. The Company does not have a nominating committee.
+
+                                        3
+<PAGE>   6
+
+                     REMUNERATION OF OFFICERS AND DIRECTORS
+
+     The following table provides certain summary information regarding
+compensation of the Company's Chief Executive Officer and each of the four most
+highly compensated executive officers of the Company for the periods indicated.
+
+<TABLE>
+<CAPTION>
+                                                          ANNUAL              ALL OTHER
+                                                     COMPENSATION(A)       COMPENSATION(B)
+                                                     ---------------       ---------------
+NAME AND PRINCIPAL POSITION                YEAR     SALARY      BONUS
+- ---------------------------                ----     ------      -----
+<S>                                        <C>     <C>         <C>         <C>
+Henry W. Nozko, Sr.......................  1999    $447,200    $395,000        $10,532
+Chairman, President                        1998    $447,200          --        $12,238
+And Chief Executive Officer                1997    $430,000    $ 86,000        $10,591
+Henry W. Nozko, Jr.......................  1999    $322,500    $315,000        $10,430
+Executive Vice President                   1998    $322,500          --        $12,120
+and Chief Operating Officer                1997    $310,000    $ 62,000        $10,488
+Robert H. Frazer, Esq....................  1999    $171,600    $ 25,000        $10,392
+Vice President, Secretary                  1998    $171,600          --        $12,075
+and General Counsel                        1997    $165,000    $ 33,000        $10,450
+Michael P. Cifone........................  1999    $150,000    $155,000        $10,289
+Vice President-Finance                     1998    $114,400          --        $10,202
+                                           1997    $110,000    $ 22,000        $ 9,253
+</TABLE>
+
+- ---------------
+(A) Amounts shown include cash compensation earned and received by the executive
+    officers. There are no other forms of non-cash compensation or other
+    perquisites for any executive officer.
+
+    The Company has a Management Compensation Plan based upon earnings of the
+    Company. As a guideline, the plan provides that participants may share in an
+    incentive fund equal to 12% of pretax earnings, provided such pretax
+    earnings amount to at least a 10% return on the Company's equity. However,
+    both the participants and the amount of bonus are discretionary, provided
+    the total amount of bonuses paid do not exceed the total incentive fund
+    available. In addition, the Company may offer separate incentives and
+    commissions on an individual basis.
+
+(B) The amounts shown in this column represent contributions made by the Company
+    to the Company's Thrift, Profit Sharing and Retirement Plan ("Plan"). The
+    Plan provides that all nonunion employees employed on a full time or part
+    time salaried basis are eligible to participate on the first day of January
+    or July after twelve consecutive months of employment. The Company
+    contributes amounts, as determined by the Board of Directors, to be
+    allocated among the participants according to a formula based upon the
+    employee's years of service and compensation. A participant becomes vested
+    at the rate of 20% per year commencing after two years of service.
+
+    Directors who are not employees of the Company are paid an annual fee of
+    $4,000.
+
+EMPLOYMENT ARRANGEMENT:
+
+     The Board of Directors has authorized an arrangement under which Mr. Henry
+W. Nozko, Sr., Chairman, President and Chief Executive Officer, will receive a
+five-year consulting agreement if and when he retires or otherwise ceases
+employment. The annual consulting fee will be based on Mr. Nozko's last year of
+employment. In the event of Mr. Nozko's death, the remainder of the consulting
+fee would be paid as a death benefit funded with the proceeds of life insurance
+policies owned by the Company.
+
+                                        4
+<PAGE>   7
+
+     The following table provides information on options held by the named
+Executive Officers and the value of their unexercised options at December 31,
+1999. No options were exercised by or granted to the named Executive Officers in
+1999.
+
+                       FISCAL YEAR END 1999 OPTION VALUES
+
+<TABLE>
+<CAPTION>
+                                                               NUMBER OF     VALUE OF UNEXERCISED
+                                                              UNEXERCISED        IN-THE-MONEY
+                                                              OPTIONS AT           OPTIONS
+NAME                                                          12/31/99(1)       AT 12/31/99(2)
+- ----                                                          -----------    --------------------
+<S>                                                           <C>            <C>
+Henry W. Nozko, Sr.
+  -- ACMAT Class A Stock Options............................    46,000                   --
+  -- ACMAT Common Stock Options.............................    50,000             $412,500
+Henry W. Nozko, Jr.
+  -- ACMAT Class A Stock Options............................    46,000                   --
+  -- ACMAT Common Stock Options.............................    50,000             $412,500
+Robert H. Frazer
+  -- ACMAT Class A Stock Options............................    35,000                   --
+Michael P. Cifone
+  -- ACMAT Class A Stock Options............................    10,000                   --
+</TABLE>
+
+- ---------------
+(1) Represents the number of options held at year end. All options were
+    exercisable at December 31, 1999.
+
+                           TEN-YEAR OPTION REPRICINGS
+
+<TABLE>
+<CAPTION>
+                                                                                              LENGTH OF
+                                      NUMBER OF                                                ORIGINAL
+                                      SECURITIES    MARKET PRICE    EXERCISE                 OPTION TERM
+                                      UNDERLYING    OF STOCK AT     PRICE AT       NEW       REMAINING AT
+                                       OPTIONS        TIME OF        TIME OF     EXERCISE      DATE OF
+NAME                        DATE       REPRICED      REPRICING      REPRICING     PRICE       REPRICING
+- ----                        ----      ----------    ------------    ---------    --------    ------------
+<S>                       <C>         <C>           <C>             <C>          <C>         <C>
+Henry W. Nozko, Sr......  12/16/99      46,000         $7.25         $11.50       $7.25       79 months
+Henry W. Nozko, Jr......  12/16/99      15,000         $7.25         $ 8.50       $7.25       57 months
+                          12/16/99      26,000         $7.25         $11.50       $7.25       79 months
+Robert H. Frazer........  12/16/99      35,000         $7.25         $ 8.50       $7.25       57 months
+Michael P. Cifone.......  12/16/99      10,000         $7.25         $ 8.50       $7.25       57 months
+</TABLE>
+
+     On December 16, 1999, the Board of Directors repriced the outstanding
+options at the current market price of the Class A Stock at $7.25.
+
+            REPORT OF THE BOARD OF DIRECTORS COMPENSATION COMMITTEE
+
+     The Compensation Committee of the Board of Directors is composed of a
+non-employee director. The Committee makes recommendations to the Board of
+Directors as to policies which govern both annual compensation and stock
+ownership programs for the Chief Executive Officer and certain other executive
+officers. Each year, salaries are determined and awards are made, if warranted,
+under the Management Compensation Plan.
+
+     The Committee annually evaluates the Company's performance, executive
+compensation and incentive programs compared with our industry and with a
+broader group of companies.
+
+     The Company's compensation programs are designed to reward executives for
+long-term strategic management and the enhancement of shareholder value, and are
+leveraged on the basis of performance in terms of both cash compensation and
+incentive plans, paying more with good performance and less when it is
+
+                                        5
+<PAGE>   8
+
+below standard. The Chief Executive Officer and other executive officers
+received salary increases of 3% effective January 1, 2000.
+
+     On December 16, 1999, the Compensation Committee and the Board of Directors
+repriced the outstanding Class A stock options. The Committee repriced the
+options to maintain the incentive nature of the options. Stock options are
+necessary to advance the interests of the Company by providing Directors and
+Officers with an additional incentive, increasing their proprietary interest in
+the success of the Company and encouraging them to remain employees and/or
+directors of the Company.
+
+     During 2000, the Compensation Committee will continue to carefully consider
+executive compensation in relation to the Company's performance compared to that
+of industry performance levels.
+
+     The Company has no formal employment agreements.
+
+        COMPENSATION COMMITTEE:
+
+           John Creasy
+
+                         ACMAT STOCK PERFORMANCE GRAPH
+
+     The following chart compares the value of $100 invested on January 1, 1995
+in the Company's Common Stock and Class A Stock and the NASDAQ Stock Market
+Index (U.S. Companies only) and the Center for Research in Security Prices
+(CRSP) Index for Special Trade Contractors. The NASDAQ Stock Market Index
+represents a broad market group in which the Company participates.
+[ACMAT STOCK PERFORMANCE GRAPH]
+
+<TABLE>
+<CAPTION>
+                                                                                          NASDAQ STOCK          CRSP INDEX FOR
+                                         ACMAT CORPORATION      ACMAT CORPORATION      MARKET INDEX (U.S.       SPECIAL TRADE
+                                            COMMON STOCK          CLASS A STOCK            COMPANIES)            CONTRACTORS
+                                         -----------------      -----------------      ------------------       --------------
+<S>                                     <C>                    <C>                    <C>                    <C>
+1994                                           100.0                  100.0                  100.0                  100.0
+1995                                           105.8                  140.5                  141.3                  110.0
+1996                                           132.2                  159.5                  173.9                  120.7
+1997                                           138.8                  183.8                  213.1                  103.7
+1998                                           143.8                  164.9                  300.4                   43.9
+1999                                           125.6                   78.4                  556.9                   94.7
+</TABLE>
+
+                                        6
+<PAGE>   9
+
+                    2.  APPOINTMENT OF INDEPENDENT AUDITORS
+
+     The Board of Directors has selected the firm of KPMG LLP to act as
+independent auditors for the Company for the fiscal year which began January 1,
+2000. This firm has acted in a similar capacity for several years. The
+appointment will be submitted for approval by the stockholders at the meeting
+and the Board of Directors recommends a vote FOR approval.
+
+     The Company has been advised by KPMG LLP that no member of that firm has
+any direct financial interest or any material indirect financial interest in the
+Company and that it has never had any connection with the Company in the
+capacity of promoter, underwriter, voting trustee, director or employee.
+
+     Representatives of KPMG LLP will be present at the meeting and will be
+afforded the opportunity to make a statement if they desire to do so. Such
+representatives will be available to respond to questions from the Company's
+stockholders regarding the Company's financial statements.
+
+                             SHAREHOLDER PROPOSALS
+
+     Proposals of stockholders for the 2001 Annual Meeting must be received by
+the Company at its offices addressed to its Secretary no later than April 1,
+2001 to be considered for inclusion in the proxy statement and form of proxy
+relating to the 2001 Annual Meeting.
+
+                                    GENERAL
+
+     The cost of soliciting proxies will be borne by the Company. The only costs
+anticipated are those ordinarily incurred in connection with the preparation and
+mailing of proxy material.
+
+     In addition to solicitation by mail, proxies may be solicited personally or
+by telephone by certain directors, officers and regular employees of the Company
+in the ordinary course of the performance of their duties and without extra
+compensation for such work.
+
+     The Board of Directors knows of no other matters which will be presented to
+the meeting, but if any other matters should properly come before the meeting,
+the persons named in the accompanying form of proxy will vote on such matters in
+accordance with their best judgment. The shares represented by all effective
+proxies received by management will be voted. Unless otherwise specified in the
+proxy forms which are returned to management, such proxies will be voted as
+follows: (1) "FOR" the election, as directors, of the six nominees of the Board
+of Directors which are set forth under the heading "Election of Directors"; and
+(2) "FOR" the approval of the selection of KPMG LLP as auditors.
+
+                                          By order of the Board of Directors
+
+                                          /s/ Robert H. Frazer
+
+                                          ROBERT H. FRAZER
+                                          Secretary
+
+May 5, 2000
+
+                                        7
+<PAGE>   10
+                                 CLASS A STOCK
+
+                               ACMAT CORPORATION
+
+          THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+           PROXY FOR THE ANNUAL MEETING OF SHAREHOLDERS JUNE 22, 2000
+
+     The undersigned hereby appoints Henry W. Nozko, Sr. and Henry W. Nozko,
+Jr., as proxies each with the power to appoint his substitute, and hereby
+authorizes them to represent and to vote, as designated on the reverse side of
+this proxy, all the shares of Class A Stock of ACMAT Corporation held of record
+by the undersigned on April 21, 2000 at the Annual Meeting of Shareholders to
+be held on June 22, 2000, or any adjournment thereof.
+
+                         (TO BE SIGNED ON REVERSE SIDE)
+
+
+
+                                                                     SEE REVERSE
+                                                                         SIDE
+
+<PAGE>   11
+              - PLEASE DETACH AND MAIL IN THE ENVELOPE PROVIDED -
+
+
+A         PLEASE MARK YOUR
+  / X /   VOTES AS IN THIS
+          EXAMPLE.
+<TABLE>
+<CAPTION>
+                             WITHHOLD Authority
+                    FOR         to vote for
+               all nominees    all nominees                                                                   FOR   AGAINST  ABSTAIN
+<S>            <C>                <C>      <C>                       <C>                                      <C>     <C>      <C>
+                                            Nominees: H. Nozko, Sr.   2. Proposal to approve the appointment
+1.  Election of                                       H. Nozko, Jr.      of KPMG LLP as auditors of the        / /     / /      / /
+    Directors.  / /                / /                V. Nozko           Corporation
+                                                      J. Creasy
+                                                      A. Moore        3. In their discretion, the proxies are authorized to vote
+                                                      A. Zlotopolski     upon other business as may properly come before the
+INSTRUCTIONS: TO WITHHOLD AUTHORITY TO VOTE FOR                          meeting.
+ANY INDIVIDUAL NOMINEE(S), DO NOT CHECK EITHER BOX
+AND INSTEAD WRITE THAT NOMINEE'S NAME(S) IN THE                          THIS PROXY, WHEN PROPERLY EXECUTED WILL BE VOTED IN THE
+SPACE PROVIDED BELOW                                                     MANNER DIRECTED HEREIN BY THE UNDERSIGNED STOCKHOLDER.
+                                                                         IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED FOR
+                                                                         PROPOSALS 1 AND 2.
+- ----------------------------------------------------
+                                                                         PLEASE MARK, SIGN AND RETURN THE PROXY FORM PROMPTLY
+                                                                         USING THE ENCLOSED ENVELOPE.
+
+
+
+
+
+
+</TABLE>
+
+SIGNATURE(S):                                      Date:
+             ------------------------------------       ------------------------
+NOTE: Please sign exactly as name appears hereon. When shares are held by joint
+      tenants, both should sign. When signing as an Attorney, Executor,
+      Administrator, Trustee or Guardian, please give full title as such. If a
+      Corporation, please sign in full corporate name by President or other
+      authorized Officer. If a partnership, please sign in partnership name by
+      authorized person.
+<PAGE>   12
+                                  COMMON STOCK
+
+                               ACMAT CORPORATION
+
+          THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+           PROXY FOR THE ANNUAL MEETING OF SHAREHOLDERS JUNE 22, 2000
+
+     The undersigned hereby appoints Henry W. Nozko, Sr. and Henry W. Nozko,
+Jr., as proxies each with the power to appoint his substitute, and hereby
+authorizes them to represent and to vote, as designated on the reverse side of
+this proxy, all the shares of Common Stock of ACMAT Corporation held of record
+by the undersigned on April 21, 2000 at the Annual Meeting of Shareholders to
+be held on June 22, 2000, or any adjournment thereof.
+
+                         (TO BE SIGNED ON REVERSE SIDE)
+
+
+
+                                                                     SEE REVERSE
+                                                                         SIDE
+
+<PAGE>   13
+              - PLEASE DETACH AND MAIL IN THE ENVELOPE PROVIDED -
+
+
+A         PLEASE MARK YOUR
+  / X /   VOTES AS IN THIS
+          EXAMPLE.
+<TABLE>
+<CAPTION>
+                             WITHHOLD Authority
+                    FOR         to vote for
+               all nominees    all nominees                                                                   FOR   AGAINST  ABSTAIN
+<S>            <C>                <C>      <C>                       <C>                                      <C>     <C>      <C>
+                                            Nominees: H. Nozko, Sr.   2. Proposal to approve the appointment
+1.  Election of                                       H. Nozko, Jr.      of KPMG LLP as auditors               / /     / /      / /
+    Directors. / /                / /                 V. Nozko           of the Corporation
+                                                      J. Creasy
+                                                      A. Moore        3. In their discretion, the proxies are authorized to vote
+                                                      A. Zlotopolski     upon other business as may properly come before the
+INSTRUCTIONS: TO WITHHOLD AUTHORITY TO VOTE FOR                          meeting.
+ANY INDIVIDUAL NOMINEE(S), DO NOT CHECK EITHER BOX
+AND INSTEAD WRITE THAT NOMINEE'S NAME(S) IN THE                          THIS PROXY, WHEN PROPERLY EXECUTED WILL BE VOTED IN THE
+SPACE PROVIDED BELOW                                                     MANNER DIRECTED HEREIN BY THE UNDERSIGNED STOCKHOLDER.
+                                                                         IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED FOR
+                                                                         PROPOSALS 1 AND 2.
+- ----------------------------------------------------
+                                                                         PLEASE MARK, SIGN AND RETURN THE PROXY FORM PROMPTLY
+                                                                         USING THE ENCLOSED ENVELOPE.
+
+
+
+
+
+
+</TABLE>
+
+SIGNATURE(S):                                      Date:
+             ------------------------------------       ------------------------
+NOTE: Please sign exactly as name appears hereon. When shares are held by joint
+      tenants, both should sign. When signing as an Attorney, Executor,
+      Administrator, Trustee or Guardian, please give full title as such. If a
+      Corporation, please sign in full corporate name by President or other
+      authorized Officer. If a partnership, please sign in partnership name by
+      authorized person.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

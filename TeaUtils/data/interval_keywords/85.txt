@@ -1,0 +1,1437 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UOEyRw9U7sAsQC+Uc7WzhmGihpvtmpDmfJe2cAJiiQ9ocDKs1cizFk2KWYMgCjyW
+ LJQUfvouY765tEN1+LdqQA==
+
+<SEC-DOCUMENT>0000002034-97-000008.txt : 19971029
+<SEC-HEADER>0000002034-97-000008.hdr.sgml : 19971029
+ACCESSION NUMBER:		0000002034-97-000008
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19971204
+FILED AS OF DATE:		19971028
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACETO CORP
+		CENTRAL INDEX KEY:			0000002034
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-CHEMICALS & ALLIED PRODUCTS [5160]
+		IRS NUMBER:				111720520
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-04217
+		FILM NUMBER:		97701613
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5166276000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACETO CHEMICAL CO INC
+		DATE OF NAME CHANGE:	19851203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<TEXT>
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+December 4, 1997
+
+The Annual Meeting of Stockholders of Aceto Corporation, a
+New York corporation, ("the Company"), will be held at the
+Crowne Plaza LaGuardia, 104-04 Ditmars Boulevard, E.
+Elmhurst, New York, at 10:00 A.M. New York City time, on
+Thursday, December 4, 1997 for the following purposes:
+
+     1.   To elect ten directors to hold office until the
+          next Annual Meeting of Stockholders or until their
+          successors are elected and qualified.
+
+     2.   To consider and vote upon a proposal to Ratify
+          Amendment of the Company's 1980 Stock Option Plan.
+
+     3.   To transact such other business as may properly
+          come before the meeting or any adjournment thereof.
+
+The Board of Directors has fixed the close of business on
+September 19, 1997 as the record date for the determination
+of stockholders entitled to notice of and to vote at the
+Annual Meeting.
+
+If you do not expect to attend the meeting in person, please
+fill in, sign, and return the enclosed form of proxy.
+
+                              By order of the Board of Directors,
+
+
+                              DONALD HOROWITZ
+                              Secretary
+
+Lake Success, New York
+October 24, 1997
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+PROXY STATEMENT
+
+ANNUAL MEETING OF STOCKHOLDERS
+December 4, 1997
+
+Approximate Mailing Date of Proxy Statement and Form of
+Proxy:  October 24, 1997
+
+This Proxy Statement is furnished in connection with the
+solicitation by the Board of Directors of Aceto Corporation
+("the Company") of proxies to be voted at the Annual Meeting
+of Stockholders to be held on Thursday, December 4, 1997 and
+at any adjournment thereof.
+
+A stockholder who executes and mails a proxy in the enclosed
+return envelope may revoke such proxy at any time prior to
+its use by notice in writing to the Secretary of the Company
+or by revocation in person at the Annual Meeting. Unless so
+revoked, the shares represented by duly executed proxies
+received by the Company prior to the Annual Meeting will be
+voted for or against the proposals referred to therein and
+presented at the Annual Meeting in accordance with the
+stockholder's instructions marked thereon. If no
+instructions are marked thereon, proxies will be voted (l)
+FOR the election as directors of the nominees named below
+under the caption "ELECTION OF DIRECTORS"; (2) for the
+proposal listed in the accompanying Notice of Annual Meeting
+of Stockholders and described in this Proxy Statement under
+the caption "PROPOSAL TO RATIFY AMENDMENT OF STOCK OPTION
+PLAN", and (3) in the discretion of the proxies named on the
+proxy card with respect to such other business as may
+properly come before the Annual Meeting or any adjournments
+thereof.
+
+The close of business on September 19, 1997 has been fixed
+as the record date for the determination of stockholders
+entitled to notice and to vote at the meeting. At that
+record date, the following classes of stock were outstanding
+and entitled to notice and vote:
+
+                             Shares         Votes per
+     Class                 Outstanding        Share            Votes
+
+Common stock                 4,484,351     1.0000*           4,484,351
+Preferred stock
+    Third series   100,000                 2.0666*   206,664
+    Fourth series   40,000                 1.9108*    76,432
+    Fifth series    40,000                 1.7666*    70,665
+    Sixth series    40,000                 1.6333*    65,333
+    Seventh series  40,000                 1.5101*    60,403
+    Eighth series   40,000                 1.4520*    58,080
+Total preferred stock          300,000                         537,577
+Total all classes            4,784,351                       5,021,928
+
+*Adjusted for all subsequent stock dividends.
+
+All of the outstanding preferred stock is held by the Aceto
+Corporation Profit Sharing Plan.
+
+PRINCIPAL HOLDERS OF VOTING SECURITIES
+
+The following table sets forth as of September 19, 1997
+certain information with respect to each person who to the
+best of the knowledge of the Company beneficially owned more
+than 5% of the outstanding shares of the Company's common or
+preferred stock:
+
+NAME and ADDRESS         COMMON STOCK            PREFERRED STOCK
+
+                   Amount & Nature               Amount & Nature
+                    of Beneficial     % of        of Beneficial      % of
+                      Ownership      Class          Ownership        Class
+
+Arnold J. Frankel      265,571(1)    5.9%            300,000(4)      100%
+One Hollow Lane
+Lake Success, NY 11042
+
+Leonard S. Schwartz     30,891(1)(2) 0.7%             300,000(4)     100%
+One Hollow Lane
+Lake Success, NY 11042
+
+Donald Horowitz         13,823(1)(3)  0.3%            300,000(4)     100%
+One Hollow Lane
+Lake Success, NY  11042
+
+Samuel I. Hendler        3,682(1)     0.1%            300,000(4)     100%
+319 Willis Avenue
+Mineola, NY 11501
+
+Aceto Corporation
+ Profit Sharing Plan    92,875(4)     2.0%            300,000(4)     100%
+One Hollow Lane
+Lake Success, NY 11042
+
+T. Rowe Price
+ Associates, Inc.      451,900(5)    10.1%
+100 East Pratt Street
+Baltimore, MD 21202
+
+(l) Messrs. Frankel, Schwartz, Horowitz and Hendler have, or
+share with their wives, voting power and investment power
+with respect to the shares owned directly by each of them.
+
+(2) Includes 29,356 shares of currently exercisable stock options.
+
+(3) Includes 11,808 shares of currently exercisable stock options.
+
+(4) These shares are owned by the Company's Profit Sharing
+Retirement Plan (the "Plan"), vote as a class with common
+stock, and are entitled to a total of 537,577 votes at this
+Annual Meeting of Stockholders. The Trustees of the Plan are
+Arnold J. Frankel, Leonard S. Schwartz, Donald Horowitz and
+Samuel I. Hendler, who have voting and investment power with
+regard to these shares, and who disclaim ownership thereof.
+The preferred stock owned by the Plan is convertible into
+common stock at various conversion rates set forth in the
+Certificates of Amendment of the Certificate of
+Incorporation of the Company fixing the number, designation,
+relative rights, preferences and limitations of each series
+of preferred stock. As of September 19, 1997, the 300,000
+shares of preferred stock owned by the Plan were convertible
+into 92,875 shares of common stock, and, if so converted on
+that date, the said shares of common stock would comprise
+2.0% of the class.
+
+(5)  The securities are owned by various individual and
+institutional invetors [including T. Rowe Price Small Cap
+Value Fund, Inc. (which owns 400,000 shares, representing
+8.9% of the shares outstanding)], to which T. Rowe Price
+Associates, Inc. ("Price Associates") serves as investment
+advisor with power to direct invetments and/or sole power to
+vote the securities.  For purposes of the reporting
+requirements of the Securities Exchange Act of 1934, Price
+Associates is deemed sole owner of such securities; however,
+Price Associates expressly disclaims that it is, in fact,
+the beneficial owner of such securities.
+
+ELECTION OF DIRECTORS
+
+At the meeting ten directors are to be elected, each to
+serve until the next Annual Meeting of Stockholders or until
+their successors are elected and qualified. If any nominee
+should become unavailable for any reason, it is intended
+that shares represented by proxies in the accompanying form
+will be voted for a substitute nominee designated by the
+management. The management has no reason to believe that any
+of the nominees named will not be a candidate or will be
+unable to serve if elected.
+
+The names of the nominees for directors, together with
+certain information regarding them, are as follows:
+  
+                                                Common Stock
+                                                of the
+                                                Company
+                                                Beneficially
+                                                Owned as of
+                                                September 19,1997
+
+                                     Director
+             Present                  of the    Amount & Nature
+             Principal                Company   of Beneficial     % of
+Name         Occupation       Age     Since     Ownership         Class
+
+Leonard S.
+ Schwartz   President,         51     1991      30,891 (1)(5)     0.7%
+            and, since
+            July 1, 1997,
+            Chairman of the
+            Board and
+            Chief Executive
+            Officer, and
+            Member of the
+            Executive
+            Committee
+            which functions
+            as the Executive
+            Compensation
+            Committee
+
+Arnold J.
+ Frankel    Chairman         75      1947       265,571 (5)       5.9%
+            of the
+            Board,
+            and Chief
+            Executive
+            Officer
+            of the
+            Company
+            until June 30,
+            1997,
+            Consultant to
+            the Company,
+            Chairman of
+            the Executive
+            Committee
+            which
+            functions as
+            the Executive
+            Compensation
+            Committee, and
+            Chairman
+            of the Audit
+            Committee
+
+Robert E.
+ Parsont    Consultant to      61      1968         1,859
+            the Company,
+            and Member
+            of the
+            Executive
+            Committee
+            which functions
+            as the
+            Executive
+            Compensation
+            Committee
+
+Donald
+ Horowitz   Secretary,         50     1991        13,823 (2)(5)    0.3%
+            Treasurer,
+            and Chief
+            Financial
+            Officer
+            of the
+            Company
+
+Samuel I.                      75     1990         3,682 (5)       0.1%
+ Hendler    Attorney and
+            Member of
+            the Executive
+            Committee
+            which functions
+            as the
+            Executive
+            Compensation
+            Committee
+
+Anthony     President of       58    1991        23,102 (3)       0.5%
+ Baldi      Aceto Agricultural
+            Chemicals Corp., a
+            wholly owned
+            subsidiary of the
+            Company
+
+Thomas      Senior Vice        58    1991        16,714 (4)       0.4%
+ Brunner    President
+            of the
+            Company
+
+Richard     Senior Vice        49      -         11,808 (2)      0.3%
+ Amitrano   President
+            of the
+            Company
+
+Stephen M.  Senior             58    1993          110  
+ Goldstein  Vice President
+            Chase Manhattan
+            Bank, and Member
+            of the Audit
+            Committee
+
+Robert A.   Attorney,          46   1994
+ Wiesen     Partner in
+            Clifton Budd &
+            DeMaria, and Member
+            of Audit Committee
+
+All directors, officers
+and nominees as a group -                       367,560(1)(2)     8.1%
+ten persons                                           (3)(4)(5)
+
+(1) Includes 29,356 shares of currently exercisable stock options.
+
+(2) Includes 11,808 shares of currently exercisable stock options.
+
+(3) Includes 10,904 shares of currently exercisable stock options.
+
+(4) Includes 16,712 shares of currently exercisable stock options.
+
+(5) Messrs. Frankel, Hendler, Horowitz and Schwartz also
+are Trustees for the Company's Profit Sharing Retirement
+Plan.  The Plan owns 300,000 shares of preferred stock.
+Messrs. Frankel, Hendler, Horowitz and Schwartz disclaim
+ownership of such shares.
+
+All the nominees for Director have, or share with their
+respective spouses, voting power and investment power with
+respect to the shares owned by each of them.
+
+Mr. Leonard S. Schwartz, Chairman of the Board of Directors,
+Chief Executive Officer and President of the Company, has
+served as Chairman and Chief Executive Officer since July 1,
+1997, and President since July 1, 1996.  He joined the
+Company in 1969, and became Senior Vice President in charge
+of its industrial chemicals department in 1991.  Mr. Arnold
+J. Frankel is a founder of the Company and served as
+Chairman of the Board and as Secretary and Treasurer since
+the Company was incorporated in 1947 until 1990, at which
+time he, in addition to retaining his position as Chairman
+of the Board, became Chief Executive Officer, in which
+capacities he served until he retired effective June 30,
+1997, at which time he became a consultant to the Company.
+Mr. Robert E. Parsont was employed by the Company since
+1961.  He was Executive Vice President of the Company until
+January 1990, when he became President and Chief Operating
+Officer, in which capacities he served until he retired
+effective June 30, 1996, at which time he became a
+consultant to the Company.  Mr. Donald Horowitz has been
+employed by the Company since 1971 and was, in January 1990,
+elected Secretary and Treasurer and Chief Financial Officer.
+Mr. Samuel I. Hendler, who has been engaged in the private
+practice of law in New York since 1949, has acted as counsel
+to the Company for more than 45 years and is Secretary, a
+director and counsel to Pneumercator Company, Inc., a
+Farmingdale, New York Corporation.  Messrs. Anthony Baldi
+and Thomas Brunner have been employed by the Company since
+1957 and 1967, respectively, Mr. Baldi has been the
+President, a director and Chief Operating Officer of Aceto
+Agricultural Chemicals Corporation, a wholly-owned
+subsidiary of the Company since 1976, when it was
+incorporated, and prior thereto headed the Company's
+agricultural chemicals department.  Mr. Brunner is Senior
+Vice President in charge of the Company's international
+sales.  Mr. Richard Amitrano who joined the Company in 1972,
+has since July 1, 1997, been Senior Vice President in charge
+of its organic intermediates and colorants department.  He
+holds BS and MS degrees in organic chemistry from Fordham
+University and an MBA from St. John's University.  Mr.
+Stephen M. Goldstein is a Senior Vice President and Regional
+Manager in the Middle Market Division of Chase Manhattan
+Bank.  He is responsible for the bank's middle market
+business in Queens, New York and has been employed by Chase
+Manhattan Bank since 1963.  Mr. Robert A. Wiesen is an
+attorney and partner in the law firm of Clifton Budd &
+DeMaria.  He joined the firm in 1979 subsequent to his
+employment with the National Labor Relations Board.  He has
+handled matters for the Company relating to labor and
+employment law for over ten years and he has written and
+lectured on labor law.
+
+The Audit Committee is charged with making recommendations
+to the Board of Directors as to the selection of the
+Company's independent auditors, maintaining communications
+between the full Board and the independent auditors,
+reviewing the annual audit submitted by the auditors and
+determining the nature and extent of problems, if any,
+presented by such audit warranting consideration by the full
+Board. The Audit Committee is also utilized for a review of
+potential conflict-of-interest situations in reviews
+conducted by the Company of related party transactions, if
+any. The members of the Audit Committee during the fiscal
+year ended June 30, 1997 were Messrs. Arnold J. Frankel,
+Stephen M. Goldstein and Robert A. Wiesen. The Audit
+Committee held one meeting during the past fiscal year at
+which Messrs. Goldstein and Wiesen were present.
+
+The Board of Directors does not have a nominating committee.
+The Executive Committee of the Board of Directors, whose
+members are Messrs. Arnold J. Frankel, Samuel I. Hendler,
+Robert E. Parsont and Leonard S. Schwartz, functions as the
+Executive Compensation Committee.
+
+During the fiscal year ended June 30, 1997 there were four
+meetings of the Board of Directors. All directors attended
+at least 75% of the meetings.
+
+EXECUTIVE COMPENSATION
+
+Summary Compensation Table
+The following table sets forth certain information regarding compensation paid
+or accrued during each of the Company's last three fiscal years to the Company's
+Chief Executive Officer and each of the Company's four other most highly
+compensated executive officers.
+
+           Annual Compensation           Long Term Compensation
+                                 Other
+                                 Annual  Restricted                 All Other
+Name and                         Compen- Stock  Options/ LTIP       Compen-
+Principal  Year   Salary  Bonus  sation  Awards SARs     Payouts    sation(1)
+Position
+
+Anthony    1997 $216,962 $149,387  $3,699    -    -         -         $32,535
+ Baldi     1996  204,624  185,000   3,519    -  20,000      -          33,669
+ President,1995  193,042  235,000   2,213    -    -         -          35,329
+ Aceto
+ Agricultural
+ Chemicals
+ Corp.
+
+Thomas
+ Brunner   1997  204,084  182,789  2,511     -    -          -         33,635
+ Senior    1996  192,532  186,848  2,280     -  20,000       -         33,157
+ Vice      1995  181,634  218,740  2,512     -    -          -         34,206
+ President
+
+Arnold J.
+ Frankel   1997  353,641  350,000  2,814     -    -          -         49,369
+ Chairman  1996  345,288  267,000  4,185     -    -          -         45,201
+ and Chief 1995  325,743  325,000  3,716     -    -          -         46,724
+ Executive
+ Officer
+
+Donald
+ Horowitz  1997  185,807  120,000  2,147     -    -          -         28,995
+ Secretary 1996  173,885  105,000  1,924     -  15,000       -         25,315
+ Treasurer 1995  153,977  100,523  1,993     -    -          -         25,150
+ and
+ Chief
+ Financial
+ Officer
+
+Leonard S.
+ Schwartz  1997  224,231  300,000  5,345     - 135,000       -         40,399
+ President 1996  179,547  250,000  6,954     -  25,000       -         35,665
+ and Chief 1995  169,384  203,670  6,915     -    -          -         33,157
+ Operating
+ Officer
+
+(1) Represents contributions to the Company's qualified and non-qualified
+retirement plans.
+
+Option Grants In Last Fiscal Year
+The following table contains information regarding the grant of stock options in
+the fiscal year ended June 30, 1997 to the named executives.  All grants were
+made in the form of non-qualified stock options.
+
+Options Granted in Last Fiscal Year
+                                                          Potential Realizable 
+                                                          Value at Assumed 
+                                                          Annual Rates of
+                                                          Stock Price 
+                                                          Appreciation
+            Individual Grants                             for Option Term
+
+         Number of
+         Securities  % of Total        Exercise
+         Underlying  Options Granted   or Base
+         Options     To  Employees     Price   Expiration
+Name     Granted     in Fiscal Year    ($/Sh)    Date       5% (1)    10%(1)
+
+Anthony
+ Baldi    None
+
+Thomas
+ Brunner  None
+
+Arnold J.
+ Frankel  None
+
+Donald
+ Horowitz None
+
+Leonard S.
+ Schwartz 15,000                       $13.50    6/30/07   $127,351  $322,733
+          15,000                        13.50    12/31/07   136,917   353,196
+          15,000                        13.50    12/31/08   153,888   408,766
+          15,000                        13.50    12/31/09   171,707   469,893
+          15,000                        13.50    12/31/10   190,417   537,132
+          20,000                        13.50    12/31/11   280,084   814,793
+          20,000                        13.50    12/31/12   307,589   923,273
+          20,000         90.1%          13.50    12/31/13   336,468 1,042,600
+
+(1)  The dollar amounts illustrate value that might be realized upon exercise of
+the options immediately prior to the expiration of their term, covering the
+specific compounded rates of appreciation set by the Securities and Exchange
+Commission (5% and 10%) and are not, therefore, intended to be forecasts by
+Aceto of possible future appreciation of the stock price of Aceto.
+
+Stock Option Exercises in Fiscal 1997 and Value at June 30, 1997
+
+The following table summarizes information with respect to
+options held by the Chief Executive Officer and the
+executive officers named in the Summary Compensation Table,
+and the value of the options held by such persons at the end
+of fiscal year 1997. The Chief Executive Officer during
+fiscal 1997, Arnold J. Frankel, does not participate in the
+Company's stock option plan.
+                                                                  Value of
+                                                   No. of       Unexercised
+                                                 Unexercised    In-the-money
+                                                Options at     Options at
+                                              June 30, 1997   June 30, 1997(1)
+               Shares Acquired    Value        Exercisable/     Exercisable/
+Name            on Exercise      Realized     Unexercisable    Unexercisable
+
+Anthony Baldi    8,712         $  54,708          10,904/         $ 44,748/
+                                                  12,000            33,960
+
+Thomas Brunner     -                -             16,712/           88,964/
+                                                  12,000            33,960
+
+Arnold J. Frankel  -                -                -                 -
+
+Donald Horowitz    -                -             11,808/           61,196/
+                                                   9,000            25,470
+
+Leonard S.
+ Schwartz          -                -             29,356/           76,462/
+                                                 135,000           162,450
+
+(l) Value of unexercised in-the-money options is based on
+the common stock closing bid price on June 30, 1997 of
+$14.50.
+
+On June 9, 1992, the Company's Board of Directors adopted
+resolutions amending the Company's Stock Option Plan ("the
+Plan"), in the following respects: the Plan is to be
+administered by a committee consisting of not less than
+three directors, all of whom shall be "disinterested
+persons"; a committee member shall be a "disinterested
+person" only if such person is not, at the time he exercises
+discretion in administering the Plan, eligible, and has not
+at any time within one year prior thereto been eligible, for
+selection as a person as to whom options may be granted; and
+no option may be granted to any director as to whom the
+proxy statement for the meeting of stockholders at which the
+plan was submitted for approval of the stockholders of the
+Company disclosed that such director will not participate in
+the Plan.
+
+On December 5, 1996, a committee consisting of Arnold J.
+Frankel, Stephen M. Goldstein and Samuel I. Hendler (Mr.
+Arnold J. Frankel to be chairman of said committee) was
+appointed by the Board of Directors to administer the Plan.
+all of said directors were disinterested persons as defined
+by the Plan.
+
+On September 4, 1997, the Company's Board of Directors
+adopted an amendment to the Plan; increasing by 250,000 the
+number of shares of the Company's common stock with respect
+to which stock options may be granted; extending the
+termination date of the Plan to September 19, 2005; and
+providing that transactions under the Plan be approved by
+the Board of Directors or a committee of the Board of
+Directors that is comprised solely of two or more non-
+employee directors.  The increase in the number of shares
+with respect to which stock options may be granted and the
+extension of the termination date is subject to ratification
+by stockholders at this meeting.  (See, PROPOSAL TO RATIFY
+AMENDMENT OF STOCK OPTION PLAN).
+
+REPORT OF THE EXECUTIVE COMPENSATION COMMITTEE
+
+The Executive Committee of the Board of Directors, whose
+members are Leonard S. Schwartz, Arnold J. Frankel, Robert
+E. Parsont, and Samuel I. Hendler, functions as the
+Executive Compensation Committee, and makes recommendations
+to the Board with respect to the remuneration of the
+Company's executive officers.
+
+The Company's compensation policy has been designed to
+enable the Company to attract, retain and motivate
+executives whose enthusiasm and abilities will contribute to
+the growth of its business and result in maximum
+profitability to the Company and its stockholders, by
+providing salaries and benefits competitive with those
+offered by other companies in the chemical industry.  The
+executive compensation program includes base salary, annual
+incentive compensation (cash bonuses), and long term
+incentive compensation (stock options).
+
+Base salaries are set at levels competitive with the
+chemical industry.  Because of the way that the Company
+operates its business, the contributions of its executives
+significantly affect corporate profitability.  Bonuses
+(which can exceed base salary) are paid to reflect the
+extent of such contributions. The Chief Executive Officer
+(CEO) also is the President and Chief Operating Officer
+(COO) of the Company.  The bonuses paid to the CEO and to
+the Secretary/Treasurer, who is the Chief Financial Officer
+(CFO), reflect the Company's overall performance (excluding
+extraordinary events such as a plant shut-down).
+
+The three highest paid executives, other than the CEO and
+CFO, are each responsible for the performance of one of the
+Company's principal profit centers.  Internally generated
+performance records are kept on a monthly and yearly basis
+for these profit centers, and each center's profitability is
+compared in the current year to the previous year.  Other
+factors considered in determining the bonuses of individual
+executives are the individual's own performance and the
+overall performance of the Company.  The Executive
+Compensation Committee determines each bonus primarily based
+on this data, also taking into account the long term
+contributions of each individual.
+
+The Company's Stock Option Plan is administered by the Board
+or a committee comprised solely of two or more non-employee
+directors.  Grants of stock options, which vary according to
+annual and longer term performance ratings, are made to
+senior and middle management executives.
+
+CHIEF EXECUTIVE OFFICER'S COMPENSATION
+
+The CEO's compensation was determined not only on the basis
+of the same factors utilized to compensate other executives,
+but also on the basis of the additional duties and
+responsibilities assumed by him.  Mr. Schwartz had been an
+executive of the Company responsible for the performance of
+one of its principal profit centers prior to his becoming
+President and COO on July 1, 1996.  In addition to serving
+in such capacities, as of July 1, 1997, he was appointed
+Chairman of the Board and CEO.  Messrs. Frankel, Parsont and
+Hendler took into account the compensation which in their
+opinion the Company would have offered had it recruited
+outside of the Company a person with his experience, skills
+and talents to be Chairman, CEO and COO of the Company.
+(Mr. Schwartz removed himself from participation in the
+decision of the Executive Compensation Committee regarding
+his compensation, although he did express to the Committee
+his requests and views in the matter).
+
+
+     The Executive Compensation Committee
+     Arnold J. Frankel, Chairman
+     Samuel I. Hendler
+     Robert E. Parsont
+     Leonard S. Schwartz
+
+Director Compensation
+
+Each non-employee director receives $7,500 per year for
+serving on the Board of Directors plus $500 for each
+committee meeting attended. There is no additional
+compensation for directors who are also employees.
+
+Employment Agreements
+
+There are no employment contracts with any director, nominee
+for election as director, or officer; however, Messrs.
+Amitrano, Baldi, Brunner and Schwartz have signed patent and
+trade secret agreements.
+
+STOCK PERFORMANCE GRAPH
+
+Shown below is a line graph comparing the yearly percentage
+change in the cumulative total shareholder return on the
+Company's common stock against the cumulative total return
+of the S & P 500 Index and the Dow Jones Chemicals Index for
+the period of five years commencing July 1, 1992 and ending
+June 30, 1997.
+
+Comparison of Five Year Cumulative Return* Among Aceto
+Corporation, The S & P 500 Index and the Dow Joines
+Chemicals Index.
+
+* $100 invested on 06/30/92 in stock or index including
+reinvestment of dividends.  Fiscal year ending June 30.
+
+
+
+                           Cumulative Total Return
+
+                    6/92   6/93   6/94   6/95   6/96   6/97
+
+Aceto Corp.          100    104    117    116    140    133
+S & P 500            100    114    115    145    183    247
+DJ Chemicals         100    104    123    151    181    242
+
+
+CERTAIN TRANSACTIONS
+
+Samuel I. Hendler, a director of the Company, serves as
+general counsel to the Company. Robert A. Wiesen, a director
+of the Company, is a partner in the law firm of Clifton Budd
+& DeMaria, which serves as labor and employment law counsel
+of the Company.
+
+Robert E. Parsont, a director of the Company, retired from
+his position as President and Chief Operating Officer of the
+Company effective June 30, 1996.  The Board of Directors
+authorized his being retained as a consultant for a period
+of eighteen months, which was recently extended for another
+twelve months, to December 31, 1998. He will be paid
+$128,400 for consulting services during the current fiscal
+year.
+
+Arnold J. Frankel, a director of the Company, retired from
+his position as Chairman of the Board and Chief Executive
+Officer effective June 30, 1997. The Board of Directors
+authorized his being retained as a consultant for a period
+of eighteen months. He will be paid $128,400 for consulting
+services during the current fiscal year.
+
+PROPOSAL TO RATIFY AMENDMENT OF STOCK OPTION PLAN
+
+Stockholders will be asked to consider and ratify an
+amendment of the Aceto Corporation 1980 Stock Option Plan
+("1980 Stock Option Plan"), which amendment was adopted by
+the Company's Board of Directors on September 4, 1997,
+subject to ratification by the stockholders at the Annual
+Meeting (as amended the 1980 Stock Option Plan is referred
+to herein as the "Amended Plan").  The Amended Plan
+increases by 250,000 the number of shares of the Company's
+common stock with respect to which stock options may be
+granted; extends the termination date to September 19, 2005
+and provides that transactions under the Plan be approved by
+the Board of Directors or a committee of the Board of
+Directors that is comprised solely of two or more non-
+employee directors (the provision that transactions under
+the plan be approved by the Board of Directors or Committee
+of the Board of Directors that is comprised solely of two or
+more non-employee directors does not require ratification by
+stockholders).  As of September 4, 1997 options to purchase
+8,635 shares of common stock remained available for grant
+pursuant to the terms of the 1980 Stock Option Plan.  The
+Board of Directors believes that the 1980 Stock Option Plan
+has contributed significantly to the success of the Company
+by enabling the Company to attract and retain upper
+management personnel of outstanding ability and that the
+amount of shares remaining for grant thereunder is
+inadequate for future requirements.
+
+If the stockholders do not ratify the increase in the number
+of shares with respect to which options may be granted or
+the extension of the termination date, such provisions shall
+be without further force and effect, no options additional
+to those authorized under the 1980 Stock Option Plan will be
+granted, and the 1980 Stock Option Plan as amended and
+restated in 1990 will remain in effect.
+
+If the Amendment to the Plan is ratified by stockholders,
+the voting power of the stockholders (as is the case with
+any stock option plan) may be diluted in the event that
+options granted under the Amended Plan are exercised.
+
+Summary of amended Plan
+
+The Amended Plan permits the issuance of options to purchase
+an aggregate of up to 650,000 shares of common stock (an
+increase of 250,000 over the 1980 Stock Option Plan, as
+amended in 1990).  If the Amendment is ratified, options to
+purchase 258,635 shares of common stock would be available
+for grant pursuant to the terms thereof.  The options may be
+issued on or prior to September 19, 2005 to officers and
+other key employees.  A director, as such, shall not be
+considered an officer or employee for purposes of the
+Amended Plan, but a person otherwise eligible to participate
+in the plan is not disqualified because he is a director of
+the Company.  No option however may be granted to any person
+who owns, at the time an option is granted to such person,
+more than 10% of the then outstanding shares of the
+Company's common stock.
+
+Administration of the Amended Plan
+
+The Company's Board of Directors (the "Board") is authorized
+to administer the Amended Plan. Transactions under the
+Amended Plan must be approved by the Board or a committee of
+the Board comprised solely of two or more non-employee
+directors, which transactions include the persons to whom
+options are granted, the exercise price of options granted,
+the period during which options will be exercisable, and the
+number of shares subject to each option.
+
+Securities Subject to Amended Plan
+
+The Amended Plan covers a maximum of 650,000 authorized
+shares of common stock, subject to adjustment in the event
+of changes in the outstanding common stock by reason of
+stock dividends, stock splits, stock distributions,
+recapitalizations or the like.  Upon the termination or
+expiration of an unexercised option, in whole or in part,
+the number of shares subject to the unexercised option will
+become available again for allocation under the Amended
+Plan.
+
+The market value (bid price) of the Company's common stock
+as of September 4, 1997 was $18.00 per share.
+
+Description of Options
+
+The per share exercise price of any option may be greater
+than or less than the market value of the stock on the date
+the option is granted.
+
+Each option granted shall become exercisable at such time,
+or in installments at such times, as may be provided
+therein.  To the extent that any installment of an option
+has become exercisable it may be exercised thereafter, in
+whole at any time or from time to time in part, until the
+option or that installment terminates.
+
+An option shall be exercisable by written notice of
+exercise, in the form prescribed by the Board, delivered to
+the Company, in such manner as the Board may designate.  The
+notice shall specify the number of shares for which the
+option is being exercised (which number, if less than all of
+the shares then subject to exercise, shall not be less than
+such number as the Board may designate) and shall be
+accompanied by payment in full of the purchase price of such
+shares.
+
+Upon any exercise of an option, the Company may, in the
+discretion of the Board, offer to lend to the person
+exercising the option all or any part of the purchase price
+of the shares to be purchased upon exercise of the option,
+the loan to be on such terms (including the rate of
+interest, the repayment schedule and the security, if any)
+as the Board may determine.
+
+Upon any exercise of an option, the Company may, in the
+discretion of the Board, permit the person exercising the
+option to make all or any portion of such payment in kind by
+the delivery of shares of the Company's common stock having
+a fair market value, on the date of delivery, equal to the
+portion of the option price so paid.
+
+Each option, to the extent it has not theretofore been
+exercised, shall terminate upon the termination of the
+optionee's employment for any reason, except that if the
+optionee's employment ceases by reason of his death, his
+option may be exercised (by the person or persons to whom
+his rights under the option pass by his will or by the laws
+of descent and distribution) at any time within 90 days
+after his death for the lesser of (i) that number of shares
+which the optionee was entitled to purchase at the time of
+his death or (ii) that number of shares for which the option
+would have been exercisable on the date of exercise had the
+optionee's employment not been terminated.
+
+Options are not transferable except upon the death of the
+optionee.
+
+Duration and Modification of Amended Plan
+
+The Amended Plan will terminate not later than September 19,
+2005.  The Board may at any time suspend or terminate the
+Amended Plan and may amend it from time to time in such
+respects as the Board may deem advisable in order to conform
+to any change in the law, or in any other respect which the
+Board may deem to be in the best interest of the Company;
+provided,however, that without the approval of the
+stockholders of the Company no such amendment shall (a)
+except for adjustments upon changes in stock set forth in
+the following paragraph, increase the maximum number of
+shares for which options may be granted under the Amended
+Plan, or (b) change the provisions thereof relating to
+eligibility.
+
+Adjustments Upon Changes in Stock
+
+Each option shall contain such provisions as the Board may
+determine to be appropriate for the adjustment of the kind
+and number of shares subject to the option, or the option
+price, or both, in the event of any changes in the
+outstanding common stock of the Company by reason of stock
+dividends, stock splits, stock distributions,
+recapitalizations, reorganization, mergers, consolidations,
+sales or exchanges of assets, combinations or exchange of
+shares, or the like.  In the event of any such change in the
+outstanding common stock, the kind and aggregate number of
+shares of stock subject to the Amended Plan shall be
+adjusted if and to the extent determined appropriate by the
+Board, whose determination shall be conclusive.
+
+Federal Income Tax Consequences of Issuance and Exercise of
+Options
+
+The following discussion of the Federal income tax
+consequences of granting and exercise of options under the
+Amended Plan, and the sale of common stock acquired as a
+result thereof, is based on an analysis of the Code, as
+currently in effect, existing laws, judicial decisions and
+administrative rulings and regulations, all of which are
+subject to change.  Each optionee must consult his or her
+personal tax advisor to determine the taxes applicable to
+the issuance, exercise and sale of options.
+
+No income will be recognized by an optionee at the time a
+stock option under the Amended Plan is granted.  Ordinary
+income will be recognized by an optionee at the time an
+option is exercised, and the amount of such income will be
+equal to the excess of the fair market value on the exercise
+date of the shares issued to the optionee over the option
+price.  This ordinary income will also constitute wages
+subject to the withholding of the income tax and the Company
+will be required to be withheld is available for
+withholding, in cash.  An optionee's holding period with
+respect to the shares acquired will begin on the date of the
+exercise of the stock options.
+
+The tax basis of the stock acquired upon the exercise of a
+stock option will be equal to the sum of (a) the exercise
+price of such stock option and (b) the amount included in
+income of the exercise of such option.  Gain or loss on a
+subsequent sale or other disposition of the stock will be
+measured by the difference between the amount realized on
+the disposition and the tax basis of such shares.
+
+If an optionee is permitted to, and does, make the required
+payment of the option price by delivering shares of common
+stock the optionee generally will not recognize any gain as
+a result of such delivery, but the amount of gain, if any,
+which is not so recognized will be excluded from his or her
+basis in the new shares received.  In such a case, an
+optionee's holding period in the shares received will be
+determined by reference to his or her holding period in the
+shares of common stock exchanged.
+
+The Company will be entitled to a deduction for Federal
+income tax purposes in the same amount as the amount
+included in income by the optionee with respect to his or
+her stock option, subject to the usual rules as to
+reasonableness of compensation and provided that suitable
+arrangements are made to collect and pay over applicable
+withholding tax from the optionee.  The deduction will be
+allowed for the taxable year of the Company in which the
+exercise of the option occurs.
+
+Recommendation and Vote Required
+
+The Board of Directors believes that ratification of the
+amendment of the 1980 Stock Option Plan is in the best
+interests of the Company and all stockholders and recommends
+a vote FOR the ratification of the amendment.  Ratification
+requires the affirmative vote of the holders of a majority
+of the outstanding shares of the voting stock.  Proxies
+received in response to this solicitation will be voted FOR
+the ratification of the amendment of the 1980 Stock Option
+Plan unless otherwise specified in the proxy.
+
+SECTION 16 COMPLIANCE
+
+Section 16(a) of the Securities Exchange Act of 1934
+requires the Company's directors and executive officers, and
+persons who own more than 10% of the registered class of the
+Company's equity securities to file with the Securities and
+Exchange Commission (the "SEC"), initial reports of
+ownership and reports of changes in ownership of common
+stock and other equity securities of the Company. Officers,
+directors and greater than 10% stockholders are required by
+SEC regulation to furnish the Company with copies of all
+Section 16(a) forms they file. To the Company's knowledge,
+based solely on review of the copies of such reports
+furnished to the Company and representations that no other
+reports were required during the fiscal year, all Section
+16(a) filing requirements applicable to its officers,
+directors and greater than 10% beneficial owners were
+complied with.
+
+RELATIONSHIP WITH THE COMPANY'S INDEPENDENT PUBLIC
+ACCOUNTANTS
+
+KPMG Peat Marwick LLP was the Company's principal accountant
+for the Company's most recent fiscal year ended June 30,
+1997. Representatives of KPMG Peat Marwick LLP are expected
+to be present at the Stockholders' Meeting with an
+opportunity to make a statement, if they desire to do so.
+Such representatives are also expected to be available to
+respond to appropriate questions.
+
+The Company has not as yet selected its principal accountant
+for its current fiscal year since such selection is usually
+made by the Company's Board of Directors late in the fiscal
+year. At present, management has no reason to believe that
+there will be any change in its principal accountant for the
+current fiscal year.
+
+
+STOCKHOLDER PROPOSALS
+
+Any proposal which a stockholder intends to present at the
+1998 Annual Meeting of Stockholders must be duly received by
+the Company on or before June 12, 1998.
+
+OTHER MATTERS
+
+The Company's Annual Report to Stockholders for the year
+ended June 30, 1997 is being mailed to stockholders with
+this Proxy Statement.
+
+The cost of solicitation of proxies in the accompanying form
+will be borne by the Company, including expenses in
+connection with preparing and mailing this Proxy Statement.
+In addition to the use of mails, proxies may be solicited by
+personal interview, facsimile, telephone or telegram by
+directors, officers and employees of the Company.
+Arrangements may also be made with brokerage houses and
+other custodians, nominees and fiduciaries for the
+forwarding of solicitation material to the beneficial owners
+of stock held of record by such persons, and the Company may
+reimburse them for reasonable out-of-pocket expenses
+incurred by them in connection therewith.
+
+The management does not know of any matters to be presented
+for consideration, other than the matters described in the
+Notice of Annual Meeting, but if other matters are
+presented, it is the intention of the persons named in the
+accompanying proxy to vote on such matters in accordance
+with their judgment.
+
+The Company will provide, without charge to each person
+whose proxy is solicited, on the written request of any such
+person, a copy of the Company's annual report on Form 10-K
+for its fiscal year ended June 30, 1997 required to be filed
+with the Securities and Exchange Commission, including the
+financial statements and the schedules thereto. Such written
+request should be directed to Mr. Donald Horowitz, Aceto
+Corporation, One Hollow Lane, Lake Success, New York 11042-
+1215. Each such request must set forth a good faith
+representation that, as of September 19, 1997 the person
+making the request was a beneficial owner of securities
+entitled to vote at the annual meeting of stockholders.
+
+     By Order of the Board of Directors,
+
+     DONALD HOROWITZ
+     Secretary
+
+October 24, 1997
+
+
+         STATEMENT PURSANT TO SECTION 726 (d) OF               Addendum
+          THE NEW YORK BUSINESS CORPORATION LAW
+     RELATING TO DIRECTOR AND OFFICER INDEMNIFICATION
+
+The following information pertains to directors and officers
+liability indemnity insurance purchased by the Company:
+
+
+Insurance Carrier:            Great American Insurance Company
+
+Date of Contract:             March 10, 1997
+
+Expiration Date:              March 10, 1998
+
+Cost of Insurance:            $44,000
+
+Corporate Positions Insured:  Directors and Officers
+
+EXHIBIT A
+
+ACETO CORPORATION
+STOCK OPTION PLAN
+(as Amended and Restated effective as of September 4, 1997)
+
+1.   Purpose
+
+     The Aceto Corporation Stock Option Plan (the "Plan") is
+     intended to give to officers and other key employees of
+     Aceto Corporation (the "Company") an increased incentive
+     to promote the success of the Company by affording them
+     an opportunity to purchase stock in the Company pursuant
+     to stock options.
+
+2.   Number of Shares
+
+     Options may be granted by the Company from time to time
+     under the Plan to one or more persons falling within
+     the class of employees specified in Paragraph 4 hereof to
+     purchase an aggregate of 650,000 shares of the
+     Company's common stock, $.01 par value, subject to
+     adjustment as provided in paragraph 8.  The shares
+     available for options to be granted under the Plan may
+     consist either in whole or in part of shares of the
+     Company's authorized but unissued common stock or shares
+     of the Company's authorized and issued common stock
+     reacquired by the Company and held in its treasury, as
+     may from time to time be determined by the Board of
+     Directors (the "Board").  If any option granted under the
+     plan expires or terminates for any reason, in whole or
+     in part, without having been exercised, the number of
+     shares subject to that option or part shall be
+     available for further options pursuant to the Plan.
+
+3.   Administration
+
+     The Plan shall be administered by the Board, or a 
+     committee appointed by the Board that is comprised
+     solely of two or more non-employee directors, which shall
+     have full authority, subject to the provisions of the Plan,
+     (i) to determine, in its discretion, the individuals to
+     whom, and the times at which, options shall be granted,
+     the number of shares covered by each option, the option
+     price, and the other terms and provisions of the
+     respective option agreements (which need not be identical),
+     including provisions concerning the time or times when, and
+     the extent to which, the options may be exercised, (ii) to
+     adopt rules and regulations relating to the Plan, (iii)
+     to interpret the Plan and the option agreements, and (iv)
+     to make all other determinations and to take all other
+     action necessary or advisable for the administration of
+     the Plan.  All such determination and actions shall be
+     final and conclusive for all purposes and upon all
+     persons.
+
+4.   Eligibility
+
+     Officers and other key employees of the Company or any
+     subsidiary of the Company shall be eligible to receive
+     an option or options hereunder.  A director, as such,
+     shall not be considered an officer or employee for
+     purposes of the Plan, but a person otherwise eligible
+     to participate in the Plan shall not be disqualified
+     because he is a director of the Company or any
+     subsidiary.  More than one option may be granted to any
+     eligible person.  No option may be granted to any person
+     who owns, at the time an option is granted to him, more
+     than 10% of the then outstanding shares of the Company's
+     common stock.  As used herein, the term "subsidiary"
+     means any corporation of which stock possessing 50% or
+     more of the total combined voting power of all classes of
+     stock is owned directly by the Company or by any one of
+     its subsidiaries (as defined in this sentence).
+
+5.   Option Price; Date of Option
+
+     (a)  The option price shall be determined by the Board,
+          and may be greater than or less than the market
+          value of the stock on the date the option is
+          granted.
+
+     (b)  The date of the granting of an option under the
+          Plan shall be the date on which such option
+          shall be duly executed by or on behalf of the
+          Company.
+
+6.   Exercise of Option
+
+     (a)  Each option granted under the Plan shall become
+          exercisable at such time, or in installments at such
+          times, as may be provided therein.  To the
+          extent that any installment of an option has become
+          exercisable it may be exercised thereafter, in whole 
+          or at any time or from time to time in part, until 
+          the option or that installment terminates.  An option 
+          may be exercised only during the continuance of the
+          optionee's employment, except as provided in paragraph 7
+          with respect to termination of optionee's employment on his
+          death.  As used herein, the term "optionee's employment"
+          shall mean the employment of the optionee by the Company or
+          by a subsidiary.
+
+     (b)  An option shall be exercised by written notice of
+          exercise in the form prescribed by the Board,
+          delivered to the Company, in such manner as the
+          Board may designate.  The notice shall specify
+          the number of shares for which the option is
+          being exercised (which number, if less than all of
+          the shares then subject to exercise, shall not be less than
+          such number as the Board may designate) and shall
+          be accompanied by payment in full of the
+          purchase price of such shares.
+
+     (c)  Upon any exercise of an option, the Company may,
+          in the discretion of the Board, offer to lend
+          to the person exercising the option all or
+          any part of the purchase price of the shares to be
+          purchased upon exercise of the option, the loan
+          to be on such terms (including the rate of
+          interest, the repayment schedule and the security, if any)
+          as the Board may determine.
+
+     (d)  Upon any exercise of an option, the Company may,
+          in the discretion of the Board, permit the
+          person exercising the option to make all or any
+          portion of such payment in kind by the delivery of
+          shares of the Common Stock having a fair
+          market value, on the date of delivery, equal to the portion
+          of the price so paid.
+
+     (e)  No shares shall be delivered upon exercise of any
+          option until all laws, rules and regulations
+          which the Board may deem applicable have been
+          complied with.  If a registration statement under the
+          Securities Act of 1933 is not then in effect
+          with respect to the shares issuable upon such
+          exercise, the person exercising the option must give to the
+          Company a written representation and undertaking,
+          satisfactory in form and substance to the Board, that he is
+          acquiring the shares for his own account for investment and
+          not with a view to the distribution thereof; in such case
+          the certificates for the shares shall bear an appropriate
+          legend.
+
+     (f)  The person exercising an option shall not be
+          considered a recordholder of the stock so
+          purchased for any purchase until the date on
+          which he is actually recorded as the holder of
+          such stock upon the stock records of the Company.
+
+7.   Termination of Option
+
+     Each option, to the extent is has not theretofore been
+     exercised, shall terminate upon the termination of the
+     optionee's employment for any reason, except that if the
+     optionee's employment ceases by reason of his death, his
+     option may be exercised (by the person or persons to whom
+     his rights under the option pass by his will or by the
+     laws of descent and distribution) at any time within 90 days
+     after his death, for the lesser of (i) that number of shares
+     which the optionee was entitled to purchase at the time
+     of his death or (ii) that number of shares for which the
+     option would have been exercisable on the date of exercise
+     had the optionee's employment not terminated.  An
+     optionee's employment shall not be deemed to have
+     ceased by reason of the transfer of his employment, without
+     interruption of service, between or among the Company and
+     any subsidiary of the Company.
+
+8.   Adjustments Upon Changes in Stock
+
+     Each option agreement shall contain such provisions as
+     the Board may determine to be appropriate for the
+     adjustment of the kind and number of shares subject to
+     the option, or the option price or both, in the event
+     of any changes in the outstanding common stock of the
+     Company by reason of stock dividends, stock splits, stock
+     distributions, recapitilizations, reorganization, mergers,
+     consolidations, sales or exchanges of assets, combinations
+     or exchanges of shares, or the like.  In the event of any
+     such change in the outstanding common stock, the kind and
+     aggregate number of shares of stock subject to the Plan
+     shall be adjusted if and to the extent determined
+     appropriate by the Board whose determination shall be
+     conclusive.
+
+9.   Non-Transferability of Options
+
+     Any option granted under the Plan may not be
+     transferred and, during the lifetime of the employee to
+     whom granted, may be exercised only by him.
+
+10.  No Right to Employment
+
+     Nothing in the Plan or in any option granted pursuant
+     to the Plan shall confer upon any officer or employee any
+     right to continue in the employ of the Company or of any
+     of its subsidiaries or shall interfere in any way with the
+     right of the Company or any such subsidiary to terminate
+     his employment with or without cause.
+
+11.  Amendment, Suspension, Expiration and Termination of Plan
+
+     The Board may at any time suspend or terminate the Plan
+     and may amend it from time to time in such respects as the
+     Board may deem advisable in order to conform to any
+     change in the law or in any other respect which the Board
+     may deem to be in the best interests of the Company;
+     provided, however, that without the approval of the
+     stockholders of the Company no such amendment shall (a)
+     except as specified in paragraph 8, increase the maximum
+     number of shares for which options may be granted under
+     the Plan, or (b) change the provisions of paragraph 4
+     relating to eligibility.
+
+     The Plan shall terminate on September 19, 2005 or at
+     any such earlier time as the Board may determine.  Options
+     may be granted under the Plan at any time and from time
+     to time prior to its termination.  Any option
+     outstanding under the Plan at the time of the termination
+     of the Plan shall remain in effect until such
+     option shall have been exercised or shall have expired in
+     accordance with its terms.
+
+12.  Stockholder Approval
+
+     The Plan as Amended and Restated shall become effective
+     upon its  adoption by the Board but if the Amendment is not
+     ratified by the stockholders of the Company within
+     twelve months after its adoption by the Board the Plan and
+     any options granted thereunder subsequent to September
+     4, 1997 shall become void.
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+
+ACETO CORPORATION                 Proxy Solicited on Behalf
+of the Board                                 of Directors
+
+The undersigned hereby appoints Leonard S. Schwartz and
+Donald Horowitz, with the full power of substitution,
+proxies to vote at the annual meeting of stockholders of
+Aceto Corporation to be held on Thursday, December 4, 1997
+at the Crowne Plaza LaGuardia, 104-04 Ditmars Boulevard, E.
+Elmhurst, New York, and at any adjournments of the meeting,
+according to the number of votes the undersigned might cast
+with all powers the undersigned would possess if personally
+present, as follows:
+
+     (1)  Election of Directors
+          [  ]FOR nominees listed below    [  ]WITHHOLD authority
+             (except as marked to the          to vote for ALL
+              contrary below)                  nominees listed below
+
+                  Richard Amitrano,  Anthony Baldi, Thomas Brunner, 
+             Arnold J. Frankel, Stephen M. Goldstein, Samuel I. Hendler, 
+              Donald Horowitz, Robert E. Parsont, Leonard S. Schwartz 
+                              and Robert A. Wiesen
+
+          To withhold authority to vote for any individual nominee(s),        
+          write name or names here:
+
+
+           __________________________________________________________
+
+
+     (2)  Proposal to ratify amendment of the Company's 1980
+          Stock Option Plan.
+
+          [  ]FOR              [  ]AGAINST            [ ]ABSTAIN
+
+     (3)  in their discretion with respect to such other
+          business as may properly come before the
+          meeting or any adjournment thereof.
+
+PLEASE SIGN AND DATE THIS PROXY ON THE REVERSE SIDE AND MAIL IT IN THE
+ENCLOSED ENVELOPE.  NO POSTAGE REQUIRED IF MAILED IN THE UNITED STATES.
+
+The shares represented by this proxy will be voted in accordance with 
+the instructions given, but if no instructions are given, the shares 
+will be voted FOR the election of directors as a group, and FOR the 
+proposal to ratify amendment to the Company's 1980 Stock Option Plan.
+
+Either of the proxies or their substitutes who are present
+at the meeting may exercise all powers conferred thereby.
+
+                                     Dated:  1997
+
+                                     (Signature of Stockholder)
+
+NOTE:  Please sign exactly as your name appears on this
+       proxy.  If shares are held jointly, each joint owner
+       should sign. When signing as attorney, executor,
+       administrator, trustee or guardian, please give full title
+       as such. Proxies executed by a corporation should be signed
+       with the full corporate name by a duly authorized officer.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

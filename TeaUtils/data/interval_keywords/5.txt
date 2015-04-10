@@ -1,0 +1,4906 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Iab94QqFvMUuztXRZLwDkSaWd/e/iqpI8grR2FQ6RaFtSZEQL9qYZijn8xwnIwYu
+ 4O4M5ocy8PUifsHk8/a/fw==
+
+<SEC-DOCUMENT>0000893220-04-000626.txt : 20040406
+<SEC-HEADER>0000893220-04-000626.hdr.sgml : 20040406
+<ACCEPTANCE-DATETIME>20040406143414
+ACCESSION NUMBER:		0000893220-04-000626
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040514
+FILED AS OF DATE:		20040406
+EFFECTIVENESS DATE:		20040406
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		04720098
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>w93069def14a.htm
+<DESCRIPTION>DEFINITIVE PROXY STATEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>def14a</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="center" style="font-size: 18pt"><B>SCHEDULE 14A</B>
+
+<DIV align="center" style="font-size: 10pt"><B>(Rule&nbsp;14a-101)</B></DIV>
+
+
+
+<P align="center" style="font-size: 12pt"><B>INFORMATION REQUIRED IN PROXY STATEMENT</B>
+
+
+
+<P align="center" style="font-size: 14pt"><B>SCHEDULE 14A INFORMATION</B>
+
+
+<P align="center" style="font-size: 12pt"><B>Proxy Statement Pursuant to Section&nbsp;14(a) of the Securities<BR>
+Exchange Act of 1934 (Amendment No. )</B>
+
+
+<P align="left" style="font-size: 10pt">Filed by the Registrant <FONT face="Wingdings">&#120;</FONT><br>
+Filed by a Party other than the Registrant <FONT face="Wingdings">&#111;</FONT>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="46%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="left">Check the appropriate box:</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Preliminary Proxy Statement
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT face="Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Confidential, For Use of the Commission Only (as permitted by Rule&nbsp;14a-6(e)(2))</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="97%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#120;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Definitive Proxy Statement</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Definitive Additional Materials</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Soliciting Material Under Rule&nbsp;14a-12</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 14pt"><B>K-Tron International, Inc.</B>
+
+<DIV align="center" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Name of Registrant as Specified in Its Charter)</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+<DIV align="center" style="font-size: 10pt">(Name of Person(s) Filing Proxy Statement, if Other Than the Registrant)</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">Payment of Filing Fee (Check the appropriate box):<br>
+<FONT face="Wingdings">&#120;</FONT> No fee required.<br>
+<FONT face="Wingdings">&#111;</FONT> Fee computed on table below per Exchange Act Rules&nbsp;14a-6(i)(1) and 0-11.
+
+
+<P align="left" style="font-size: 10pt">(1)&nbsp;Title of each class of securities to which transaction applies:
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+<DIV align="left" style="font-size: 10pt">(2)&nbsp;Aggregate number of securities to which transaction applies:</DIV>
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+<DIV align="left" style="font-size: 10pt">(3)&nbsp;Per unit price or other underlying value of transaction computed pursuant
+to Exchange Act Rule&nbsp;0-11 (set forth
+the amount on which the filing fee is calculated and state how it was
+determined):</DIV>
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+<DIV align="left" style="font-size: 10pt">(4)&nbsp;Proposed maximum aggregate value of transaction:</DIV>
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+<DIV align="left" style="font-size: 10pt">(5)&nbsp;Total fee paid:</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+
+<DIV align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Fee paid previously with preliminary materials:</DIV>
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+<DIV align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Check box if any part of the fee is offset as provided by Exchange
+Act Rule&nbsp;0-11(a)(2) and identify the filing for
+which the offsetting fee was paid previously. Identify the previous filing by
+registration statement number, or
+the form or schedule and the date of its filing.</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">(1)&nbsp;Amount previously paid:
+
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+
+<DIV align="left" style="font-size: 10pt">(2) Form, Schedule or Registration Statement No.:</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+
+<DIV align="left" style="font-size: 10pt">(3) Filing Party:</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+
+
+<DIV align="left" style="font-size: 10pt">(4) Date Filed:</DIV>
+
+
+
+<P align="left" style="font-size: 10pt"><HR size="1" noshade width="100%" align="center">
+
+
+
+
+<P align="center" style="font-size: 10pt">
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="center" style="font-size: 10pt"><B>K-TRON INTERNATIONAL, INC.</B><BR>
+Routes 55 and 553<BR>
+P.O. Box 888<BR>
+Pitman, New Jersey 08071-0888
+
+
+
+<P>
+<HR noshade width="26%" align="center" size="1">
+<P>
+
+
+
+
+<P align="center" style="font-size: 10pt"><B>NOTICE OF ANNUAL MEETING OF SHAREHOLDERS<BR>
+To Be Held May&nbsp;14, 2004</B>
+
+
+
+<P>
+<HR noshade width="26%" align="center" size="1">
+<P>
+
+
+
+
+<P align="left" style="font-size: 10pt">To Our Shareholders:
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Notice is hereby given that the Annual Meeting of Shareholders of K-Tron
+International, Inc. (the &#147;Company&#148;) will be held on May&nbsp;14, 2004 at 9:00 a.m.,
+local time, at the Embassy Suites Hotel at 670 Verdae Boulevard, Greenville,
+South Carolina for the following purposes:
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;To elect two directors to Class&nbsp;III of the Board of Directors, each to
+serve for a four-year term and until the election and qualification of his
+successor; and
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp;To transact such other business as may properly come before the
+meeting.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only shareholders of record at the close of business on March&nbsp;19, 2004 are
+entitled to notice of the Annual Meeting and to vote at the Annual Meeting and
+any adjournments thereof. The transfer books will not be closed.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="55%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="17%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="78%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By Order of the Board of Directors,</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mary E. Vaccara</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Secretary</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">April&nbsp;12, 2004
+
+
+
+<P align="left" style="margin-left: 6%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><B>YOUR PROXY VOTE IS IMPORTANT. ACCORDINGLY, YOU ARE ASKED TO
+COMPLETE, SIGN AND RETURN THE ACCOMPANYING PROXY CARD IN THE
+ENVELOPE PROVIDED, WHICH REQUIRES NO POSTAGE IF MAILED IN
+THE UNITED STATES.</B>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">VOTING AT THE MEETING</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER MATTERS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">MATTERS CONCERNING DIRECTORS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">EXECUTIVE COMPENSATION</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#004">REPORT OF THE COMPENSATION AND HUMAN RESOURCES COMMITTEE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#005">REPORT OF THE AUDIT COMMITTEE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#006">AUDIT FEES AND ALL OTHER FEES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#007">PERFORMANCE GRAPH</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#008">INDEPENDENT PUBLIC ACCOUNTANTS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#009">SHAREHOLDER PROPOSALS &#151; 2005 ANNUAL MEETING</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#010">SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#011">OTHER MATTERS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#012">APPENDIX A</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+<P align="center" style="font-size: 10pt"><B>&#091;LOGO&#093;</B>
+
+
+
+<P>
+<HR noshade width="26%" align="center" size="1">
+<P>
+
+
+
+
+<P align="center" style="font-size: 10pt"><B>PROXY STATEMENT</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>ANNUAL MEETING OF SHAREHOLDERS<BR>
+TO BE HELD MAY 14, 2004</B>
+
+
+
+<P>
+<HR noshade width="26%" align="center" size="1">
+<P>
+
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Proxy Statement is being furnished to the shareholders of K-Tron
+International, Inc. (the &#147;Company&#148;) in connection with the Annual Meeting of
+Shareholders of the Company to be held on May&nbsp;14, 2004 and any postponements or
+adjournments thereof (the &#147;Annual Meeting&#148;). This Proxy Statement and the
+enclosed Proxy Card are being mailed to shareholders on or about April&nbsp;12,
+2004.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Execution and return of the enclosed Proxy Card are being solicited by and
+on behalf of the Board of Directors of the Company (the &#147;Board&#148;) for the
+purposes set forth in the foregoing notice of meeting. The costs incidental to
+the solicitation and obtaining of proxies, including the cost of reimbursing
+banks and brokers for forwarding proxy materials to their principals, will be
+borne by the Company. Proxies may be solicited, without extra compensation, by
+officers and employees of the Company, both in person and by mail, telephone,
+telefax and other methods of communication.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Annual Report to Shareholders for the fiscal year ended January&nbsp;3,
+2004, including consolidated financial statements and other information with
+respect to the Company and its subsidiaries, is being mailed to shareholders
+with this Proxy Statement. Such Annual Report is not part of this Proxy
+Statement.
+
+<!-- link1 "VOTING AT THE MEETING" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>VOTING AT THE MEETING</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only shareholders of record at the close of business on March&nbsp;19, 2004 are
+entitled to notice of the Annual Meeting and to vote at the Annual Meeting. As
+of that date, the Company had outstanding 2,466,354 shares of Common Stock.
+The holders of a majority of such shares, represented in person or by proxy,
+shall constitute a quorum at the Annual Meeting. A quorum is necessary before
+business may be transacted at the Annual Meeting except that, even if a quorum
+is not present, the shareholders present in person or by proxy shall have the
+power to adjourn the meeting from time to time until a quorum is present. Each
+shareholder entitled to vote shall have the right to one vote for each share of
+Common Stock outstanding in such shareholder&#146;s name.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The shares of Common Stock represented by each properly executed Proxy
+Card will be voted at the Annual Meeting in the manner directed therein by the
+shareholder signing such Proxy Card. The Proxy Card provides spaces for a
+shareholder to vote for the Board&#146;s nominees, or to withhold authority to vote
+for either or both of such nominees, for election as directors. Directors are
+to be elected by a plurality of the votes cast at the Annual Meeting. With
+respect to any other matter that may properly be brought before the Annual
+Meeting, the affirmative vote of a majority of the votes cast by shareholders
+entitled to vote thereon is required to take action, unless a greater
+percentage is required either by law or by the Company&#146;s Restated Certificate
+of Incorporation or By-laws. In determining the number of votes cast with
+respect to any voting matter, only those cast &#147;for&#148; or &#147;against&#148; are included.
+Abstentions will be considered present and entitled to vote at the Annual
+Meeting but will not be counted as votes cast. Accordingly, abstentions will
+have no effect on the vote. Similarly, where brokers submit proxies but
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">are prohibited and thus refrain from exercising discretionary authority in
+voting shares on certain matters for beneficial owners who have not provided
+voting instructions with respect to such matters (commonly referred to as
+&#147;broker non-votes&#148;), those shares will be considered present and entitled to
+vote at the Annual Meeting but will not be counted as votes cast as to such
+matters and thus will have no effect on the vote.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If a signed Proxy Card is returned and the shareholder has given no
+direction regarding a voting matter, the shares will be voted with respect to
+that matter by the proxy agents as recommended by the Board or its Executive
+Committee. Execution and return of the enclosed Proxy Card will not affect a
+shareholder&#146;s right to attend the Annual Meeting and vote in person. Any
+shareholder that executes and returns a Proxy Card has the right to revoke it
+by giving notice of revocation to the Secretary of the Company at any time
+before the proxy is voted.
+
+<!-- link1 "SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER MATTERS" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+<P align="center" style="font-size: 10pt"><B>SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS<BR>
+AND MANAGEMENT AND RELATED SHAREHOLDER MATTERS</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Security Ownership of Certain Beneficial Owners and Management</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following table sets forth certain information as of March&nbsp;19, 2004
+(or as of such other dates as are indicated in footnotes 6 through 10 to such
+table) with respect to shares of Common Stock beneficially owned by each
+director of the Company, by each executive officer of the Company named in the
+Summary Compensation Table under &#147;Executive Compensation,&#148; by all directors and
+executive officers of the Company as a group and by each person believed by the
+Company to be the beneficial owner of more than 5% of the outstanding shares of
+Common Stock. Except as indicated below, the Company understands that the
+shareholders listed in such table have sole voting and investment power with
+respect to the shares owned by them. The number of shares in the table below
+includes shares issuable upon the exercise of outstanding stock options to the
+extent that such options are exercisable by the director, executive officer or
+shareholder on or within 60&nbsp;days after March&nbsp;19, 2004. In the case of
+directors and executive officers, the information below has been provided by
+such persons at the request of the Company.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="78%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Number of Shares</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Percent of Common</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Name of Individual or Identity of Group</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>of Common Stock</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Stock Outstanding</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Directors and Executive Officers:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Edward B. Cloues, II (1)(2)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">235,580</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9.3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Richard J. Pinola (1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">29,994</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.2</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Ronald R. Remick (1)(3)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">27,650</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.1</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Kevin C. Bowen (1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">27,327</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.1</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Norman Cohen (1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,219</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">*</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Robert A. Engel (1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,500</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">*</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Edward T. Hurd (1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,500</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">*</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Donald W. Melchiorre (4)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">*</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">John D. Whalen</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">*</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">All directors and executive officers as a group
+(10 persons) (5)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">371,937</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14.2</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Other 5% Shareholders:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Heartland Advisors, Inc. (6)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">292,100</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11.8</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">T. Rowe Price Associates, Inc. (7)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">256,323</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10.4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Robert E. Robotti (8)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">233,070</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9.5</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Paradigm Capital Management Inc. (9)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">179,650</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7.3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">FleetBoston Financial Corporation (10)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">148,137</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6.0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P>
+<HR size="1" width="18%" align="left" noshade>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top">
+    <TD width="1%" nowrap align="right">*</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">Less than 1%</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">-2-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(1)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes with respect to Mr.&nbsp;Cloues 80,000 shares, Mr.&nbsp;Pinola 6,000 shares, Mr.&nbsp;Remick 18,750 shares,
+Mr.&nbsp;Bowen 16,500 shares, Mr.&nbsp;Cohen 6,000 shares, Mr.&nbsp;Engel 5,000 shares and Mr.&nbsp;Hurd 2,000 shares,
+all of which shares are subject to presently exercisable options.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(2)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes 59,020 shares as to which Mr.&nbsp;Cloues shares investment and
+voting power with Jan Beebe, the beneficial owner, by power of attorney,
+and 1,200 shares as to which Mr.&nbsp;Cloues shares investment and voting power
+with his father, Alfred S. Cloues, Jr., the beneficial owner, also by
+power of attorney. Mr.&nbsp;Cloues does not have an economic interest in such shares, disclaims beneficial ownership of such shares and is not related
+to Mrs.&nbsp;Beebe. The business address of Mr.&nbsp;Cloues is c/o K-Tron
+International, Inc., Routes 55 and 553, P.O. Box 888, Pitman, New Jersey
+08071.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(3)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes 4,900 shares as to which Mr.&nbsp;Remick shares investment and voting
+power with his wife.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(4)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes 1,000 shares as to which Mr.&nbsp;Melchiorre shares investment and
+voting power with his wife.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(5)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes 155,250 shares subject to presently exercisable options.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(6)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>As reflected in Amendment No.&nbsp;5 to Schedule&nbsp;13G filed February&nbsp;12, 2004.
+Such shares may be deemed beneficially owned by (i)&nbsp;Heartland Advisors,
+Inc. (&#147;Heartland&#148;), a registered investment advisor, and (ii)&nbsp;William J.
+Nasgovitz, President and principal shareholder of Heartland. Mr.
+Nasgovitz&#146;s position as President and his stock ownership of Heartland
+could be deemed as conferring upon him voting and/or investment power over
+the shares Heartland beneficially owns. Heartland has sole dispositive
+power over all such shares and sole voting power over 218,300 shares.
+Heartland and Mr.&nbsp;Nasgovitz disclaim beneficial ownership of such shares.
+The principal address of Heartland is 789 North Water Street, Milwaukee,
+Wisconsin 53202.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(7)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>As reflected in Amendment No.&nbsp;12 to Schedule&nbsp;13G filed February&nbsp;5, 2004.
+According to T. Rowe Price Associates, Inc. (&#147;Price Associates&#148;), it (i)
+is a registered investment adviser and (ii)&nbsp;has sole dispositive power
+over all such shares. These shares are owned by T. Rowe Price Small-Cap
+Value Fund, Inc. (&#147;Small-Cap Value Fund&#148;), a registered investment
+company, as to which Price Associates serves as investment adviser with
+power to direct investments. According to Small-Cap Value Fund, it has
+sole voting power over such shares. For purposes of the reporting
+requirements of the Securities Exchange Act of 1934, as amended, Price
+Associates is deemed to be a beneficial owner of such shares; however,
+Price Associates expressly disclaims that it is, in fact, the beneficial
+owner of such shares. The principal address of Price Associates is 100
+East Pratt Street, Baltimore, Maryland 21202.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(8)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>As reflected in Amendment No.&nbsp;3 to Schedule&nbsp;13G filed February&nbsp;13, 2004.
+According to Robert E. Robotti (&#147;Robotti&#148;), he has shared voting power and
+shared dispositive power over all such shares as a result of (i)&nbsp;Robotti&#146;s
+ownership of Robotti &#038; Company, LLC (&#147;Robotti &#038; Company&#148;), a registered
+broker-dealer, which beneficially holds 3,885 shares by virtue of the
+investment discretion Robotti &#038; Company has over the accounts of its
+brokerage customers, (ii)&nbsp;Robotti&#146;s ownership of Robotti &#038; Company
+Advisors, LLC (&#147;Robotti Advisors&#148;), a registered investment advisor, which
+beneficially holds 154,885 shares by virtue of the investment discretion
+Robotti Advisors has over the accounts of its advisory clients and (iii)
+Robotti&#146;s position as the Managing Member of the General Partner of The
+Ravenswood Investment Company, L.P., which owns 74,300 shares. The
+principal address of Robotti is c/o Robotti &#038; Company, Incorporated, 52
+Vanderbilt Avenue, Suite&nbsp;503, New York, New York 10017-3808.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(9)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>As reflected in Amendment No.&nbsp;8 to Schedule&nbsp;13G filed February&nbsp;12, 2004.
+According to Paradigm Capital Management Inc. (&#147;Paradigm&#148;), it (i)&nbsp;is a
+registered investment adviser and (ii)&nbsp;has sole voting power and sole
+dispositive power over all such shares. The principal address of Paradigm
+is Nine Elk Street, Albany, New York 12207.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(10)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>As reflected in Amendment No.&nbsp;3 to Schedule&nbsp;13G filed February&nbsp;13, 2004.
+According to FleetBoston Financial Corporation (&#147;Fleet&#148;), it (i)&nbsp;is a
+parent holding company or control person and (ii)&nbsp;has sole dispositive
+power over all such shares and sole voting power over 110,197 shares. The
+principal address of Fleet is 100 Federal Street, Boston, Massachusetts
+02110.</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">-3-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="left" style="font-size: 10pt"><B>Related Shareholder Matters</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following table sets forth certain information as of the end of the
+Company&#146;s fiscal year (January&nbsp;3, 2004) with respect to the Company&#146;s
+compensation plans under which equity securities are authorized for issuance.
+
+
+<P align="center" style="font-size: 10pt"><B>Equity Compensation Plan Information</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Number of securities remaining</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Number of securities</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Weighted-average</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>available for future issuance</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>to be issued upon exercise</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>exercise price of</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>under equity compensation plans</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>of outstanding options,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>outstanding options,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>(excluding securities</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Plan Category</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>warrants and rights</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>warrants and rights</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>reflected in column (a))</B><HR size="1" noshade></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>(a)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>(b)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>(c)</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Equity compensation
+plans approved by
+security holders</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">401,767</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">14.05</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">194,169</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Equity compensation
+plans not approved
+by
+security holders</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0.00</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">401,767</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">14.05</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">194,169</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<!-- link1 "MATTERS CONCERNING DIRECTORS" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>MATTERS CONCERNING DIRECTORS</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Election of Directors</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board currently consists of five directors and is classified with
+respect to terms of office into four classes. Each Class&nbsp;III director elected
+at the Annual Meeting will serve until the 2008 annual meeting of shareholders
+and until such director&#146;s successor has been elected and qualified, except in
+the event of such director&#146;s earlier death, resignation or removal. The terms
+of office of the Class&nbsp;I, Class&nbsp;II and Class&nbsp;IV directors will expire at the
+annual meetings of shareholders to be held in 2006, 2007 and 2005,
+respectively, upon the election and qualification of their successors.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board has nominated Mr.&nbsp;Norman Cohen and Mr.&nbsp;Richard J. Pinola for
+election as the Class&nbsp;III directors. Both currently are directors of the
+Company. The persons named as proxy agents in the enclosed Proxy Card intend
+(unless instructed otherwise by a shareholder) to vote for the election of Mr.
+Cohen and Mr.&nbsp;Pinola as the Class&nbsp;III directors. In the event that a nominee
+should become unable to accept nomination or election (a circumstance that the
+Board does not expect), the proxy agents intend to vote for any alternate
+nominee designated by the Board or its Executive Committee or, in the
+discretion of the Board or its Executive Committee, the position may be left
+vacant.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>The Board unanimously recommends a vote FOR each Class&nbsp;III nominee.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set forth below is certain information with respect to each nominee for
+director and each other person currently serving as a director of the Company
+whose term of office will continue after the Annual Meeting, including the
+class and term of office of each such person. This information has been
+provided by each director at the request of the Company.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;I&#151;Director with Term Continuing until 2006
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Edward T. Hurd. </B>Mr.&nbsp;Hurd has been a director since January&nbsp;2002 and was
+reelected at the 2002 annual meeting of shareholders. Mr.&nbsp;Hurd is a principal
+in three consulting firms: Hurd Consulting, focusing on high technology
+business management (1996 to present); Curry &#038; Hurd, specializing in
+acquisitions and divestitures and the management of distressed businesses (2001
+to present); and Customer Valunomics, which evaluates customer relationships
+and loyalty (2000 to present). From 1996 to January&nbsp;2000, he was a consultant
+to and Chairman of the
+
+
+<P align="center" style="font-size: 10pt">-4-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">Board of Moore Products Company. From 1990 to 1996, Mr.
+Hurd served as President of Honeywell Industrial, a division of Honeywell
+Incorporated that specialized in turnkey systems for process automation
+applications and distributed computer automation systems. Mr.&nbsp;Hurd is 65&nbsp;years
+of age.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;II&#151;Director with Term Continuing until 2007
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Robert A. Engel. </B>Mr.&nbsp;Engel has been a director since May&nbsp;1999 and was
+reelected at the 2003 annual meeting of shareholders. Since 1999, Mr.&nbsp;Engel
+has been a Managing Director and Partner of Gleacher Partners LLC, a financial
+advisory and investment banking firm. From 1995 to 1999, Mr.&nbsp;Engel was the
+Managing Director-Head of Mergers and Acquisitions of Gleacher NatWest Inc., a
+predecessor firm. From 1986 to 1995, he worked in various capacities at the
+investment banking firms of Gleacher &#038; Co., Inc., C. J. Lawrence, Morgan
+Grenfell, Inc. and Morgan Grenfell &#038; Co. Ltd. Mr.&nbsp;Engel is 40&nbsp;years of age.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;III&#151;Nominees for Terms Continuing until 2008
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Norman Cohen. </B>Mr.&nbsp;Cohen has been a director since 1974 and was most
+recently reelected at the 2000 annual meeting of shareholders. From 1993 to
+June&nbsp;1999, he was Chairman and Chief Executive Officer of Creative Contracting
+Associates, Inc., a clothing manufacturer, and he was a consultant to Maggy
+London International, a clothing company, from 1999 until his retirement in
+June&nbsp;2000. Mr.&nbsp;Cohen is 77&nbsp;years of age.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Richard J. Pinola. </B>Mr.&nbsp;Pinola has been a director since January&nbsp;1994 and
+was most recently reelected at the 2000 annual meeting of shareholders. Since
+June&nbsp;1992, he has served as Chief Executive Officer of Right Management
+Consultants, Inc. (&#147;Right&#148;), a publicly-held global consulting firm
+specializing in career transition and organizational consulting services that
+was acquired by Manpower Inc. in January&nbsp;2004 and delisted at that time from
+The New York Stock Exchange. From June&nbsp;1992 to January&nbsp;2004, he was also a
+director of Right, and he was Chairman of the Board of that company from
+January&nbsp;1994 to January&nbsp;2004. Prior to joining Right, Mr.&nbsp;Pinola was President
+and Chief Operating Officer of Penn Mutual Life Insurance Company from March
+1988 through September&nbsp;1991 and a consultant from September&nbsp;1991 until June
+1992. Mr.&nbsp;Pinola is 58&nbsp;years of age.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class&nbsp;IV&#151;Director with Term Continuing until 2005
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Edward B. Cloues, II. </B>Mr.&nbsp;Cloues has been a director since July&nbsp;1985 and
+was most recently reelected at the 2001 annual meeting of shareholders. He
+became Chairman of the Board and Chief Executive Officer of the Company on
+January&nbsp;5, 1998. Prior to joining the Company in 1998, Mr.&nbsp;Cloues was a
+partner in the law firm of Morgan, Lewis &#038; Bockius LLP, which is the Company&#146;s
+principal outside counsel. He also is a director and non-executive Chairman of
+the Board of AMREP Corporation and a director of Penn Virginia Corporation and
+Penn Virginia Resource GP, LLC, the general partner of Penn Virginia Resource
+Partners, L.P. Mr.&nbsp;Cloues is 56&nbsp;years of age.
+
+
+<P align="left" style="font-size: 10pt"><B>Committees and Meetings</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board has an Executive Committee, an Audit Committee and a
+Compensation and Human Resources Committee. The members of the Compensation
+and Human Resources Committee also constitute the members of the two committees
+that administer the Company&#146;s equity compensation plans (collectively, the
+&#147;Stock Option Committee&#148;). During fiscal year 2003, the Board held six
+meetings (including one by telephone conference), the Audit Committee held ten
+meetings (including four by telephone conference), the Compensation and Human
+Resources Committee held four meetings (including one by telephone conference),
+the Stock Option Committee did not meet separately from the Compensation and
+Human Resources Committee and the Executive Committee met once by telephone
+conference. Each director except for Mr.&nbsp;Engel attended at least 75% of the
+aggregate of the fiscal year 2003 meetings of the Board and of the Board
+committee or committees on which he served during the year. This was the only
+year since he became a director in 1999 that Mr.&nbsp;Engel did not meet this test;
+he missed several meetings during a short time period when he and his family
+were relocating from London, England to the United States. The Company had a
+Nominating Committee until the death of one its members in 2001; since that
+time, the full Board has assumed responsibility for the duties normally
+associated with a nominating committee. After the Nasdaq Stock Market, Inc.
+(&#147;Nasdaq&#148;) adopted new rules and regulations in late 2003 relating to corporate
+governance and listing requirements, the Board reconsidered its decision not to
+have a formal Nominating Committee and determined that this decision was
+appropriate based on a number of factors, including the size of the
+
+
+<P align="center" style="font-size: 10pt">-5-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">current
+Board, the number of independent directors and the existing commitments of
+those independent directors to Board committees. In addition, the Board
+determined that recommendations regarding future director nominations,
+including nominations as a result of vacancies, would be made by a majority of
+the Company&#146;s independent directors and that the final selection would be made
+by the entire Board.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Executive Committee is empowered to exercise all powers of the Board,
+except action on dividends and certain other matters that cannot by law be
+delegated by the Board, during the periods between regular Board meetings. The
+primary purposes of the Audit Committee are to assist the Board in its
+oversight of the accounting and financial reporting processes of the Company,
+the audits of the financial statements of the Company and the Company&#146;s
+compliance with legal and regulatory requirements; to interact directly with
+and evaluate the performance of the independent auditors, including to
+determine whether to engage or dismiss the independent auditors and to monitor
+the independent auditors&#146; qualifications and independence; and to prepare the
+report required by the rules and regulations of the Securities and Exchange
+Commission to be included in the Company&#146;s annual proxy statement. As for the
+Compensation and Human Resources Committee, its main purposes are to establish
+and periodically review the Company&#146;s compensation philosophy and the adequacy
+of compensation plans and programs for executive officers and other employees;
+to establish compensation arrangements for executive officers and to administer
+compensation plans; to review the performance of the executive officers and
+award incentive compensation and adjust compensation arrangements as
+appropriate based upon performance; to review and monitor management
+development and succession plans and activities; and to prepare the report on
+executive compensation for inclusion in the Company&#146;s annual proxy statement in
+accordance with Securities and Exchange Commission rules and regulations. The
+Stock Option Committee is responsible for administering the Company&#146;s 1996
+Equity Compensation Plan and another stock option plan that has expired (but
+under which there remain outstanding stock options).
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current members of the Executive Committee are Messrs.&nbsp;Cloues
+(Chairman) and Cohen; of the Audit Committee, Messrs.&nbsp;Pinola (Chairman), Engel
+and Hurd; of the Compensation and Human Resources Committee, Messrs.&nbsp;Cohen
+(Chairman) and Pinola; and of the Stock Option Committee, Messrs.&nbsp;Cohen and
+Pinola.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><B>Affirmative Determination Regarding Director Independence and Other Corporate
+Governance Matters</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company operates within a comprehensive plan of corporate governance
+for the purpose of defining director independence, assigning Board
+responsibilities, setting high standards of professional and personal conduct
+for directors, officers and employees and assuring compliance with such
+responsibilities and standards. The Company regularly monitors developments in
+the area of corporate governance. In July&nbsp;2002, Congress passed the
+Sarbanes-Oxley Act of 2002 which, among other things, established or provided
+the basis for a number of new corporate governance standards and disclosure
+requirements. In addition, Nasdaq has recently adopted changes to its
+corporate governance and listing requirements.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board has determined that the following directors, constituting four
+of the Company&#146;s five directors and thus a majority of the Board, are each an
+&#147;independent director&#148; as such term is defined in Marketplace Rule&nbsp;4200(a)(15)
+of the National Association of Securities Dealers (the &#147;NASD&#148;): Norman Cohen,
+Robert A. Engel, Edward T. Hurd and Richard J. Pinola. The Board also has
+determined that each member of the Audit Committee, the Compensation and Human
+Resources Committee and the Stock Option Committee meets the independence
+requirements applicable to those committees as prescribed by the NASD, the
+Securities and Exchange Commission, the Internal Revenue Service and applicable
+committee charters. The Board has further determined that Messrs.&nbsp;Pinola and
+Engel, who are two of the three members of the Audit Committee, are each an
+&#147;audit committee financial expert&#148; as such term is defined in Item 401(h) of
+Regulation&nbsp;S-K promulgated by the Securities and Exchange Commission.
+
+
+<P align="left" style="font-size: 10pt"><B>Statement of Corporate Ethics and Code of Business Conduct</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board has adopted a Statement of Corporate Ethics and Code of Business
+Conduct applicable to all directors, officers and employees of the Company.
+Violations of the Statement of Corporate Ethics and Code of Business Conduct
+may be reported to the Company&#146;s Corporate Ethics Officer or, in cases
+involving accounting, internal accounting controls or auditing matters, to the
+Chairperson of the Audit Committee or the Company&#146;s Chief Executive Officer. A
+copy of the Statement of Corporate Ethics and Code of Business Conduct can be
+obtained from our Internet web site at http://www.ktron.com, without charge.
+
+
+<P align="center" style="font-size: 10pt">-6-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt"><B>Standard Compensation Arrangements</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Directors who are not employees of the Company receive an annual retainer
+of $15,000, a $2,000 annual retainer for each membership on the Audit Committee
+and the Compensation and Human Resources Committee, a $1,000 annual retainer
+for membership on the Executive Committee, $1,000 for each Board meeting
+attended and $750 for each Executive Committee meeting attended provided that,
+in the case of an Executive Committee meeting, such meeting either requires
+substantial preparation or lasts for two hours or more. In addition, the
+Chairperson of the Audit Committee and the Chairperson of the Compensation and
+Human Resources Committee are each paid an additional $1,500 for their service
+in such capacities. All retainers are paid on a prorated bi-monthly basis.
+Directors generally do not receive compensation for their participation in
+telephone meetings or for attendance at other committee meetings. Under the
+1996 Equity Compensation Plan, non-employee directors are eligible to receive
+stock options and, unless the Stock Option Committee determines otherwise
+(which has not been the case in the past), on the date of each annual meeting
+of shareholders of the Company, each non-employee director receives a stock
+option grant to purchase 1,000 shares of Common Stock with an option price per
+share equal to the fair market value of a share of Common Stock on that date.
+Such options are fully vested on the date of grant and have a ten-year term.
+
+
+<P align="left" style="font-size: 10pt"><B>Share Ownership Guideline</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each non-employee director is required to own shares of Common Stock with
+a value, at the greater of cost or market, equal to $50,000. As for any
+newly-elected director, this requirement may be phased in over a period of time
+to be determined by the Board. All directors are in compliance with this
+guideline with the exception of the most recently-elected director, Mr.&nbsp;Hurd,
+who as of March&nbsp;19, 2004 owned 1,500 shares.
+
+
+<P align="left" style="font-size: 10pt"><B>Directors&#146; Attendance at Annual Meeting of Shareholders</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It has been and is the policy of the Board that all directors attend the
+annual meeting of shareholders except where the failure to attend is due to
+unavoidable circumstances or conflicts discussed in advance by such director
+with the Chairman of the Board. All members of the Board attended the 2003
+annual meeting of shareholders.
+
+
+<P align="left" style="font-size: 10pt"><B>Communication with the Board</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board provides a process for shareholders to send communications to
+the Board. Information regarding the manner in which a shareholder may
+communicate with the Board is included on our Internet web site at
+http://www.ktron.com.
+
+
+<P align="left" style="font-size: 10pt"><B>Requirements for Director Nominations</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By resolution, the Board has adopted a policy regarding director
+nominations. Under this policy, a majority of the Company&#146;s independent
+directors shall recommend for the Board&#146;s selection a candidate or candidates,
+as appropriate, to be the Board&#146;s nominee or nominees for election as a
+director or directors, either at an annual meeting of shareholders or to fill a
+vacancy. In considering candidates for nomination, the Board shall seek
+individuals who evidence strength of character, mature judgment and the ability
+to work collegially with others. Furthermore, it is the policy of the Board
+that it endeavor to have directors who collectively possess a broad range of
+skills, expertise, industry and other knowledge and business and other
+experience useful to the effective oversight of the Company&#146;s business;
+therefore, in considering whether to nominate a person for election as a
+director, the independent directors and the Board will consider, among other
+factors, the contribution such person can make to the collective competencies
+of the Board based on such person&#146;s background. In determining whether to
+nominate a current director for re-election, the Board will take into account
+these same criteria as well as the director&#146;s past performance, including his
+or her participation in and contributions to the activities of the Board.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board will also consider candidates for nomination recommended by
+shareholders provided that the shareholder submits the recommendation, along
+with the following information, to the Secretary of the Company at the
+principal executive offices of the Company at least 120&nbsp;days before the date on
+which the Company first mailed its proxy materials for the prior year&#146;s annual
+meeting of shareholders: (a)&nbsp;the name of the candidate and the information
+about the individual that would be required to be included in a proxy statement
+under the rules of the Securities and Exchange Commission; (b)&nbsp;information
+about the relationship between the candidate and the
+
+
+<P align="center" style="font-size: 10pt">-7-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">shareholder making the
+recommendation; (c)&nbsp;the consent of the candidate to serve as a director; and
+(d)&nbsp;proof of the number of shares of the Company&#146;s Common Stock that the
+shareholder making the recommendation owns and the length of time the shares
+have been owned.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Article&nbsp;Ninth of the Restated Certificate of Incorporation of the Company
+provides that no person may be nominated for election as a director by a
+shareholder at an annual or special meeting unless written notice of such
+shareholder&#146;s intent to make such nomination has been given, either by personal
+delivery or by United States mail, postage prepaid, to the Secretary of the
+Company at the principal executive offices of the Company not later than (i)
+with respect to an election to be held at an annual meeting of shareholders, 90
+days in advance of such meeting and (ii)&nbsp;with respect to an election to be held
+at a special meeting of shareholders for the election of directors, the close
+of business on the seventh day following the date on which notice of such
+meeting is first given to shareholders. Each such notice shall set forth: (a)
+the name and address of the shareholder who intends to make the nomination and
+of the person or persons to be nominated; (b)&nbsp;a representation that the
+shareholder is a holder of record of stock of the Company entitled to vote at
+such meeting and intends to appear in person or by proxy at the meeting to
+nominate the person or persons specified in the notice; (c)&nbsp;a description of
+all arrangements or understandings between the shareholder and each nominee and
+any other person or persons (naming such person or persons) pursuant to which
+the nomination or nominations are to be made by the shareholder; (d)&nbsp;such other
+information regarding each nominee proposed by such shareholder as would be
+required to be included in a proxy statement filed pursuant to the proxy rules
+of the Securities and Exchange Commission had the nominee been nominated, or
+intended to be nominated, by the Board; and (e)&nbsp;the consent of each nominee to
+serve as a director of the Company if so elected. The Board may, in its
+discretion, consider nominees for the Board who are recommended by a
+shareholder according to the foregoing procedure, but it is not obligated to do
+so, and the chairman of the meeting may refuse to acknowledge the nomination of
+any person not made in compliance with such procedure.
+
+
+<P align="center" style="font-size: 10pt">-8-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "EXECUTIVE COMPENSATION" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+<P align="center" style="font-size: 10pt"><B>EXECUTIVE COMPENSATION</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Compensation</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following table sets forth certain information with respect to
+compensation earned during fiscal years 2003, 2002 and 2001 by the Company&#146;s
+chief executive officer and the Company&#146;s four most highly compensated
+executive officers, other than the Company&#146;s chief executive officer, who
+served as executive officers as of the last day of fiscal year 2003 (the &#147;Named
+Executive Officers&#148;).
+
+
+<P align="center" style="font-size: 10pt"><B>Summary Compensation Table</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="29%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Long-Term</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Compensation</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Awards</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Net Value</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11"><B>Annual Compensation(1)</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>of<BR>Restricted</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Number of<BR>Stock</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Name and </B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Other Annual</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Stock</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Options</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>All Other</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Principal Position</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Year</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Salary</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Bonus</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Compensation(2)</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Grants (3)</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Granted</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Compensation(1)(4)</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Edward B. Cloues, II</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2003</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">460,125</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">139,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">12,334</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">41,346</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Chief Executive Officer</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2002</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">443,400</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">168,750</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">15,005</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">39,771</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">and Chairman of the Board</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2001</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">436,800</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">14,299</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">48,800</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">32,909</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 0em">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">John D. Whalen</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2003</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">252,668</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">68,053</TD>
+    <TD nowrap>(5)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">14,270</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-0px">Chairman and Chief
+Executive Officer of
+Pennsylvania Crusher
+Corporation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 0em">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Kevin C. Bowen</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2003</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">221,175</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">40,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">308</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">17,839</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Senior Vice President,</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2002</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">213,150</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">51,900</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">319</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,336</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Feeder Group and
+President</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2001</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">210,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">332</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">24,400</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">19,476</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-0px">and Chief Executive
+Officer of<BR>K-Tron
+America, Inc.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 0em">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Ronald R. Remick</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2003</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">201,175</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">36,500</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">613</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">28,445</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Senior Vice
+President,</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2002</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">193,875</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">47,200</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">1,111</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">24,541</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-0px">Chief Financial Officer
+and</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2001</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">191,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">1,362</TD>
+    <TD nowrap>(6)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">24,400</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">25,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,127</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-0px">Treasurer</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 0em">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Donald W. Melchiorre</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2003</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">199,992</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">58,823</TD>
+    <TD nowrap>(5)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">8,976</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-0px">President and Chief
+Operating Officer of
+Pennsylvania Crusher
+Corporation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P>
+<HR noshade size="1" width="15%" align="left">
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(1)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Company&#146;s fiscal year is reported on a fifty-two/fifty-three week
+period. Fiscal years ended January&nbsp;3, 2004, December&nbsp;29, 2002 and
+December&nbsp;28, 2001 included fifty-three weeks for 2003 and fifty-two weeks
+for each of 2002 and 2001. In order to avoid distortion, annual and all
+other compensation has been calculated and presented on the basis of a
+365/366&nbsp;day year.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(2)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>In fiscal years 2003, 2002 and 2001, no Named Executive Officer received
+perquisites or other personal benefits, securities or property that
+exceeded the lesser of $50,000 or 10% of such Named Executive Officer&#146;s
+salary and bonus.</TD>
+</TR>
+
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">-9-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(3)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The restricted stock grants referred to in this column were awarded in
+fiscal year 2001 and were comprised of 4,000 shares of restricted Common
+Stock to Mr.&nbsp;Cloues and 2,000 shares of restricted Common Stock to each of
+Messrs.&nbsp;Bowen and Remick. The restriction on such shares of Common Stock
+lapsed on November&nbsp;1, 2002 since such individuals were employed by the
+Company on that date. No dividends were paid on the Common Stock during
+the period of the restriction.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(4)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The amounts disclosed in this column include:</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="margin-left: 3%; text-indent: 0%; margin-right: 0%; font-size: 10pt">(a)&nbsp;Company and subsidiary contributions under the thrift portion of
+Company&#146;s 401(k) Profit-Sharing and Thrift Plan for Messrs.&nbsp;Cloues, Bowen
+and Remick and under a subsidiary&#146;s 401(k) Plan for Messrs.&nbsp;Whalen and
+Melchiorre, as follows: For fiscal year 2003 &#151; Mr.&nbsp;Cloues $12,000, Mr.
+Whalen $9,333, Mr.&nbsp;Bowen $12,000, Mr.&nbsp;Remick $12,000 and Mr.&nbsp;Melchiorre
+$8,078. For fiscal year 2002 &#151; Mr.&nbsp;Cloues $11,000, Mr.&nbsp;Bowen $11,000 and
+Mr.&nbsp;Remick $11,000. For fiscal year 2001 &#151; Mr.&nbsp;Cloues $10,200, Mr.&nbsp;Bowen
+$10,200 and Mr.&nbsp;Remick $10,200.
+
+
+<P align="left" style="margin-left: 3%; text-indent: 0%; margin-right: 0%; font-size: 10pt">(b)&nbsp;Company and subsidiary payments for supplemental health insurance on
+behalf of the following Named Executive Officers: For fiscal year 2003 -
+Mr.&nbsp;Cloues $10,710, Mr.&nbsp;Bowen $4,521 and Mr.&nbsp;Remick $14,703. For fiscal
+year 2002 &#151; Mr.&nbsp;Cloues $9,557, Mr.&nbsp;Bowen $8,040 and Mr.&nbsp;Remick $11,111.
+For fiscal year 2001 &#151; Mr.&nbsp;Cloues $4,767, Mr.&nbsp;Bowen $7,971 and Mr.&nbsp;Remick
+$7,153.
+
+
+<P align="left" style="margin-left: 3%; text-indent: 0%; margin-right: 0%; font-size: 10pt">(c)&nbsp;Company and subsidiary payments of premiums for additional group
+term life insurance on behalf of the following Named Executive Officers:
+For fiscal year 2003 &#151; Mr.&nbsp;Cloues $1,161, Mr.&nbsp;Whalen $4,937, Mr.&nbsp;Bowen
+$473, Mr.&nbsp;Remick $1,032 and Mr.&nbsp;Melchiorre $898. For fiscal year 2002 -
+Mr.&nbsp;Cloues $1,075, Mr.&nbsp;Bowen $451 and Mr.&nbsp;Remick $1,720. For fiscal year
+2001 &#151; Mr.&nbsp;Cloues $552, Mr.&nbsp;Bowen $460 and Mr.&nbsp;Remick $2,064.
+
+
+<P align="left" style="margin-left: 3%; text-indent: 0%; margin-right: 0%; font-size: 10pt">(d)&nbsp;Company and subsidiary payments of premiums for additional life
+insurance on behalf of the following Named Executive Officers: For
+fiscal year 2003 &#151; Mr.&nbsp;Cloues $3,996, Mr.&nbsp;Bowen $845 and Mr.&nbsp;Remick $710.
+For fiscal year 2002 &#151; Mr.&nbsp;Cloues $3,669, Mr.&nbsp;Bowen $845 and Mr.&nbsp;Remick
+$710. For fiscal year 2001 &#151; Mr.&nbsp;Cloues $3,393, Mr.&nbsp;Bowen $845 and Mr.
+Remick $710.
+
+
+<P align="left" style="margin-left: 3%; text-indent: 0%; margin-right: 0%; font-size: 10pt">(e)&nbsp;Company payments of premiums for additional disability insurance on
+behalf of the following Named Executive Officer: For fiscal year 2003 -
+Mr.&nbsp;Cloues $13,479. For fiscal year 2002 &#151; Mr.&nbsp;Cloues $14,470. For
+fiscal year 2001 &#151; Mr.&nbsp;Cloues $13,997.
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(5)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Bonuses for Messrs.&nbsp;Whalen and Melchiorre include $11,203 and $13,823,
+respectively, awarded under a profit-sharing plan of an acquired
+subsidiary (Pennsylvania Crusher Corporation) that was discontinued at the
+end of fiscal year 2003. Excluding these awards, their bonuses were
+$56,850 and $45,000, respectively.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(6)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Represents amounts reimbursed to certain Named Executive Officers for
+estimated income taxes incurred with respect to additional life and
+disability insurance purchased by them or on their behalf.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>Option Grants</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were no stock options granted to any of the Named Executive Officers
+during the fiscal year ended January&nbsp;3, 2004.
+
+
+<P align="center" style="font-size: 10pt">-10-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt"><B>Option Exercises and Fiscal Year-End Values</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following table sets forth certain information regarding stock option
+exercises during fiscal year 2003 by the Named Executive Officers and the
+number and value of stock options held at January&nbsp;3, 2004 by the Named
+Executive Officers.
+
+
+<P align="center" style="font-size: 10pt"><B>Aggregate Option Exercises in Last Fiscal Year and Fiscal Year-End Option Values</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="32%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Number of</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Value of</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Unexercised</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Unexercised In-the-</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Options at</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Money Options at</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>January 3, 2004</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>January 3, 2004 (1)</B><HR size="1" noshade></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Shares</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Acquired</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Value</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Name</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>on Exercise</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Realized(2)</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Exercisable</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Unexercisable</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Exercisable</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Unexercisable</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Edward B. Cloues, II</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">23,400</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">88,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">457,600</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">280,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">John D. Whalen</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Kevin C. Bowen</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">5,600</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">16,500</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">99,300</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">144,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Ronald R. Remick</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,625</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">24,375</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">35,487</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">157,300</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Donald W. Melchiorre</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P>
+<HR size="1" width="18%" align="left" noshade>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top">
+    <TD width="1%" nowrap align="right">(1)</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">Based on the closing price ($19.20 per share) of the Common Stock as
+quoted on the Nasdaq National Market on the last trading day of the
+Company&#146;s fiscal year, January&nbsp;2, 2004, net of the option exercise price.</TD>
+</TR>
+
+<TR><TD>&nbsp;</TD></TR>
+
+<TR valign="top">
+    <TD width="1%" nowrap align="right">(2)</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="96%">Based on the difference between the per share option exercise price and
+the closing price of a share of Common Stock as quoted on the Nasdaq
+National Market on the date of exercise, multiplied in each case by the
+number of shares for which the option was exercised.</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Certain Employment Agreements</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Messrs.&nbsp;Bowen and Remick were employed by the Company or a subsidiary
+during fiscal year 2003 under employment agreements with the Company (the
+&#147;Employment Agreements&#148;). Under the Employment Agreements, Messrs.&nbsp;Bowen and
+Remick are entitled to receive a base salary, which may be increased from time
+to time, and such additional compensation and bonus payments as may be awarded
+to them. On February&nbsp;13, 2003, the Compensation and Human Resources Committee
+of the Board (the &#147;Compensation Committee&#148;) approved a three percent increase
+in the annual base salaries for Messrs.&nbsp;Bowen and Remick to $222,800 and
+$202,650, respectively, effective March&nbsp;31, 2003, and on February&nbsp;23, 2004 the
+Compensation Committee approved a two and one-half percent increase in these
+annual base salaries to $228,400 and $207,700, respectively, effective April&nbsp;5,
+2004. The Company&#146;s obligation to pay such base salaries is subject to its
+right to reduce them in the event reductions are generally being made for other
+officers of the Company or its subsidiaries holding comparable positions.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each of the Employment Agreements provides that either the Company or the
+employee may terminate the employment term thereunder upon not less than one
+year&#146;s prior written notice. Such employment terms are also subject to
+termination by reason of the employee&#146;s death or disability or by the Board at
+any time for &#147;cause&#148; as specified in the Employment Agreements. In addition,
+the Company has the right to terminate either of Messrs.&nbsp;Bowen or Remick at any
+time without cause by paying him a lump sum amount equal to 100% of his
+then-annual base salary or, if the previously described one-year notice of
+termination has already been given by the Company to him, the portion thereof
+relating to the balance of the employment term.
+
+
+<P align="center" style="font-size: 10pt">-11-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;Cloues was employed by the Company during fiscal year 2003 under an
+employment agreement with the Company pursuant to which he served as the
+Company&#146;s Chairman of the Board and Chief Executive Officer. Upon the
+recommendation of the Compensation Committee, the Board approved a three
+percent increase in the annual base salary of Mr.&nbsp;Cloues to $463,500, effective
+March&nbsp;31, 2003, and on February&nbsp;23, 2004 the Board approved an additional two
+and one-half percent increase to $475,000, effective April&nbsp;5, 2004, also on the
+recommendation of the Compensation Committee.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;Cloues&#146; employment agreement provides that he can terminate the
+agreement upon not less than 90&nbsp;days&#146; prior written notice. The Company may
+terminate the employment term without cause upon not less than 30&nbsp;days&#146; prior
+written notice to Mr.&nbsp;Cloues, in which case Mr.&nbsp;Cloues would be entitled to a
+lump sum payment equal to 200% of his then-annual base salary. Mr.&nbsp;Cloues&#146;
+employment term is also subject to termination by reason of his death or
+disability or by the Board at any time for &#147;cause&#148; as specified in his
+employment agreement. In addition, Mr.&nbsp;Cloues&#146; employment agreement includes
+provisions relating to a termination of employment upon a &#147;change of control&#148;
+(as specified in his employment agreement). These provisions apply to a
+termination of employment upon or within one year after a &#147;change of control&#148;
+which, if such termination was initiated by the Company or any successor
+thereto, was for any reason other than death, disability or &#147;cause&#148; or which,
+if such termination was initiated by Mr.&nbsp;Cloues, was at his sole discretion
+without regard to reason. In the event of the termination of employment of Mr.
+Cloues upon a &#147;change of control&#148; under any of these circumstances, his
+employment agreement provides that, subject to certain limitations, the Company
+would pay him (i)&nbsp;an amount equal to three times his annual base salary in
+effect either immediately prior to the termination of employment or immediately
+prior to the &#147;change of control,&#148; whichever is higher, and (ii)&nbsp;unless Mr.
+Cloues notifies the Company in writing that he intends to retain his options,
+an amount equal to the spread (the excess of market value over exercise price)
+on any stock options then held by him, whether or not such options were
+exercisable at the date of termination.
+
+<!-- link1 "REPORT OF THE COMPENSATION AND HUMAN RESOURCES COMMITTEE" -->
+<DIV align="left"><A NAME="004"></A></DIV>
+<P align="center" style="font-size: 10pt"><B>REPORT OF THE COMPENSATION<BR>
+AND HUMAN RESOURCES COMMITTEE</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Compensation and Human Resources Committee (the &#147;Compensation
+Committee&#148;) operates pursuant to a formal written charter that was approved and
+adopted by the Board on March&nbsp;12, 2004 and complies with the applicable
+provisions of the Sarbanes-Oxley Act of 2002 and the related rules and
+regulations of the Securities and Exchange Commission and the National
+Association of Securities Dealers.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As members of the Compensation Committee, it is our responsibility to
+carry out the purposes of the Compensation Committee as more fully described on
+page 6 of this Proxy Statement under the caption &#147;Matters Concerning Directors
+&#150; Committees and Meetings&#148; and in the charter referred to above that is
+included on our Internet web site at http://www.ktron.com. In particular, it
+is our duty to establish base salary amounts and annual and long-term incentive
+awards for the Named Executive Officers in this Proxy Statement and, in this
+regard, we also constitute the committee (the &#147;Stock Option Committee&#148;) that
+administers the Company&#146;s equity compensation plans, including the granting of
+stock options, stock appreciation rights and restricted stock to officers and
+other employees of the Company. In fulfilling these responsibilities and
+duties, it is the Compensation Committee&#146;s goal to have a policy that will
+enable the Company to attract, retain and reward senior officers who contribute
+to both its short-term and long-term success. The two members of the
+Compensation Committee meet the independence requirements applicable to
+compensation committees generally as prescribed by the National Association of
+Securities Dealers, the Securities and Exchange Commission and the Internal
+Revenue Service and also as set forth in the Compensation Committee&#146;s charter.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company&#146;s compensation policy for executive officers is to pay
+competitively and to be fair and equitable in the administration of pay. This
+is the same policy applicable to all employees of the Company. The Company
+seeks to balance the compensation paid to a particular individual with the
+compensation paid to other executives holding comparable positions both inside
+the Company and at other similar companies.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The decisions of the Compensation Committee regarding salaries of the
+Named Executive Officers are subjective and not based on any list of specific
+criteria. The annual base salaries of Messrs.&nbsp;Whalen and Melchiorre, who
+joined the Company when Pennsylvania Crusher Corporation was acquired on
+January&nbsp;2, 2003 and were designated as executive officers by the Board on March
+14, 2003, remained unchanged during fiscal year 2003 at $252,668 and $199,992,
+respectively. On February&nbsp;13, 2003, the Compensation Committee accepted the
+Chief
+
+
+<P align="center" style="font-size: 10pt">-12-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt">Executive Officer&#146;s recommendation that the salaries of Messrs.&nbsp;Bowen and
+Remick be increased by approximately three percent each, effective March&nbsp;31,
+2003. The Chief Executive Officer&#146;s recommendation to increase the base
+salaries of Messrs.&nbsp;Bowen and Remick was based upon his assessment of their
+contributions to the Company during fiscal year 2002. The Compensation
+Committee also recommended to the Board a salary increase of approximately
+three percent for the Chief Executive Officer, also to take effect on March&nbsp;31,
+2003, which was subsequently approved by the Board. The recommendation of the
+Compensation Committee to increase the base salary of Mr.&nbsp;Cloues was based upon
+its assessment of his contributions to the Company during fiscal year 2002,
+including the sharply improved financial performance of the Company, with
+earnings per share increasing from $0.41 in fiscal year 2001 to $1.33 in fiscal
+year 2002. The Company&#146;s Chief Executive Officer, Mr.&nbsp;Cloues, had an annual
+base salary of $436,800 from January&nbsp;1, 2001 until July&nbsp;1, 2002, an annual base
+salary of $450,000 from July&nbsp;1, 2002 to March&nbsp;30, 2003 and an annual base
+salary of $463,500 effective as of March&nbsp;31, 2003. The annual base salaries of
+Messrs.&nbsp;Bowen and Remick during fiscal years 2002 and 2003 were as follows:
+Mr.&nbsp;Bowen, $210,000 prior to July&nbsp;1, 2002, $216,300 effective from July&nbsp;1, 2002
+to March&nbsp;30, 2003 and $222,800 effective as of March&nbsp;31, 2003; and Mr.&nbsp;Remick,
+$191,000 prior to July&nbsp;1, 2002, $196,750 from July&nbsp;1, 2002 to March&nbsp;30, 2003
+and $202,650 effective as of March&nbsp;31, 2003.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the first quarter of fiscal year 2004, the Compensation Committee
+accepted the recommendation of the Chief Executive Officer and increased the
+annual base salaries of Messrs.&nbsp;Whalen, Bowen, Remick and Melchiorre by
+approximately two and one-half percent each, effective April&nbsp;5, 2004, to
+$259,000, $228,400, $207,700 and $205,000 respectively. The Chief Executive
+Officer&#146;s salary recommendations for Messrs.&nbsp;Whalen, Bowen, Remick and
+Melchiorre were based on many of the same factors considered by him in making
+his bonus award recommendations for fiscal year 2003 for these persons, which
+are described below. At the same time, the Compensation Committee recommended
+to the Board that Mr.&nbsp;Cloues&#146; annual base salary be increased by approximately
+two and one-half percent to $475,000, also effective April&nbsp;5, 2004, and this
+recommendation was approved by the Board. The factors that the Compensation
+Committee took into account in recommending the Chief Executive Officer&#146;s
+salary increase as of April&nbsp;5, 2004 were the same as those described below that
+were the basis for Mr.&nbsp;Cloues&#146; bonus for fiscal year 2003.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As with salary increases, the granting of bonuses on an annual basis is
+also subjective and based on a number of different considerations, including
+the individual&#146;s performance and the financial performance of the Company and
+its various business units during the fiscal year. For fiscal year 2003, the
+Compensation Committee approved an overall cash bonus pool of approximately
+$1,156,000 for employees of the Company and its subsidiaries, based primarily
+on a 12% earnings increase in fiscal year 2003 over fiscal year 2002 despite a
+very difficult business environment for industrial capital equipment sales.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;Cloues, the Company&#146;s Chief Executive Officer, received a $139,000
+bonus for fiscal year 2003, which was equal to approximately 30% of his base
+salary at the end of the year. In determining Mr.&nbsp;Cloues&#146; bonus, the
+Compensation Committee noted in particular the improved consolidated financial
+performance in fiscal year 2003, the above average increase in the Company&#146;s
+share price for the year, the successful integration of the January&nbsp;2, 2003
+Pennsylvania Crusher acquisition and the completion of the globalization of the
+K-Tron Feeder Group. The bonus awards made to the four other Named Executive
+Officers were recommended by Mr.&nbsp;Cloues, based on his assessment of their
+contributions to the Company in fiscal year 2003, and approved by the
+Compensation Committee. For Messrs.&nbsp;Whalen, Bowen, Remick and Melchiorre,
+respectively, their bonuses for fiscal year 2003 equaled approximately 22.5%,
+18%, 18% and 22.5% of each of their base salaries at the end of fiscal year
+2003, not including certain payments that were received by Messrs.&nbsp;Whalen and
+Melchiorre ($11,203 and $13,823, respectively) under a profit-sharing plan of
+an acquired subsidiary (Pennsylvania Crusher Corporation) that was discontinued
+at the end of fiscal year 2003.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As stated above, the members of the Compensation Committee also serve as
+the members of the Stock Option Committee that administers the 1996 Equity
+Compensation Plan under which grants of stock options, stock appreciation
+rights and restricted stock may be made. The purpose of such grants is to
+provide an additional incentive to key employees to work to maximize
+shareholder value, and vesting periods may be utilized to encourage such
+employees to remain with the Company. Such grants are entirely at the
+discretion of the Stock Option Committee, including their timing, the
+recipients thereof and the number of shares underlying any particular grant.
+No stock options, stock appreciation rights or restricted stock awards were
+granted to any Named Executive Officer or to any other Company employee in
+fiscal year 2002 or 2003.
+
+
+<P align="center" style="font-size: 10pt">-13-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In summary, we believe that the combination of salary and bonus received
+by each of the Named Executive Officers for fiscal year 2003 was reasonable in
+view of their duties and responsibilities and their past and anticipated future
+contributions to the Company.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For fiscal year 2004, the Compensation Committee has not adopted or made
+any recommendation to the full Board regarding a bonus or other incentive
+compensation program, but it is anticipated that the same principles that
+applied to the program in fiscal year 2003 will likely apply in fiscal year
+2004. Furthermore, it is contemplated that any stock options or awards that
+may be granted will be granted on a case-by-case basis, as and when deemed
+appropriate.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="42%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="53%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Date: March&nbsp;26, 2004
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Norman Cohen, Chairperson</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Richard J. Pinola</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<!-- link1 "REPORT OF THE AUDIT COMMITTEE" -->
+<DIV align="left"><A NAME="005"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>REPORT OF THE AUDIT COMMITTEE</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Audit Committee operates pursuant to a formal written charter that was
+most recently approved and adopted by the Board on March&nbsp;12, 2004 and complies
+with the applicable provisions of the Sarbanes-Oxley Act of 2002 and the
+related rules and regulations of the Securities and Exchange Commission and the
+National Association of Securities Dealers (the &#147;NASD&#148;). A copy of the charter
+is attached as Appendix&nbsp;A to this Proxy Statement.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with that charter and the independence criteria prescribed
+by applicable law and the rules and regulations of the Securities and Exchange
+Commission for audit committee membership, all of the members of the Audit
+Committee are independent directors as defined in NASD Marketplace Rule
+4200(a)(15). Each Audit Committee member meets the NASD&#146;s financial knowledge
+requirements, and Messrs.&nbsp;Pinola and Engel, each of whom has been designated by
+the Board as an &#147;audit committee financial expert&#148; pursuant to the rules of the
+Securities and Exchange Commission, meet the NASD&#146;s professional experience
+requirements as well.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The purposes of the Audit Committee are described on page 6 of this Proxy
+Statement under the caption &#147;Matters Concerning Directors &#150; Committees and
+Meetings&#148; and in the charter of the Audit Committee. In particular, it is our
+duty to review the accounting and financial reporting processes of the Company
+on behalf of the Board. In fulfilling our responsibilities, the Audit
+Committee has reviewed and discussed the audited consolidated financial
+statements to be contained in the Company&#146;s annual report on Form 10-K for the
+fiscal year ended January&nbsp;3, 2004 with the Company&#146;s management and also with
+Grant Thornton LLP, the Company&#146;s independent auditors. Management is
+responsible for the financial statements and the reporting process, including
+the system of internal controls, and has represented to the Audit Committee
+that such financial statements were prepared in accordance with generally
+accepted accounting principles. The independent auditors are responsible for
+expressing an opinion on the conformity of those audited financial statements
+with accounting principles generally accepted in the United States.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Audit Committee has also discussed with Grant Thornton LLP the matters
+that are required to be discussed by the auditors with the Audit Committee
+under Statement on Auditing Standards No.&nbsp;61, as amended. Furthermore, the
+Audit Committee has received and discussed with the auditors their annual
+written report on their independence from the Company and its management, which
+is made under Rule&nbsp;3600T of the Public Company Accounting Oversight Board,
+which adopts on an interim basis Independence Standards Board Standard No.&nbsp;1
+(independence discussions with audit committees), and has considered with Grant
+Thornton LLP whether the provision of non-audit services to the Company would
+be compatible with the auditors&#146; independence (no such non-audit services were
+provided in fiscal year 2003).
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In performing all of these functions, the Audit Committee acts in an
+oversight capacity. The Audit Committee reviews the Company&#146;s earnings releases
+before issuance and the annual report on Form 10-K prior to filing with the
+Securities and Exchange Commission. In its oversight role, the Audit Committee
+relies on the work and assurances of the Company&#146;s management, which has the
+primary responsibility for financial statements and reports, and of the
+independent auditors, who, in their report, express an opinion on the
+conformity of the Company&#146;s annual financial statements to accounting
+principles generally accepted in the United States.
+
+
+<P align="center" style="font-size: 10pt">-14-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In reliance on these reviews, discussions and reports, the Audit Committee
+has recommended to the Board that the Company&#146;s audited consolidated financial
+statements be included in the Company&#146;s annual report on Form 10-K for the
+fiscal year ended January&nbsp;3, 2004 for filing with the Securities and Exchange
+Commission.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="39%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="56%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Date: March&nbsp;26, 2004
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Richard J. Pinola, Chairperson</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Robert A. Engel</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Edward T. Hurd</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<!-- link1 "AUDIT FEES AND ALL OTHER FEES" -->
+<DIV align="left"><A NAME="006"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>AUDIT FEES AND ALL OTHER FEES</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Audit Fees</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fees billed for audit services by Grant Thornton LLP totaled approximately
+$137,100 for fiscal year 2003, including fees associated with the annual audit,
+the review of the Company&#146;s quarterly report on Form 10-Q for the period ended
+September&nbsp;27, 2003 and statutory audits required internationally. Fees billed
+for audit services from KPMG LLP totaled approximately $123,700 for fiscal year
+2002, including fees associated with the annual audit, the review of the
+Company&#146;s quarterly reports on Form 10-Q and statutory audits required
+internationally. Grant Thornton LLP and KPMG LLP served as the Company&#146;s
+principal auditors for fiscal years 2003 and 2002, respectively.
+
+
+<P align="left" style="font-size: 10pt"><B>Audit-Related Fees</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were no fees billed in fiscal year 2003 for professional services
+rendered by Grant Thornton LLP for assurance and related services that were
+reasonably related to the performance of the audit or review of the Company&#146;s
+financial statements and not included in the audit fees for fiscal year 2003
+disclosed above. There were also no fees for such services billed in fiscal
+year 2002 by KPMG LLP.
+
+
+<P align="left" style="font-size: 10pt"><B>Tax Fees</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were no fees billed in fiscal year 2003 for professional services
+rendered by Grant Thornton LLP for tax services, including tax compliance, tax
+advice and tax planning. Fees for tax services billed in fiscal year 2002 by
+KPMG LLP totaled approximately $24,500 and related to the preparation of
+federal and state income tax returns.
+
+
+<P align="left" style="font-size: 10pt"><B>All Other Fees</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were no fees billed in fiscal year 2003 for professional services
+rendered by Grant Thornton LLP for products and services which are not
+disclosed above, nor were there any such fees billed in fiscal year 2002 by
+KPMG LLP.
+
+
+<P align="left" style="margin-left: 0%; text-indent: 0%; margin-right: 0%; font-size: 10pt"><B>Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of
+Independent Auditors</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Audit Committee pre-approves all audit and permissible non-audit
+services provided by the independent auditors. These services may include
+audit services, audit-related services, tax services and other services. The
+Audit Committee has not adopted a policy for the pre-approval of services
+provided by the independent auditors.
+
+
+<P align="center" style="font-size: 10pt">-15-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "PERFORMANCE GRAPH" -->
+<DIV align="left"><A NAME="007"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>PERFORMANCE GRAPH</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following line graph compares the yearly change in the cumulative
+total shareholder return on the Common Stock for the past five fiscal years
+with the cumulative total return of the Standard &#038; Poor&#146;s 500 Stock Index (the
+&#147;S&#038;P 500&#148;) and the Dow Jones Factory Equipment Industry Group, which is
+described more fully below (the &#147;Factory Equipment Group&#148;). The graph assumes
+that $100 was invested at the end of fiscal year 1998 in the Common Stock, the
+S&#038;P 500 and the Factory Equipment Group. Dividend reinvestment has been
+assumed and, with respect to companies in the Factory Equipment Group, the
+returns of such companies have been weighted at each measurement point to
+reflect relative stock market capitalization.
+
+
+<P align="center" style="font-size: 10pt">&#091;PERFORMANCE
+GRAPH&#093;
+
+<P align="center" style="font-size: 10pt">ASSUMES $100 INVESTED ON DECEMBER 31, 1998<BR>
+ASSUMES DIVIDENDS REINVESTED<BR>
+THROUGH FISCAL YEAR ENDING JANUARY 3, 2004
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="36%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>12/31/1998</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>1/1/2000</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>12/30/2000</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>12/29/2001</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>12/28/2002</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>1/3/2004</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">K-Tron
+International, Inc.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">100.00</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">72.97</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">99.32</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55.41</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">70.81</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">103.78</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Factory Equipment
+Group</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">100.00</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">96.43</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">87.55</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">87.05</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">73.42</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">95.52</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">S&#038;P 500</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">100.00</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">121.04</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">110.02</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">96.95</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">75.52</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">97.18</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Factory Equipment Group is not a &#147;published industry or
+line-of-business index&#148; as that term is defined by Securities and Exchange
+Commission regulations. Accordingly, the Factory Equipment Group is considered
+a &#147;peer index,&#148; and the identity of the companies used in the index is as
+follows: Baldwin Technology Company, Inc. Class&nbsp;A, BNS Co. Class&nbsp;A, BTU
+International, Inc., Farrel Corporation, Flow International Corporation,
+Gardner Denver, Inc., Hardinge Inc., Hurco Companies, Inc., K-Tron
+International, Inc., Kadant Inc., Key Technology, Inc., Metso Corporation,
+Milacron Inc., Nordson Corporation, Paragon Technologies, Inc., Paul Mueller
+Company, Presstek, Inc., Quipp, Inc., Regal-Beloit Corporation, Riviera Tool
+Company, Selas Corporation of America and Trikon Technologies, Inc.
+
+
+<P align="center" style="font-size: 10pt">-16-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "INDEPENDENT PUBLIC ACCOUNTANTS" -->
+<DIV align="left"><A NAME="008"></A></DIV>
+<P align="center" style="font-size: 10pt"><B>INDEPENDENT PUBLIC ACCOUNTANTS</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On August&nbsp;13, 2003, the Audit Committee of the Board, pursuant to
+authority delegated to it by the Board, dismissed KPMG LLP (&#147;KPMG&#148;) as the
+Company&#146;s independent auditors and engaged Grant Thornton LLP (&#147;Grant
+Thornton&#148;) to serve as the Company&#146;s independent auditors for the 2003 fiscal
+year ending January&nbsp;3, 2004. KPMG audited the Company&#146;s financial statements
+for fiscal year 2002 and had been the Company&#146;s independent auditors since June
+22, 2002.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On June&nbsp;22, 2002, the Board, following a recommendation from the Audit
+Committee, dismissed Arthur Andersen LLP (&#147;Andersen&#148;) as the Company&#146;s
+independent public accountants and auditors and engaged KPMG to serve as the
+Company&#146;s independent auditors for the 2002 fiscal year ending December&nbsp;28,
+2002. Andersen audited the Company&#146;s financial statements for fiscal year 2001
+and had been the Company&#146;s independent public accountants and auditors since
+1994.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the fiscal year ended December&nbsp;28, 2002, KPMG&#146;s report on the
+Company&#146;s consolidated financial statements did not contain an adverse opinion
+or a disclaimer of opinion, and it was not qualified or modified as to
+uncertainty, audit scope or accounting principles, except that it contained a
+separate paragraph as follows:
+
+
+
+<P align="left" style="margin-left:6%; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;As discussed above, the fiscal 2001 and fiscal 2000
+consolidated financial statements and financial statement
+schedule of K-Tron International, Inc. and subsidiaries were
+audited by other auditors who have ceased operations. As
+described in Note 7, these consolidated financial statements
+have been revised to include the transitional disclosures
+required by Statement of Financial Accounting Standards No.
+142, &#145;Goodwill and Other Intangible Assets,&#146; which was adopted
+by the Company as of December&nbsp;30, 2001. In our opinion, such
+disclosures for fiscal 2001 and fiscal 2000 in Note 7 are
+appropriate. However, we were not engaged to audit, review, or
+apply any procedures to the fiscal 2001 and fiscal 2000
+consolidated financial statements and financial statement
+schedule of K-Tron International, Inc. and subsidiaries other
+than with respect to such disclosures, and, accordingly, we do
+not express an opinion or any other form of assurance on the
+fiscal 2001 and fiscal 2000 consolidated financial statements
+taken as a whole.&#148;
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the fiscal year ended December&nbsp;30, 2001, Andersen&#146;s report on the
+Company&#146;s consolidated financial statements did not contain an adverse opinion
+or a disclaimer of opinion, and it was not qualified or modified as to
+uncertainty, audit scope or accounting principles.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the fiscal year ended December&nbsp;28, 2002 and through August&nbsp;13,
+2003, and during the fiscal year ended December&nbsp;30, 2001 and through June&nbsp;22,
+2002, there were no disagreements with KPMG or Andersen, respectively, on any
+matter of accounting principles or practices, financial statement disclosure or
+auditing scope or procedure, which disagreements, if not resolved to the
+respective former auditors&#146; and accountants&#146; satisfaction, would have caused
+the former auditors or accountants to make reference to the subject matter of
+the disagreements in connection with any of their respective reports on the
+Company&#146;s consolidated financial statements for such years.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company disclosed the foregoing information with respect to KPMG in a
+current report on Form 8-K filed August&nbsp;20, 2003 and amended in a current
+report on Form 8-K/A filed August&nbsp;25, 2003 (collectively, the &#147;KPMG Form&nbsp;8-K&#148;).
+The Company provided KPMG with a copy of this disclosure and requested KPMG to
+furnish the Company with a letter addressed to the Securities and Exchange
+Commission stating whether KPMG agreed with the statements in the disclosure
+and, if not, stating the respects in which it did not agree. KPMG&#146;s letter
+stated that it had read the pertinent paragraphs of the KPMG Form 8-K and was
+in agreement with the statements contained therein, except that KPMG said that
+it was not in a position to agree or disagree with the Company&#146;s statement that
+Grant Thornton was not engaged regarding the application of accounting
+principles to a specified transaction or the type of audit opinion that might
+be rendered on the Company&#146;s consolidated financial statements. KPMG&#146;s letter
+was filed as an exhibit to the KPMG Form 8-K.
+
+
+<P align="center" style="font-size: 10pt">-17-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company disclosed the foregoing information with respect to Andersen
+in a current report on Form 8-K filed June&nbsp;26, 2002 (the &#147;Andersen Form&nbsp;8-K&#148;).
+The Company provided Andersen with a copy of this disclosure and requested
+Andersen to furnish the Company with a letter addressed to the Securities and
+Exchange Commission stating whether Andersen agreed with the statements by the
+Company in the disclosure and, if not, stating the respects in which it did not
+agree. Andersen&#146;s letter stated that it had read the pertinent paragraphs of
+the Andersen Form 8-K and was in agreement with the statements contained
+therein. Andersen&#146;s letter was filed as an exhibit to the Andersen Form 8-K.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the fiscal year ended December&nbsp;28, 2002 and through August&nbsp;13,
+2003, and during the fiscal year ended December&nbsp;30, 2001 and through June&nbsp;22,
+2002, the Company did not consult with Grant Thornton or KPMG, respectively,
+with respect to the application of accounting principles to a specified
+transaction, either completed or proposed, or the type of audit opinion that
+might be rendered on the Company&#146;s consolidated financial statements, or any
+other matters or reportable events set forth in Items 304(a)(2)(i) and (ii)&nbsp;of
+Regulation&nbsp;S-K.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The retention of Grant Thornton to serve as the Company&#146;s independent
+auditors for the current year has not yet been considered by the Audit
+Committee, but it is management&#146;s belief that Grant Thornton will be so
+retained. No representative of Grant Thornton is expected to attend the Annual
+Meeting.
+
+<!-- link1 "SHAREHOLDER PROPOSALS &#151; 2005 ANNUAL MEETING" -->
+<DIV align="left"><A NAME="009"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SHAREHOLDER PROPOSALS &#151; 2005 ANNUAL MEETING</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shareholders may submit proposals on matters appropriate for shareholder
+action at annual meetings in accordance with regulations adopted by the
+Securities and Exchange Commission. Any proposal which an eligible shareholder
+desires to have presented at the 2005 annual meeting of shareholders (which is
+expected to be held on or about May&nbsp;13, 2005) concerning a proper subject for
+inclusion in the proxy statement and for consideration at the annual meeting,
+will be included in the Company&#146;s proxy statement and related proxy card if it
+is received by the Company no later than December&nbsp;5, 2004.
+<!-- link1 "SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE" -->
+<DIV align="left"><A NAME="010"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;16(a) of the Securities Exchange Act of 1934, as amended, requires
+that directors and certain officers of the Company, and persons who own more
+than ten percent of the Common Stock, file reports of ownership of Company
+securities and changes in ownership of Company securities with the Securities
+and Exchange Commission. To the Company&#146;s knowledge, based solely on a review
+of the copies of such reports furnished to the Company and written
+representations that no other reports were required, all filings required to be
+made by the Company&#146;s Section 16(a) reporting persons during fiscal year 2003
+were made on a timely basis, except one Form&nbsp;4 was filed three days late by Mr.
+Pinola.
+
+<!-- link1 "OTHER MATTERS" -->
+<DIV align="left"><A NAME="011"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>OTHER MATTERS</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board does not intend to bring any other matters before the Annual
+Meeting and has no reason to believe any other matters will be presented. If,
+however, other matters properly do come before the meeting, it is the intention
+of the persons named as proxy agents in the enclosed Proxy Card to vote upon
+such matters in accordance with the recommendation of the Board or its
+Executive Committee.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="29%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="66%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By Order of the Board of Directors,</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Mary E. Vaccara</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Secretary</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">April&nbsp;12, 2004</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">-18-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<P ALIGN="CENTER"><font size="2"><B>&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+APPENDIX A</B></FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<!-- link1 "APPENDIX A" -->
+<DIV align="left"><A NAME="012"></A></DIV>
+
+<P align="right" style="font-size: 10pt">APPENDIX A
+
+
+
+<P align="center" style="font-size: 10pt">K-TRON INTERNATIONAL, INC.
+
+
+
+<P align="center" style="font-size: 10pt">CHARTER OF THE AUDIT COMMITTEE<BR>
+OF THE BOARD OF DIRECTORS
+
+
+
+<P align="center" style="font-size: 10pt">Adopted March&nbsp;12, 2004
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">I.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Purpose</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Audit Committee (the &#147;Committee&#148;) of the Board of Directors (the
+&#147;Board&#148;) of K-Tron International, Inc. (the &#147;Company&#148;) is appointed
+by, and generally acts on behalf of, the Board. The Committee&#146;s
+purposes are:</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">A.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>To assist the Board in its oversight of (1)&nbsp;the accounting
+and financial reporting processes of the Company and the audits of
+the financial statements of the Company and (2)&nbsp;the Company&#146;s
+compliance with legal and regulatory requirements;</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">B.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>To interact directly with and evaluate the performance of the
+independent auditors, including to determine whether to engage or
+dismiss the independent auditors and to monitor the independent
+auditors&#146; qualifications and independence; and</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">C.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>To prepare the report required by the rules of the Securities
+and Exchange Commission (the &#147;SEC&#148;) to be included in the Company&#146;s
+annual proxy statement.</TD>
+</TR>
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Although the Committee has the powers and responsibilities set forth in
+this Charter, the role of the Committee is oversight. The members of the
+Committee are not full-time employees of the Company and may or may not
+be accountants or auditors by profession or experts in the fields of
+accounting or auditing and, in any event, do not serve in such capacity.
+Consequently, it is not the duty of the Committee to conduct audits, to
+independently verify management&#146;s representations, or to determine that
+the Company&#146;s financial statements are complete and accurate, are
+prepared in accordance with generally accepted accounting principles
+(&#147;GAAP&#148;), or fairly present the financial condition, results of
+operations, and cash flows of the Company in accordance with GAAP. These
+are the responsibilities of management and the independent auditors. The
+Committee&#146;s considerations and discussions with management and the
+independent auditors do not assure that the Company&#146;s financial
+statements are presented in accordance with GAAP, that the audit of the
+Company&#146;s financial statements has been carried out in accordance with
+applicable auditing standards, or that the Company&#146;s independent auditors
+are in fact &#147;independent.&#148;</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">II.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Membership</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">A.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall be composed of at least three directors,
+each of whom must be independent. A director shall qualify as
+independent if the Board has affirmatively determined that the
+member has satisfied the basic independence criteria set forth in
+the corporate governance rules of the Nasdaq Stock Market, Inc. In
+addition, members of the Committee must also satisfy the following
+additional requirements in order to be independent:</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>No Committee member or immediate family member of
+such Committee member may be an &#147;affiliated person&#148; of the
+Company or any of its subsidiaries, as that term is defined by
+the SEC;</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>No Committee member shall accept, directly or
+indirectly, any consulting, advisory, or other compensatory
+fees from the Company or any of its subsidiaries, except for
+fees for</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">A-1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>services as a director and member of the Audit
+Committee and any other Board committee; and</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>No Committee member shall have participated in
+the preparation of the financial statements of the Company or
+any subsidiary of the Company (exclusive of former
+subsidiaries that are no longer subsidiaries of the Company)
+during the past three years.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">B.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>All members of the Committee must be able to read and
+understand fundamental financial statements. At least one member
+shall have past employment experience in finance or accounting,
+requisite professional certification in accounting or any other
+comparable experience or background which results in the member&#146;s
+financial sophistication, including being or having been a chief
+executive officer, chief financial officer, or other senior official
+with financial oversight responsibilities. To the extent possible,
+such member of the Committee shall be an &#147;audit committee financial
+expert&#148; as that term is defined by the SEC.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">C.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The members of the Committee shall be appointed, and the
+Chairperson of the Committee shall be designated, by the Board
+(including the affirmative vote of a majority of the independent
+directors) for one-year terms or until their successors are duly
+appointed, subject to their earlier resignation, retirement, or
+removal. No member of the Committee shall be removed except by
+majority vote of the independent directors of the full Board then in
+office.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">D.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Generally, no member of the Committee may serve
+simultaneously on the audit committees of more than three public
+companies without a specific Board determination that such
+simultaneous service will not impair the ability of such Committee
+member to serve on the Committee.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">III.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Meetings, Procedures and Funding</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">A.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall meet as often as it may deem necessary
+and appropriate in its judgment, but in no event less than four
+times per year. A majority of the members of the Committee shall
+constitute a quorum.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">B.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall meet with the independent auditors and
+management in separate meetings, as often as it deems necessary and
+appropriate in its judgment.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">C.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Chairperson of the Committee or a majority of the members
+of the Committee may call a special meeting of the Committee.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">D.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee may request that any directors, officers, or
+employees of the Company, or other persons whose advice and counsel
+are sought by the Committee, attend any meeting to provide such
+information as the Committee requests.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">E.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall fix its own rules of procedure, which
+shall be consistent with the By-laws of the Company and this
+Charter.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">F.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall report to the Board on the matters
+discussed at each meeting of the Committee, including describing all
+material actions taken by the Committee at the meeting.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">G.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall keep written minutes of its meetings, as
+provided in the Company&#146;s By-laws, which minutes shall be maintained
+with the books and records of the Company.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">H.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee may delegate authority to one or more members
+of the Committee where appropriate, but no such delegation shall be
+permitted if the authority is required by law, regulation, or
+listing standard to be exercised by the Committee as a whole.</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">A-2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">I.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall have the authority to obtain advice and
+assistance from internal and external legal, accounting, and other
+advisors.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">J.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Company shall provide appropriate funding, as determined
+by the Committee, for the Committee to retain any legal, accounting,
+or other advisors and to provide for ordinary administrative
+expenses of the Committee that are necessary or appropriate in
+carrying out its duties, in each case without requiring the
+Committee to seek Board approval.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">IV.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Duties and Responsibilities</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">A.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Financial Reporting Process</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall review and discuss with
+management and the independent auditors the annual audited
+financial statements to be included in the Company&#146;s annual
+report on Form 10-K. The Committee shall review major issues
+regarding accounting principles and financial statement
+presentations, including any significant changes in the
+Company&#146;s selection or application of accounting principles,
+and major issues as to the adequacy of internal controls and
+any special audit steps adopted in light of material control
+deficiencies; analyses prepared by management and the
+independent auditors setting forth significant financial
+reporting issues and judgments made in connection with the
+preparation of financial statements, including analysis of the
+effects of alternative GAAP methods on the financial
+statements; the effect of regulatory and accounting
+initiatives, as well as off-balance sheet arrangements, on the
+financial statements; the use of pro forma or non-GAAP
+financial information; and any correspondence with regulators
+or published reports that raise material issues with respect
+to, or that could have a significant effect on, the Company&#146;s
+financial statements.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall recommend to the Board
+whether the audited financial statements should be included in
+the Company&#146;s annual report on Form 10-K.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee or, in the event of the
+unavailability of the Committee, its Chairperson shall review
+earnings press releases prior to their release, as well as the
+type of financial information and earnings guidance provided
+to analysts and rating agencies, if any.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall prepare the Committee report
+required by the rules of the SEC to be included in the
+Company&#146;s annual proxy statement.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">B.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Risks and Control Environment</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall discuss periodically with
+management the Company&#146;s policies and guidelines regarding
+risk assessment and risk management, as well as the Company&#146;s
+major financial risk exposures and the steps that management
+has taken to monitor and control such exposures.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall review periodically the
+Company&#146;s Statement of Corporate Ethics and Code of Business
+Conduct.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall oversee the Company&#146;s
+disclosure controls and procedures, including internal control
+over financial reporting, and, where applicable, shall oversee
+changes in internal control over financial reporting intended
+to address any significant deficiencies or material weaknesses
+in the design or operation of internal control over financial
+reporting and any fraud involving management or other
+employees that is reported to the Committee. In addition, the
+Committee shall review and discuss the annual report of
+management on the effectiveness of the Company&#146;s internal
+control over</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">A-3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>financial reporting and the independent auditors&#146; report on,
+and attestation of, such management report, to the extent
+those reports are required by SEC rules.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">C.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Independent Auditors</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall have the sole authority to
+retain, set compensation and retention terms for, terminate,
+oversee, and evaluate the activities of the Company&#146;s
+independent auditors. The independent auditors shall report
+directly to the Committee. The Company shall provide for
+appropriate funding, as determined by the Committee, for
+payment of compensation to the independent auditors.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall review and approve in advance
+the retention of the independent auditors for the performance
+of all audit and non-audit services that are not prohibited
+and the fees for such services. Pre-approval of audit and
+non-audit services that are not prohibited may be pursuant to
+appropriate policies and procedures established by the
+Committee for the pre-approval of such services, including
+through delegation of authority to a member of the Committee.
+Any service that is approved pursuant to a delegation of
+authority to a member of the Committee must be reported to the
+full Committee at its next scheduled meeting.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Prior to initiation of the audit, the Committee
+shall meet with the independent auditors to discuss the
+planning and staffing of the audit, including the impact on
+staffing of applicable rotation requirements and other
+independence rules.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall, at least annually, obtain
+and review a report by the independent auditors describing:
+(i)&nbsp;the independent auditors&#146; internal quality-control
+procedures; and (ii)&nbsp;any material issues raised by the most
+recent internal quality-control review, or peer review, of the
+auditing firm, or by any inquiry or investigation by
+governmental or professional authorities or a private sector
+regulatory board, within the preceding five years, respecting
+one or more independent audits performed by the auditing firm,
+and any steps taken to deal with any such issues.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">5.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall review periodically any
+reports prepared by the independent auditors and provided to
+the Committee relating to, among other things, the Company&#146;s
+critical accounting policies and practices; all alternative
+treatments within GAAP for policies and practices relating to
+material items that have been discussed with management,
+including the ramifications of the use of such alternative
+disclosures and treatments and the treatment preferred by the
+independent auditors; and any other material written
+communications between the independent auditors and
+management, such as any management letter.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">6.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall discuss with the independent
+auditors any audit problems or difficulties, including any
+restrictions on the scope of the independent auditors&#146;
+activities or on access to requested information, any
+disagreements with management, and any other matters required
+to be brought to the attention of the Committee under auditing
+standards (such as Statement on Auditing Standards No.&nbsp;61).
+The Committee shall resolve any disagreements between the
+independent auditors and management that are brought to its
+attention.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">7.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall take appropriate action to
+oversee the independence of the independent auditors. In this
+regard, the Committee shall ensure its receipt from the
+independent auditors of a formal written statement, consistent
+with Independence Standard Board Standards No.&nbsp;1, delineating
+all relationships between the independent auditors and the
+Company, and shall actively engage in a dialogue with the
+independent auditors with respect to any disclosed
+relationships or services that may affect the objectivity and
+independence of the independent auditors.</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">A-4
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">8.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee will conduct an annual evaluation
+of the independent auditors&#146; performance and independence.
+This evaluation shall include the review and evaluation of the
+audit engagement team, including the lead audit partner. In
+making its evaluation, the Committee shall take into account
+the opinions of management. The Committee shall present its
+conclusions with respect to the evaluation of the independent
+auditors to the Board.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">9.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall have the responsibility to
+set clear policies for the hiring by the Company of employees
+or former employees of the independent auditors.
+Specifically, the Company shall not hire as its Chief
+Executive Officer, Chief Financial Officer, Controller, Chief
+Accounting Officer, or any person serving in an equivalent
+position, any partner, employee or former employee of the
+Company&#146;s independent auditors who participated in any
+capacity in an audit of the Company during the one-year period
+preceding the date of initiation of the then-current audit.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">D.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Other Matters</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall make regular reports to the
+Board on its activities, including reviewing any issues that
+arise respecting the quality and integrity of the Company&#146;s
+public reporting, the Company&#146;s compliance with legal and
+regulatory requirements, the performance and independence of
+the Company&#146;s independent auditors, and the effectiveness of
+the Company&#146;s disclosure controls and procedures.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall be responsible for review
+and, if appropriate, approval of all related-party
+transactions involving executive officers and directors.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall establish procedures for (i)
+the receipt, retention, and treatment of complaints received
+by the Company regarding accounting, internal accounting
+controls, or auditing matters, and (ii)&nbsp;the confidential,
+anonymous submission by employees of the Company and its
+subsidiaries of concerns regarding questionable accounting or
+auditing matters.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall review and assess the
+adequacy of this Charter annually and recommend any proposed
+changes to the Board for its approval.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">5.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall maintain free and open
+communication with the Board, management and the independent
+auditors.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="right">6.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Committee shall perform any other activities
+consistent with this Charter, the Company&#146;s Restated
+Certificate of Incorporation, the Company&#146;s By-laws, and
+governing law as the Committee or the Board may deem necessary
+or appropriate.</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="center" style="font-size: 10pt">A-5
+</DIV>
+
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="center" style="font-size: 10pt"><B>K-TRON INTERNATIONAL, INC.</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>PROXY</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS.</B>
+
+
+<P align="left" style="font-size: 10pt">The undersigned hereby appoints EDWARD B. CLOUES, II and ROBERT A. ENGEL, or
+either of them acting singly in the absence of the other, each with the power
+to appoint his substitute, the Proxy Agents of the undersigned to attend the
+Annual Meeting of Shareholders of K-Tron International, Inc. (the &#147;Company&#148;) to
+be held at the Embassy Suites Hotel, 670 Verdae Boulevard, Greenville, South
+Carolina, on May&nbsp;14, 2004, at 9:00 a.m., local time, and any postponements or
+adjournments thereof, and with all powers the undersigned would possess if
+personally present, to vote upon the following matters as indicated on the
+reverse side.
+
+
+
+<P align="center" style="font-size: 10pt"><B>PLEASE MARK, SIGN AND DATE THIS PROXY CARD AND PROMPTLY RETURN IT USING<BR>
+THE ENCLOSED ENVELOPE.</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>(Continued and to be signed on reverse side.)</B>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="center" style="font-size: 10pt"><B>ANNUAL MEETING OF SHAREHOLDERS OF</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>K-TRON INTERNATIONAL, INC.</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>May&nbsp;14, 2004</B>
+
+
+
+<P align="center" style="font-size: 10pt">Please date, sign and mail<BR>
+your proxy card in the<BR>
+envelope provided as soon<BR>
+as possible.
+
+
+
+<P align="center" style="font-size: 10pt">Please detach along
+perforated line and mail in the envelope provided.
+
+
+
+<P align="center" style="font-size: 10pt"><B>THE BOARD OF DIRECTORS RECOMMENDS A VOTE &#147;FOR&#148; THE ELECTION OF EACH CLASS III DIRECTOR NOMINEE.<BR>
+PLEASE SIGN, DATE AND RETURN PROMPTLY IN THE ENCLOSED ENVELOPE. PLEASE MARK YOUR VOTE IN BLUE OR BLACK INK, AS SHOWN HERE: </B><FONT face="Wingdings">&#120;</FONT><B>.</B>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Election of Class&nbsp;III Directors</TD>
+</TR>
+
+</TABLE>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="16%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="64%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left"><B>NOMINEES:</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>FOR ALL NOMINEES</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">O
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Norman Cohen</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">O
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Richard J. Pinola</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>WITHHOLD AUTHORITY</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>FOR ALL NOMINEES</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT face="Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>FOR ALL EXCEPT</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(See instructions below)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><B>INSTRUCTION:</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>To withhold authority to vote for any individual nominee, mark
+<B>&#147;FOR ALL EXCEPT&#148;</B> and fill in the circle next to each nominee you wish to
+withhold, as shown here: <FONT face="Wingdings">&#108;</FONT> .</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>In their discretion, the Proxy Agents are authorized to vote upon such
+other business that may properly come before the meeting.</TD>
+</TR>
+
+</TABLE>
+
+<P align="left" style="font-size: 10pt"><B>This proxy when properly executed will be voted in the manner directed herein
+by the undersigned shareholder. If no instruction is specified with respect to
+the matter to be acted upon, the shares represented by the proxy will be voted
+FOR each nominee for election as a Class&nbsp;III director. If any other business is
+presented at the meeting, this proxy confers authority to vote and shall be
+voted in accordance with the recommendation of the Board of Directors of the
+Company or its Executive Committee. The undersigned hereby acknowledges receipt
+of the Notice of the Annual Meeting of Shareholders and the related Proxy
+Statement.</B>
+
+
+<P align="left" style="font-size: 10pt"><B>PLEASE MARK, SIGN AND DATE THIS PROXY CARD AND PROMPTLY RETURN IT USING THE
+ENCLOSED ENVELOPE.</B>
+
+
+<P align="left" style="font-size: 10pt">To change the address on your account, please check the box at right and
+indicate your new address in the address space above. Please note that changes
+to the registered name(s) on the account may not be submitted via this method. <FONT face="Wingdings">&#111;</FONT>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="22%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Signature of Shareholder <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Date: <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Signature of Shareholder <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Date: <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right"><B>Note:</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Please sign exactly as your name or names appear on this Proxy. When shares are held jointly, each holder should sign. When signing as executor,
+administrator, attorney, trustee or guardian, please give full title as such.
+If the signer is a corporation, please sign full corporate name
+by a duly authorized officer, giving full title as such. If signer is a
+partnership, please sign in partnership name by an authorized person.</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

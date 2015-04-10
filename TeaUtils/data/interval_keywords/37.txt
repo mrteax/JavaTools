@@ -1,0 +1,1072 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MaBPceTep65V/M6ll1RiX8WpHKXRJzB/CjtyD8Nd+hBmfcugQIax/VMgWaZntH/U
+ 5l0dsY+LphOtfoKpeqfxfA==
+
+<SEC-DOCUMENT>0000950152-97-003891.txt : 19970515
+<SEC-HEADER>0000950152-97-003891.hdr.sgml : 19970515
+ACCESSION NUMBER:		0000950152-97-003891
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19970616
+FILED AS OF DATE:		19970514
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRANZONIC COMPANIES
+		CENTRAL INDEX KEY:			0000001761
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONVERTED PAPER & PAPERBOARD PRODS (NO CONTAINERS/BOXES) [2670]
+		IRS NUMBER:				340664235
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05774
+		FILM NUMBER:		97604550
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30195 CHAGRIN BLVD
+		CITY:			PEPPER PIKE
+		STATE:			OH
+		ZIP:			44124
+		BUSINESS PHONE:		2168315757
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AAV COMPANIES
+		DATE OF NAME CHANGE:	19840118
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACE CIGARETTE SERVICE CO
+		DATE OF NAME CHANGE:	19680809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>THE TRANZONIC COMPANIES    DEFINITIVE PROXY
+<TEXT>
+
+<PAGE>   1
+ 
+================================================================================
+ 
+                                  SCHEDULE 14A
+                                   (RULE 14a)
+                    INFORMATION REQUIRED IN PROXY STATEMENT
+                            SCHEDULE 14A INFORMATION
+          PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE SECURITIES
+                              EXCHANGE ACT OF 1934
+                             (AMENDMENT NO.      )
+ 
+Filed by the Registrant  [X]
+ 
+Filed by a Party other than the Registrant  [ ]
+ 
+Check the appropriate box:
+ 
+<TABLE>
+<S>                                             <C>
+[ ]  Preliminary Proxy Statement                [ ]  CONFIDENTIAL, FOR USE OF THE COMMISSION
+                                                     ONLY (AS PERMITTED BY RULE 14a-6(e)(2))
+[X]  Definitive Proxy Statement
+[ ]  Definitive Additional Materials
+[ ]  Soliciting Material Pursuant to sec.240.14a-11(c) or sec.240.14a-12
+</TABLE>
+ 
+                            THE TRANZONIC COMPANIES
+                (NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+                                XXXXXXXXXXXXXXXX
+    (NAME OF PERSON(S) FILING PROXY STATEMENT, IF OTHER THAN THE REGISTRANT)
+ 
+Payment of Filing Fee (Check the appropriate box):
+[X]  No fee required.
+[ ]  Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+ 
+     (1) Title of each class of securities to which transaction applies: .......
+ 
+     (2) Aggregate number of securities to which transaction applies: ..........
+ 
+     (3) Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the
+         filing fee is calculated and state how it was determined): ............
+ 
+     (4) Proposed maximum aggregate value of transaction: ......................
+ 
+     (5) Total fee paid: .......................................................
+ 
+[ ]  Fee paid previously with preliminary materials.
+ 
+[ ]  Check box if any part of the fee is offset as provided by Exchange Act Rule
+     0-11(a)(2) and identify the filing for which the offsetting fee was paid
+     previously. Identify the previous filing by registration statement number,
+     or the Form or Schedule and the date of its filing.
+ 
+     (1) Amount Previously Paid: ...............................................
+ 
+     (2) Form, Schedule or Registration Statement No.: .........................
+ 
+     (3) Filing Party: .........................................................
+ 
+     (4) Date Filed: ...........................................................
+ 
+================================================================================
+<PAGE>   2
+ 
+                            THE TRANZONIC COMPANIES
+                            30195 CHAGRIN BOULEVARD
+                            PEPPER PIKE, OHIO 44124
+ 
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+ 
+     Notice is hereby given that the Annual Meeting of Shareholders of The
+Tranzonic Companies will be held at the Cleveland Marriott East, 3663 Park East
+Drive, Beachwood, Ohio, on Monday, June 16, 1997, at 10:30 A.M., local time, for
+the purpose of considering and acting upon:
+ 
+     1. The election of three Class III Directors;
+ 
+     2. The selection of independent auditors for the fiscal year ending
+        February 28, 1998; and
+ 
+     3. The transaction of any other business which properly may come before the
+        meeting and any adjournments thereof.
+ 
+     Shareholders of The Tranzonic Companies of record at the close of business
+on April 25, 1997 are entitled to vote at the Annual Meeting and any
+adjournments thereof.
+ 
+                                            By order of the Board of Directors
+ 
+                                                      JAMES H. BERICK
+                                                         Secretary
+Cleveland, Ohio
+May 14, 1997
+ 
+SHAREHOLDERS ARE REQUESTED TO COMPLETE, DATE, SIGN AND RETURN THE ENCLOSED PROXY
+IN THE ENVELOPE PROVIDED WHICH REQUIRES NO POSTAGE IF MAILED IN THE UNITED
+STATES.
+<PAGE>   3
+ 
+                                                                    May 14, 1997
+ 
+                            THE TRANZONIC COMPANIES
+                            30195 CHAGRIN BOULEVARD
+                            PEPPER PIKE, OHIO 44124
+ 
+                                PROXY STATEMENT
+ 
+     The accompanying proxies are solicited by the Board of Directors of the
+Corporation for use at the Annual Meeting of Shareholders to be held on June 16,
+1997 and any adjournments thereof.
+ 
+     Shareholders of record at the close of business on April 25, 1997 (the
+record date) will be entitled to vote at the Annual Meeting. At that date the
+Corporation had issued and outstanding 3,469,338 Common Shares without par
+value. Each such Share is entitled to one vote on all matters properly coming
+before the Annual Meeting. At least 1,734,670 Common Shares must be represented
+at the meeting in person or by proxy in order to constitute a quorum for the
+transaction of business.
+ 
+     This Proxy Statement and the accompanying form of proxy were first mailed
+to Shareholders on May 14, 1997.
+ 
+                             ELECTION OF DIRECTORS
+ 
+     The Corporation's Board of Directors currently consists of nine (9)
+persons, divided into three classes (Classes I, II and III) consisting of three
+Directors each. At this Annual Meeting, Class III Directors are to be elected
+for a term expiring at the 2000 Annual Meeting of Shareholders and until their
+respective successors are duly elected and qualified. The Board of Directors has
+designated the three (3) persons first named in the table below as nominees for
+Director for such term. Each of the nominees presently is a Director.
+ 
+     Unless a Shareholder requests that voting of his or her proxy be withheld
+for the nominees for election as Class III Directors in accordance with the
+instructions set forth on such proxy, it presently is intended that Common
+Shares represented by proxies solicited hereby will be voted for the election as
+Class III Directors of the nominees designated by the Board of Directors. All
+nominees have consented to being
+<PAGE>   4
+ 
+named in this Proxy Statement and to serve if elected. Should any nominee
+subsequently decline or be unable to accept such nomination or to serve as a
+Director, an event which the Board of Directors does not now expect, the persons
+voting the Common Shares represented by proxies solicited hereby may either vote
+such shares for a substitute nominee for such class or for a reduced number of
+nominees, as they may deem advisable. For election as a Director, a nominee must
+receive the affirmative vote of a majority of the Common Shares entitled to vote
+which are present or represented at the Annual Meeting in person or by proxy.
+Neither abstentions nor broker non-votes will be counted as votes cast, although
+both will count toward the determination of the presence of a quorum and both
+will have the same effect as a vote against the nominee.
+ 
+     In the event Shareholders shall have the right to cumulate their voting
+power for the election of Directors (see GENERAL INFORMATION -- CUMULATIVE
+VOTING for the procedure required to initiate cumulative voting), the persons
+designated as proxies will allocate the votes among the nominees designated for
+election in accordance with their judgment. Cumulative voting permits a holder
+of Common Shares to give one nominee a number of votes equal to the number of
+Directors to be elected by the Shareholders multiplied by the number of Common
+Shares the Shareholder may vote, or a Shareholder may distribute votes on the
+same principle among two or three nominees.
+ 
+     The information concerning the nominees set forth in the following table is
+based in part on information received from the respective nominees and in part
+on the Corporation's records:
+ 
+<TABLE>
+<CAPTION>
+                                                           PRINCIPAL OCCUPATION                     FIRST
+     NAME OF NOMINEE           AGE AS OF                  DURING PAST FIVE YEARS                   BECAME
+       OR DIRECTOR           APRIL 25, 1997            AND OTHER DIRECTORSHIPS HELD               DIRECTOR
+- -------------------------    --------------     -------------------------------------------    ---------------
+ 
+<S>                          <C>                <C>                                            <C>
+NOMINEES TO SERVE UNTIL 2000 ANNUAL MEETING OF SHAREHOLDERS (CLASS III)
+David J. Golden* degrees           64           Senior Vice President of the Corporation.           1958
+
+Morton L. Reitman*                 60           Executive Vice President of the Corpora-            1973
+  degrees                                       tion.
+
+James C. Spira++                   54           Managing Partner, Diamond Technology                1991
+                                                Partners (management consultants), since
+                                                November 1995. Previously Group Vice
+                                                President of the Corporation, from 1991 un-
+                                                til 1995.
+ 
+                                        2
+<PAGE>   5
+
+<CAPTION>
+                                                           PRINCIPAL OCCUPATION                     FIRST
+     NAME OF NOMINEE           AGE AS OF                  DURING PAST FIVE YEARS                   BECAME
+       OR DIRECTOR           APRIL 25, 1997            AND OTHER DIRECTORSHIPS HELD               DIRECTOR
+- -------------------------    --------------     -------------------------------------------    ---------------
+ 
+<S>                          <C>                <C>                                            <C>
+DIRECTORS CONTINUING IN OFFICE UNTIL 1999 ANNUAL MEETING OF SHAREHOLDERS (CLASS II)
+Joseph A. Campanella+++            54           Executive Vice President of Star Banc Cor-          1979
+                                                poration (bank holding company) since 1991.
+                                                Previously, President of Star Bank, N.A.,
+                                                Cleveland from 1988 until 1991.
+
+Thomas S. Robertson+++             54           Sainsbury Professor of Marketing, London            1989
+                                                Business School since 1994. Prior thereto,
+                                                Chairperson of the Department of Market-
+                                                ing, The Wharton School, University of
+                                                Pennsylvania, from 1988 until 1994.
+
+Steven W. Percy+++                 50           Chairman, Chief Executive Officer and Chief         1994
+                                                Financial Officer of BP America Inc. since
+                                                1996; Prior thereto President of BP Oil
+                                                Company and Executive Vice President of BP
+                                                America Inc. from 1992 until 1996. Previ-
+                                                ously, Chief Executive Officer of BP
+                                                Finance International (a division of BP
+                                                International Ltd.), and Group Treasurer of
+                                                The British Petroleum Company, p.l.c., from
+                                                1989 until 1992. Mr. Percy is a Director of
+                                                Key Bank National Association.
+ 
+DIRECTORS CONTINUING IN OFFICE UNTIL 1998 ANNUAL MEETING OF SHAREHOLDERS (CLASS I)
+James H. Berick+++                 64           Chairman of Berick, Pearlman & Mills Co.,           1970
+                                                L.P.A., Cleveland, Ohio (attorneys) and
+                                                Secretary of the Corporation. Also, Presi-
+                                                dent and Treasurer of Realty ReFund Trust
+                                                (real estate investment trust) and Presi-
+                                                dent and Treasurer of Mid-America ReaFund
+                                                Advisors, Inc. (its advisor) since January,
+                                                1990. Mr. Berick is a Director of MBNA
+                                                Corporation and A. Schulman, Inc. and a
+                                                Trustee of The Town and Country Trust and
+                                                Realty ReFund Trust.
+
+Robert S. Reitman*                 63           Chairman of the Board of Directors, Chief           1960
+  degrees                                       Executive Officer and President of the
+                                                Corporation. Mr. Reitman is a Director of
+                                                Weirton Steel Corporation.
+
+Sylvia K. Reitman                  59           Investor, Cleveland, Ohio.                          1989
+ 
+                                        3
+<PAGE>   6
+<FN> 
+- ---------------
+ 
++ Member of the Compensation Committee.
+++ Member of the Audit Committee.
+* Member of the Executive Committee.
+degrees Member of the Pension Committee.
+
+</TABLE>
+
+     The functions performed by the Audit Committee of the Board of Directors
+include: (i) recommending to the Board of Directors the appointment of a firm of
+independent auditors to examine the books and accounts of the Corporation and
+its subsidiaries; (ii) reviewing with the independent auditors the scope of
+their work; (iii) reviewing with the Corporation's management matters related to
+the examination and to the Corporation's accounting procedures; (iv) reviewing
+with the independent auditors compliance with the record keeping and internal
+control requirements of the Foreign Corrupt Practices Act of 1977; (v) reviewing
+with the independent auditors and approving each non-audit service performed or
+proposed to be performed by the independent auditors, as well as the
+relationship of audit to non-audit fees; and (vi) considering the effect of the
+various non-audit services upon the independence of the auditors. The Audit
+Committee held two meetings during the year ended February 28, 1997.
+ 
+     The functions performed by the Compensation Committee of the Board of
+Directors include making recommendations to the Board of Directors concerning
+compensation policies, salaries and other forms of compensation for management
+and other employees of the Corporation and its subsidiaries. The Compensation
+Committee held three meetings during the year ended February 28, 1997.
+ 
+     The Board of Directors does not have a Nominating Committee.
+ 
+     The Board of Directors held four meetings during the year ended February
+28, 1997. All incumbent Directors attended at least 75% of the meetings of the
+Directors and any committees thereof on which they served during the year,
+except Steven W. Percy, who did not attend one Board meeting and two Committee
+meetings.
+ 
+CERTAIN RELATIONSHIPS; COMPENSATION COMMITTEE INTERLOCKS AND INSIDER
+PARTICIPATION
+ 
+     David J. Golden and Sylvia K. Reitman are brother and sister. Sylvia K.
+Reitman is the wife of Robert S. Reitman. Robert S. Reitman and Morton L.
+Reitman are brothers. Alayne L. Reitman, Vice President -- Finance and Treasurer
+of the Corporation, is the daughter of Robert S. Reitman and Sylvia K. Reitman.
+ 
+                                        4
+<PAGE>   7
+ 
+     James H. Berick, Secretary and Director, is Chairman of the law firm
+Berick, Pearlman & Mills Co., L.P.A., which is retained by the Corporation as
+legal counsel and which received legal fees from the Corporation during the year
+ended February 28, 1997 in the amount of $278,806.
+ 
+COMPENSATION OF DIRECTORS
+ 
+     Each Director who is not an employee of the Corporation receives an annual
+Director's fee of $12,000, plus $925 ($850 prior to July 1, 1996) for attendance
+at each meeting of the Board or any Committee. In addition, if such a Director
+elects to have his compensation deferred and invested in Common Shares pursuant
+to the Corporation's Deferred Compensation Plan for Non-Employee Directors, then
+each such Director receives, in Common Shares, an additional amount equal to 25%
+of the amount so deferred and invested.
+ 
+REPORT OF THE COMPENSATION COMMITTEE ON EXECUTIVE COMPENSATION
+ 
+     The Corporation's compensation program is administered by the Compensation
+Committee, which consists exclusively of non-employee Directors. This
+compensation program is designed and administered to align the interests of the
+Corporation's executive officers and its other key employees with that of the
+Corporation's Shareholders, to link compensation to the performance of the
+Corporation as well as to individual contributions and to provide compensation
+at a level which is competitive in the marketplace so that the Corporation can
+continue to attract, motivate, and retain qualified management.
+ 
+     The Corporation's compensation program for its executive officers
+(including the named executive officers) and certain other key employees
+consists of an annual salary, bonus (in some instances) and a long-term
+incentive represented by stock options and, in some instances, deferred
+compensation. The policies in respect of each of these elements, as well as the
+basis for determining the compensation of the Chairman of the Board and Chief
+Executive Officer, Mr. Robert S. Reitman (the "CEO"), are described below.
+ 
+     The Compensation Committee establishes annual salaries to be competitive
+with the marketplace and to reflect the varying levels of responsibilities of
+the CEO and the other executive officers. Such salaries are based, in part, on
+information provided to the Corporation by independent compensation consultants.
+ 
+                                        5
+<PAGE>   8
+ 
+     The services of independent compensation consultants also are used by the
+Corporation in respect of surveying compensation levels and trends in industry
+generally and in respect of structuring the bonus component of the compensation
+of the CEO and the other executive officers. For the Corporation's executive
+officers, annual bonuses are based upon an evaluation of their respective
+division's actual performance against its business plan. Assuming that
+performance levels are achieved, the bonus paid is a predetermined percentage of
+the division's pretax profits. In the event that predetermined standards are not
+achieved, bonuses are subject to reduction. In addition to earnings performance,
+the Compensation Committee evaluates other managerial achievements of the
+Corporation's executive officers as a component of bonus awards.
+ 
+     The Compensation Committee determines the annual bonus of the CEO based
+upon the Corporation's sales, pretax income and return on investment
+(collectively, the "Corporation Components") as well as upon a subjective factor
+designed to reward individual performance independent of the Corporation
+Components. The CEO's bonus is determined in part based upon the Corporation's
+attaining certain threshold, target and maximum Corporation Component levels,
+which levels are established based upon a Board-approved business plan for the
+Corporation. The CEO's fiscal 1997 bonus was determined by weighting the
+Corporation Components as follows: 45% of his 1997 bonus was based upon the
+levels of Corporation Components achieved (each bearing equal weight) and 55%
+was determined subjectively based upon the CEO's overall contributions to the
+Corporation.
+ 
+     Stock options are awarded to the Corporation's executive officers in
+accordance with plans approved by the Shareholders. During the fiscal year ended
+February 28, 1997, options were available for grant only under the Corporation's
+1995 Incentive Stock Option Plan (the "1995 Plan"). Subject to certain
+limitations and based upon management input, the Compensation Committee
+determines the persons to whom options will be granted and the numbers of shares
+to be represented by such options. In general, the Compensation Committee has
+awarded options based upon the individual's position with the Corporation and
+potential contribution to corporate profitability. The 1995 Plan provides for
+the granting of incentive stock options for Common Shares, the option price of
+which may not be less than 100% of the fair market value of such shares on the
+date of grant. However, in the case of an optionee who owns or is deemed to own
+shares of the Corporation representing more than 10% of the total voting power
+of all classes of the Corporation's shares at the time an option is granted
+(currently the CEO and two other executive officers), the option price may not
+be less than 110% of the fair market value of such shares on the date of grant.
+During the
+ 
+                                        6
+<PAGE>   9
+ 
+fiscal year ended February 28, 1997, no stock options were granted under the
+1995 Plan to the named executive officers.
+ 
+     Stock options also have been granted to certain executive officers pursuant
+to their employment agreements with the Corporation. Such options were designed
+to tie the interests of such executive officers, as new employees of the
+Corporation, to the interest of the Corporation's Shareholders and to retain
+those executive officers by linking the exercisability of their options to their
+continued employment with the Corporation.
+ 
+     In addition, the Corporation has adopted for many of its employees various
+benefit plans in which the executive officers are permitted to participate,
+subject to any legal limitations on the amounts that may be contributed or the
+benefits that may be payable under the plans.
+ 
+                                       The Compensation Committee:
+ 
+                                       James H. Berick, Chairman
+                                       Joseph A. Campanella
+                                       Thomas S. Robertson
+                                       Steven W. Percy
+ 
+                                        7
+<PAGE>   10
+ 
+COMPENSATION OF EXECUTIVE OFFICERS
+ 
+     The following table sets forth the compensation paid by the Corporation or
+its subsidiaries during the Corporation's last three fiscal years to the
+Corporation's Chief Executive Officer and each of the five most highly
+compensated executive officers (as measured by salary and bonus) whose aggregate
+salary and bonus during the fiscal year ended February 28, 1997, exceeded
+$100,000.
+
+<TABLE>
+                           SUMMARY COMPENSATION TABLE
+ 
+<CAPTION>
+                                                                                    LONG
+                                                                                    TERM
+                                                                                  COMPEN-
+                                                   ANNUAL COMPENSATION             SATION
+                                            ----------------------------------    --------
+                                                                       OTHER
+                                                                      ANNUAL       AWARDS     ALL OTHER
+                                                                      COMPEN-     --------     COMPEN-
+            NAME AND              FISCAL    SALARY(1)    BONUS(1)    SATION(2)    OPTIONS      SATION
+       PRINCIPAL POSITION          YEAR        ($)         ($)          ($)         (#)          ($)
+- --------------------------------  -------   ---------    --------    ---------    --------    ---------
+<S>                               <C>       <C>          <C>         <C>          <C>         <C>
+Robert S. Reitman,                 1997      438,077     184,814           --          --      315,299(3)
+  Chief Executive Officer,         1996      424,208      89,987           --       2,500      137,156
+  Chairman of the Board of         1995      407,819     192,531       23,618       2,500      133,312
+  Directors and President
+
+Morton L. Reitman,                 1997      312,242     222,726           --          --       37,994(3)
+  Executive Vice President         1996      302,284          --       53,250       2,400       31,109
+                                   1995      298,893     122,800           --       2,400       26,115
+
+Richard J. Sims,                   1997      242,635     119,393           --          --        3,961(3)
+  Vice President                   1996      217,062     169,305           --       2,400        4,011
+                                   1995      200,712     116,000           --       2,000        3,967
+
+Alayne L. Reitman,                 1997      159,019      50,000           --          --        5,205(3)
+  Vice President                   1996      139,346      30,000           --       1,500        5,107
+                                   1995      117,019      17,000           --       1,500        4,682
+
+Dennis H. Kelly,                   1997      127,842     132,538       12,750          --        3,230(3)
+  Vice President                   1996      123,600      79,936        4,250       1,000        3,618
+                                   1995      117,415      59,430           --       1,000        3,595
+ 
+- ---------------
+ 
+(1) Includes amounts deferred pursuant to the Corporation's Salary Savings and
+    Profit Sharing Plan (the "Defined Contribution Plan"), a defined
+    contribution plan under Section 401(k) of the Internal Revenue Code and the
+    Corporation's Supplemental Retirement and Nonqualified Deferred Compensation
+    Plan.
+ 
+(2) Except as otherwise noted, includes the net value (market value less
+    exercise price) realized in respect of Common Shares purchased from the
+    Corporation pursuant to exercise of stock options.
+ 
+                                        8
+<PAGE>   11
+ 
+(3) Includes (a) Corporation payments of premiums for long-term disability
+    insurance: Messrs. Robert S. Reitman, Morton L. Reitman and Sims $700 each;
+    Ms. Alayne L. Reitman $544; and Mr. Kelly $446, (b) Corporation
+    contributions under the Defined Contribution Plan: Mr. Robert S. Reitman
+    $3,206; Mr. Morton L. Reitman $3,154; Mr. Sims $3,261; Ms. Alayne L. Reitman
+    $3,281; and Mr. Kelly $2,784, (c) Corporation payments of premiums for life
+    insurance: Mr. Robert S. Reitman $27,425 and Mr. Morton L. Reitman $5,700,
+    (d) amounts accrued under deferred compensation agreements: Mr. Robert S.
+    Reitman $282,588 and Mr. Morton L. Reitman $28,440, and (e) Corporation
+    payments of parking fees: Mr. Robert S. Reitman $1,380 and Ms. Alayne L.
+    Reitman $1,380.
+
+</TABLE>
+ 
+STOCK OPTIONS
+ 
+     The following table contains information concerning stock option exercises
+during fiscal year 1997 by the named executive officers and the value of their
+unexercised options at February 28, 1997.
+ 
+                   AGGREGATED OPTION EXERCISES IN LAST FISCAL
+                        YEAR AND FISCAL YEAR-END VALUES
+ 
+<TABLE>
+<CAPTION>
+                                                                NUMBER OF          VALUE OF UNEXERCISED
+                                                           UNEXERCISED OPTIONS         IN-THE-MONEY
+                                                           AT FISCAL YEAR-END       OPTIONS AT FISCAL
+                                                                   (#)                 YEAR-END ($)
+                            SHARES                         -------------------     --------------------
+                         ACQUIRED ON         VALUE            EXERCISABLE/             EXERCISABLE/
+        NAME             EXERCISE (#)     REALIZED ($)        UNEXERCISABLE           UNEXERCISABLE
+- ---------------------    ------------     ------------     -------------------     --------------------
+<S>                      <C>              <C>              <C>                     <C>
+Robert S. Reitman             None             None           13,500/5,000            16,785/8,547
+Morton L. Reitman             None             None           22,350/4,800            141,462/14,550
+Richard J. Sims               None             None           20,000/18,400           36,365/34,675
+Alayne L. Reitman             None             None           1,500/3,000             1,485/5,128
+Dennis H. Kelly              2,000           12,750           4,200/2,000             11,308/6,063
+</TABLE>
+ 
+                                        9
+<PAGE>   12
+ 
+PERFORMANCE GRAPH
+ 
+     The following graph compares total Shareholder returns in respect of the
+Corporation's Common Shares ("TNZ") over the last five fiscal years to the
+American Stock Exchange Index ("AMEX") and the Standard & Poor's Paper & Forest
+Products Index ("S&P Paper & Forest"). In prior years, the graph compared total
+shareholders returns of the Corporation's Class A and Class B Common Shares to
+the American Stock Exchange Consumer Goods Index rather than the S&P Paper &
+Forest. The Corporation has been advised that the AMEX Consumer Goods Index is
+no longer maintained by AMEX. Accordingly, the Corporation is unable to include
+information in respect of such Index in this Proxy Statement. In August 1996,
+all of the Corporation's Class B Common Shares were converted into Class A
+Common Shares and the Class A Common Shares were redesignated "Common Shares."
+Total return values for AMEX, S&P Paper & Forest and TNZ were calculated based
+upon market weighting at the beginning of the period and include reinvestment of
+dividends. The Shareholder returns shown on the graph below are not necessarily
+indicative of future performance.
+ 
+     The following graph shall not be deemed incorporated by reference by any
+general statement incorporating by reference this proxy statement into any
+filing under the Securities Act of 1933 or under the Securities Exchange Act of
+1934, except to the extent the Corporation specifically incorporates this
+information by reference and otherwise shall not be deemed filed under such
+Acts.
+ 
+<TABLE>
+<CAPTION>
+      Measurement Period                                               S&P Paper &
+    (Fiscal Year Covered)              TNZ              AMEX             Forest
+<S>                              <C>               <C>               <C>
+2/29/92                                100               100               100
+2/28/93                                 91                98               109
+2/28/94                                 68               113               121
+2/28/95                                 91               109               129
+2/29/96                                 67               135               129
+2/28/97                                 98               146               149
+</TABLE>
+ 
+                                       10
+<PAGE>   13
+ 
+EMPLOYMENT CONTRACTS AND CHANGE-IN-CONTROL ARRANGEMENTS
+ 
+     In 1990, the Corporation entered into employment agreements with Robert S.
+Reitman and Morton L. Reitman. Robert S. Reitman's employment agreement, which
+expires in June 1998, currently provides for an annual salary of $425,000, which
+salary may be reviewed periodically by the Compensation Committee to determine
+if the same should be increased. Robert S. Reitman's employment agreement also
+provides for payment to Mr. Reitman of an annual incentive based upon certain
+performance criteria, the maximum of which amount shall be not less than
+$160,000, and for certain disability benefits.
+ 
+     Morton L. Reitman's employment agreement with the Corporation, which
+expires in June 1998, currently provides for an annual salary of $303,000, which
+salary may be reviewed periodically by the Compensation Committee to determine
+if the same should be increased, and for certain disability benefits. Morton L.
+Reitman also has a consultant agreement with the Corporation providing for
+payment to Mr. Reitman for consulting services in the amount of $72,000 per
+year, for a term of three years commencing upon the termination of his
+employment.
+ 
+     In July 1992, the Corporation entered into an employment agreement with
+Richard J. Sims, which expires in June 1998. Mr. Sims' employment agreement
+currently provides for an annual salary of $245,000 (which salary may be
+reviewed periodically by the Compensation Committee to determine if the same
+should be increased), plus incentives based upon performance. In addition,
+pursuant to Mr. Sims' employment agreement, the Corporation granted to Mr. Sims
+options to purchase 25,000 Common Shares of the Corporation, the exercise price
+of which options is $14.6875, the fair market value of such shares on the date
+of grant. The options became or become exercisable (so long as Mr. Sims shall be
+a full-time employee of the Corporation on such date) as follows: 5,000 options
+on March 1, 1995; 6,000 options on March 1, 1996; and 7,000 options on March 1
+of each of 1997 and 1998.
+ 
+     In March 1995, a wholly-owned subsidiary of the Corporation entered into an
+employment agreement with Mr. Dennis H. Kelly. Mr. Kelly's employment agreement,
+which expires in February 1999, currently provides for an annual salary of
+$124,000 plus incentives based upon performance.
+ 
+     The Corporation also has deferred compensation agreements with certain key
+employees which provide for benefits for a term of 10 years following
+retirement, disability or death. These benefits vary according to the employee's
+corporate respon-
+ 
+                                       11
+<PAGE>   14
+ 
+sibility and the age of the employee at the date of such event. The ranges of
+annual benefits under the deferred compensation agreements for Messrs. Robert S.
+Reitman and Morton L. Reitman during the first five years of said term are
+$37,200 to $68,400 and $16,800 to $36,600, respectively. The amount of benefits
+payable to such executive officers during the second five years of the term is
+75% of the benefit payable during the first five years.
+ 
+     The benefits payable to Messrs. Robert S. Reitman and Morton L. Reitman
+under the deferred compensation agreements will be replaced with the benefits
+payable to them under the Corporation's 1992 Supplemental Benefit Plan (the
+"Supplemental Benefit Plan") upon the vesting of each such individual's rights
+in that plan. Vesting under the Supplemental Benefit Plan does not occur unless
+and until that individual has been a participant in the plan for 10 years or has
+attained age 65, whichever first occurs; provided, however, that a participant
+who becomes disabled or dies shall be vested after six years of employment by
+the Corporation. In addition, in the event that effective control of the
+Corporation changes from that management in control at the date of adoption of
+the Supplemental Benefit Plan, all participants immediately vest in the plan
+benefits. Under the Supplemental Benefit Plan, Messrs. Robert S. Reitman and
+Morton L. Reitman will receive $140,000 and $60,000, respectively, in annual
+benefits for a term of 15 years following their retirement, death or disability.
+In the event that either individual's rights under the Supplemental Benefit Plan
+fail to vest, then the benefits under the deferred compensation agreements
+remain payable to such non-vested individual.
+ 
+     In October 1996, the Corporation adopted and established the Supplemental
+Retirement and Nonqualified Deferred Compensation Plan (the "Supplemental
+Retirement Plan") which provides for supplemental retirement income and deferred
+compensation on a pre-tax basis to certain key employees. Participants in the
+Supplemental Retirement Plan may elect to defer up to fifteen percent (15%) of
+his or her annual federal taxable wages. Distributions will be made upon
+termination of employment with the Corporation or the financial hardship of the
+participant. In November 1996, Mr. Sims, a participant, deferred $15,000
+pursuant to the Supplemental Retirement Plan.
+ 
+                     BENEFICIAL OWNERSHIP OF COMMON SHARES
+ 
+     The following tables, together with the accompanying footnotes, describe
+the beneficial ownership of the Corporation's Common Shares as of April 25, 1997
+(except as otherwise indicated) of (1) each person who was known to the
+Corporation to be
+ 
+                                       12
+<PAGE>   15
+ 
+the beneficial owner of more than five percent of the total Common Shares issued
+and outstanding on such date, (2) each current Director and nominee for election
+as Director, as well as all executive officers and Directors as a group and (3)
+all Shareholders, other than Current Directors, nominees and executive officers,
+as a group. Except as otherwise indicated, the share figures shown below are
+based upon information supplied by the named individuals and group members
+described in the tables and the Corporation's records.
+ 
+     As used in the tables, a person is deemed to be the beneficial owner of all
+shares in respect of which such person has or shares voting or investment power
+(regardless of whether such individual is entitled to receive any economic
+benefits derived from such shares). As used herein, "voting power" means the
+power to vote, or to direct the voting of, shares and "investment power" means
+the power to dispose of, or to direct the disposition of, shares. Also, included
+are shares which were not owned on April 25, 1997 but which can be acquired
+within 60 days after that date.
+ 
+     As indicated specifically in the footnotes to the tables, certain Common
+Shares included for the named individuals in each table below are deemed to be
+beneficially owned by more than one of such named individuals and, as a result,
+have been so reported. Certain individuals listed in the tables have disclaimed
+beneficial ownership with respect to some of the Common Shares disclosed as
+beneficially owned under the definition set forth above.
+ 
+                                       13
+<PAGE>   16
+
+<TABLE>
+ 
+        BENEFICIAL OWNERSHIP OF MORE THAN FIVE PERCENT OF COMMON SHARES
+ 
+<CAPTION>
+                                        SHARES
+       NAME AND ADDRESS OF           BENEFICIALLY     PERCENT OF
+        BENEFICIAL OWNER                OWNED           CLASS
+- ---------------------------------    ------------     ----------
+<S>                                  <C>              <C>
+ 
+David J. Golden                         1,295,230        37.3%
+  30195 Chagrin Boulevard               (1)(2)(3)
+  Pepper Pike, Ohio 44124
+
+Robert S. Reitman                       1,309,446        37.7%
+  30195 Chagrin Boulevard                     (4)
+  Pepper Pike, Ohio 44124
+ 
+Sylvia K. Reitman                       1,309,446        37.7%
+  30195 Chagrin Boulevard                  (2)(5)
+  Pepper Pike, Ohio 44124
+ 
+Estate of Miriam G. Golden                575,493        16.6%
+  David J. Golden and                         (6)
+  Sylvia K. Reitman,
+  Co-executors
+  30195 Chagrin Boulevard
+  Pepper Pike, Ohio 44124
+ 
+Dimensional Fund                          201,550         5.8%
+  Advisors Inc.                               (7)
+  1299 Ocean Avenue,
+  Suite 650
+  Santa Monica,
+  California 90401
+ 
+- ---------------
+ 
+(1) Includes 5,775 Common Shares held as trustee for the benefit of Mr. Golden's
+    son.
+ 
+(2) Includes 575,493 Common Shares in respect of which David J. Golden and
+    Sylvia K. Reitman share voting and dispositive power as co-executors of the
+    estate of Miriam G. Golden; and 200,293 Common Shares in respect of which
+    David J. Golden and Sylvia K. Reitman, acting in concert, share the right to
+    direct the voting and disposition pursuant to the terms of the Louis B.
+    Golden Insurance Trust u/a/d October 20, 1980.
+ 
+                                       14
+<PAGE>   17
+ 
+(3) Includes 4,500 Common Shares which are not owned, but can be purchased
+    within 60 days upon the exercise of options granted under the Corporation's
+    1989 Incentive Stock Option Plan (the "1989 Plan").
+ 
+(4) Includes 403,359 Common Shares owned by Sylvia K. Reitman, Mr. Reitman's
+    wife, and the Common Shares described in Note (2), above, as to all of which
+    shares Mr. Reitman disclaims beneficial ownership. Also includes 16,000
+    Common Shares which are not owned, but can be purchased within 60 days upon
+    the exercise of options granted under the 1989 Plan and the Corporation's
+    1995 Incentive Stock Option Plan (the "1995 Plan").
+ 
+(5) Includes 130,301 Common Shares owned by Robert S. Reitman, Mrs. Reitman's
+    husband, as to which shares Mrs. Reitman disclaims beneficial ownership.
+ 
+(6) The estate of Miriam G. Golden is the record owner of the Shares shown;
+    however, the co-executors each are deemed to own beneficially all of such
+    Shares, as reported above.
+ 
+(7) Information based solely upon Schedules 13G filed by such shareholder with
+    the Securities and Exchange Commission in January, 1995. As of December 31,
+    1994, Dimensional Fund Advisors Inc. ("Dimensional"), a registered
+    investment advisor, was deemed to have beneficial ownership of 132,400 Class
+    A Common Shares and 69,150 Class B Common Shares, all of which presently
+    constitute Common Shares and are held in portfolios of DFA Investment
+    Dimensions Group, Inc., a registered open-end investment company, in series
+    of the DFA Investment Trust Company, a Delaware business trust, or in the
+    DFA Group Trust and DFA Participation Group Trust, investment vehicles for
+    qualified employee benefit plans, as to all of which Dimensional serves as
+    investment manager. Dimensional disclaims beneficial ownership of all of
+    such Shares.
+
+</TABLE>
+ 
+                                       15
+<PAGE>   18
+
+<TABLE>
+ 
+       BENEFICIAL OWNERSHIP OF EXECUTIVE OFFICERS, DIRECTORS AND NOMINEES
+ 
+<CAPTION>
+                                                      SHARES
+                NAME OF DIRECTOR                   BENEFICIALLY             PERCENT OF
+                   OR NOMINEE                        OWNED(1)                 CLASS
+- ------------------------------------------------   ------------             ----------
+<S>                                                <C>                      <C>
+James H. Berick                                         10,600                   (2)
+Joseph A. Campanella                                     8,400                   (2)
+David J. Golden                                      1,295,230(3)(4)            37.3%
+Robert S. Reitman                                    1,309,446(5)               37.7%
+Morton L. Reitman                                       84,610(6)                2.4%
+Sylvia K. Reitman                                    1,309,446(3)(7)            37.7%
+Thomas S. Robertson                                      7,700                   (2)
+James C. Spira                                          42,985                   1.2%
+Steven W. Percy                                          4,250                   (2)
+Richard J. Sims                                         34,280                   1.0%
+Dennis H. Kelly                                         10,200                   (2)
+Alayne L. Reitman                                       21,525                   (2)
+Executive Officers, Directors and Nominees as a      2,072,440                  59.7%
+  Group (13 persons)
+All Shareholders other than Executive Officers,      1,396,898                  40.3%
+  Directors and Nominees as a Group
+ 
+- ---------------
+ 
+(1) Includes the following number of Common Shares which are not owned, but can
+    be purchased within 60 days upon the exercise of options granted under the
+    Corporation's 1981 Performance Share Option Plan (the "1981 Plan"), 1989
+    Plan and the 1995 Plan (and in the case of Mr. Spira, under his employment
+    agreement which was terminated and Mr. Sims, under his existing employment
+    agreement): Robert S. Reitman -- 16,000; Morton L. Reitman -- 24,750; David
+    J. Golden -- 4,500; James C. Spira -- 34,000; Richard J. Sims -- 29,000;
+    Alayne L. Reitman -- 3,000; Dennis H. Kelly -- 5,200; and all executive
+    officers and Directors as a group -- 119,450.
+ 
+(2) Less than 1%.
+ 
+(3) Includes 575,493 Common Shares in respect of which David J. Golden and
+    Sylvia K. Reitman share voting and dispositive power as co-executors of the
+    estate of Miriam G. Golden; and 200,293 Common Shares in respect of which
+    David J.
+ 
+                                       16
+<PAGE>   19
+ 
+    Golden and Sylvia K. Reitman, acting in concert, share the right to direct
+    the voting and disposition pursuant to the terms of the Louis B. Golden
+    Insurance Trust u/a/d October 20, 1980.
+ 
+(4) Includes 5,775 Common Shares held as trustee for the benefit of Mr. Golden's
+    son.
+ 
+(5) Includes 403,359 Common Shares owned by Sylvia K. Reitman, Mr. Reitman's
+    wife, and the Common Shares described in note (3), above, as to all of which
+    shares Mr. Reitman disclaims beneficial ownership.
+ 
+(6) Includes 2,730 Common Shares held as custodian for the benefit of Morton L.
+    Reitman's adult child. Also includes 1,800 Common Shares owned by Mr.
+    Reitman's wife, as to which shares Mr. Reitman disclaims beneficial
+    ownership.
+ 
+(7) Includes 114,301 Common Shares owned by Robert S. Reitman, Mrs. Reitman's
+    husband, as to all of which shares Mrs. Reitman disclaims beneficial
+    ownership.
+
+</TABLE>
+ 
+                             SELECTION OF AUDITORS
+ 
+     The Board of Directors of the Corporation has recommended that KPMG Peat
+Marwick LLP be selected as independent auditors to examine the books, records
+and accounts of the Corporation and its subsidiaries for the fiscal year ending
+February 28, 1998. In accordance with past practice, the recommendation is being
+presented to holders of Common Shares for adoption or rejection at the Annual
+Meeting. KPMG Peat Marwick LLP were the independent auditors of the Corporation
+for the fiscal year ended February 28, 1997 and are considered by the Board of
+Directors to be well qualified. Representatives of KPMG Peat Marwick LLP are
+expected to be present at the Annual Meeting with the opportunity to make a
+statement if they desire to do so and are expected to be available to respond to
+appropriate questions.
+ 
+                        COMPLIANCE WITH SECTION 16(a) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+ 
+     Section 16(a) of the Securities Exchange Act of 1934 requires the
+Corporation's executive officers and Directors, and persons who beneficially own
+more than 10% of the Corporation's Common Shares, to file reports of ownership
+and changes in ownership with the Securities and Exchange Commission. Dennis H.
+Kelly reported the exercise of stock options in December, 1996 subsequent to the
+due date for such reporting.
+ 
+                                       17
+<PAGE>   20
+ 
+                                 OTHER MATTERS
+ 
+     The Board of Directors knows of no matter to be presented for action at the
+Annual Meeting other than those described in this Proxy Statement. Should other
+matters come before the meeting, the Common Shares represented by proxies
+solicited hereby will be voted with respect thereto in accordance with the best
+judgment of the proxy holders.
+ 
+                              GENERAL INFORMATION
+ 
+CUMULATIVE VOTING
+ 
+     If notice in writing is given by any holder of Common Shares to the
+President, a Vice President or the Secretary of the Corporation, not less than
+forty-eight hours before the time fixed for the holding of the Annual Meeting,
+that such Shareholder desires that the voting with respect to the election of
+Directors shall be cumulative, and if an announcement of the giving of such
+notice is made upon the convening of the meeting by the Chairman or Secretary of
+the Meeting or by or on behalf of the Shareholder giving such notice, each
+holder of Common Shares shall have the right to cumulate such voting power as he
+or she possesses at such election. If the Shareholder desires to make the
+foregoing announcement at the convening of the meeting, such Shareholder must be
+present in person or through a properly authorized representative other than
+those persons designated in the accompanying form of proxy.
+ 
+VOTING OF PROXIES
+ 
+     Common Shares represented by properly executed Management proxies will be
+voted at the meeting, and if a holder of such shares has specified how the same
+are to be voted, they will be voted in accordance with such specification. It is
+intended that Common Shares represented by proxies in which no specification has
+been made will be voted for the election of Directors and for the selection of
+the independent auditors.
+ 
+SHAREHOLDER PROPOSALS
+ 
+     If a holder of Common Shares intends to present a proposal at the next
+Annual Meeting of Shareholders presently scheduled for June 15, 1998, it must be
+received by the Corporation for consideration for inclusion in the Corporation's
+Proxy Statement and form of proxy relating to that meeting on or before January
+14, 1998.
+ 
+                                       18
+<PAGE>   21
+ 
+REVOCATION OF PROXIES
+ 
+     A proxy may be revoked at any time before a vote is taken or the authority
+granted is otherwise exercised. Revocation may be accomplished by the execution
+of a later proxy with regard to the same Common Shares or by giving notice in
+writing or in open meeting.
+ 
+SOLICITATION OF PROXIES
+ 
+     The cost of soliciting the accompanying proxies will be borne by the
+Corporation. The Corporation does not expect to pay any compensation for the
+solicitation of proxies but may pay brokers, nominees, fiduciaries and
+custodians their reasonable expenses for sending proxy material to principals
+and obtaining their instructions. In addition to solicitation by mail, proxies
+may be solicited in person, by telephone or telegraph, or by Directors, officers
+and regular employees of the Corporation.
+ 
+                                             By order of the Board of Directors
+ 
+                                                      JAMES H. BERICK
+May 14, 1997                                             Secretary
+ 
+                                       19
+<PAGE>   22
+ 
+PROXY                                                                      PROXY
+                            THE TRANZONIC COMPANIES
+ 
+                               COMMON SHARE PROXY
+          THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+ 
+The undersigned holder of Common Shares hereby appoints JAMES H. BERICK AND
+ROBERT S. REITMAN as Proxies, each with the full power to appoint his
+substitute, and hereby authorizes them to represent and to vote, as designated
+below, all the Common Shares of The Tranzonic Companies held of record by the
+undersigned on April 25, 1997, at the annual meeting of shareholders to be held
+on June 16, 1997, and at any adjournments thereof.
+ 
+<TABLE>
+<S>                                                            <C>
+1. Election of Directors.                                              (change of address)
+   David J. Golden, Morton L. Reitman                          
+   and James C. Spira                                          -----------------------------------
+                                                               -----------------------------------
+                                                               -----------------------------------
+                                                               -----------------------------------
+                                                               (If you have written in the above
+                                                               space, please mark the
+                                                               corresponding box on the reverse
+                                                               side of this card.)
+</TABLE>
+ 
+YOU ARE ENCOURAGED TO SPECIFY YOUR CHOICES BY MARKING THE APPROPRIATE BOXES, SEE
+REVERSE SIDE, BUT YOU NEED NOT MARK ANY BOXES IF YOU WISH TO VOTE IN ACCORDANCE
+WITH THE BOARD OF DIRECTORS' RECOMMENDATIONS. THE PROXIES CANNOT VOTE YOUR
+SHARES UNLESS YOU SIGN AND RETURN THIS PROXY.
+                                                              (See Reverse Side)
+ 
+ ................................................................................
+ 
+                  *           FOLD AND DETACH HERE           *
+ 
+ PLEASE VOTE, SIGN, DATE AND RETURN THIS PROXY FORM PROMPTLY USING THE ENCLOSED
+                                   ENVELOPE.
+<PAGE>   23
+ 
+                            THE TRANZONIC COMPANIES
+   PLEASE MARK VOTE IN OVAL IN THE FOLLOWING MANNER USING DARK INK ONLY. [X]
+<TABLE>
+<CAPTION>
+                                                                           FOR    WITHHOLD  FOR ALL,
+                                                                           ALL       ALL     EXCEPT
+<S>                                                                      <C>     <C>        <C>    
+1. Election of Directors                                                    / /     / /      / /
+   (see reverse)
+                                                                           FOR    WITHHOLD  ABSTAIN
+2. To ratify the selection of KPMG Peat Marwick LLP as independent          / /     / /      / /
+   auditors.
+                                                                               
+                                                                           -------------------------------------------
+                                                                           Nominee Exception(s)
+
+                                                                           THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN
+                                                                           THE MANNER DIRECTED HEREIN BY THE UNDERSIGNED HOLDER 
+                                                                           OF COMMON SHARES. IF NO DIRECTION IS MADE, THIS PROXY
+                                                                           WILL BE VOTED FOR PROPOSALS 1 AND 2.
+ 
+</TABLE>
+
+                                                  Date: __________________, 1997
+ 
+                                                  ------------------------------
+                                                  Signature(s)
+ 
+                                                  ------------------------------
+                                                  Signature(s)
+ 
+                                                  Note: Please sign exactly as
+                                                  name appears hereon. Joint
+                                                  owners should each sign. When
+                                                  signing as attorney, executor,
+                                                  administrator, trustee or
+                                                  guardian, please give full
+                                                  title as such.
+ ................................................................................
+ 
+                  *           FOLD AND DETACH HERE           *
+ 
+       PLEASE VOTE, SIGN, DATE AND RETURN THIS PROXY FORM PROMPTLY USING
+                            THE ENCLOSED ENVELOPE.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,2764 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HjXI1a9ja4Rn7hTcrPyN5NnkqaExlhb8AEt7xstHK3h0dS3UVCGJ2sYZenIhD87z
+ BgDBuIm1eJ6QXJ9WA1h25g==
+
+<SEC-DOCUMENT>/in/edgar/work/20000804/0000914039-00-000337/0000914039-00-000337.txt : 20000921
+<SEC-HEADER>0000914039-00-000337.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000914039-00-000337
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000907
+FILED AS OF DATE:		20000804
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCEL INTERNATIONAL CORP
+		CENTRAL INDEX KEY:			0000001985
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6311
+]		IRS NUMBER:				310788334
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		DEF 14A
+			SEC ACT:		
+			SEC FILE NUMBER:	000-08768
+			FILM NUMBER:		686633
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		75 WEST ST
+				CITY:			SIMSBURY
+				STATE:			CT
+				ZIP:			06070
+				BUSINESS PHONE:		8608437600
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		75 WEST ST
+					CITY:			SIMSBURY
+					STATE:			CT
+					ZIP:			06070
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	ACCELERATION CORP
+						DATE OF NAME CHANGE:	19870814
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>def14a.txt
+<DESCRIPTION>DEF 14A
+<TEXT>
+
+<PAGE>   1
+                            SCHEDULE 14A INFORMATION
+                  Proxy Statement Pursuant To Section 14(A) Of
+                       The Securities Exchange Act Of 1934
+
+Filed by the Registrant /x/
+Filed by a Party other than the Registrant: / /
+
+Check the appropriate box:
+/ / Preliminary Proxy Statement
+/ / Confidential, for Use of the Commission Only (as permitted by
+    Rule 14a-6(e)(2))
+/X/ Definitive Proxy Statement
+/ / Definitive Additional Materials
+/ / Soliciting Material Pursuant to 240.14a-11(c) or 240.14a-12
+
+                         ACCEL INTERNATIONAL CORPORATION
+                (Name of Registrant as Specified in Its Charter)
+
+ (Name of Person(s) Filing Proxy Statement, if Other Than the Registrant)
+
+Payment of Filing Fee (Check the appropriate box):
+/x/ No fee required.
+/ / Fee computed on table below per Exchange Act Rules 14a-6(l)(4) and 0-11.
+
+     1) Title of each class of securities to which transaction applies:
+
+          ------------------------------------------------------------------
+     2) Aggregate number of securities to which transaction applies:
+
+          ------------------------------------------------------------------
+3)      Per unit price or other underlying value of transaction computed
+        pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the
+        filing fee is calculated and state how it was determined):
+
+          -----------------------------------------------------------------
+     4) Proposed maximum aggregate value of transaction:
+
+          -----------------------------------------------------------------
+     5) Total fee paid:
+
+          -----------------------------------------------------------------
+
+/ / Fee paid previously by written preliminary materials.
+/ / Check box if any part of the fee is offset as provided by Exchange Act
+     Rule 0-1 1(a)(2) and identify the filing for which the offsetting fee was
+     paid previously. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+     1) Amount Previously Paid:
+                                ------------------------------------------
+     2) Form Schedule or Registration Statement No.
+                                                   -----------------------
+     3) Filing Party:
+                      ----------------------------------------------------
+     4) Date Filed:
+                    ------------------------------------------------------
+
+
+
+
+                                                                          Page 1
+<PAGE>   2
+
+
+
+
+
+
+
+
+
+                                LOGO
+
+                   ACCEL International Corporation
+
+                         2000 Proxy Statement
+
+
+
+
+
+
+
+      ---------------------------------------------------------
+
+      ---------------------------------------------------------
+
+
+<PAGE>   3
+
+                        ACCEL INTERNATIONAL CORPORATION
+                                 75 WEST STREET
+                          SIMSBURY, CONNECTICUT 06070
+
+                                                                  August 4, 2000
+
+                      2000 ANNUAL MEETING OF STOCKHOLDERS
+
+Dear Stockholder:
+
+     On behalf of the Board of Directors, I cordially invite you to attend the
+2000 Annual Meeting of Stockholders of ACCEL International Corporation (the
+"Corporation" or "ACCEL") to be held at 10:00 a.m., local time on September 7,
+2000, at the offices of Day, Berry & Howard LLP, 25th floor, CityPlace I,
+Hartford, Connecticut. A notice of the meeting, a proxy statement and a proxy
+card accompany this letter.
+
+     At the meeting, you will be asked to consider and vote upon the following:
+
+     - the election of our directors to serve until our next annual meeting;
+
+     - proposed amendments to our Certificate of Incorporation and Bylaws in the
+       forms attached as Appendices A and B to the proxy statement; and
+
+     - proposed amendments to our 1996 Stock Incentive Plan in the form attached
+       as as Appendix C.
+
+     The proposed amendment and restatement of our Certificate of Incorporation,
+if adopted, would:
+
+     - increase the number of authorized shares of common stock from 15 million
+       shares to 30 million shares;
+
+     - eliminate the prohibition against stockholder action without a meeting;
+
+     - eliminate some anti-takeover and supermajority vote provisions; and
+
+     - reduce the minimum number of directors of the Corporation from nine to
+       seven.
+
+     The proposed amendment to our Bylaws, if approved, would:
+
+     - permit the bylaws to be made, repealed, altered, amended or rescinded by
+       the vote of our stockholders holding a majority of our outstanding shares
+       entitled to elect directors, rather than by stockholders holding 80% of
+       the shares as currently required;
+
+     - decrease the stockholder vote necessary to approve an amendment to our
+       Certificate of Incorporation that would contravene any bylaw, from the
+       vote of stockholders holding 80% or more of our outstanding shares
+       entitled to elect directors, to the vote of the holders of only a
+       majority of the shares; and
+
+     - permit the Board of Directors to designate the date, time and place of
+       all meetings of stockholders.
+
+    The proposed amendments to our Certificate of Incorporation and Bylaws will
+    require the affirmative vote of the holders of 80% or more of the
+    outstanding shares.
+
+     The proposed amendments to the 1996 Stock Incentive Plan, if approved,
+would:
+
+     - increase the total number of shares of common stock with respect to which
+       awards may be granted from 1,500,000 to 2,500,000, and Directors stock
+       options from 500,000 to 750,000; and
+
+     - provide that the Board of Directors by unanimous vote may grant up to
+       150,000 stock options with an option price not less than $ 2.00 to an
+       outside director who, in the opinion of the Board, performs services for
+       the Corporation or its subsidiaries not contemplated by Director fees or
+       other grants in the Plan. This action may only be taken independently by
+       the Board excluding the Director receiving the special grant. Director
+       stock options granted are provided at an option price of not less than
+       $2.00.
+
+- --------------------------------------------------------------------------------
+                                                                         Page  2
+<PAGE>   4
+
+The proposed amendments to the 1996 Stock Incentive Plan will require the
+affirmative vote of a majority of the holders of the shares voting in person or
+by proxy at the meeting.
+
+     Your Board of Directors recommends that you vote FOR the election of the
+nominees for director, FOR the amendments to our Certificate of Incorporation
+and Bylaws, and FOR the amendments to our 1996 Stock Incentive Plan.
+
+     Details of the important information concerning the items of business
+scheduled for the annual meeting appear in the accompanying proxy statement.
+Please give this material your careful attention.
+
+     Whether or not you plan to attend the meeting, please complete, sign and
+date the accompanying proxy card and return it in the enclosed prepaid envelope.
+If you attend the meeting, you may vote in person even if you have previously
+returned your proxy card. Your prompt cooperation will be greatly appreciated.
+
+     We are gratified by your continued support of our company.
+
+                                          Sincerely yours,
+
+                                          GERALD H. PASTOR
+                                          President and Chief Executive Officer
+
+- --------------------------------------------------------------------------------
+                                                                         Page  3
+<PAGE>   5
+
+                        ACCEL INTERNATIONAL CORPORATION
+
+                                 75 WEST STREET
+                          SIMSBURY, CONNECTICUT 06070
+
+                                                                  August 4, 2000
+
+     We will hold the 2000 Annual Meeting of Stockholders of ACCEL International
+Corporation at the offices of Day, Berry & Howard LLP, CityPlace I, Hartford,
+Connecticut on September 7, 2000, at 10:00 a.m., local time, for the following
+purposes:
+
+     1. To elect our directors to serve until our next annual meeting.
+
+     2. To approve and adopt an amended and restated Certificate of
+        Incorporation and amendments to the Bylaws. The proposed changes to our
+        Certificate of Incorporation and Bylaws, if approved, would:
+
+        - increase the number of authorized shares of common stock from 15
+          million shares to 30 million shares;
+
+        - eliminate the prohibition against stockholder action without a
+          meeting;
+
+        - eliminate some anti-takeover and supermajority vote provisions;
+
+        - reduce the minimum number of directors of the Corporation from nine to
+          seven; and
+
+        - permit the Board of Directors to designate the date, time and place of
+          all meetings of stockholders.
+
+     3. To approve and adopt amendments to our 1996 Stock Incentive Plan. The
+        proposed amendments, if approved would:
+
+        - increase the total number of shares of common stock with respect to
+          which awards may be granted from 1,500,000 to 2,500,000 and Directors
+          stock options from 500,000 to 750,000; and
+
+        - provide that the Board of Directors by unanimous vote may grant up to
+          150,000 stock options with an option price not less than $2.00 to an
+          outside director who, in the opinion of the Board, performs services
+          for the Corporation or its subsidiaries not contemplated by Director
+          fees or other grants in the Plan. This action may only be taken
+          independently by the Board excluding the Director receiving the
+          special grant. Director stock options granted are provided at an
+          option price of not less than $2.00.
+
+     4. To act on such other matters as may be properly brought before the
+        meeting or any adjournments, postponements or continuations of the
+        meeting.
+
+     We have described all of these matters more fully in the accompanying proxy
+statement, which you should read carefully.
+
+     Your Board of Directors has fixed the close of business on July 14, 2000,
+as the record date for the meeting. Only stockholders of record at the close of
+business at this time are entitled to notice of and to vote at the meeting or
+any adjournments, postponements or continuations of the meeting. A complete list
+of stockholders entitled to vote at the meeting will be available for
+examination by any stockholder at the place where the meeting is to be held for
+at least 10 days before the meeting and also at the meeting.
+
+     All stockholders are invited to attend the meeting. To ensure your
+representation at the meeting, however, you are urged to mark, sign and return
+the enclosed proxy in the accompanying envelope, whether or not you expect to
+attend the meeting. No postage is required if you mail it in the United States.
+In the event that you attend the meeting, you may vote in person even if you
+have returned a proxy.
+
+- --------------------------------------------------------------------------------
+                                                                         Page  4
+<PAGE>   6
+
+     Your vote is important. To vote your shares, please sign, date and complete
+the enclosed proxy and mail it promptly in the enclosed return envelope.
+
+                                          By Order of the Board of Directors
+
+                                          GERALD H. PASTOR
+                                          President and Chief Executive Officer
+
+- --------------------------------------------------------------------------------
+                                                                         Page  5
+<PAGE>   7
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                PAGE
+                                                                ----
+<S>                                                             <C>
+QUESTIONS AND ANSWERS ABOUT THE MEETING.....................      7
+SUMMARY.....................................................      8
+The Meeting.................................................      8
+Record Date; Vote Required..................................      8
+Annual Meeting Proposals....................................      8
+Proposed Amendments to Certificate of Incorporation and
+  Bylaws....................................................      8
+Proposed Amendments to 1996 Stock Incentive Plan............      9
+THE MEETING.................................................     10
+Date, Time and Place of Meeting.............................     10
+Matters to be Considered at the Meeting.....................     10
+Vote Required...............................................     10
+Voting of Proxies...........................................     11
+Revocability of Proxies.....................................     11
+Record Date; Stockholders Entitled to Vote; Quorum..........     11
+Solicitation of Proxies.....................................     11
+PROPOSAL NO. 1 -- ELECTION OF DIRECTORS.....................     12
+Nominees for Directors......................................     13
+Compensation of Directors...................................     15
+Meetings and Committees of the Board of Directors...........     15
+PROPOSAL NO. 2 -- AMENDMENTS TO CERTIFICATE OF INCORPORATION
+  AND BYLAWS................................................     16
+General.....................................................     16
+Increase in Number of Authorized Shares.....................     16
+Amendment Permitting Action by Written Consent..............     17
+Amendment Eliminating Anti-takeover and Supermajority
+  Provisions................................................     17
+Amendment Reducing Minimum Number of Directors..............     20
+Amendment to Permit Directors to Establish Place, Date, and
+  Time for Stockholders' Meetings...........................     20
+PROPOSAL NO. 3 -- APPROVAL OF THE ADOPTION OF AMENDMENTS TO
+  THE 1996 STOCK INCENTIVE PLAN.............................     21
+General.....................................................     21
+The Plan....................................................     21
+Summary of the Provisions of the Plan.......................     21
+Proposed Amendments to the Plan.............................     24
+  Section 5:Shares Available................................     24
+  Section 13: Directors' Stock Options......................     24
+FORWARD LOOKING STATEMENTS..................................     26
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS.............     26
+MARKET PRICE AND DIVIDEND INFORMATION.......................     27
+EXECUTIVE COMPENSATION......................................     28
+Executive Officers..........................................     28
+Summary Compensation Table..................................     29
+Options Granted in Last Fiscal Year.........................     29
+Aggregate Option Exercises in Last Fiscal Year and Fiscal
+  Year-End Option Values....................................     30
+Beneficial Ownership of Management..........................     30
+Report of the Compensation Committee........................     30
+Performance Graph...........................................     31
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE.....     34
+RELATIONSHIP WITH INDEPENDENT AUDITORS......................     34
+STOCKHOLDER PROPOSALS.......................................     34
+OTHER MATTERS...............................................     34
+WHERE YOU CAN FIND MORE INFORMATION.........................     34
+APPENDIX A  PROPOSED AMENDED AND RESTATED CERTIFICATE OF
+  INCORPORATION.............................................     36
+APPENDIX B  PROPOSED AMENDMENT TO THE BYLAWS................     43
+APPENDIX C  PROPOSED AMENDMENTS TO 1996 STOCK INCENTIVE
+  PLAN......................................................     44
+</TABLE>
+
+- --------------------------------------------------------------------------------
+                                                                         Page  6
+<PAGE>   8
+                QUESTIONS AND ANSWERS ABOUT THE MEETING
+
+     Q: What do I need to do now?
+
+     A: Just sign and mail your proxy card in the enclosed return envelope as
+     soon as possible, so that your shares may be represented at the meeting.
+     The meeting will take place on September 7, 2000. Your Board of Directors
+     recommends that you vote in favor of each proposal being submitted to you
+     for approval.
+
+     Q: Can I change my vote after I have mailed in my signed proxy card?
+
+     A: Yes. You can change your vote at any time before we vote your proxy at
+     the meeting. You can do so in one of three ways. First, you can send
+     written notice stating that you would like to revoke your proxy to our
+     Secretary at the address given below. Second, you can complete a new proxy
+     card and send it to our Secretary at the address given below. Third, you
+     can attend the meeting and vote in person. You should send any written
+     notice or new proxy card to:
+
+                               Kathleen J. Wilson
+                     Vice President and Corporate Secretary
+                         ACCEL International Corporation
+                                 75 West Street
+                           Simsbury, Connecticut 06070
+
+     You may request a new proxy card by calling Kathleen J. Wilson at
+     (860) 843-7607.
+
+     Q: Where can I find more information?
+
+     A: You may obtain more information, as set forth in "Where You Can Find
+     More Information" on page 34.
+
+
+
+
+
+
+                                                                          Page 7
+<PAGE>   9
+                                     SUMMARY
+
+
+
+     Because this a summary, it does not contain all the information that may be
+important to you. Before you decide how to vote on each proposal, you should
+carefully read this entire proxy statement and all of its appendices. For a
+description of the documents referred to in this statement, you should review
+"Where You Can Find More Information" beginning on page 34.
+
+THE MEETING (PAGE 10)
+
+The meeting will be held on September 7, 2000 at 10:00 a.m., local time at the
+offices of Day, Berry & Howard LLP, CityPlace I, Hartford, Connecticut. At the
+meeting you will be asked:
+
+- -    to elect nine directors;
+
+- -    to approve a proposed amended and restated Certificate of Incorporation and
+     amendments to our Bylaws;
+
+- -    to approve proposed amendments to our 1996 Stock Incentive Plan; and
+
+- -    to act on any other items that may be submitted to a vote at the meeting.
+
+RECORD DATE; VOTE REQUIRED (PAGE 11)
+
+You can vote at the meeting if you owned shares of our common stock at the close
+of business on July 14, 2000. You can cast one vote for each share of common
+stock that you owned at the time. The directors nominees who receive the most
+votes of those cast will be elected. The proposed amendments to our Certificate
+of Incorporation and Bylaws must be approved by the holders of at least 80% of
+the outstanding shares of our common stock. The proposed amendments to the 1996
+Stock Incentive Plan will require the affirmative vote of a majority of the
+holders of the shares voting in person or by proxy at the meeting. You can vote
+your shares by attending the meeting and voting in person; or you can mark the
+enclosed proxy card with your vote, sign it and mail it in the enclosed return
+envelope. You can revoke your proxy as late as the date of the meeting either by
+sending in a new proxy or by attending the meeting and voting in person.
+
+
+ANNUAL MEETING PROPOSALS (PAGE 12,16,21)
+
+ELECTION OF DIRECTORS (PAGE 12)
+
+- -    At the meeting you will be asked to elect the following director nominees:
+     David T. Chase, Raymond H. Deck, Richard Desich, Gregory B. Grusse, Richard
+     A. Lawrence, Gerald H. Pastor, John T. Redding, Thomas J. Renwick, and
+     Robert N. Worgaftik to serve until the 2001 annual meeting of stockholders.
+
+PROPOSED AMENDMENTS TO CERTIFICATE OF INCORPORATION AND BYLAWS (PAGE 16)
+
+At the meeting you will be asked to approve an amended and restated Certificate
+of Incorporation and amendments to our Bylaws. The proposed amendments, if
+approved would:
+
+     -    increase the number of authorized shares of common stock from 15
+          million shares to 30 million shares;
+
+     -    eliminate the prohibition against stockholder action without a
+          meeting;
+
+     -    eliminate some anti-takeover and supermajority vote provisions;
+
+     -    reduce the minimum number of directors of the Corporation from nine to
+          seven;
+
+     -    permit the bylaws to be made, repealed, altered, amended or rescinded
+          by the vote of our stockholders holding a majority of our outstanding
+          shares entitled to elect directors, rather than by stockholders
+          holding 80% or more of the shares as currently required;
+
+     -    decrease the stockholder vote necessary to approve an amendment to our
+          Certificate of Incorporation that would contravene any bylaw, from the
+          vote of stockholders holding 80% or more of our outstanding shares
+
+                                                                          Page 8
+<PAGE>   10
+
+          entitled to elect directors, to the vote of the holders of only a
+          majority of the shares; and
+
+     -    permit the Board of Directors to designate the date, time and place of
+          all meetings of stockholders.
+
+PROPOSED AMENDMENTS TO 1996 STOCK INCENTIVE PLAN (PAGE 21)
+
+At the meeting you will be asked to approve amendments to our 1996 Stock
+Incentive Plan that will:
+
+     -    increase the total number of shares of common stock with respect to
+          which awards may be granted from 1,500,000 to 2,500,000, and Directors
+          stock options from 500,000 to 750,000; and
+
+     -    provide that the Board of Directors by unanimous vote may grant up to
+          150,000 stock options with an option price not less than $2.00 to an
+          outside director who, in the opinion of the Board, performs services
+          for the Corporation or its subsidiaries not contemplated by Director
+          fees or other grants in the Plan. This action may only be taken
+          independently by the Board excluding the Director receiving the
+          special grant. Director stock options granted are provided at an
+          option price of not less than $2.00.
+
+
+
+                                                                          Page 9
+<PAGE>   11
+THE MEETING
+
+DATE, TIME AND PLACE OF MEETING
+
+
+     We will hold the meeting on September 7, 2000, at 10:00 a.m., local time,
+or at any adjournment or postponement thereof, at the offices of Day, Berry &
+Howard LLP, CityPlace I, Hartford, Connecticut for the purposes set forth in the
+accompanying Notice of Annual Meeting of Stockholders.
+
+
+MATTERS TO BE CONSIDERED AT THE MEETING
+
+     At the meeting, we will ask our stockholders to consider and vote upon the
+following matters:
+
+- -    the election of directors to serve until our next annual meeting;
+
+- -    a proposal to amend our Certificate of Incorporation and Bylaws in order
+     to:
+
+     (a)  increase the number of authorized shares of common stock from 15
+          million shares to 30 million shares;
+
+     (b)  eliminate the prohibition against stockholder action without a
+          meeting;
+
+     (c)  eliminate some anti-takeover and supermajority vote provisions;
+
+     (d)  reduce the minimum number of directors of the Corporation from nine to
+          seven;
+
+     (e)  permit the bylaws to be made, repealed, altered, amended or rescinded
+          by the vote of our stockholders holding a majority of our outstanding
+          shares entitled to elect directors, rather than by stockholders
+          holding 80% or more of the shares as currently required;
+
+     (f)  decrease the stockholder vote necessary to approve an amendment to our
+          Certificate of Incorporation that would contravene any bylaw, from the
+          vote of stockholders holding 80% or more of our outstanding shares
+          entitled to elect directors, to the vote of the holders of only a
+          majority of the shares; and
+
+     (g)  permit the Board of Directors to designate the date, time and place of
+          all the meetings and stockholders.
+
+- -    a proposal to amend the 1996 Stock Incentive Plan in order to:
+
+     (a)  increase the total number of shares of common stock with respect to
+          which awards may be granted from 1,500,000 to 2,500,000, and Directors
+          stock options from 500,000 to 750,000; and
+
+     (b)  provide that the Board of Directors by unanimous vote may grant up to
+          150,000 stock options with an option price not less than $ 2.00 to an
+          outside director who, in the opinion of the Board, performs services
+          for the Corporation or its subsidiaries not contemplated by Director
+          fees or other grants in the Plan. This action may only be taken
+          independently by the Board excluding the Director receiving the
+          special grant. Director stock options granted are provided at an
+          option price of not less than $2.00.
+
+
+The stockholders will also consider and vote upon such other matters as may
+properly be brought before the meeting or any adjournment or postponement
+thereof.
+
+VOTE REQUIRED
+
+     A plurality of the votes cast by the stockholders present in person or by
+proxy and entitled to vote will elect directors. This means that the directors
+receiving
+
+                                                                         Page 10
+<PAGE>   12
+the greatest number of votes cast will be elected. With regard to the election
+of directors, you may vote in favor of or withhold your vote from each nominee;
+and votes that are withheld will be excluded entirely from the vote and will
+have no effect. There is no cumulative voting with respect to the election of
+directors.
+
+         The proposal to amend the Certificate of Incorporation and Bylaws will
+pass if the holders of 80% or more of our outstanding shares entitled to elect
+directors vote in favor.
+
+     The proposal to amend the 1996 Stock Incentive Plan will pass upon the
+affirmative vote of the holders of a majority of the shares voting in person or
+by proxy at the meeting.
+
+     Pursuant to applicable law, broker non-votes and abstentions will not be
+counted in favor of any proposal presented at the meeting or the election of any
+nominee for director. If you abstain from voting on the proposal to amend the
+Certificate of Incorporation and Bylaws, then you will in effect be voting
+against it. Broker non-votes will also have the same effect as a negative vote
+on the proposal. Abstentions and broker non-votes will not count against the
+proposals to amend the 1996 Stock Incentive Plan and to elect directors.
+
+VOTING OF PROXIES
+
+     Shares of our common stock represented by properly executed proxies
+received in time for the meeting, unless previously revoked, will be voted at
+the meeting as specified by the stockholders on the proxies. If no specification
+is made, shares represented by these proxies will be voted as recommended by
+your Board of Directors.
+
+     If any other matters properly come before the meeting for consideration,
+the person or persons named in the form of proxy enclosed herewith and acting
+thereunder will have discretion to vote on the matters in accordance with their
+best judgment, unless the proxy indicates otherwise. We have no knowledge of any
+matters to be presented at the meeting other than those matters referred to and
+described in this proxy statement.
+
+REVOCABILITY OF PROXIES
+
+     If you give a proxy, you have the power to revoke it at any time before it
+is voted by a later appointment received by our Secretary or by giving notice of
+revocation to our Secretary in writing or in open meeting.
+
+RECORD DATE; STOCKHOLDERS ENTITLED TO VOTE; QUORUM
+
+     Only stockholders of record at the close of business on July 14, 2000, will
+be entitled to receive notice of and to vote at the meeting. As of the record
+date, 9,084,004 shares of common stock were issued and outstanding. Each share
+of common stock is entitled to one vote on each matter on which the holders of
+common stock are entitled to vote. A majority of the outstanding shares of
+common stock entitled to vote must be represented in person or by proxy at the
+meeting in order for a quorum to be present.
+
+SOLICITATION OF PROXIES
+
+     Your Board of Directors is soliciting proxies, the form of which is
+enclosed, for the meeting. The cost of this solicitation will be borne by us. We
+have hired Corporate Investor Communications, Inc. to solicit proxies for us at
+a fee of $4,500 plus expenses. Our officers, directors, regular employees or
+individuals from the firm hired by us may communicate with stockholders
+personally or by mail, telephone, telegram or otherwise for the purpose of
+soliciting proxies. We and our authorized agents will request brokers and other
+custodians, nominees and fiduciaries to forward proxy soliciting material to the
+beneficial owners of shares held of record by these persons and will reimburse
+their reasonable out-of-pocket expenses in forwarding the material. This proxy
+statement is being mailed on or about August 4, 2000.
+
+
+
+
+
+                                                                         Page 11
+<PAGE>   13
+                     PROPOSAL NO. 1 - ELECTION OF DIRECTORS
+
+NOMINEES FOR DIRECTORS
+
+     In accordance with our Bylaws, the Board of Directors has fixed the number
+of directors at nine. Directors are elected annually to serve until the next
+annual meeting of stockholders, and until their successors are elected and
+qualified. The election of directors is decided by a plurality of the votes cast
+by the shares entitled to vote in the election. In the absence of instructions
+to the contrary, the persons named in the proxy intend to vote the proxies for
+the election as directors of the persons nominated below. Although the Board of
+Directors has no reason to believe that any of the nominees set forth below will
+not serve, in the event that vacancies occur, the proxies will be voted for the
+election of the nominees, if any, which the Board of Directors or a duly
+authorized committee of it may designate.
+
+
+
+
+
+
+
+                                                                         Page 12
+<PAGE>   14
+
+
+
+
+
+<TABLE>
+<CAPTION>
+                                       NOMINEES                                    Number of shares of
+                                    TERM EXPIRES 2001                              Common Stock owned
+                                                                                   beneficially,
+Names, Position with the                                                           directly or
+Corporation and Age (as of     Principal Occupation for past         Director      indirectly, on           Percent
+January 31, 2000)              five years/other Directorships         Since        January 31, 2000,       of Class
+                                                                                   (except as otherwise
+                                                                                   noted) (1)
+- ------------------------------ --------------------------------- ----------------- ----------------------- ----------
+<S>                            <C>                                   <C>           <C>                      <C>
+       David T. Chase          President and Director of Chase         1985        4,348,648  (5)            47.9%
+        Director, 70           Enterprises, Inc.,
+             (2)               Hartford, CT.
+
+
+       Raymond H. Deck         Chairman of the Board of the            1990          348,787                  3.8%
+        Director, 77           Corporation since October, 1998.
+         (2) (3) (4)           President of Chase Insurance
+                               Enterprises, Inc., Hartford, CT.
+
+       Richard Desich          President of Mid-Ohio Securities        1997           41,350                    *
+        Director, 60           Corp., Elyria, OH
+         (2) (3) (4)
+
+       Gregory Grusse          Vice President of JPR Resources,        1999                0                    *
+        Director, 38           Inc.
+             (3)
+
+    Richard A. Lawrence        Former CFO of The Horace Bushnell         _
+  Vice President, Treasurer    Memorial Hall Corp. until                              10,500                    *
+and Chief Financial Officer,   October, 1999 and former Vice
+             50                President and Treasurer of
+                               Chartwell Reinsurance Company
+                               until February, 1997.
+
+      Gerald H. Pastor         President and Chief Executive           1999                0                   (6)
+      President, Chief         Officer of the Corporation since
+      Executive Officer        November 16, 1999. Prior thereto
+      and Director, 48         he was President and Chief
+            (2)                Executive Officer of Allegiance
+                               Insurance Managers, Ltd.,
+                               Simsbury, CT
+
+   John P. Redding             Senior Vice President,                  1997            7,000                    *
+     Director, 41              David  T. Chase Enterprises,
+        (2) (4)                Inc., Hartford, CT
+</TABLE>
+
+
+
+
+
+                                                                         Page 13
+<PAGE>   15
+
+<TABLE>
+<CAPTION>
+                                                                                   Number of shares of      Percent
+                                                                                   Common Stock                Of
+Names, Position with the       Principal Occupation for past       Director        owned beneficially,       Class
+Corporation and Age (as of     five years/other Directorships       Since          directly or
+January 31, 2000)                                                                  indirectly, on January
+                                                                                   31, 2000, (except as
+                                                                                   otherwise noted) (1)
+- ------------------------------ ----------------------------------- --------------- ------------------------ ----------
+<S>                            <C>                                   <C>            <C>                     <C>
+Thomas J. Renwick              Senior Vice President of the
+Senior Vice President and      Corporation since November 16,            1999            218,738                 2.4%
+Director, 51                   1999. Prior thereto he was Senior
+                               Vice President, Chief Operations
+                               Officer and Head of Claims for
+                               Allegiance Insurance Managers,
+                               Ltd., Simsbury, CT
+
+Robert N. Worgaftik            President of MW Financial                 2000            116,999                 1.3%
+   Director, 49                 Group, Ltd.
+
+
+
+
+All Directors and Officers as a group (9 persons)                                      5,092,022                56.1%
+</TABLE>
+
+
+(1)  On January 31, 2000, there were 9,084,004 shares of ACCEL's common stock
+     issued and outstanding. Except as noted, includes shares owned by spouse,
+     minor children or certain other family members, or held as custodian or
+     trustee for the benefit of spouse or children, or owned by corporations of
+     which such person is an officer or principal stockholder, over which shares
+     such directors have sole or shared voting or investment power. With respect
+     to the Directors, includes an aggregate of 305,000 shares which are subject
+     to immediately exercisable options. Of the 305,000 shares subject to
+     options, the following Directors have options to purchase the number of
+     shares indicated after their names: Mr. Chase, 13,000; Mr. Deck, 113,000;
+     Mr. Desich, 7,000; and Mr. Redding, 7,000.
+
+(2)  Member of Executive Committee (Mr. Deck, Chairman).
+
+(3)  Member of Audit Committee (Mr. Grusse, Chairman).
+
+(4)  Member of Compensation Committee (Mr. Desich, Chairman).
+
+(5)  See footnotes (2) and (5) at pages 26 and 27 herein.
+
+(6)  In consideration for the acquisition by the Corporation of Allegiance
+     Insurance Managers, Ltd., on January 14, 2000, ACCEL will issue an
+     additional 997,038 shares to Pastor upon, and subject to receipt of,
+     clearance by the Ohio Department of Insurance. Should the foregoing
+     clearance not be received, ACCEL will issue to Pastor such other
+     consideration as may be mutually agreed upon by ACCEL and Pastor, which may
+     include a lesser number of shares of ACCEL common stock (subject to the
+     foregoing clearance) and/or other securities.
+
+     *    Less than 1% of outstanding Common Stock.
+
+
+
+
+                                                                         Page 14
+<PAGE>   16
+COMPENSATION OF DIRECTORS
+
+     During 1999, we continued to pay our non-employee directors at the reduced
+compensation levels initiated in 1993. Accordingly our non-employee directors
+received an annual retainer of $5,000 plus a fee of $500 per meeting for
+attending any regular or special meetings of the Board of Directors. The members
+of each committee of the Board of Directors, other than officers of ACCEL,
+received a fee of $500 for each meeting attended. Chairmen of committees
+received a fee of $750 for each meeting attended.
+
+     On October 1, 1999 Mr. Deck, an outside director, was appointed Chairman of
+the Board. Mr. Deck's compensation as executive chairman was established at
+$100,000 annually and continued at that rate during 2000.
+
+     The 1996 Stock Incentive Plan of ACCEL International Corporation provides
+for options to be granted every year to our non-employee directors for a
+predetermined number of shares of common stock. This plan, as amended by the
+stockholders in 1998, provides that newly appointed or elected non-employee
+directors are granted options for 10,000 shares in the year they are appointed
+or elected, and thereafter will receive annual automatic grants of options to
+purchase 10,000 shares. The exercise price is equal to the fair market value of
+a share of stock on the date the option is granted. Options become exercisable
+as to 50% of the shares subject to the option on completion of each full year
+prior to termination of the director's status as director after the date the
+option was granted. The options lapse on the earliest of the date 10 years after
+the option was granted, or the date 180 days after the termination of the
+director's status as director. The options shall fully vest and become
+completely exercisable upon the death or voluntary retirement of a director.
+
+MEETINGS AND COMMITTEES OF THE BOARD OF DIRECTORS
+
+     Your Board of Directors met two times during 1999. No director was absent
+from any of the meetings or committees on which he served. The Board of
+Directors has established an Executive Committee, an Audit Committee and a
+Compensation Committee. It does not have a Nominating Committee.
+
+     The Executive Committee, which exercises the powers of the Board of
+Directors between regular meetings of the Board, did not meet during 1999. The
+membership of the Executive Committee consists of Messrs. Chase, Deck, Desich,
+Pastor and Redding.
+
+     The Audit Committee did not meet during 1999. The membership of the Audit
+Committee consists of Messrs. Deck, Desich and Grusse.
+
+     The Compensation Committee did not meet during 1999 for the purposes of
+reviewing employee compensation and benefit arrangements. The membership of the
+Compensation Committee consists of Messrs. Deck, Desich and Redding.
+During 1999, the Board of Directors acted on Executive Compensation.
+
+
+
+
+                                                                         Page 15
+<PAGE>   17
+PROPOSAL NO. 2 - AMENDMENTS TO CERTIFICATE OF INCORPORATION AND BYLAWS
+
+GENERAL
+
+     The Board of Directors has approved and recommends that you approve and
+adopt the amended and restated Certificate of Incorporation of ACCEL attached as
+Appendix A to this proxy statement and the amendments to ACCEL's bylaws attached
+as Appendix B to this proxy statement. The changes to the Certificate of
+Incorporation and Bylaws will:
+
+     -    increase the number of authorized shares of common stock from 15
+          million shares to 30 million shares;
+
+     -    eliminate the prohibition against stockholder action without a
+          meeting;
+
+     -    eliminate some anti-takeover and supermajority vote provisions;
+
+     -    reduce the minimum number of directors of the Corporation from nine to
+          seven;
+
+     -    permit the bylaws to be made, repealed, altered, amended or rescinded
+          by the vote of our stockholders holding a majority of our outstanding
+          shares entitled to elect directors, rather than by stockholders
+          holding 80% or more of the shares as currently required;
+
+     -    decrease the stockholder vote necessary to approve an amendment to our
+          Certificate of Incorporation that would contravene any bylaw, from the
+          vote of stockholders holding 80% or more of our outstanding shares
+          entitled to elect directors, to the vote of the holders of only a
+          majority of the shares; and
+
+     -    permit the Board of Directors to designate the date, time and place of
+          all meetings of stockholders.
+
+     We have discussed these changes in further detail below. Copies of our
+Certificate of Incorporation and Bylaws as now in effect and marked as proposed
+to be amended are also included in Appendices A and B. The affirmative vote of
+the holders of 80% or more of the outstanding shares of ACCEL is required to
+approve the proposed amended and restated Certificate of Incorporation and
+amendments to the Bylaws. If stockholders approve the proposal, we intend to
+file an amendment to our Certificate of Incorporation shortly after the meeting.
+The amendment to the Certificate of Incorporation will be effective immediately
+when the Secretary of State of Delaware accepts the filing. The amendments to
+the Bylaws will be effective when the stockholders approve it.
+
+INCREASE IN NUMBER OF AUTHORIZED SHARES
+
+     The proposed amended and restated Certificate of Incorporation will
+increase the number of authorized shares of common stock of ACCEL from 15
+million shares to 30 million shares. The additional shares of common stock to be
+authorized will have rights identical to the currently outstanding shares of
+common stock of ACCEL.
+
+     The Board of Directors believes the proposed increase in the number of
+authorized shares of common stock is necessary to provide ACCEL with the
+flexibility to act in the future with respect to financing programs,
+acquisitions, mergers, stock splits and other corporate purposes without the
+delay and expense associated with obtaining stockholder approval each time an
+opportunity requiring the issuance of shares may arise. After the proposed
+amended and restated Certificate of Incorporation becomes effective, the Board
+of Directors will be free to issue the additional authorized shares of common
+stock without further action on the part of stockholders. Stockholders will not
+have any preemptive rights to purchase the additional shares.
+
+     The availability of authorized but unissued shares of common stock might be
+deemed to have the effect of preventing or discouraging an attempt by another
+person to obtain control of ACCEL, because the additional shares could be issued
+by the Board of Directors, which could dilute the stock ownership of that
+person. We have
+
+                                                                         Page 16
+<PAGE>   18
+no plans for issuances for that purpose and this proposal is not being proposed
+in response to a known effort to acquire control of ACCEL.
+
+     The authorization of additional shares of common stock pursuant to this
+proposal will itself have no dilutive effect upon the proportionate voting power
+of the present stockholders of ACCEL. However, to the extent that ACCEL
+subsequently issues shares to persons other than the present stockholders, the
+issuance could have a substantial dilutive effect on present stockholders.
+
+AMENDMENT PERMITTING ACTION BY WRITTEN CONSENT
+
+     Under the applicable provisions of the Delaware General Corporation Law, in
+the absence of a prohibition against stockholder action without a meeting,
+stockholders may take any action which may be taken at a meeting of stockholders
+without a meeting, without prior notice and without a vote, if:
+
+      -   the holders of outstanding stock having not less than the minimum
+          number of votes that would be necessary to authorize or take the
+          action at a meeting at which all shares entitled to vote thereon were
+          present and voted, sign consents in writing, setting forth the action;
+          and
+
+      -   deliver the consents to the corporation.
+
+Consequently, the amendment will make it easier to gain stockholder approval at
+any time approval is required without the delay and expense associated with
+calling a special meeting of our stockholders. David T. Chase and related
+persons currently have the power to vote a majority of the outstanding shares.
+The amendment will give them the power, acting together, to take stockholder
+action without a meeting. See "SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS"
+on page 26.
+
+AMENDMENT ELIMINATING ANTI-TAKEOVER AND SUPERMAJORITY PROVISIONS
+
+     GENERAL DESCRIPTION. The proposed amended and restated Certificate of
+Incorporation will result in the deletion, in their entirety, of Articles Sixth,
+Tenth, Twelfth and Thirteenth of our existing Certificate of Incorporation and
+the deletion of the second sentence of Article Fourteenth of our Certificate of
+Incorporation. The proposed amendments to the Bylaws will amend Article IX.
+
+     As noted above, the proposed amendment will eliminate Article Twelfth of
+the existing Certificate of Incorporation in its entirety. Article Twelfth
+requires that some transactions with a Related Corporation (as defined in
+Article Twelfth) and the dissolution of ACCEL be approved by resolution of the
+Board of Directors prior to the Related Corporation acquiring the beneficial
+ownership of more than 5% of the outstanding common stock of ACCEL. If this
+approval is not received, then the transaction must be approved by the holders
+of at least 80% of the outstanding shares of ACCEL entitled to elect directors,
+even if the approval of holders of only a simply majority of outstanding shares
+or of the shares voted or represented at the meeting might otherwise be legally
+required.
+
+     It is important to understand that many of the terms defined in Article
+Twelfth differ from similar concepts established under the Delaware General
+Corporation Law. Article Twelfth defines a "Related Corporation" as any other
+corporation or its affiliate if the other corporation and its affiliates singly
+or in the aggregate are directly or indirectly the beneficial owners of more
+than 5% of the outstanding shares of common stock of the Corporation. The
+transactions covered by Article Twelfth include:
+
+         -  the merger of ACCEL with any Related Corporation;
+
+         -  the sale, lease or exchange of all or substantially all of
+            ACCEL's assets or business to or with a Related Corporation; and
+
+         -  the issuance or delivery by ACCEL of any stock or other securities
+            in exchange or payment for any properties or assets of any Related
+            Corporation or securities issued by any Related Corporation or in a
+            merger of any affiliate of ACCEL with or into
+
+                                    Page 17
+<PAGE>   19
+            any Related Corporation.
+
+     The proposed amendment will also eliminate provisions in our existing
+Certificate of Incorporation that require approval by holders of 80% or more of
+the outstanding shares of ACCEL to amend, repeal or adopt:
+
+          -    any provision of our Bylaws;
+
+          -    an amendment to our Certificate of Incorporation that would
+               contravene any bylaw; and
+
+          -    the following Articles of our Certificate of Incorporation:
+
+               -    Article Thirteenth (governing some amendments to the
+                    Certificate of Incorporation requiring an 80% supermajority
+                    vote);
+
+               -    Article Sixth (dealing with alteration of the bylaws by the
+                    stockholders);
+
+               -    Article Seventh (dealing with the number and selection of
+                    directors);
+
+               -    Article Tenth (dealing with the prohibition against
+                    stockholder action without a meeting); and
+
+               -    Article Twelfth (which is described above).
+
+     The proposed amendment will also amend Article IX of our Bylaws, which
+currently provides that the bylaws may be made, repealed, altered, amended or
+rescinded by the Board of Directors or by the holders of not less than 80% of
+the outstanding shares of ACCEL entitled to elect directors. Article IX also
+provides that an 80% supermajority vote is required for any amendment to our
+Certificate of Incorporation that would contravene any Bylaw in existence on the
+record date of the applicable stockholder meeting. The proposed amendment will
+change all of the foregoing 80% supermajority vote requirements to the vote of
+the holders of a majority of the outstanding shares of ACCEL.
+
+     If stockholders eliminate the supermajority vote requirements, then the
+holders of a majority of the outstanding shares of common stock could change our
+Certificate of Incorporation, including changes to the size of the Board of
+Directors beyond what is currently permitted by Article Seventh of the
+Certificate of Incorporation. Also, the affirmative vote of a majority of either
+the outstanding shares of common stock or the members of the Board of Directors
+could change the bylaws.
+
+     HISTORICAL BACKGROUND. Article Twelfth and the supermajority provisions are
+intended to make it more difficult for a takeover to occur without the approval
+of the Board of Directors. Our stockholders adopted Article Twelfth and the
+supermajority voting provisions of the Certificate of Incorporation and the
+Bylaws that this proposal would eliminate at a time when unsolicited attempts to
+take control of or acquire companies were common.
+
+     REASONS FOR THE PROPOSAL.  The Board of Directors believes that the
+provisions of Article Twelfth and the supermajority voting provisions contained
+in our Certificate of Incorporation and Bylaws are no longer meaningful, but
+have become unnecessary and potentially cumbersome. The Board of Directors
+believes that elimination of Article Twelfth and the supermajority provisions
+would provide greater flexibility in connection with the management of ACCEL and
+transactions of the type subject to Article Twelfth and the 80% supermajority
+voting provisions, and that this flexibility would be beneficial to ACCEL and
+its stockholders.
+
+     The Board of Directors believes that Article Twelfth is unnecessary because
+we are subject to other safeguards that assure the fairness of transactions
+involving interested directors or stockholders. For example, Section 144 of the
+Delaware General Corporation Law requires that transactions with related parties
+either be:
+
+       -  approved by a majority of the disinterested directors, as
+
+
+                                                                         Page 18
+<PAGE>   20
+
+
+          determined pursuant to the Delaware General Corporation Law;
+
+       -  approved by the holders of a majority of the common stock
+          entitled to vote thereon; or
+
+       -  fair to ACCEL as of the time the Board of Directors or the holders of
+          the common stock approved the transactions.
+
+     In addition, it is our policy that any transaction with related parties be
+on terms no less favorable to us than could be obtained in an arms-length
+transaction with unrelated parties. In approving any related party transaction,
+decisions by members of the Board of Directors are subject to the fiduciary duty
+requirements of the Delaware General Corporation Law and related case law.
+
+     Under the Delaware General Corporation Law, approval of mergers,
+consolidations and similar extraordinary transactions that may be subject to
+Article Twelfth generally would require the vote of the holders of a majority of
+the outstanding shares of capital stock of ACCEL. Other transactions currently
+covered by Article Twelfth may not require any stockholder vote under the
+Delaware General Corporation Law. In addition, Section 203 of the Delaware
+General Corporation Law, which became effective in 1987, restricts the ability
+of stockholders who beneficially own 15% or more of the outstanding shares of a
+corporation and have not held the shares for at least three years from engaging
+in some business combination transactions involving the corporation.
+
+     The Board of Directors believes that the supermajority voting provisions
+are no longer meaningful or necessary due to our current ownership structure,
+and may actually hinder our ability to raise capital or enter into business
+combinations the Board of Directors believes are in our best interest.
+Furthermore, the Board of Directors believes that the types of transactions
+subject to Article Twelfth and the 80% supermajority voting provisions should
+not be blocked by holders of a small minority of 20% of the common stock
+outstanding.
+
+     EFFECTS OF ADOPTION OF THE PROPOSAL. The elimination of Article Twelfth
+would permit us and any Related Corporation to engage in transactions of the
+type restricted by Article Twelfth with:
+
+       -  approval of the holders of a majority of our outstanding common stock,
+          pursuant to Sections 251 and 252 of the Delaware General Corporation
+          Law; or
+
+       -  in the case of some transactions with some Related Corporations, with
+          the approval of a majority of the disinterested directors as
+          determined in accordance with Section 144 of the Delaware General
+          Corporation Law.
+
+     Elimination of Article Twelfth would have the effect of rendering less
+difficult the accomplishment of business combinations, changes in control of
+ACCEL, unsolicited tender offers or mergers, and the assumption of control by
+the holder of a large block of shares.
+
+     The elimination of the 80% supermajority voting provisions would make it
+easier for holders of a majority of the stock and current management to effect
+changes to our Certificate of Incorporation and bylaws which they favor, but
+would make it more difficult for them to preclude changes they opposed or to
+retain control if a hostile takeover was attempted.
+
+     It is unlikely that a hostile takeover attempt, Certificate of
+Incorporation or Bylaw amendment or other stockholder initiative would be
+successful unless supported by the Chase family. Members of the Chase family, in
+conjunction with the senior management of ACCEL, if they vote together as a
+block, presently are able to vote more than 50% of the common stock outstanding.
+See "SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS" on page 26. The
+elimination of Article Twelfth and the supermajority voting provisions would
+make it easier for the Chase family along with the senior management of ACCEL to
+obtain approval of a reorganization transaction with a Related Corporation,
+Certificate of Incorporation or Bylaw amendment or other extraordinary item that
+they support, and also would make it more difficult for
+
+                                                                         Page 19
+<PAGE>   21
+anyone else to block or veto a reorganization transaction with a Related
+Corporation, Certificate of Incorporation or Bylaw amendment or other
+extraordinary item that such person opposes.
+
+AMENDMENT REDUCING MINIMUM NUMBER OF DIRECTORS
+
+     The proposed amended and restated Certificate of Incorporation will reduce
+the minimum number of directors to seven. The Certificate of Incorporation
+presently requires at least nine directors.
+
+     The Board of Directors believes that at times fewer than nine directors may
+be appropriate for ACCEL. Also reducing the minimum will avoid potential
+problems if nine qualified people are not willing to serve as directors.
+Delaware law only requires that ACCEL have three directors. Although the Board
+of Directors has no plans to reduce the present number of directors, it believes
+that it is desirable to have the flexibility to have a smaller Board if that
+becomes necessary or desirable in the future.
+
+AMENDMENT TO PERMIT DIRECTORS TO ESTABLISH PLACE, DATE, AND TIME FOR
+STOCKHOLDERS' MEETINGS
+
+     The proposed amendment to the Bylaws will allow the Board of Directors to
+designate the date, time and place for all meetings of stockholders.
+
+     The current Bylaws state that all meetings of stockholders shall be held in
+the State of Ohio, unless otherwise provided by a vote of the majority of the
+directors. The Corporation's principal office is now in Connecticut and it is
+unlikely that any meetings of stockholders will take place in the State of Ohio.
+
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR APPROVAL AND ADOPTION OF THE
+AMENDED AND RESTATED CERTIFICATE OF INCORPORATION AND THE BYLAWS AMENDMENTS.
+
+
+
+
+
+                                                                         Page 20
+<PAGE>   22
+      PROPOSAL NO. 3 - APPROVAL OF THE ADOPTION OF AMENDMENTS TO THE
+                        1996 STOCK INCENTIVE PLAN
+
+GENERAL
+
+          -    The Board of Directors has approved amendments (the "Plan
+               Amendment") to the Corporation's 1996 Stock Incentive Plan (the
+               "Plan") to increase the maximum number of shares of common stock,
+               $.10 par value, of ACCEL ("Common Stock") with respect to which
+               awards may be granted under the Plan. Currently, the maximum
+               number of shares of Common Stock with respect to which awards may
+               be granted under the Plan is 1,500,000. The Plan Amendment
+               increases the maximum number of shares under the Plan to
+               2,500,000, and Directors stock options from 500,000 to 750,000.
+
+          -    In addition, the Board of Directors by unanimous vote may grant
+               up to 150,000 stock options with an option price not less than
+               $2.00 to an outside director who, in the opinion of the Board,
+               performs services for the Corporation or its subsidiaries not
+               contemplated by Director fees or other grants in the Plan. This
+               action may only be taken independently by the Board excluding the
+               Director receiving the special grant. Director stock options
+               granted are provided at an option price of not less than $2.00.
+
+
+     In order for the Plan amendment to become effective, stockholders must
+approve it at the 2000 Annual Meeting of Stockholders.
+
+THE PLAN
+
+     The purpose of the Plan is to advance the long-term interests of the
+Corporation by (i) motivating executive officers, other personnel and
+independent agents of the Corporation by means of long-term incentive
+compensation; (ii) furthering the identity of interests of participants with
+those of the stockholders of the Corporation, through the ownership and
+performance of the Common Stock; and (iii) permitting the Corporation to attract
+and retain directors and executive personnel upon whose judgment the successful
+conduct of the business of the Corporation largely depends.
+
+SUMMARY OF THE PROVISIONS OF THE PLAN
+
+     Overview. The Plan permits the granting of (1) options to purchase shares
+of Common Stock which are either (a) non-statutory stock options ("Non-statutory
+Stock Options") not intended to qualify for special tax treatment under the
+Internal Revenue Code of 1986, as amended (the "Code"), or (b) options which are
+intended to qualify as incentive stock options under the Code ("Incentive Stock
+Options"), (2) stock appreciation rights in conjunction with stock options, (3)
+restricted stock awards, (4) phantom stock awards and (5) performance shares.
+All employees of the Corporation and its subsidiaries who hold a position with
+responsibility in an executive, managerial, administrative or professional
+capacity or independent agents who market and sell insurance written by a
+subsidiary of the Corporation, and whose performance, as determined by the
+Committee (as defined below under the caption "Administration") in the exercise
+of the Committee's sole and absolute discretion, can have an effect on the
+growth, profitability and success of the Corporation, are eligible to be
+participants in the Plan. In addition, the Plan provides for the grant of stock
+options to Directors of the Corporation who are not employees of the Corporation
+or any of its subsidiaries (the "Outside Directors"). The Plan is not subject to
+the provisions of the Employee Retirement Income Security Act of 1974, as
+amended, and is not qualified under Section 401(a) of the Code.
+
+     Common Stock Available. The total number of shares of Common Stock
+currently available under the Plan is 1,500,000 shares. The proposed Plan
+Amendment increases the maximum number of shares under the Plan to 2,500,000
+shares. Of this maximum number, up to 750,000 shares may be issued pursuant to
+the exercise of Outside Directors' stock options. Notwithstanding the foregoing,
+at no time shall the number of shares of Common Stock deemed available for grant
+in any fiscal year exceed 10% of the total number of issued and outstanding
+shares of Common Stock. The number of shares of Common Stock available for grant
+to any individual participant in any
+
+                                                                         Page 21
+<PAGE>   23
+calendar year shall not exceed 250,000. The number of shares of Common Stock
+which remain available for grant pursuant to the Plan and Common Stock subject
+to outstanding awards will be appropriately and proportionately adjusted to
+reflect changes in the Corporation's capitalization, including stock splits,
+stock dividends, mergers, reorganizations, consolidations and recapitalizations.
+The purchase price per share under outstanding options will also be
+appropriately adjusted to reflect capitalization changes.
+
+     Administration. The Plan may be administered by the Board of Directors or
+such other committee designated by the Board to administer the Plan under
+Section 3 of the Plan (the "Committee"). The Committee shall be composed of at
+least three directors and shall serve at the pleasure of the Board of Directors.
+Each member of the Committee must be a director who is a "disinterested person"
+under Rule 16b-3 under the Exchange Act and an "outside director" under Section
+162(m) of the Code and the regulations thereunder. The Committee has the
+authority to select the employees and/or independent agents to be participants,
+to determine the type and number of awards to be granted, and to establish rules
+and regulations for the administration of the Plan.
+
+     Stock Options. For stock options granted to employees or independent agents
+under the Plan, the option price per share will be not less than 100% of the
+fair market value of Common Stock on the date of the grant. Payment of the
+option price upon exercise of an option may be made in cash, Common Stock, or a
+combination thereof, as set forth in the option agreement. The term of each
+option will be fixed by the Committee, except that Incentive Stock Options will
+not be exercisable after 10 years from the grant date. The grant and terms of
+Incentive Stock Options will be limited to the extent required by the Code.
+Independent agents shall not be eligible to receive grants of Incentive Stock
+Options. In the absence of any provision in an option to the contrary (i)
+options will become exercisable as to 25% of the shares of Common Stock subject
+to the option upon the completion of the first full year of employment or
+retention and as to 25% of such shares upon the completion of each full year
+thereafter prior to termination of the participant's relationship with the
+Corporation, and (ii) options will lapse upon the earlier of (w) 180 days after
+the termination of the participant's relationship with the Corporation if the
+termination is due to death or disability or if the participant dies within 90
+days of such termination, (x) 90 days after termination of the participant's
+relationship with the Corporation for any other reason other than death,
+disability or gross misconduct or neglect, (y) upon termination of the
+participant's relationship with the Corporation if the termination is the result
+of the participant's gross misconduct or neglect as determined by the Committee,
+and (z) 10 years after the option was granted. Each stock option will be
+evidenced by an option agreement conforming to the provisions of the Plan, in
+such form as is approved by the Committee from time to time. The option
+agreement will set forth the number of shares of Common Stock that are subject
+to the option, the type of option granted, the option price to be paid upon
+exercise, the manner in which the option is to be exercised, the option period,
+and such other terms as may be approved by the Committee.
+
+     Stock Appreciation Rights.  Stock appreciation rights may be granted
+pursuant to the Plan either separately or in conjunction with other awards.
+Stock appreciation rights related to stock options may be granted when the
+option is granted, and with respect to non-statutory options, also may be
+granted at any time before exercise or expiration of the option. Upon exercise
+of a stock appreciation right, the holder will receive payment from the
+Corporation in an amount equal to the excess of the then fair market value of
+the Common Stock covered by the stock appreciation right over the option or
+grant price of the stock appreciation right. The Committee may impose such
+conditions or restrictions on the exercise of any stock appreciation right it
+deems appropriate.
+
+     Restricted Stock Awards. Restricted stock awards may be granted pursuant to
+the Plan. Shares of Common Stock covered by restricted stock awards may not be
+sold or otherwise transferred by the recipient until termination of the
+restrictions applicable to the awards, which restrictions will be established by
+the Committee and need not be the same for all such awards. Restricted stock
+awards shall be subject to such terms, conditions, restrictions, or limitations
+as the Committee deems appropriate. During the period in which any shares of
+Common Stock are
+
+                                                                         Page 22
+<PAGE>   24
+subject to restrictions, the Committee may, in its discretion, grant to
+recipients all or any of the rights of stockholders with respect to such Common
+Stock.
+
+     Phantom Stock Awards. Awards of phantom stock may be granted under the Plan
+either separately or in conjunction with other awards. Phantom stock awards
+entitle the recipient to receive the market value or appreciation in value of a
+stated number of shares of Common Stock on a settlement date determined by the
+Committee. The Committee has complete authority to determine the terms,
+conditions, restrictions and limitations of such awards.
+
+     Performance Shares. Performance shares may be granted under the Plan.
+Performance shares are convertible into Common Stock or cash, or a combination
+thereof, upon the obtainment of predetermined performance targets during an
+established performance period. The Committee shall establish the performance
+targets, the performance period and the other terms, conditions, restrictions or
+limitations on any award of performance shares.
+
+     Outside Director Stock Options.  The Plan provides for the grant to Outside
+Directors of options to purchase Common Stock ("Outside Director Stock
+Options"). See "Compensation of Directors". Each Outside Director who is elected
+or appointed to serve as a Director of the Corporation after the effective date
+of the Plan and who is not a Director on the effective date of the Plan, shall,
+upon his initial appointment or election, automatically be granted an option to
+purchase 10,000 shares of Common Stock.
+
+At each year's annual meeting of the stockholders of the Corporation there shall
+be granted automatically to each Outside Director (other than any Outside
+Director who first became a Director at any time during the period following the
+immediately preceding annual meeting of stockholders), the option to purchase
+10,000 shares of Common Stock. All Outside Director Stock Options will be
+Non-statutory Stock Options with a 10-year term , and the purchase price per
+share will be 100% of the fair market value of Common Stock on the date of
+grant. Payment of the Option price may be made in cash, Common Stock, or a
+combination thereof, as set forth in the option agreement. In the absence of any
+provision in an option to the contrary, options will become exercisable as to
+50% of the shares of Common Stock subject to the option upon the completion of
+each full year thereafter prior to termination. Outside Director Stock Options
+not otherwise exercisable at the time of the termination of the Director's
+status as a Director may be exercised for 180 days following the date of such
+termination, as long as such period is within the original 10-year option term.
+Outside Director Options not otherwise exercisable at the time of the death or
+voluntary retirement of a Director may be exercised for a period of 180 days
+subject to the original term of the option.
+
+     Tax Effects. For federal income tax purposes, under existing statutes,
+regulations and authorities, an optionee does not realize taxable income at the
+time of the grant of an Incentive Stock Option, a Non-statutory Stock Option,
+phantom stock award or a stock appreciation right. Upon the exercise of a
+Non-statutory Stock Option, the Corporation is entitled to a compensation
+expense deduction in the amount by which the fair market value of the subject
+Common Stock exceeds the option price and the optionee realizes ordinary income
+in such amount. Upon the exercise of a stock appreciation right, the Corporation
+is entitled to a deduction and the optionee realizes ordinary income in the
+amount of the cash or fair market value of the Common Stock received. On the
+subsequent sale of Common Stock received upon the exercise of a Non-statutory
+Stock Option, the difference between the fair market value of the Common Stock
+on the date of receipt and the amount realized on the sale will be treated as
+capital gain or loss, which will be short or long term depending on the period
+for which the Common Stock is held prior to the sale. An optionee will have no
+taxable income upon the exercise of an Incentive Stock Option (except that the
+alternative minimum tax may apply) and generally does not realize taxable income
+until the sale of the Common Stock received upon exercise of the option. If a
+sale does not take place until at least two years after grant and one year after
+exercise of the option, any gain or loss realized will be treated as long term
+capital gain or loss. Under such circumstances, the Corporation will not be
+entitled to a deduction in connection with the grant or the exercise of the
+option. If a disposition occurs prior to two years after grant or one year after
+exercise, then the difference between the option price and the fair market value
+of the Common Stock on the date of exercise (or in
+
+                                                                         Page 23
+<PAGE>   25
+certain cases, the amount realized on sale, if less than the market value on the
+date of exercise) is taxable as ordinary income to the optionee and is
+deductible by the Corporation for federal income tax purposes.
+
+     With respect to awards of phantom stock, a participant will realize
+ordinary income equal to the fair market value of the Common Stock or
+appreciation in value of the Common Stock, as applicable, on the settlement date
+and the Corporation will be entitled to a deduction in the same amount. With
+respect to restricted stock awards, a participant generally will realize
+ordinary income equal to the fair market value of the Common Stock received as
+of the first day that such shares of Common Stock become transferable or are not
+subject to substantial risk of forfeiture, whichever occurs earlier. The
+Corporation will be entitled to a deduction at that time in the same amount.
+
+     Assignment of Interest. Except as expressly provided in the Plan with
+respect to transfers by will or the laws of descent and distribution, no option,
+phantom stock awards, stock appreciation right or restricted stock award may be
+assigned or transferred by any participant.
+
+     Limitations on Resale of Securities. Participants who are officers or
+directors of the Corporation, including those who may be deemed "affiliates" of
+the Corporation, as such term is defined under the Securities Act, have certain
+limitations on their ability to resell Common Stock acquired pursuant to the
+Plan. Any sale of Common Stock by an employee or Outside Director also must be
+made in compliance with the Corporation's policies on trading in securities of
+the Corporation.
+
+     Amendment or Termination of the Plan. No awards may be granted under the
+Plan after June 11, 2006. The Plan gives the Committee the power to suspend,
+reinstate and terminate the Plan or any portion thereof at any time. In
+addition, the Committee may amend the Plan, except that, without any required
+stockholder approval, no such amendment may (1) materially increase the benefits
+to participants in the Plan, (2) materially increase the total number of shares
+of Common Stock that could be issued or (3) materially modify the requirements
+as to eligibility for participation in the Plan. The provisions of the Plan
+relating to the eligibility for, and the amount, price and timing of, awards to
+Outside Directors may not be amended, nor shall the operation of such provisions
+be suspended or reinstated, more than once every six months.
+
+PROPOSED AMENDMENTS TO THE PLAN
+
+SECTION 5: SHARES AVAILABLE
+
+     The Board of Directors has approved, subject to the approval of the
+stockholders, amendments to the Plan which would increase the total number of
+shares of Common Stock with respect to which awards may be granted from
+1,500,000 to 2,500,000, and Directors stock options from 500,000 to 750,000. The
+Board believes that the Plan is an important way to attract, retain and motivate
+key employees, and that it is appropriate to increase the number of shares
+available for awards under the Plan. Approval of the proposed Plan Amendments
+will ensure that enough shares are available under the Plan to encourage stock
+ownership by executive officers and key employees and to help the Corporation
+attract and retain individuals who will contribute to the Corporation's success.
+
+SECTION 13: DIRECTORS' STOCK OPTIONS.
+
+     In addition, the Board of Directors by unanimous vote may grant up to
+150,000 stock options with an option price not less than $2.00 to an outside
+director who, in the opinion of the Board, performs services for the Corporation
+or its subsidiaries not contemplated by Director fees or other grants in the
+Plan. This action may only be taken independently by the Board excluding the
+Director receiving the special grant. Director stock options granted are
+provided at an option price of not less than $2.00.
+
+
+                                                                         Page 24
+<PAGE>   26
+     No other changes to the Plan are proposed. The text of the proposed
+amendment to the Plan is included in this Proxy Statement as Appendix C.
+
+     Approval of the proposed amendments to the Plan requires the affirmative
+vote of the holders of a majority of the shares voting in person or by proxy at
+the Annual Meeting of Stockholders.
+
+THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR APPROVAL AND ADOPTION OF THE
+AMENDMENTS TO THE 1996 STOCK INCENTIVE PLAN.
+
+
+
+
+
+                                                                         Page 25
+<PAGE>   27
+                           FORWARD LOOKING STATEMENTS
+
+     Matters discussed throughout this proxy statement include some statements
+that may be "forward-looking statements" within the meaning of the Private
+Securities Litigation Reform Act of 1995. All statements in this proxy
+statement, other than statements of historical facts, that address activities,
+events or developments that we expect, believe or anticipate will or may occur
+in the future are forward-looking statements. Although we believe the
+expectations expressed in these forward-looking statements are based on
+reasonable assumptions within the bounds of our knowledge of our business, these
+statements are not guaranteed of future performance and actual results or
+developments may differ materially from those in the forward-looking statements.
+Forward-looking statements involve risks and uncertainties including, but not
+limited to, general economic trends, continued acceptance of our products in the
+marketplace, competitive factors, insurance regulations, adverse changes in
+interest rates, unforeseen losses with respect to loss and settlement expense
+reserves for unreported and reported claims, catastrophic events, and other
+risks detailed from time to time in our periodic reports filed with the
+Commission. We undertake no obligation to update publicly any forward-looking
+statements, whether as a result of new information, future events or otherwise.
+
+
+
+                 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+
+     We have provided in the following table some information as of January 31,
+2000 (except as otherwise noted) with respect to stockholders known to us to be
+the beneficial owners of more than 5% of any class of our voting securities.
+
+<TABLE>
+<CAPTION>
+                                Name and Address                      Amount of                          Percent
+Title of Class                  of Beneficial Owner                   Beneficial Ownership (1)           of Class
+- --------------                  -------------------                   ------------------------           --------
+<S>                             <C>                                   <C>                                <C>
+Common Stock                    David T. Chase                        4,348,648  Shares (2)              47.9%
+                                D. T. Chase Enterprises, Inc.
+                                One Commercial Plaza
+                                Hartford  CT   06103
+
+                                Arnold L. Chase                       1,167,824 Shares (3)               12.9%
+                                D. T. Chase Enterprises, Inc.
+                                One Commercial Plaza
+                                Hartford  CT   06103
+
+                                The Darland Trust                     1,167,824 Shares (4)               12.9%
+                                P. O. Box 472
+                                St. Peter's House, Le Bordage
+                                St. Peter Port
+                                Guernsey GYI6AX
+                                Channel Islands
+
+                                Rhoda L. Chase                        2,000,000 Shares (5)               22.0%
+                                c/o Chase Enterprises, Inc.
+                                One Commercial Plaza
+                                Hartford  CT   06103
+
+                                Spitzer Profit Sharing and            750,250 Shares (6)                 8.3%
+                                Savings Plan
+                                150 E. Bridge Street
+                                Elyria  OH   44035
+</TABLE>
+
+(1)   Except as otherwise noted, the Corporation has no reason to believe that
+      any beneficial owner listed above does not have sole voting and investment
+      power with respect to these shares.
+
+(2)   Includes 13,000 shares of common stock subject to immediately exercisable
+      options. According to a Schedule 13D filed with the Securities and
+      Exchange Commission (the "Commission"), Mr. David T. Chase has, to the
+      extent temporarily transferred to him, sole power to vote and dispose of
+      880,000 shares of common stock loaned to him by his
+
+                                                                         Page 26
+<PAGE>   28
+      wife, Rhoda L. Chase (the "Rhoda Chase Borrowed Shares") and shares the
+      power to dispose or to direct the disposition of (i) 1,120,000 shares
+      beneficially owned by Rhoda L. Chase (ii) 1,167,824 shares beneficially
+      owned by his son, Arnold L. Chase, and (iii) 1,167,824 shares beneficially
+      owned by The Darland Trust (the "Trust"), a trust whose beneficiaries are
+      his daughter, Cheryl A. Chase, and her children.
+
+(3)   According to a Schedule 13D filed with the Commission, Mr. Arnold L. Chase
+      shares the power to dispose or to direct the disposition of the 1,167,824
+      shares owned by him with Mr. David T. Chase and has the sole power to vote
+      or direct the vote of such shares. Such shares are also included in the
+      above table in Mr. David T. Chase's shares.
+
+(4)   According to a Schedule 13D filed with the Commission, the Trust shares
+      the power to dispose or to direct the disposition of the 1,167,824 shares
+      owned by it with Mr. David T. Chase and has the sole power to vote or
+      direct the vote of such shares. Such shares are also included in the above
+      table in Mr. David T. Chase's shares.
+
+(5)   According to a Schedule 13D filed with the Commission, Rhoda L. Chase has
+      the sole power to vote or to direct the vote of all such shares, except to
+      the extent that she may be deemed to have temporarily transferred the sole
+      power to vote or to direct the vote of the 880,000 Rhoda Chase Borrowed
+      Shares to David T. Chase. Rhoda L. Chase shares the power to dispose or to
+      direct the disposition of 1,120,000 of the shares of common stock owned by
+      her with David T. Chase. Rhoda L. Chase has the sole power to dispose or
+      to direct the disposition of the Rhoda Chase Borrowed Shares, except to
+      the extent that she may be deemed to have temporarily transferred such
+      power to David T. Chase. The shares of common stock owned by Rhoda L.
+      Chase are also included in the above table in David T. Chase's shares.
+
+(6)   Spitzer Profit Sharing and Savings Plan under agreement dated December 31,
+      1973, is an employee Benefit Plan, Pension Fund subject to the provisions
+      of the Employee Retirement Income Security Act of 1974.
+
+
+                      MARKET PRICE AND DIVIDEND INFORMATION
+
+     Our common stock is traded over-the-counter as one of The Nasdaq Stock
+Market Bulletin Board issues, under the NASDAQ symbol ACLE.
+
+     The following table sets forth the quarterly range of over-the-counter
+prices for our common stock during the quarters indicated. These prices have
+been adjusted for common stock dividends, if any, and do not include retail
+mark-up, mark-down, or commissions and do not always necessarily represent
+actual transactions.
+
+<TABLE>
+<CAPTION>
+1997                   High                  Low
+- -------------------------------------------------------
+<S>                   <C>                   <C>
+1st Quarter           3.250                 2.813
+2nd Quarter           3.125                 2.875
+3rd Quarter           4.125                 3.500
+4th Quarter           3.813                 3.375
+
+1998
+- -------------------------------------------------------
+1st Quarter            3.500                3.063
+2nd Quarter            3.500                2.875
+3rd Quarter            3.375                2.188
+4th Quarter            3.375                2.125
+
+1999
+- -------------------------------------------------------
+1st Quarter            3.000                2.500
+2nd Quarter            2.625               1.8125
+3rd Quarter            1.875               1.0625
+4th  Quarter           1.188                0.563
+
+2000
+- -------------------------------------------------------
+1st  Quarter           1.125                0.750
+2nd  Quarter            .844                 .625
+</TABLE>
+
+     The approximate number of holders of record of our common stock as of June
+1, 2000 is 546. Since June 1992, your Board of Directors has suspended payment
+of cash dividends on our common stock until we return to a level of
+profitability that will sustain dividend payments.
+
+
+                                                                         Page 27
+<PAGE>   29
+
+
+                             EXECUTIVE COMPENSATION
+
+EXECUTIVE OFFICERS
+
+     We have listed in the following table the name, age and principal position
+of each of our executive officers.
+
+<TABLE>
+<CAPTION>
+Name                       Age              Principal Position
+- --------------------------------------------------------------------------------
+<S>                        <C>              <C>
+Raymond H. Deck            78         Chairman
+
+Richard A. Lawrence        51         Vice President, Treasurer and Chief
+                                      Financial Officer
+
+Gerald H. Pastor           48         President and Chief Executive Officer
+
+Thomas J. Renwick          52         Senior Vice President
+
+Kathleen J. Wilson         49         Vice President and Corporate Secretary
+</TABLE>
+
+The executive officers, their respective ages and business experience are as
+follows:
+
+              Raymond H. Deck (78), Chairman of the Board; Gerald H. Pastor
+              (48), President and Chief Executive Officer; Thomas J. Renwick
+              (52), Senior Vice President; Richard A. Lawrence (51), Vice
+              President, Treasurer and Chief Financial Officer; Kathleen J.
+              Wilson (49), Vice President and Secretary.
+
+              Mr. Deck was named Chairman of the Board effective October 1,
+              1998. He has been an outside Director of the Corporation since
+              1990. He also serves as President of Chase Insurance Enterprises,
+              Inc., Hartford, Connecticut.
+
+              Mr. Pastor joined the Corporation on October 5, 1999, when he was
+              appointed a member of the Board of Directors, and President and
+              Chief Executive Officer of the Corporation's subsidiary,
+              Acceleration National Insurance Corporation. On November 16, 1999,
+              he was elected President and Chief Executive Officer of the
+              Corporation. He also serves as President and Chief Executive
+              Officer for Allegiance Insurance Managers, Ltd.
+
+              Mr. Renwick joined the Corporation on October 5, 1999, when he was
+              appointed a member of the Board of Directors of Acceleration
+              National Insurance Company ("ANIC"). On October 6, 1999, Mr.
+              Renwick was appointed Senior Vice President of ANIC. On November
+              16, 1999, Mr. Renwick was elected Senior Vice President of ACCEL.
+              Prior to his election, Mr. Renwick was Senior Vice President, COO
+              and Head of Claims for Allegiance Insurance Managers, Ltd.
+
+              Mr. Lawrence joined Allegiance as a financial and accounting
+              consultant to guide Acceleration National Insurance Company's
+              wind-down of operations in Texas and subsequent move to
+              Connecticut. Mr. Lawrence joined the Corporation on October 5,
+              1999, when he was appointed a member of the Board of Directors of
+              Acceleration National Insurance Company. On November 16, 1999, he
+              was elected Vice President, Treasurer and Chief Financial Officer
+              of ACCEL.
+
+              Ms. Wilson joined the Corporation on October 5, 1999, when she was
+              appointed a member of the Board of Directors and Corporate
+              Secretary of Acceleration National Insurance Company. On October
+              6, 1999, Ms. Wilson was appointed Vice President of ANIC. On
+              November 16, 1999 she was elected Vice President and Corporate
+              Secretary of ACCEL. Prior to her election, Ms. Wilson was Vice
+
+
+                                                                         Page 28
+<PAGE>   30
+              President, Systems, Administration and Controller for Allegiance
+              Insurance Managers, Ltd.
+
+SUMMARY COMPENSATION TABLE
+
+     We have summarized in the following table some information concerning the
+compensation awarded or paid to, or earned by, our current Chief Executive
+Officer and each of our other most highly compensated executive officers whose
+total annual salary and bonus for the fiscal year ended December 31, 1999
+exceeded $100,000 (the "named executives") during each of the last three fiscal
+years:
+
+
+
+<TABLE>
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------------------------
+                                              SUMMARY COMPENSATION TABLE
+- ------------------------------------------------------------------------------------------------------------------------
+
+                                                        Annual Compensation            Long Term Compensation
+- ------------------------------------------------------------------------------------------------------------------------
+                                                                                         Securities         All Other
+       Year  Name, Age, and Principal Position            Salary         Bonus            Underlying       Compensation
+                                                            ($)           ($)           Options/SAR's (#)     ($) (1)
+- ------------------------------------------------------------------------------------------------------------------------
+<S>          <C>                                       <C>           <C>         <C>                   <C>
+       1999  Gerald H. Pastor, 48 (2)                     57,692            --                   --                --
+             President and Chief Executive Officer
+- ------------------------------------------------------------------------------------------------------------------------
+       1998                                                   --            --                   --                --
+- ------------------------------------------------------------------------------------------------------------------------
+       1997                                                   --            --                   --                --
+- ------------------------------------------------------------------------------------------------------------------------
+       1999  Douglas J. Coats, 66 (3)                    216,947            --                   --             9,516
+             President and Chief Executive Officer
+- ------------------------------------------------------------------------------------------------------------------------
+
+       1998                                              162,728            --               30,000             6,318
+- ------------------------------------------------------------------------------------------------------------------------
+       1997                                              137,500            --               30,000            12,980
+- ------------------------------------------------------------------------------------------------------------------------
+       1999  Walter J. Kozuch, 46 (4)                     95,892        20,000                   --             5,280
+             Vice President and Chief  Program
+             Manager
+- ------------------------------------------------------------------------------------------------------------------------
+       1998                                               80,801            --               10,000             1,996
+- ------------------------------------------------------------------------------------------------------------------------
+       1997                                                   --            --                   --                --
+- ------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1)  Acceleration Retirement Savings and Stock Ownership Plan.
+
+(2)  Mr. Pastor was appointed President and Chief Executive Officer of
+     Acceleration National Insurance Company on October 5, 1999, and was elected
+     President and Chief Executive Officer of ACCEL International Corporation on
+     November 16, 1999.
+
+(3)  Mr. Coats served as President and Chief Executive Officer of the Company
+     for the period October 1, 1998 trough November 15, 1999. He continues to
+     serve as Director for the Company and as Chairman of the Board of
+     Acceleration National Insurance Company.
+
+(4)  Mr. Kozuch joined Acceleration National Insurance Company in February, 1998
+     as Assistant Vice President, Actuarial Services. He was promoted to Vice
+     President, Actuarial Services in December, 1998. He currently serves both
+     on the Board of Directors of ANIC and as Vice President and Chief Program
+     Manager.
+
+
+OPTIONS GRANTED IN LAST FISCAL YEAR
+
+
+     No option grants were made to any employees of the Corporation in 1999.
+
+
+                                                                         Page 29
+<PAGE>   31
+     We have provided in the following table some information regarding
+individual exercises of stock options during 1999 by each of the named
+executives:
+
+
+<TABLE>
+<CAPTION>
+- ----------------------------------------------------------------------------------------------------------------------
+                      AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FY-END OPTION VALUES
+- ----------------------------------------------------------------------------------------------------------------------
+                              Shares       Value
+                             Acquired     Realized         Number of Securities             Value of Unexercised
+           Name                 on      (Mkt. Price       Underlying Unexercised          In-The-Money Options at
+                             Exercise   at Exercise             Options at                  Fiscal year End (1)
+                               (#)          Less            Fiscal Year End(#)
+                                          Exercise
+                                           Price)        Exercisable Unexercisable       Exercisable Unexercisable
+- ----------------------------------------------------------------------------------------------------------------------
+<S>                          <C>        <C>              <C>                             <C>
+Gerald H. Pastor                0           N/A              N/A             N/A             N/A             N/A
+- ----------------------------------------------------------------------------------------------------------------------
+Walter J. Kozuch                0           N/A            5,000           5,000             N/A             N/A
+- ----------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(1) On December 31, 1999 none of the options outstanding for any of the named
+executives exceeded the market price of the Corporation's common stock.
+
+
+BENEFICIAL OWNERSHIP OF MANAGEMENT
+
+     We have provided in the following table some information regarding the
+named executive's beneficial ownership of our common stock as of December 31,
+1999:
+
+<TABLE>
+<CAPTION>
+                                                      Shares of Common Stock of
+                                                      Corporation Beneficially Owned
+                                              --------------------------------------
+Title of Class         Name of Officer             Number (1)          Percent of Class
+- ------------------------------------------------------------------------------------
+<S>                    <C>                         <C>                 <C>
+Common Stock           Walter J. Kozuch              10,000                   *
+</TABLE>
+
+- ---------
+(1) The amount shown represent the total shares owned outright by the named
+    individual together with shares which are issuable upon the exercise of all
+    stock options which are currently exercisable. Specifically, the following
+    individual has the right to acquire the shares indicated after his name,
+    upon the exercise of the stock option: Mr. Kozuch 10,000.
+
+*   Less than 1% of outstanding common stock.
+
+
+REPORT OF THE COMPENSATION COMMITTEE
+
+     During 1999 the Board of Directors acted on executive compensation. Mr.
+Coats' compensation, which had been increased to $200,000 when he became
+President and CEO on October 1, 1998, was continued on that level while he was
+in charge of restructuring the Corporation. All employees were terminated as of
+December 31, 1999, and the Corporation office was moved to Simsbury, Connecticut
+into the quarters of Allegiance Insurance Managers. Gerald H. Pastor, President
+of Allegiance, was appointed President of Acceleration National Insurance
+Company on October 5, 1999 in anticipation of the move and was then appointed
+President and CEO of ACCEL on November 16, 1999. His salary was established at
+$250,000.
+
+Raymond H. Deck, Chairman of the Board
+
+
+                                                                         Page 30
+<PAGE>   32
+PERFORMANCE GRAPH
+
+    The following graph compares the cumulative total shareholder return on our
+common stock from December 31, 1994, until December 31, 1999, with the
+cumulative total return of (a) the Russell 2000 Index and (b) the NASDAQ
+Insurance Index. The graph assumes the investment of $100 in our common stock,
+the Russell 2000 Index and the NASDAQ Insurance Index.
+
+
+
+
+
+                  COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN
+          AMONG ACCEL INTERNATIONAL CORPORATION, THE RUSSELL 2000 INDEX
+                         AND THE NASDAQ INSURANCE INDEX
+
+
+
+
+
+   See Performance Graph and Related Stock Information on the following page.
+
+
+
+
+
+
+                                                                         Page 31
+<PAGE>   33
+[NOTE: Graphical line chart representing the figures listed in the table below
+       is omitted from the EDGAR ASCII submission.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                         Page 32
+<PAGE>   34
+*   $100 INVESTED ON 12/31/94 IN STOCK OR INDEX
+    INCLUDING REINVESTMENT OF DIVIDENDS.
+    FISCAL YEAR ENDING DECEMBER 31.
+
+
+
+
+<TABLE>
+<CAPTION>
+                                    12/94     12/95     12/96    12/97    2/98    12/99
+
+
+<S>                                 <C>      <C>        <C>      <C>     <C>      <C>
+ACCEL                               100.00   157.14     157.14   207.14  164.29   57.14
+Russell 2000                        100.00   127.49     154.73   203.91  190.75  187.92
+NASDAQ Insurance                    100.00   142.05     161.92   237.52  211.58  164.29
+</TABLE>
+
+
+                                                                         Page 33
+<PAGE>   35
+             SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+     Section 16(a) of the Exchange Act of 1934 (the "Exchange Act") requires our
+officers and directors, and persons who own more than 10% of the common stock,
+to file reports of ownership and changes in ownership with the Securities and
+Exchange Commission. Officers, directors and greater than 10% stockholders are
+required by Securities and Exchange Commission regulations to furnish us with
+copies of all Section 16(a) forms they file.
+
+     Based solely on our review of the copies of the forms received by us or
+written representations from some reporting persons that no Forms 5 were
+required of them, we believe that during the fiscal year ended December 31,
+1999, all filing requirements applicable to our officers, directors and greater
+than 10% stockholders were complied with.
+
+                      RELATIONSHIP WITH INDEPENDENT AUDITORS
+
+     KPMG, LLP has served as our independent auditor for each of the years in
+the three-year period ended December 31, 1999. In recent years, it has been the
+practice of the Board of Directors to annually review and select independent
+auditors of ACCEL. The Audit Committee of the Board of Directors has selected to
+retain for the current fiscal year KPMG, LLP as the independent auditors for the
+corporation. Representatives of KPMG, LLP will be present at the meeting, will
+have an opportunity to make a statement, if desired, and will be available to
+respond to appropriate questions, if any, of our stockholders.
+
+                              STOCKHOLDER PROPOSALS
+
+     Stockholders wishing to submit proposals to our 2001 proxy statement may do
+so prior to April 4, 2001 by letter addressed to us in care of our Corporate
+Secretary.
+
+     On May 21, 1998, the Securities and Exchange Commission adopted an
+amendment to Rule 14a-4, as promulgated under the Exchange Act. The amendment to
+14a-4 (c)(1) governs our use of discretionary proxy voting authority with
+respect to a stockholder proposal which the stockholder has not sought to
+include in our proxy statement. The new amendment provides that if a proponent
+of a proposal fails to notify us at least 45 days prior to the month and day of
+mailing of the prior year's proxy statement, then the management proxies will be
+allowed to use their discretionary voting authority when the proposal is raised
+at that meeting, without any discussion of the matter in the proxy statement.
+
+     With respect to our 2001 meeting of stockholders, if we are not provided
+notice of a stockholder proposal that the stockholder has not previously sought
+to include in our proxy statement by April 4, 2001, the management proxies will
+be allowed to use their discretionary authority as outlined above.
+
+                                  OTHER MATTERS
+
+     As of the date of this proxy statement, we do not expect any matters other
+than these described in this proxy statement will be brought before the meeting.
+If any other business properly comes before the meeting, or any adjournment of
+the meeting, the proxy holders will vote in regard to the other business
+according to their discretion insofar as the proxies are not limited to the
+contrary.
+
+                       WHERE YOU CAN FIND MORE INFORMATION
+
+     We file annual, quarterly and special reports, proxy statements and other
+information with the Securities and Exchange Commission. This proxy statement is
+our proxy statement for the meeting.
+
+     You may read and copy any reports, statements or other information we file
+at the Securities and Exchange Commission's Public Reference Rooms at the
+following locations:
+
+
+                                                                         Page 34
+<PAGE>   36
+<TABLE>
+<S>                           <C>                           <C>
+Public Reference Room         New York Regional Office      Chicago Regional Office
+450 Fifth Street, N.W.        7 World Trade Center          Citicorp Center
+Room 1024                     Suite 1300                    500 West Madison Street
+Washington, DC  20549         New York, NY  10048           Suite 400
+                                                            Chicago, IL  60661-2511
+</TABLE>
+
+     Please call the Securities and Exchange Commission at 1-800-SEC-0330 for
+further information on the operation of the public reference rooms. Our
+Securities and Exchange Commission filings are also available to the public from
+commercial document retrieval services and at the web site maintained by the
+Securities and Exchange Commission at http://www.sec.gov.
+
+     In addition, our filings can be inspected at the offices of NASDAQ, 9801
+Washingtonian Blvd., 5th Floor, Gaithersburg, Maryland 20878, (202) 496-2500.
+
+     The Securities and Exchange Commission allows us to "incorporate by
+reference" information into this proxy statement, which means that we can
+disclose important information to you by referring you to other information we
+have filed with the Securities and Exchange Commission. The information
+incorporated by reference is deemed to be part of this proxy statement, except
+for any information superseded by information in this proxy statement.
+
+     This proxy statement incorporates by reference the documents set forth
+below that ACCEL has previously filed with the Securities and Exchange
+Commission. These documents contain important information about us.
+
+SEC Filings (file No. 0-8162)                Period or Date Filed
+- ------------------------------------------------------------------------------
+
+Annual Report on Form 10-K              Year ended:       -  December 31, 1999
+Current report on Form 8-K              January 20, 2000  -  February 4, 2000
+Quarterly Report on Form 10-Q           Quarter ended:    -  March 31, 2000
+
+     We are also incorporating by reference additional documents that we file
+with the Securities and Exchange Commission between the date of this proxy
+statement and the date of the annual meeting. These documents include periodic
+reports, such as annual reports on Form 10-K, quarterly reports on Form l0-Q and
+current reports on Form 8-K, as well as proxy statements.
+
+     You can request a free copy of all or any of these documents, other than
+the exhibits to these documents unless those exhibits are specifically
+incorporated by reference into these documents, by writing to or calling:
+
+           Kathleen J. Wilson, Vice President and Corporate Secretary
+                         ACCEL International Corporation
+                   75 West Street Simsbury, Connecticut 06070
+                                  (860)843-7600
+
+     If you would like to request these documents from us, please do so by
+August 15, 2000 to receive them before the meeting.
+
+     You should rely on the information contained or incorporated by reference
+in this proxy statement to decide how to vote on the matters to be considered at
+the annual meeting. We have not authorized anyone to provide you with
+information that is different from or in addition to what is contained in this
+proxy statement. Therefore, if anyone does give you information of this sort,
+you should not rely on it. The information contained in this proxy statement
+speaks only as of its date unless the information specifically indicates that
+another date applies.
+
+                     By Order of the Board of Directors
+
+
+
+                     Gerald H. Pastor
+                     President and Chief Executive Officer
+
+                                                                         Page 35
+<PAGE>   37
+                                   APPENDIX A
+
+           PROPOSED AMENDED AND RESTATED CERTIFICATE OF INCORPORATION
+
+               AMENDED AND RESTATED CERTIFICATE OF INCORPORATION
+                                       OF
+                        ACCEL INTERNATIONAL CORPORATION
+
+         Incorporated Pursuant to an Original Certificate of Incorporation filed
+with the Secretary of State of the State of Delaware on June 6, 1978
+
+     ACCEL INTERNATIONAL CORPORATION, a corporation duly organized and existing
+under the laws of the State of Delaware (the "Corporation"), does hereby certify
+as follows:
+
+     A. The Corporation was originally incorporated under the name Acceleration
+Corporation and filed its original Certificate of Incorporation with the
+Secretary of State of the State of Delaware on June 6, 1978.
+
+     B. The Corporation duly filed a Restated Certificate of Incorporation with
+the Secretary of State of the State of Delaware on June 9, 1989 and a
+Certificate of Amendment of Restated Certificate of Incorporation with the
+Secretary of State of the State of Delaware on June 13, 1996.
+
+     C. The Board of Directors of the Corporation at a meeting held on June
+28, 2000 duly adopted resolutions setting forth the Amended and Restated
+Certificate of Incorporation herein contained (the "Amended and Restated
+Certificate of Incorporation"), declaring its advisability and directing that
+such Amended and Restated Certificate of Incorporation be submitted to the
+holders of the Corporation's issued and outstanding capital stock, for approval
+in accordance with the provisions of Sections 242 and 245 of the General
+Corporation Law of the State of Delaware and the Corporation's Certificate of
+Incorporation, as currently in effect. The Amended and Restated Certificate of
+Incorporation was duly adopted by vote of the holders of not less than eighty
+percent (80%) of the outstanding shares of Common Stock of the Corporation at
+the annual meeting of stockholders held on September 7, 2000 all in accordance
+with the provisions of Sections 242 and 245 of the General Corporation Law of
+the State of Delaware and the Corporation's Certificate of Incorporation, as
+currently in effect.
+
+         D. The text of the Amended and Restated Certificate of Incorporation
+shall read in its entirety as follows:]
+
+     FIRST: The name of the Corporation is:
+
+            ACCEL INTERNATIONAL CORPORATION
+
+     SECOND: The address of the registered office of the Corporation in the
+State of Delaware is 1209 Orange Street in the City of Wilmington, County of New
+Castle, and the name of its registered agent at that address is The Corporation
+Trust Company.
+
+     THIRD: The purpose of the Corporation is to engage in any lawful act or
+activity for which corporations may be organized under the General Corporation
+Law of Delaware.
+
+     FOURTH: The Corporation shall be authorized to issue two classes of shares
+of stock to be designated, respectively, "Preferred Stock" and "Common Stock";
+the total number of shares which the Corporation shall have authority to issue
+is thirty-one million (31,000,000)); the total number of shares of Preferred
+Stock shall be one million (1,000,000) and each such share shall have a par
+value of one dollar ($1.00); and the total number of shares of Common Stock
+shall be thirty million (30,000,000) and each such share shall have a par value
+of ten cents ($.l0).
+
+     Shares of Preferred Stock may be issued from time to time in one or more
+series. The Board of Directors is hereby authorized to fix the voting rights,
+
+
+                                                                         Page 36
+<PAGE>   38
+redemption rights, conversion rights, sinking fund provisions, designations,
+powers, preferences and the relative, participating, optional or other rights,
+if any, and the qualifications, limitations or restrictions thereof, of any
+wholly unissued series of Preferred Stock; and to fix the number of shares
+constituting such series, and to increase or decrease the number of shares of
+any such series (but not below the number of shares thereof then outstanding).
+
+     FIFTH: In furtherance and not in limitation of the powers conferred by
+statute, the Board of Directors is expressly authorized to make, repeal, alter,
+amend and rescind the bylaws of the Corporation.
+
+     SIXTH: The number of Directors of the Corporation shall be fixed in the
+manner provided in the bylaws, but such number shall not be less than seven nor
+more than 24.
+
+     SEVENTH: During any period when the holders of any Preferred Stock or any
+one or more series thereof, voting as a class, shall be entitled to elect a
+specified number of directors, by reason of dividend arrearages or other
+provisions giving them the right to do so, then and during such time as such
+right continues (1) the then otherwise authorized number of directors shall be
+increased by such specified number of directors, and the holders of such
+Preferred Stock or such series thereof, voting as a class, shall be entitled to
+elect the additional directors so provided for, pursuant to the provisions of
+such Preferred Stock or series; (2) each such additional director shall serve
+for such term, and have such voting powers, as shall be stated in the provisions
+pertaining to such Preferred Stock or series; and (3) whenever the holders of
+any such Preferred Stock or series thereof are divested of such rights to elect
+a specified number of directors, voting as a class, pursuant to the provisions
+of such Preferred Stock or series, the terms of office of all directors elected
+by the holders of such Preferred Stock or series, voting as a class pursuant to
+such provisions, or elected to fill any vacancies resulting from the death,
+resignation or removal of directors so elected by the holders of such Preferred
+Stock or series, shall forthwith terminate and the authorized number of
+directors shall be reduced accordingly.
+
+     EIGHTH: Elections of directors at an annual or special meeting of
+stockholders need not be by written ballot unless the bylaws of the Corporation
+shall so provide.
+
+     NINTH: Special meetings of the stockholders of the Corporation for any
+purpose or purposes may be called at any time by the Board of Directors, or by a
+majority of the members of the Board of Directors, or by a committee of the
+Board of Directors which has been duly designated by the Board of Directors and
+whose powers and authority, as provided in a resolution of the Board of
+Directors or in the bylaws of the Corporation, include the power to call such
+meetings, but such special meetings may not be called by any other person or
+persons; provided, however, that if and to the extent that any special meeting
+of stockholders may be called by any other person or persons specified in any
+provision of this Amended and Restated Certificate of Incorporation or any
+amendment thereto or any certificate filed under Section 151(g) of the Delaware
+General Corporation Law (or its successor statute as in effect from time to time
+hereafter), then such special meeting may also be called by the person or
+persons, in the manner, at the times and for the purposes so specified.
+
+     TENTH: The Corporation reserves the right to amend, alter, change or repeal
+any provision contained in this Amended and Restated Certificate of
+Incorporation, in the manner now or hereafter prescribed by statute, and all
+rights conferred on stockholders herein are granted subject to this reservation.
+
+     ELEVENTH: No director or former director of the Corporation shall be
+personally liable to the Corporation or its stockholders for monetary damages
+for breach of fiduciary duty as a director, provided that this provision shall
+not eliminate or limit the liability of a director (i) for any breach of the
+director's duty of loyalty to the Corporation or its stockholders, (ii) for acts
+or omissions not in good faith or which involve intentional misconduct or a
+knowing violation of the law, (iii) under Section 174 of the Delaware General
+Corporation Law, which deals with the paying of a dividend or the approving of a
+stock repurchase or
+
+
+                                                                         Page 37
+<PAGE>   39
+redemption which is illegal under Delaware General Corporation Law, or (iv) for
+any transaction from which the director derived an improper personal benefit.
+
+     IN WITNESS WHEREOF, ACCEL International Corporation has caused this Amended
+and Restated Certificate of Incorporation to be signed by Gerald H. Pastor ,
+President and Chief Executive Officer, as of the _____ day of ___________, 2000.
+
+                                       ACCEL INTERNATIONAL CORPORATION
+
+
+                                       By:
+                                           ________________________________
+                                           Gerald H. Pastor President & CEO
+
+
+                                                                         Page 38
+<PAGE>   40
+     Note - We have provided below a copy of ACCEL's existing Certificate of
+Incorporation that we have marked to show the changes that will be effected if
+the stockholders of ACCEL approve Proposal 2. Added language appears in bold
+type and is surrounded by [ ]. Deleted language is encompassed by { }.
+
+
+               [AMENDED AND] RESTATED CERTIFICATE OF INCORPORATION
+                                       OF
+                         ACCEL INTERNATIONAL CORPORATION
+
+     [INCORPORATED PURSUANT TO AN ORIGINAL CERTIFICATE OF INCORPORATION] {ACCEL
+International Corporation was originally incorporated under the name
+Acceleration Corporation and its original certificate of incorporation was}
+filed with the Secretary of State [OF THE STATE] of Delaware on June 6, 1978{.
+This restated certificate was duly adopted June 8, 1989, by the board of
+directors of ACCEL International Corporation without a vote of shareholders in
+accordance with the provisions of Section 245 of the General Corporation Law of
+the State of Delaware.}
+
+     [ACCEL INTERNATIONAL CORPORATION, A CORPORATION DULY ORGANIZED AND EXISTING
+UNDER THE LAWS OF THE STATE OF DELAWARE {.This certificate only restates and
+integrates and does not further amend the provisions of the corporation's
+certificate of incorporation as heretofore amended or supplemented, and there is
+no discrepancy between those provisions and the provisions of this restated
+certificate. The adopted Restated Certificate is} [(THE "CORPORATION"), DOES
+HEREBY CERTIFY] follows:
+
+     [A. THE CORPORATION WAS ORIGINALLY INCORPORATED UNDER THE NAME ACCELERATION
+CORPORATION AND FILED ITS ORIGINAL CERTIFICATE OF INCORPORATION WITH THE
+SECRETARY OF STATE OF THE STATE OF DELAWARE ON JUNE 6, 1978.
+
+     B. THE CORPORATION DULY FILED A RESTATED CERTIFICATE OF INCORPORATION WITH
+THE SECRETARY OF STATE OF THE STATE OF DELAWARE ON JUNE 9, 1989 AND A
+CERTIFICATE OF AMENDMENT OF RESTATED CERTIFICATE OF INCORPORATION WITH THE
+SECRETARY OF STATE OF THE STATE OF DELAWARE ON JUNE 13, 1996.
+
+     C. THE BOARD OF DIRECTORS OF THE CORPORATION AT A MEETING HELD ON JUNE 28,
+2000 DULY ADOPTED RESOLUTIONS SETTING FORTH THE AMENDED AND RESTATED CERTIFICATE
+OF INCORPORATION HEREIN CONTAINED (THE "AMENDED AND RESTATED CERTIFICATE OF
+INCORPORATION"), DECLARING ITS ADVISABILITY AND DIRECTING THAT SUCH AMENDED AND
+RESTATED CERTIFICATE OF INCORPORATION BE SUBMITTED TO THE HOLDERS OF THE
+CORPORATION'S ISSUED AND OUTSTANDING CAPITAL STOCK, FOR APPROVAL IN ACCORDANCE
+WITH THE PROVISIONS OF SECTIONS 242 AND 245 OF THE GENERAL CORPORATION LAW OF
+THE STATE OF DELAWARE AND THE CORPORATION'S CERTIFICATE OF INCORPORATION, AS
+CURRENTLY IN EFFECT. THE AMENDED AND RESTATED CERTIFICATE OF INCORPORATION WAS
+DULY ADOPTED BY VOTE OF THE HOLDERS OF NOT LESS THAN EIGHTY PERCENT (80%) OF THE
+OUTSTANDING SHARES OF COMMON STOCK OF THE CORPORATION AT THE ANNUAL MEETING OF
+STOCKHOLDERS HELD ON NOVEMBER 16, 1999, ALL IN ACCORDANCE WITH THE PROVISIONS OF
+SECTIONS 242 AND 245 OF THE GENERAL CORPORATION LAW OF THE STATE OF DELAWARE AND
+THE CORPORATION'S CERTIFICATE OF INCORPORATION, AS CURRENTLY IN EFFECT.
+
+
+     D. THE TEXT OF THE AMENDED AND RESTATED CERTIFICATE OF INCORPORATION SHALL
+READ IN ITS ENTIRETY AS FOLLOWS:]
+
+     FIRST: The name of the Corporation is:
+
+            ACCEL INTERNATIONAL CORPORATION
+
+     SECOND: The address of the registered office of the Corporation in the
+State of Delaware is 1209 Orange Street in the City of Wilmington, County of New
+Castle, and the name of its registered agent at that address is The Corporation
+Trust Company.
+
+     THIRD: The purpose of the Corporation is to engage in any lawful act or
+activity for which corporations may be organized under the General Corporation
+Law of Delaware.
+
+
+                                                                         Page 39
+<PAGE>   41
+     FOURTH: The Corporation shall be authorized to issue two classes of shares
+of stock to be designated, respectively, "Preferred Stock" and "Common Stock";
+the total number of shares which the Corporation shall have authority to issue
+is {sixteen} [thirty-one] million (16,000,000)} [(31,000,000)]; the total number
+of shares of Preferred Stock shall be one million (1,000,000) and each such
+share shall have a par value of one dollar ($1.00); and the total number of
+shares of Common Stock shall be {fifteen} [thirty] million {(15,000,000)}
+[(30,000,000)] and each such share shall have a par value of ten cents ($.10).
+
+     Shares of Preferred Stock may be issued from time to time in one or more
+series. The Board of Directors is hereby authorized to fix the voting rights,
+redemption rights, conversion rights, sinking fund provisions, designations,
+powers, preferences and the relative, participating, optional or other rights,
+if any, and the qualifications, limitations or restrictions thereof, of any
+wholly unissued series of Preferred Stock; and to fix the number of shares
+constituting such series, and to increase or decrease the number of shares of
+any such series (but not below the number of shares thereof then outstanding).
+
+     FIFTH: In furtherance and not in limitation of the powers conferred by
+statute, the Board of Directors is expressly authorized to make, repeal, alter,
+amend and rescind the bylaws of the Corporation.
+
+     SIXTH{: The bylaw shall not be made, repealed, altered, amended, or
+rescinded by the stockholders of the Corporation except by the vote of the
+holders of not less than 80 percent of the outstanding shares of the Corporation
+entitled to elect directors. Any amendment to the Certificate of Incorporation
+which shall contravene any bylaw in existence on the record date of the
+stockholder meeting at which such amendment is to be voted upon by the
+stockholders shall require the vote of the holders of not less than 80 percent
+of the outstanding shares of the Corporation entitled to elect directors.
+
+     SEVENTH}: The number of Directors of the Corporation shall be fixed in the
+manner provided in the bylaws, but such number shall not be less than [seven]
+{nine} nor more than 24.
+
+     {EIGHTH} [SEVENTH]: During any period when the holders of any Preferred
+Stock or any one or more series thereof, voting as a class, shall be entitled to
+elect a specified number of directors, by reason of dividend arrearages or other
+provisions giving them the right to do so, then and during such time as such
+right continues (1) the then otherwise authorized number of directors shall be
+increased by such specified number of directors, and the holders of such
+Preferred Stock or such series thereof, voting as a class, shall be entitled to
+elect the additional directors so provided for, pursuant to the provisions of
+such Preferred Stock or series; (2) each such additional director shall serve
+for such term, and have such voting powers, as shall be stated in the provisions
+pertaining to such Preferred Stock or series; and (3) whenever the holders of
+any such Preferred Stock or series thereof are divested of such rights to elect
+a specified number of directors, voting as a class, pursuant to the provisions
+of such Preferred Stock or series, the terms of office of all directors elected
+by the holders of such Preferred Stock or series, voting as a class pursuant to
+such provisions, or elected to fill any vacancies resulting from the death,
+resignation or removal of directors so elected by the holders of such Preferred
+Stock or series, shall forthwith terminate and the authorized number of
+directors shall be reduced accordingly.
+
+     {(NINTH} [EIGHTH]: Elections of directors at an annual or special meeting
+of stockholders need not be by written ballot unless the bylaws of the
+Corporation shall so provide.
+
+     {TENTH: No action shall be taken by the stockholders except at an annual or
+special meeting of stockholders.  ELEVENTH)} [NINTH]: Special meetings of the
+stockholders of the Corporation for any purpose or purposes may be called at any
+time by the Board of Directors, or by a majority of the members of the Board of
+Directors, or by a committee of the Board of Directors which has been duly
+designated by the Board of Directors and whose powers and authority, as provided
+in a resolution of the Board of Directors or in the bylaws of the Corporation,
+include the power to call such meetings, but such special meetings may not be
+called by any
+
+
+                                                                         Page 40
+<PAGE>   42
+other person or persons; provided, however, that if and to the extent that any
+special meeting of stockholders may be called by any other person or persons
+specified in any provision of [this Amended and Restated]{the} Certificate of
+Incorporation or any amendment thereto or any certificate filed under Section
+151(g) of the Delaware General Corporation Law (or its successor statute as in
+effect from time to time hereafter), then such special meeting may also be
+called by the person or persons, in the manner, at the times and for the
+purposes so specified.
+
+     {TWELFTH:  The affirmative vote of the holders of not less than 80 percent
+of the outstanding shares of the Corporation entitled to elect directors shall
+be required for the approval of any proposal that (1) the Corporation merge or
+consolidate with any other corporation or any affiliate of such other
+corporation if such other corporation and its affiliates singly or in the
+aggregate are directly or indirectly the beneficial owners of more than five
+percent of the outstanding shares of Common Stock of the Corporation (such other
+corporation and any affiliate thereof being herein referred to as a "Related
+Corporation") or (2) the Corporation sell, lease or exchange all or
+substantially all of its assets or business to or with such Related Corporation,
+or (3) the Corporation issue or deliver any stock or other securities of its
+issue in exchange or payment for any properties or assets of any such Related
+Corporation or securities issued by any such Related corporation or in a merger
+of any affiliate of the Corporation with or into any such Related Corporation,
+or (4) the Corporation dissolve, and to effect such transaction the approval of
+stockholders of the Corporation is required by law or by any agreement between
+the Corporation and any national or regional securities exchange; provided,
+however, that the foregoing shall not apply to any such merger, consolidation,
+sale, lease, or exchange, or issuance or delivery of assets, stock or other
+securities which was approved by resolution of the Board of Directors of the
+Corporation prior to the acquisition of the beneficial ownership of more than
+five percent of the outstanding Common Stock by the Related Corporation, nor
+shall it apply to and such transaction solely between the Corporation and
+another corporation 50 percent or more of the voting power of which is owned by
+the Corporation provided that the Certificate of Incorporation of the surviving
+corporation contains provisions substantially similar to those provided in
+Articles SIXTH, TENTH, TWELFTH, THIRTEENTH. For the purposes hereof, an
+"affiliate" is any person (including a corporation, partnership, association,
+trust, business entity, estate or individual) who directly, or indirectly
+through one or more intermediaries, controls, or is controlled by, or is under
+common control with, the person specified; "control" means the possession,
+directly or indirectly, of the power to direct or cause the direction of the
+management and policies of a person, whether through the ownership of voting
+securities, by contract, or otherwise; and in computing the percentage of
+outstanding Common Stock beneficially owned by any person, the shares
+outstanding and the shares owned shall be determined as of the record date fixed
+to determine the stockholders entitled to "vote or express consent with respect
+to such proposal. The stockholder "vote, if any, required for mergers,
+consolidations, sales, leases, or exchanges of assets or issuances of stock or
+other securities not expressly provided for in this Article, shall be such as
+may be required by applicable law.}
+
+     {THIRTEENTH: The provisions set forth in this Article THIRTEENTH and in
+Articles SIXTH (dealing with the alteration of Bylaws by stockholders), SEVENTH
+(dealing with the number and selection of directors), TENTH (dealing "with the
+prohibition against stockholder action " without meetings) and TWELFTH (dealing
+with the 80 percent "vote of stockholders required for certain reorganizations)
+may not be repealed or amended in any respect unless such repeal or amendment is
+approved by the affirmative "vote of the holders of not less than 80 percent of
+the outstanding shares of the Corporation entitled to elect directors.
+FOURTEENTH:}
+
+     [TENTH:] The Corporation reserves the right to amend, alter, change or
+repeal any provision contained in this [Amended and Restated] Certificate of
+Incorporation, in the manner now or hereafter prescribed by statute, and all
+rights conferred on stockholders herein are granted subject to this reservation.
+
+{Notwithstanding the foregoing, the provisions set forth in Articles SIXTH,
+SEVENTH, TENTH, TWELFTH, and THIRTEENTH may not be repealed or amended in any
+respect unless such repeal or amendment is approved as specified in Article
+
+                                                                         Page 41
+<PAGE>   43
+
+THIRTEENTH of this Certificate of Incorporation. FIFTEENTH,} [ELEVENTH:] No
+director or former director of {this} [the] Corporation shall be personally
+liable to this Corporation or its stockholders for monetary damages for breach
+of fiduciary duty as a director, provided that this provision shall not
+eliminate or limit the liability of a director (i) for any breach of the
+director's duty of loyalty to the Corporation or its stockholders, (ii) for acts
+or omissions not in good faith or which involve intentional misconduct or a
+knowing violation of the law, (iii) under Section 174 of the Delaware General
+Corporation Law, which deals with the paying {'of'} [of] a dividend or the
+approving of a stock repurchase or redemption which is illegal under Delaware
+General Corporation Law, or (iv) for any transaction from which the director
+derived an improper personal benefit.
+
+     IN WITNESS WHEREOF, {said} ACCEL International Corporation has caused this
+[Amended and Restated] Certificate [of Incorporation] to be signed by {Nicholas
+Z. Alexander, it's Senior Vice President and Secretary} [Gerald H. Pastor,
+President and Chief Executive Officer,], {this 12th} [as of the] ____ [day] of
+{June} __________, {1996}[2000].
+
+
+
+    ___________________________________________________________________
+                         ACCEL INTERNATIONAL CORPORATION
+
+By: ______________________________________
+
+               [Gerald H. Pastor]
+    [President and Chief Executive Officer]
+
+
+By: ______________________________________
+         {Nicholas Z. Alexander}
+    {Vice President and Secretary}
+
+
+                                                                         Page 42
+<PAGE>   44
+                                   APPENDIX B
+
+                        PROPOSED AMENDMENTS TO THE BYLAWS
+
+                                   ARTICLE I
+                                    AMENDMENT
+
+         Section 1.03 Place of Meetings. All meetings of stockholders shall be
+held on such date, at such time and at such place as may be designated by the
+Board of Directors.
+
+                                   ARTICLE IX
+                                   AMENDMENTS
+
+
+     Except for ARTICLE VIII, the bylaws may be made, repealed, altered, amended
+or rescinded by the act of the Board of Directors. The Bylaws shall not be made,
+repealed, altered, amended, or rescinded by the stockholders of the Corporation
+except by the vote of the holders of not less than a majority of the outstanding
+shares of the Corporation entitled to elect directors. Any amendment to the
+Certificate of Incorporation which shall contravene any bylaw in existence on
+the record date of the stockholder meeting at which such amendment is to be
+voted upon by the stockholders shall require the vote of the holders of not less
+than a majority of the outstanding shares of the Corporation entitled to elect
+directors.
+
+     Note - We have provided below a copy of Section 1.03 and Article IX of
+ACCEL's existing Bylaws that we have marked to show the changes that will be
+effected if the stockholders of ACCEL approve Proposal 2.
+
+Section 1.03 Place of Meetings. All meetings of stockholders shall be held {at
+the principal office of the Corporation in the State of Ohio, unless otherwise
+provided by a vote of the majority of the directors} [on such date, at such time
+and at such place as may be designated by the Board of Directors].
+
+
+                                   ARTICLE IX
+                                   AMENDMENTS
+
+          Except for ARTICLE VIII, the bylaws may be made, repealed, altered,
+amended or rescinded by the act of the Board of Directors. The Bylaws shall not
+be made, repealed, altered, amended, or rescinded by the stockholders of the
+Corporation except by the vote of the holders of not less than {80 percent} [a
+majority] of the outstanding shares of the Corporation entitled to elect
+directors. Any amendment to the Certificate of Incorporation which shall
+contravene any bylaw in existence on the record date of the stockholder meeting
+at which such amendment is to be voted upon by the stockholders shall require
+the vote of the holders of not less than {80 percent} [a majority] of the
+outstanding shares of the Corporation entitled to elect directors.
+
+
+                                                                         Page 43
+<PAGE>   45
+                                   APPENDIX C
+
+                PROPOSED AMENDMENTS TO 1996 STOCK INCENTIVE PLAN
+
+
+Section 5. Shares Available
+
+     (a) Shares of Common Stock available for issuance under the Plan may be
+authorized and unissued shares or treasury shares. Subject to the adjustments
+provided for in Sections 17 and 18 hereof, the maximum number of shares of
+Common Stock available for grant of Awards under the Plan is 2,500,000 shares.
+Of this total number, up to 750,000 shares may be issued pursuant to the
+exercise of Directors' Stock Options. Notwithstanding the foregoing, at no time
+shall the number of shares of Common Stock deemed to be available for grant in
+any fiscal year exceed ten percent of the total number of issued and outstanding
+shares of Common Stock of the Company. The number of shares of Common Stock
+available for grant to any individual Participant in any calendar year shall not
+exceed 250,000 shares.
+
+
+Section 13.  Directors' Stock Options
+
+(a) GRANTS. Awards may be granted to non-employee Directors only in the form of
+stock options satisfying the requirements of this Section 13. Each person who is
+elected or appointed to serve as a Director of the Company after the effective
+date of the First Amendment to the Plan, upon his initial appointment or
+election as a Director, automatically be granted an option for 10,000 shares of
+Common Stock, with an option price of not less than $2.00. At each year's annual
+meeting of the stockholders of the Company commencing on the effective date of
+the First Amendment to the Plan, there shall be granted automatically to each
+non-employee Director (other than any non-employee Director who first became a
+Director at any time during the period following the immediately preceding
+annual meeting of the stockholders of the Company), the option to purchase
+10,000 shares of Common Stock, with an option price of not less than $2.00.
+
+In addition, the Board of Directors by unanimous vote may grant up to 150,000
+stock options with an option price not less than $ 2.00 to an outside director
+who, in the opinion of the Board, performs services for the company or its
+subsidiaries not contemplated by Director fees or other grants. This action may
+only be taken independently by the Board excluding the Director receiving the
+special grant. Director stock options granted are provided at an option price of
+not less than $2.00.
+
+
+                                                                         Page 44
+<PAGE>   46
+
+                     ACCEL INTERNATIONAL CORPORATION PROXY
+                         ANNUAL MEETING OF STOCKHOLDERS
+
+          THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+  The undersigned hereby appoints Gerald H. Pastor and Kathleen J. Wilson, or
+either of them acting singly, as Proxies, with power of substitution, for and in
+the name of the undersigned to vote, as designated below, all the shares of
+common stock of ACCEL International Corporation, a Delaware corporation (the
+"Company"), held of record by the undersigned as of July 14, 2000 at the annual
+meeting of stockholders to be held on September 7, 2000 or any adjournment
+thereof.
+
+1. Election of Directors.
+
+  [ ] FOR all nominees listed below (except as marked to the contrary below)
+
+  [ ] WITHHOLD AUTHORITY to vote for all nominees listed below
+  David T. Chase, Raymond H. Deck, Richard Desich, Gregory B. Grusse, Richard A.
+  Lawrence, Gerald H. Pastor, John P. Redding, Thomas J. Renwick, and Robert N.
+  Worgaftik.
+
+  (INSTRUCTION: To withhold authority to vote for any individual nominee, write
+  that nominee's name in the space provided below.)
+
+- --------------------------------------------------------------------------------
+
+2. AMENDMENTS TO CERTIFICATE OF INCORPORATION AND BYLAWS. Proposal to approve
+   and adopt the amended and restated certificate of incorporation and
+   amendments to the bylaws attached as Appendices A and B to the accompanying
+   Proxy Statement.
+
+  FOR [ ]                         AGAINST [ ]                        ABSTAIN [ ]
+
+3. AMENDMENTS TO 1996 STOCK INCENTIVE PLAN. Proposal to approve the amendments
+   to the 1996 Stock Incentive Plan attached as Appendix C to the accompanying
+   Proxy Statement.
+
+  FOR [ ]                         AGAINST [ ]                        ABSTAIN [ ]
+
+- --------------------------------------------------------------------------------
+                                                                         Page  7
+
+4. OTHER BUSINESS. In their discretion, the Proxies are authorized to vote upon
+   such other business as may properly come before the meeting or any
+   adjournment thereof.
+
+                           (Please See Reverse Side)
+
+- --------------------------------------------------------------------------------
+                                                                         Page  8
+<PAGE>   47
+
+  This Proxy, when properly executed, will be voted in the manner directed
+herein by the undersigned stockholder. IF NO DIRECTION IS MADE, THIS PROXY WILL
+BE VOTED FOR PROPOSALS 1, 2 AND 3.
+
+The undersigned hereby acknowledges receipt of the Notice of Annual Meeting of
+Stockholders and Proxy Statement, each dated August 4, 2000.
+
+Sign exactly as name appears hereon. When shares are held by joint tenants, both
+should sign.
+
+Date:
+- -----------------------------------,
+2000
+
+                                                 -------------------------------
+                                                           (Signature)
+
+                                                 -------------------------------
+                                                           (Signature)
+
+                                          (When signing as attorney, executor,
+                                          administrator, trustee or guardian,
+                                          please give full title as such. If a
+                                          corporation, please sign in full
+                                          corporate name by President or other
+                                          authorized officer. If a partnership,
+                                          please sign in partnership name by
+                                          authorized person.)
+
+- --------------------------------------------------------------------------------
+                                                                         Page  9
+
+   PLEASE MARK, SIGN, DATE AND RETURN THIS PROXY PROMPTLY USING THE ENCLOSED
+                                   ENVELOPE.
+
+- --------------------------------------------------------------------------------
+                                                                        Page  10
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

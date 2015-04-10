@@ -1,0 +1,875 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TQ88QDV6HbJfTU0NkybWchi/JX/ea094aWdKdHd5dJ+uQt37xY55WwDGcH4wJPAC
+ VnNf0vz1Ago+QYLhQINnJw==
+
+<SEC-DOCUMENT>0000948600-96-000035.txt : 19960711
+<SEC-HEADER>0000948600-96-000035.hdr.sgml : 19960711
+ACCESSION NUMBER:		0000948600-96-000035
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960718
+FILED AS OF DATE:		19960614
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMETECH INC
+		CENTRAL INDEX KEY:			0000001969
+		STANDARD INDUSTRIAL CLASSIFICATION:	7370
+		IRS NUMBER:				730766924
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19009
+		FILM NUMBER:		96580858
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1813 SE 25TH ST
+		CITY:			OKLAHOMA CITY
+		STATE:			OK
+		ZIP:			73129
+		BUSINESS PHONE:		4056778781
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACADEMY COMPUTING CORP
+		DATE OF NAME CHANGE:	19910123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<TEXT>
+
+                               AMETECH, INC.
+                            1813 Southeast 25th
+                       Oklahoma City, Oklahoma 73129
+
+                 Notice of Annual Meeting of Shareholders
+                        To Be Held on July 18, 1996
+
+
+
+To the Shareholders of 
+AMETECH, Inc.
+
+    The Annual Meeting of the Shareholders of AMETECH, Inc. (the
+"Company") will take place at 10:00 a.m. on July 18, 1996, at 1813
+Southeast 25th Street, Oklahoma City, Oklahoma 73129, for the
+purpose of considering and acting upon the following matters:
+
+    (1)  The election of directors.
+
+    (2)  The approval of the selection of independent auditors.
+
+    (3)  Any other business which may properly come before the       
+meeting or any adjournment thereof.
+
+    The Board of Directors has fixed the close of business on
+June 1, 1996 as the record date for the determination of holders of
+the voting common stock of the Company entitled to receive notice
+of, and to vote at, the annual meeting.
+
+    To ensure the presence of a quorum at the annual meeting,
+please sign and promptly return the enclosed Proxy Card in the
+accompanying self-addressed envelope, which requires no postage if
+mailed in the United States.
+
+    The Company is distributing its 1995 Annual Report to
+Stockholders with the enclosed proxy soliciting material.
+
+                               By order of the Board of Directors 
+
+
+
+                               Bill G. Baker
+                               Secretary
+
+
+Oklahoma City, Oklahoma
+
+June 14, 1996
+
+<PAGE>
+                               AMETECH, INC.
+                            1813 Southeast 25th
+                       Oklahoma City, Oklahoma 73129
+
+                            PROXY STATEMENT FOR
+                      ANNUAL MEETING OF SHAREHOLDERS
+
+                         To Be Held July 18, 1996
+
+         
+    Solicitation.  This Proxy Statement is solicited on behalf of
+the Board of Directors of AMETECH, Inc. (the "Company") and is
+hereby furnished to the shareholders of the Company to solicit
+their proxies for use at the Company's 1996 Annual Meeting of
+Shareholders to take place on July 18, 1996 ("Annual Meeting"), at
+10:00 a.m. at 1813 Southeast 25th Street, Oklahoma City, Oklahoma,
+and any adjournment thereof.  The Company may use the services of
+its directors, officers, and employees, which are not especially
+employed for this purpose and without additional compensation
+therefor, to solicit proxies personally or by telephone.  The
+Company will bear all of the costs of preparing, printing,
+assembling, and mailing this Proxy Statement and the Proxy Card and
+all other costs of the solicitation of the proxies.  No
+solicitation is to be made by specially engaged employees or other
+paid solicitors.
+
+    Reimbursement of Nominees.  The Company will reimburse any
+bank, broker-dealer, or other custodian, nominee of fiduciary for
+its reasonable expenses incurred in completing the mailing of proxy
+materials to the beneficial owners of the Company's voting common
+stock in connection with the Annual Meeting.
+
+    Revocation of Proxy.  Any shareholder giving his or her proxy
+in connection with the Annual Meeting may revoke it at any time
+before it is exercised at the Annual Meeting by notifying the
+Secretary of the Company in writing of such revocation. 
+
+    Mailing of Proxy Statement and Proxy Card.  This Proxy
+Statement and the Proxy Card are being sent to shareholders of the
+Company on or about June 14, 1996.
+
+    Shareholder Proposals.  In order for the Company to include a
+shareholder proposal in the proxy materials for the Company's 1997
+annual meeting of shareholders, a shareholder must deliver the
+proposal in writing to the Secretary of the Company no later than
+February 16, 1997.
+
+<PAGE>
+           SECURITIES AND OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+
+
+    Record Date and Voting Securities.  Only the record holders of
+shares of the voting common stock of the Company as of the close of
+business on June 1, 1996 ("Record Date"), will have the right to
+receive notice of, and to vote at, the Annual Meeting.  As of the
+close of business on the Record Date, the Company had 13,793,318
+shares of its common stock (excluding 115,000 shares held in trea-
+sury) issued and outstanding.  Each shareholder of record, as of
+the Record Date, will have one vote for each share of voting common
+stock that the shareholder owned as of the Record Date.  A majority
+of all of the outstanding shares of voting common stock of the
+Company entitled to notice of, and to vote at, the Annual Meeting,
+represented in person or by proxy, will constitute a quorum for the
+meeting.  Votes will be tabulated by inspectors of election
+appointed by the Company's Board of Directors.  Abstentions and
+broker non-votes are not considered as votes "For" a particular
+matter.
+
+    Security Ownership of Certain Beneficial Owners.  The
+following persons or entities who, as of the Record Date, are known
+to the Company to be beneficial owners of more than 5% of the
+Company's common stock.  Due to the requirements of the Securities
+and Exchange Commission as to the method of determining the amount
+of shares an individual or entity may beneficially own, the amounts
+shown below for an individual or entity may also include shares
+also considered beneficially owned by others.
+
+<TABLE>
+<CAPTION>
+                              Sole Voting    Shared Voting
+Title    Name and Address         and            and        Percent
+of             of              Investment     Investment      of
+Class    Beneficial Owner         Power         Power        Class
+______   ________________      __________     __________    ______
+<S>      <C>                   <C>            <C>           <C>
+Common   Moorpark Holdings     10,367,122(2)       (2)       75.9%
+         Inc.(2)
+_____________
+<FN>
+(1) Information with respect to beneficial ownership is based on
+    information furnished by the named entity or contained in
+    filings made with the Securities and Exchange Commission by
+    such entity.
+
+(2) The Schedule 13D filed by Moorpark Holdings, Inc., a Delaware
+    corporation ("Moorpark"), shows that Moorpark owns of record
+    and has sole voting and dispositive power of the 10,367,122
+    shares of Company common stock.  However, the Schedule 13D
+    further notes that Moorpark is a wholly-owned subsidiary of
+    Continental Bank, National Association ("Continental Bank").
+    Continental Bank is a wholly-owned subsidiary of Bank of
+    America of Illinois.  As a result, Continental Bank and Bank
+    of America of Illinois may be considered to share the voting
+    and dispositive power of the 10,367,122 shares owned of record
+    by Moorpark. The address of Moorpark, Continental Bank and
+    Bank of America of Illinois, is 231 South LaSalle Street,
+    Chicago, Illinois  60697.
+</FN>
+</TABLE>
+
+<PAGE>
+    Security Ownership of Directors and Executive Officers.  The
+following table sets forth the number and percentage of the out-
+standing shares of the Company's common stock beneficially owned by
+each current director and nominee, each of the current officers of
+the Company named in the "Summary Compensation Table" and by all
+directors and officers as a group as of the Record Date.  Because
+of the requirements of the Securities and Exchange Commission as to
+the method of determining the amount of shares an individual or
+entity may beneficially own, the amounts shown below for an
+individual or entity may include shares also considered
+beneficially owned by others.
+
+<TABLE>
+<CAPTION>
+                                Amount and Nature
+    Name of                            of                Amount
+   Individual                 Beneficial Ownership      of Class(1)
+____________________          ____________________      _________
+<S>                           <C>                       <C>
+Carl B. Anderson, Jr.(2)             572,433(2)              4.2%
+
+James E. Brown(3)                    196,815(3)              1.4%
+
+Jay T. Edwards(4)                          0                 -
+
+Allen G. Poppino(5)                   56,000(5)               *
+
+Officers and directors               829,248(6)              6.0%
+as a group (6 persons)
+
+___________
+<FN>
+(1) Percent of Class is rounded to the nearest one-tenth.  Any
+    shares which an individual has a right to acquire within sixty
+    (60) days after the Record Date are considered to be outstand-
+    ing for purposes of computing such individual's percentage of
+    shares beneficially owned and the percentage ownership of
+    officers and directors as a group.  The symbol "*" denotes
+    that the percentage of shares beneficially owned does not
+    exceed one percent.  
+
+(2) Mr. Anderson's address is 1813 Southeast 25th Street, Oklahoma
+    City, Oklahoma 73129.  Mr. Anderson has sole voting and
+    investment power over these shares, except for 1,000 shares
+    owned by his wife with whom he shares voting and investment
+    power.
+
+(3) Mr. Brown's address is 3814 North Santa Fe, Oklahoma City,
+    Oklahoma 73118.  Mr. Brown shares voting and investment power
+    over 188,815 shares owned of record by Santa Fe Investment
+    Company, which is wholly owned by Mr. Brown.  The amount shown
+    also includes 8,000 shares held by Mr. Brown as custodian for
+    his children.  
+
+(4) General Edwards' address is 2101 North Lincoln Boulevard, Room
+    311, Oklahoma City, Oklahoma 73105.  
+
+(5) Mr. Poppino's address is 9400 North Broadway, Post Office Box
+    20400, Oklahoma City, Oklahoma 73156-0400.  Mr. Poppino has
+    sole voting and investment power over the shares noted as
+    beneficially owned by him.
+
+(6) The amount shown includes 4,000 shares of common stock that
+    officers and directors of the Company have the right to
+    acquire within sixty (60) days.
+</FN>
+</TABLE>
+
+<PAGE>
+    Compliance with Section 16(a) of the Exchange Act.  Based
+solely on review of copies of the Forms 3, 4 and 5 and amendments
+thereto furnished to the Company with respect to 1995, or written
+representations that no such reports were required to be filed with
+the Securities and Exchange Commission, the Company believes that
+during 1995 all directors and officers of the Company and
+beneficial owners of more than ten percent (10%) of any class of
+equity securities of the Company registered pursuant to Section 12
+of the Securities Exchange Act of 1934 (the "Exchange Act") filed
+Forms 3, 4, or 5, as required by Section 16(a) of the Exchange Act,
+except (I) Jay T. Edwards filed one late Form 3 to report his
+election to the Company s Board of Directors, and (ii) Mark Helm
+and Craig Schroeder each filed one late From 3 to report their
+election as officers of the Company.  Neither Mr. Helm nor Mr.
+Schroeder are currently officers of the Company.
+
+                          EXECUTIVE COMPENSATION
+
+    The following table shows the aggregate cash compensation
+which the Company and its subsidiaries paid or accrued to the Chief
+Executive Officer of the Company.  No executive officers of the
+Company received total compensation, including salary and bonus,
+for the last completed fiscal year in excess of $100,000.  The
+table includes cash distributed for services rendered during 1995,
+plus any cash distributed during 1995 for services rendered in a
+prior year, plus amounts deferred at the election of the named
+executive officer, less any amount relating to those services
+previously included in the cash compensation table for a prior
+year.  
+<TABLE>
+<CAPTION>
+                                      Annual Compensation
+                                    __________________________
+                                                       Other
+                                                       Annual
+                                                       Compen-
+      Name and                       Salary    Bonus   sation
+  Principal Position        Year       ($)      ($)      ($)
+_______________________     ______    ______   _____   _______
+<S>                        <C>        <C>      <C>     <C>
+Carl B. Anderson, Jr.       1995(1)    12,000     -     3,000(2)
+Chairman of the Board,      1994(1)    12,000     -        -
+Chief Financial Officer,    1993(1)    13,330     -        -
+and President
+
+Mark Helm, President(2)      1995      30,750(2)   -        -
+
+Long-term
+Compen-
+sation
+Awards
+_______        All Other
+Stock        Compensation
+Options           ($)
+________     ____________
+
+   -               -
+   -               -
+   -               -
+   -               -
+___________
+<FN>
+(1) The amount shown represents the compensation paid to
+    Mr. Anderson in his capacity as Chairman of the Board.  The
+    Company does not compensate Mr. Anderson for his services as
+    CEO and President.  In October, 1995, Mr. Anderson assumed the
+    position of President of the Company upon the resignation of
+    Mark Helm.  See footnote (3) below.  
+
+(2) Beginning July, 1995, Mr. Anderson received a monthly
+    automotive allowance of $500.00.
+
+(3) Mr. Helm served as President of the Company from April 1995,
+    until his resignation in October 1995.  During his tenure,
+    Mr. Helm performed certain of the same functions as a chief
+    executive officer and, therefore, is included in the Summary
+    Compensation Table.
+</FN>
+</TABLE>
+
+<PAGE>
+    401-K.  The Company has adopted an Employee Savings Plan
+("401-K Plan") for employees of the Company and its subsidiaries,
+with certain exceptions.  The 401-K Plan provides for employee
+contribution, and further provides the Company may, in the
+Company's sole discretion, contribute to the 401-K Plan matching
+contributions in an amount determined by the Company.  Under the
+401-K Plan the Company may choose not to make matching contribu-
+tions.  For an employee to be eligible to participate under the
+401-K Plan, the employee must complete six months of service,
+attain the age of 21 years and enter into a written salary
+reduction agreement with the Company.  An employee may not
+contribute more than 15% of his annual compensation into the 401-K
+Plan.  If the Company, in its sole discretion, decides to make any
+matching contribution in a particular year, such match will be
+allocated only to employee participants who make a salary reduction
+contribution to the 401-K Plan of at least 5% of their compensation
+during the plan year based on a formula set forth in the 401-K
+Plan.  The employee participants' contributions to the 401-K Plan
+are 100% vested when made, and any match made by the Company
+becomes 100% vested when allocated.  The employee participant may,
+at his election, allocate his contribution and the contributions of
+the Company among one or more of four (4) investment alternatives,
+including the Company common stock.  The Company did not make any
+matching contributions to the 401-K Plan during 1995.   
+
+    Compensation Pursuant to Stock Option Plans.  The Company has
+adopted an incentive stock option plan (the "Plan") in order to
+attract, retain and motivate, and to encourage stock ownership by
+key employees and officers of the Company and its subsidiaries.  A
+Stock Option Committee of the Board of Directors administers the
+Plan and selects the officers and employees to whom options may be
+granted and determines the number of shares to be covered by each.
+(See "Committees and Meetings of the Board of Directors.")  None of
+the executive officers of the Company named in the above Summary
+Compensation Table were granted options in 1995.
+
+    The total number of shares of Company common stock for which
+options may be granted under the Plan shall be 400,000 shares, less
+the number of shares subject to options outstanding as of
+October 3, 1989, and granted on or after June 12, 1980, and prior
+to October 3, 1989, under the stock option plan then in effect.  In
+the event that options granted under the Plan, or options
+outstanding on October 3, 1989, under the predecessor to the Plan,
+shall lapse without being exercised in whole or in part, other
+options may be granted covering the shares not purchased under such
+lapsed options.  The aggregate fair market value of shares as of
+the date of the grant with respect to which options are exercisable
+for the first time may not exceed $100,000.  The exercise price of
+each option granted under the Plan may not be less than 100% of the
+fair market value of the common stock on the date of the grant
+(110% in the case of options granted to employees owning more than
+10% of common stock of the Company).  Each option granted under the
+Plan will not be exercisable more than 5 years from the date the
+option is granted.
+
+<PAGE>
+    The Plan provides that if there is a change in control (as
+defined in the Plan) of the Company, all options granted under the
+Plan that are outstanding as of such change in control shall
+immediately become exercisable in full.
+
+    In addition, the Company has adopted a stock option plan for
+non-employee directors of the Company ("Non-Employee Director
+Plan").  Under the Non-Employee Director Plan the Company may grant
+options to non-employee directors of the Company to purchase up to
+100,000 shares of the Company's common stock.  The maximum
+aggregate number of shares of Company common stock which may be
+subject to options granted under the Non-Employee Director Plan to
+any one non-employee director may not exceed 20,000 shares.  Any
+option granted under the Non-Employee Director Plan may not exceed
+a term of five (5) years and the exercise price of such option may
+not be less than the fair market value of the Company's common
+stock on the date of the grant.  Under the Non-Employee Director
+Plan, the Stock Option Committee of the Board of Directors
+supervises the administration of such plan and determines the
+number of shares to be subject to each option granted under the
+Non-Employee Director Plan.  No options were granted under the Non-
+Employee Director Plan in 1995.
+
+                     REPORT OF THE BOARD OF DIRECTORS
+                         ON EXECUTIVE COMPENSATION
+
+General
+
+    As the Company has no formal Compensation Committee, the
+functions of the Compensation Committee are performed by the entire
+Board of Directors (the "Board").  The Board periodically reviews
+and approves salaries, bonuses, stock options and employee benefit
+plans for officers and key employees based on the criteria and
+policies discussed below.
+
+
+Compensation Policies
+
+    The principle objective of the Board's compensation policy is
+to establish a compensation program which aligns executive
+compensation with the Company's business strategies and financial
+performance.  In keeping with this objective, the Board seeks to:
+
+     (1) Attract and retain qualified executives, in a highly
+     competitive environment, who will play a significant role in
+     the achievement of the Company's goals.
+     
+     (2) Reward executives for strategic management and the long-term
+     enhancement of shareholder value.
+
+<PAGE>     
+     (3) Create a performance-oriented environment that rewards
+     performance with respect to the financial and operational
+     goals of the Company.
+     
+    There is no specific formula pursuant to which any executive
+officer's compensation is adjusted or incentive awards are made.
+The Board reviews an executive officer's performance in such areas
+as quality and quantity of work, job and professional knowledge,
+decision making and business judgment, initiative, analytical
+skills, communication skills, interpersonal skills, organizational
+skills, commercial skills, profit and loss sensitivity, creativity
+and leadership.
+
+    Executive compensation consists of both cash and equity-based
+compensation.  Cash compensation is comprised of base salary and
+bonus.  Base salary is determined with reference to industry norms.
+Bonus compensation is closely tied to the Company's success in
+achieving significant financial and non-financial performance goals
+and an executive's success in attaining personal operational
+performance goals.  Equity-based compensation is comprised of stock
+option grants.  In establishing equity based compensation, the
+Company places particular emphasis on the achievement of the
+Company's long-term performance goals.  The Board believes that
+equity based compensation closely aligns the economic interest of
+the Company's officers with the economic interests of the Company's
+shareholders by assuring that the Company's officers have a
+meaningful stake in the Company.
+
+Chief Executive Officer
+
+    Carl B. Anderson, Jr. was not compensated by the Company for
+his services as President and Chief Executive Officer in 1993, 1994
+and 1995.  The compensation paid to Mr. Anderson in 1993, 1994 and
+1995 was paid to him in his capacity as Chairman of the Board for
+which he was paid $1,000 per month during 1995. Beginning July
+1995, Mr. Anderson received a monthly automobile allowance of
+$500.00.
+
+    In April, 1995, the Company employed Mark Helm as President of
+the Company at an annual salary of $72,000.  Until Mr. Helm's
+resignation in October, 1995, he performed certain of the same
+functions as a chief executive officer.  The Board set Mr. Helm's
+base salary at what the Board believed was normal in the industry
+the Company serves based on the revenues and profitability of the
+Company.
+
+<PAGE>
+    The Board periodically reviews the President's and other
+executive officers' salaries.  In determining an appropriate salary
+adjustment, consideration is given to like positions within
+companies of the same size and industry, the Company's earnings and
+various other criteria as mentioned earlier.  The Company considers
+these factors in light of the Company's overall performance as
+measured by total shareholder return, adherence to the Company's
+strategic plan, the development of sound management practices, and
+the retention and succession of skilled personnel.
+
+    The executive officers are eligible for annual bonus awards to
+reward individual performance in meeting earnings objectives.  The
+award pool for all eligible employees is based on 6% of pre-tax
+earnings.  Although there is no specific formula for allocating the
+award pool among eligible employees, consideration is given to
+among other things, level of responsibility, length of service and
+the contribution of individual employees in meeting the Company's
+objectives.
+
+    Due to the Company not meeting its earnings objectives in
+1995, no bonuses were awarded to executive officers.
+
+    In recent years the Company has granted options to certain
+executive officers.  There is no specific plan to determine the
+number of options granted or to the timing of granting of such
+options; however certain criteria are taken into account such as
+length of service, level of responsibility, and the achievement of
+the Company's earnings objectives.  No options were granted to
+executive officers of the Company in 1994 or 1995.
+
+    Mr. Anderson owns 571,433 shares of the Company's common
+stock.  The Board feels that Mr. Anderson has adequate incentives
+through his stock ownership to increase shareholder value.
+
+    In setting executive officers' compensation in the future, the
+Board will continue to focus not only on total shareholder value,
+but also on specific Company goals to advance the overall financial
+success of the Company, such as earnings growth and operational
+objectives which are expected to enhance shareholder value.
+
+               Members of the Board of Directors:
+
+                   Carl B. Anderson, Jr.
+                   James E. Brown
+                   Jay T. Edwards
+                   Allen G. Poppino
+
+<PAGE>
+                        Performance Graph
+
+    Due to the constraints of the EDGAR system, the performance
+graph has been omitted.  The following table has been provided to
+take its place in the EDGAR filing.  The following table compares
+the yearly percentage change in the cumulative total shareholder
+return (assuming reinvestment of dividends, if any) among AMETECH,
+Inc., the NASDAQ Stock Market Index ("NASDAQ Index"), and NASDAQ
+Trucking and Transportation Index (which is comprised of all
+trucking and transportation corporations listed on the NASDAQ).  On
+February 24, 1994, the Company's common stock began trading on the
+OTC - Bulletin Board and discontinued its listing on the NASDAQ
+Small-Cap Market.  The Company, however, believes that the NASDAQ
+Index provides a useful comparison to a broad based equity index.
+
+<TABLE>
+<CAPTION>
+               COMPARISON OF FIVE-YEAR CUMULATIVE RETURN(1)
+
+
+                             1990  1991  1992  1993  1994  1995
+                             ____  ____  ____  ____  ____  ____
+           <S>               <C>   <C>   <C>   <C>   <C>   <C>
+           AMETECH, INC.     100   357   271    86    57    43
+           PEER GROUP        100   145   178   216   196   223
+           NASDAQ            100   161   187   215   210   296
+
+_____________
+<FN>
+(1) This table assumes $100 invested on January 1, 1991, in
+    AMETECH, Inc. common stock, the NASDAQ Index, and the NASDAQ
+    Trucking and Transportation Index.  The historical shareholder
+    return shown above may not be indicative of future
+    performance.
+</FN>
+</TABLE>
+
+<PAGE>
+                           ELECTION OF DIRECTORS
+
+    The Certificate of Incorporation of the Company provides that
+the number of directors shall be as set forth in the Bylaws, and
+the Bylaws provide for no less than four (4) nor more than nine (9)
+directors.  Pursuant to the Company's Bylaws, the Board of
+Directors has set the number of directors at four (4) for the 1996
+Annual Meeting.  The proxies cannot be voted for a greater number
+of persons than the number of nominees named herein.  Each of the
+following nominees is presently serving as a director of the
+Company.  There are no family relationships among any of the
+nominees.  Upon election, the term of office will be for one (1)
+year or until their respective successors are duly elected and
+qualified.
+
+    The affirmative vote of a plurality of the shares present in
+person or represented by proxy at the meeting and entitled to vote
+is required for the election of Directors.  
+
+    Should any of the nominees become unable or unwilling to
+accept the election or to serve as a director, an event which the
+Board of Directors does not anticipate, the person or persons named
+in the enclosed proxy will vote for the election of such person or
+persons as the Board of Directors may recommend.  
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+    The following table sets forth each nominee, his name, age,
+and position held with the Company and certain biographical
+information:
+
+       Name                  Age               Position
+____________________         ___       _____________________________
+<S>                          <C>       <C>
+Carl B. Anderson, Jr.(1)     74        President and Chief Executive  
+                                       Officer of the Company
+
+James E. Brown(2)            44        Director
+
+Jay T. Edwards(3)            64        Director
+
+Allen G. Poppino(4)          70        Director
+_____________________
+<FN>
+(1) Mr. Anderson, Jr. has served as Chairman of the Board and
+    Chief Executive Officer of the Company since January, 1991. 
+    Mr. Anderson served as Chairman and Chief Executive Officer of
+    American Environmental Technologies, Inc. ("AET") before the
+    merger, on January 9, 1991, of AET with and into the Company. 
+    From 1965 until his retirement in 1995, Mr. Anderson also
+    served as Chairman and Chief Executive Officer of AnSon Gas
+    Corp. ("AnSon Gas"), an oil and gas developer.  Mr. Anderson
+    is continuing to serve as Chairman of the Board of AnSon Gas. 
+    Mr. Anderson is a graduate of the United States Military
+    Academy.
+
+(2) Mr. Brown served as director of the Company from 1986 to
+    August, 1990, whereupon he resigned to avoid a conflict of
+    interest relative to the merger of AET with and into the
+    Company.  He was reelected to the Board in January, 1991, upon
+    consummation of the merger.  Mr. Brown is currently the Vice
+    President of Finance for AnSon Gas Corporation where he has
+    been employed since 1982.  Mr. Brown is a certified public
+    accountant and a graduate of the University of Oklahoma.
+
+(3) In November 1993, General Edwards became the General
+    Administrator of the Oklahoma Corporation Commission.  Prior
+    to taking this position, he was a senior management consultant
+    for Tennessee Associates, specializing in total quality
+    management programs from April 1991 to November 1993.  From
+    January 1986 to April 1991, he served as President of CMI
+    Corporation, a publicly held manufacturer of road construction
+    equipment.  Prior to January 1986, General Edwards served as
+    Executive Director of the University of Oklahoma Energy Center
+    and as Commander of the United States Air Force Air Logistics
+    Center in Oklahoma City.  He is a retired Air Force Major
+    General.  General Edwards is a graduate of the United States
+    Military Academy and has masters degrees from Texas A & M
+    University and George Washington University.  General Edwards
+    has served on the Board of Directors of the Company since
+    February, 1995.
+
+(4) Mr. Poppino currently is a consultant to The Benham Group and
+    is President and Chief Executive Officer of Poppino, Inc. 
+    Mr. Poppino was formerly Vice Chairman of the Board of
+    Directors of the Benham Companies, where he was employed
+    (including its predecessors) from 1951 to 1990. Mr. Poppino is
+    a graduate of Oklahoma State University.  Mr. Poppino has
+    served as a director of the Company since 1991.
+</FN>
+</TABLE>
+
+<PAGE>
+    The Board of Directors recommends a vote "for" the election of
+the four nominees as members of the Board of Directors of the
+Company.
+
+    Committees and Meetings of the Board of Directors.  The Board
+of Directors of the Company held four (4) meetings during 1995. 
+All directors attended more than 75% of the meetings of the Board
+of Directors and committees upon which they served during 1995.
+
+    The Audit Committee of the Board of Directors was comprised of
+Messrs. Brown and Poppino.  The Audit Committee held one meeting in
+1995.  The Audit Committee's functions include:  recommending a
+public accounting firm for appointment by the Board of Directors
+for purposes of conducting the annual audit of the Company;
+reviewing the recommendations of the auditors regarding internal
+controls and procedures; reviewing from time to time the Company's
+general policies and procedures with respect to auditing,
+accounting and the application of financial resources; reviewing
+all other matters and making inquiries and investigations as are
+specially referred to it by the Board of Directors; and making
+recommendations to the Board as the Audit Committee may deem
+appropriate.  The Company does not have a standing Nominating or
+Compensation Committee.
+
+    The Company has established a Stock Option Committee which is
+currently composed of the entire membership of the Board of
+Directors ("Stock Option Committee").  The Stock Option Committee
+administers the Company's Incentive Stock Option Plan and Non-
+Employee Director Plan.  The Committee selects the non-employee
+directors, officers and employees of the Company to whom options
+may be granted and determines the number of shares to be covered by
+each option.
+
+    Compensation Committee Interlocks and Insider Participation. 
+The compensation of all officers of the Company is set by the Board
+of Directors.  As noted, Carl B. Anderson, Jr. is both a director
+and an officer of the Company. 
+
+    Certain Relationships and Related Transactions.
+
+    In the Company's ordinary course of business, the Company
+purchased 20 roll-off boxes in 1995 at an aggregate purchase price
+of $120,844 from 5-Star Fabrication, Inc. ("5-Star").  In addition,
+the Company utilizes the services of 5-Star in the repair of the
+Company's roll-off boxes. Carl B. Anderson, Jr., President and
+Chief Executive Officer of the Company, is the owner of
+approximately 50% of 5-Star.  The Company believes that its
+transactions with 5-Star are on a basis which is favorable to the
+Company.
+
+<PAGE>
+    In February 1996, Carl Anderson, Jr. loaned the Company
+$195,000 bearing interest at 10% per annum.  The loan is payable
+upon demand and the interest is payable monthly.  The loan was for
+the Company's working capital purposes and is unsecured.  As of
+May 31, 1996, the outstanding balance on the loan was $186,000.
+
+    The Company and Carl B. Anderson, Jr. have agreed that
+Mr. Anderson will purchase from Environmental Transportation
+Services, Inc. ("ETS"), a wholly owned subsidiary of the Company,
+four (4) tractors at a price of $107,000, which price was set by
+the equipment lender to the Company.  Mr. Anderson will lease three
+(3) of these tractors to ETS on a month-to-month basis at rental
+equal to 75% of the revenues generated by each such tractor. 
+Mr. Anderson has advised the Company that the fourth tractor is to
+be sold by Mr. Anderson to Mr. Bill Baker, Vice President and
+Secretary of the Company, and Mr. Baker has agreed to lease this
+tractor to ETS on the same terms that Mr. Anderson will lease the
+three tractors to ETS as described above.  The above transctions
+are subject to finalization of definitive agreements, approval by
+the Board of Directors of the Company and approval by the Company's
+lender.  In addition, ETS is leasing from Excel Leasing Company two
+(2) roll-off trailers and one (1) roll-off box for a term of 12
+months, with an option to renew for an additional 12 month period,
+at a rental of $3,300 per month.  Mr. Anderson is the owner of
+Excel Leasing Company.  The Company believes that these
+transactions are on terms favorable to the Company.
+
+    In March, 1996, ETS, began leasing from Sullivan's Trucking,
+Inc. ("Sullivan") pursuant to two operatiing leases a certain
+number of hazardous waste tractors and trailers to transport waste
+and a certain number of roll-off boxes.  In connection with such
+leases, ETS is to pay lease payments to Sullivan of approximately
+$35,000 per month for such tractors, trailers and roll-off boxes. 
+The term of one lease is for a period of two (2) years and the term
+of the other lease is for a period of four (4) years.  One lease
+contains an option to purchase the equipment covered by such lease
+at the fair market value at the time such option is exercised.
+
+    The Company has also reached an agreement in principal to
+acquire from Sullivan its customer list, good will, inventory, and
+certain other assets relating to Sullivan's hazardous waste
+transportation business.  The parties tentatively agreed that the
+Company will pay Sullivan approximately 1.4 million shares of the
+Company's common stock for the purchase of such assets, which, when
+consummated, will cause Sullivan to own of record and beneficially
+more than 5% of the Company's voting securities.  In addition, the
+Company and Sullivan are in the process of negotiating a lease in
+which ETS would lease from Sullivan its transportation terminal in
+Ponca City, Oklahoma, for a term of approximately four (4) years at
+a rental of $3,800 per month.  The asset purchase and the rental of
+the terminal are subject to execution of definitive agreements. 
+The Company and Sullivan are in the process of attempting to
+finalize definitive agreements relating to these transactions.
+
+<PAGE>
+                        COMPANY AUDITORS
+
+    The Board of Directors, based on the recommendation of the
+Company's Audit Committee, has reappointed the firm of Grant
+Thornton as the Company's auditors for the year ending December 31,
+1996, subject to the approval and ratification of the shareholders.
+
+    Grant Thornton is the accounting firm which examined and
+reported on the Company's financial statements for each of the
+years ended December 31, 1993, 1994 and 1995.  It is expected that
+representatives of the firm will be present at the Annual Meeting
+and will have the opportunity to make any statements they desire
+and to answer questions directed to them.  
+
+    The Board of Directors recommends a vote "for" the appointment
+of Grant Thornton.
+
+                          OTHER MATTERS
+
+    The Company shall provide upon written request, without
+charge, to each person solicited pursuant to this Proxy Statement,
+a copy of the Company's 1995 Annual Report on Form 10-K, including
+the financial statements and the financial statement schedules.
+Such request should be directed to Bill G. Baker, Secretary, 1813
+Southeast 25th Street, Oklahoma City, Oklahoma 73129.
+
+    The Board of Directors knows of no other matters which may
+come before the Annual Meeting.  If, however, other matters are
+properly brought before the Annual Meeting, it is intended that all
+proxies will be voted with respect thereto in accordance with the
+best judgment of the persons named in the proxies. 
+
+Date:  June 14, 1996.        By order of the Board of Directors
+
+
+
+                             Bill G. Baker
+                             Secretary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISTE:\A-C\AMETECH\ANLMTG\96PROXY.3
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1500 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ B2vYa0NOfdRI7I7Gzt5QAMcAGHoGpgidUFRtNlxy9AEUxDwdPKopp3XUXKh+GCPg
+ HBLhJqU0552tPSQb5no3/A==
+
+<SEC-DOCUMENT>0001047469-99-033529.txt : 19990825
+<SEC-HEADER>0001047469-99-033529.hdr.sgml : 19990825
+ACCESSION NUMBER:		0001047469-99-033529
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19991013
+FILED AS OF DATE:		19990824
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AAR CORP
+		CENTRAL INDEX KEY:			0000001750
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT & PARTS [3720]
+		IRS NUMBER:				362334820
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-06263
+		FILM NUMBER:		99698366
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 N WOOD DALE RD
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+		BUSINESS PHONE:		6302272000
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 N WOOD DALE RD
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEN AIRCRAFT RADIO INC
+		DATE OF NAME CHANGE:	19700204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>DEF 14A
+<TEXT>
+
+<PAGE>
+                            SCHEDULE 14A INFORMATION
+
+                  Proxy Statement Pursuant to Section 14(a) of
+            the Securities Exchange Act of 1934 (Amendment No.    )
+
+    Filed by the Registrant /X/
+    Filed by a Party other than the Registrant / /
+
+    Check the appropriate box:
+    / /  Preliminary Proxy Statement
+    / /  Confidential, for Use of the Commission Only (as permitted by Rule
+         14a-6(e)(2))
+    /X/  Definitive Proxy Statement
+    / /  Definitive Additional Materials
+    / /  Soliciting Material Pursuant to Section240.14a-11(c) or
+         Section240.14a-12
+
+                                               AAR CORP.
+- --------------------------------------------------------------------------------
+                (Name of Registrant as Specified In Its Charter)
+
+- --------------------------------------------------------------------------------
+    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+Payment of Filing Fee (Check the appropriate box):
+
+/X/  No fee required.
+/ /  Fee computed on table below per Exchange Act Rules 14a-6(i)(1)
+     and 0-11.
+     (1) Title of each class of securities to which transaction applies:
+         -----------------------------------------------------------------------
+     (2) Aggregate number of securities to which transaction applies:
+         -----------------------------------------------------------------------
+     (3) Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+         filing fee is calculated and state how it was determined):
+         -----------------------------------------------------------------------
+     (4) Proposed maximum aggregate value of transaction:
+         -----------------------------------------------------------------------
+     (5) Total fee paid:
+         -----------------------------------------------------------------------
+/ /  Fee paid previously with preliminary materials.
+/ /  Check box if any part of the fee is offset as provided by Exchange Act Rule
+     0-11(a)(2) and identify the filing for which the offsetting fee was paid
+     previously. Identify the previous filing by registration statement number,
+     or the Form or Schedule and the date of its filing.
+     (1) Amount Previously Paid:
+         -----------------------------------------------------------------------
+     (2) Form, Schedule or Registration Statement No.:
+         -----------------------------------------------------------------------
+     (3) Filing Party:
+         -----------------------------------------------------------------------
+     (4) Date Filed:
+         -----------------------------------------------------------------------
+<PAGE>
+   [LOGO]
+
+One AAR Place
+1100 N. Wood Dale Road
+Wood Dale, Illinois 60191
+
+- ------------------------
+
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+TO BE HELD ON WEDNESDAY, OCTOBER 13, 1999
+
+To the Stockholders of AAR CORP.:
+
+The Annual Meeting of Stockholders of AAR CORP. for the year 1999 will be held
+in the Shareholders' Room (21st Floor) of Bank of America Illinois, 231 S.
+LaSalle Street, Chicago, Illinois, on Wednesday, October 13, 1999, at 3:00 P.M.
+(Chicago time). At the meeting, stockholders will act on the following matters:
+
+1.  Election of three Class III directors to serve until the 2002 Annual Meeting
+    of Stockholders; and
+
+2.  Amendment of the Company's Restated Certificate of Incorporation to increase
+    the number of authorized shares of the Company's Common Stock, $1.00 par
+    value, from 80,000,000 to 100,000,000; and
+
+3.  Any other matter that may properly come before the meeting.
+
+                                          By Order of the Board of Directors
+
+                                          HOWARD A. PULSIFER
+                                          SECRETARY
+
+August 23, 1999
+
+YOUR VOTE IS IMPORTANT
+
+PLEASE DATE AND SIGN THE ENCLOSED FORM OF PROXY AND RETURN IT IN THE ENCLOSED
+STAMPED, ADDRESSED ENVELOPE, SO THAT IF YOU ARE UNABLE TO ATTEND THE MEETING,
+YOUR SHARES MAY NEVERTHELESS BE VOTED. NO POSTAGE IS REQUIRED FOR MAILING IN THE
+UNITED STATES.
+<PAGE>
+   [LOGO]
+
+One AAR Place
+1100 N. Wood Dale Road
+Wood Dale, Illinois 60191
+
+PROXY STATEMENT
+ANNUAL MEETING OF STOCKHOLDERS
+October 13, 1999
+
+                                  SOLICITATION
+
+This Proxy Statement and the enclosed proxy card were mailed to shareholders on
+or about August 23, 1999, in connection with the solicitation of proxies by the
+Board of Directors of the Company to be used at the 1999 Annual Meeting.
+
+The cost of the solicitation of proxies will be paid by the Company. The Company
+has engaged D. F. King & Co., 77 Water Street, New York, New York, to aid in the
+solicitation of proxies at a total estimated cost of $8,000, plus reasonable
+out-of-pocket expenses. D. F. King & Co. may solicit proxies by mail, by
+telephone, by facsimile, by e-mail, or in person. Certain officers, directors
+and employees of the Company may also solicit proxies.
+
+You may change your vote at any time before your proxy is exercised by voting in
+person at the Annual Meeting or delivering a later dated, signed proxy to the
+Secretary of the Company. Proxies will be voted in accordance with instructions
+on the proxy. If no instructions are specified, the named proxy holder will vote
+FOR Proposal 1, the election of the three nominees for director designated by
+the Board, and FOR Proposal 2, the Amendment to the Restated Certificate of
+Incorporation, and upon any other matter that may properly come before the
+Annual Meeting in their discretion and best judgment. The Board may nominate
+another person if any nominee becomes unavailable for election for any reason
+prior to the Annual Meeting vote. In that event, the named proxy holders will
+vote for that other person.
+
+                  RECORD DATE AND VOTING AT THE ANNUAL MEETING
+
+Stockholders owning Common Stock of the Company ("Common Stock") outstanding at
+the close of business on the record date, August 17, 1999, may vote at the 1999
+Annual Meeting ("Annual Meeting"). On that date, 27,401,250 shares of Common
+Stock were outstanding. Stockholders will have one vote on each matter to be
+voted on for each share held on the record date. Shares cannot be voted unless
+the owner is present at the Annual Meeting in person or by proxy. The holders of
+a majority of the shares of Common Stock entitled to vote and present in person
+or represented by proxy will constitute a quorum. Votes cast in person or by
+proxy will be tabulated by the inspectors of election appointed for the Annual
+Meeting. The inspectors of election will treat directions to withhold authority,
+abstentions and broker non-votes as shares that are present and entitled to vote
+for purposes of determining a quorum. Directions to withhold authority will have
+no effect on the election of directors, because directors are elected by a
+plurality of votes cast. Abstentions and broker non-votes will be disregarded
+for purposes of determining whether a matter has been approved, because they are
+not considered votes cast.
+
+                                       1
+<PAGE>
+                               BOARD OF DIRECTORS
+
+The Restated Certificate of Incorporation and By-Laws of the Company provide
+that the Board shall consist of between three and fifteen directors. The exact
+number of directors is set from time to time by the Board and is presently set
+at ten. The ten members of the Board are divided into three classes: Class I (3
+directors), Class II (3 directors) and Class III (4 directors). One class is
+elected each year for a three-year term.
+
+The business, property, and affairs of the Company are managed under the
+direction of the Board. Directors are kept informed of the Company's business
+through discussions with the Chairman of the Board, the President and Chief
+Executive Officer, and other officers of the Company, by reviewing materials
+provided to them and by participating in meetings of the Board and its
+committees.
+
+During the fiscal year ended May 31, 1999 ("Fiscal 1999"), the Board held five
+meetings. All of the incumbent directors attended 75% or more of the aggregate
+meetings of the Board and of the Committees on which they served except for Mr.
+Jannotta whose attendance was 73% in the aggregate, including a special
+telephonic committee meeting called at a time when he was unavailable.
+
+BOARD COMMITTEES
+
+The Board has an Audit Committee, a Compensation Committee, an Executive
+Committee, and a Nominating Committee.
+
+AUDIT COMMITTEE
+
+The Audit Committee is comprised entirely of independent directors. Its members
+are Edgar D. Jannotta (Chairman), Robert D. Judson, Erwin E. Schulze, Joel D.
+Spungin, and Howard B. Bernick. This committee recommends to the Board the
+independent auditors who audit the Company's consolidated financial statements,
+maintains communication between the Board and its independent auditors, monitors
+performance of the independent auditors, has oversight of and reviews financial
+reporting issues and practices, has oversight of and reviews the adequacy of
+financial accounting controls and the organization and performance of the
+Company's internal systems of audit, reviews the scope and results of audits,
+and meets with the independent auditors and internal auditors without members of
+management present. The Audit Committee held three meetings during Fiscal 1999.
+
+COMPENSATION COMMITTEE
+
+The Compensation Committee is comprised entirely of independent directors. Its
+members are Erwin E. Schulze (Chairman), A. Robert Abboud, Edgar D. Jannotta,
+Robert D. Judson and Lee B. Stern. This committee reviews and approves
+compensation policies and practices for all elected corporate officers, fixes
+the compensation of the Chairman of the Board and the President and Chief
+Executive Officer, and administers the Chief Executive Officer's long-term
+incentive program, the annual incentive compensation programs for other
+officers, and the AAR CORP. Stock Benefit Plan. The Compensation Committee held
+two meetings during Fiscal 1999.
+
+EXECUTIVE COMMITTEE
+
+The Executive Committee is comprised of Ira A. Eichner (Chairman), Edgar D.
+Jannotta, Erwin E. Schulze and David P. Storch. The Executive Committee is
+authorized to meet between meetings of the Board of Directors and exercise the
+powers of the Board, subject to limitations imposed by law and by the Board. The
+Executive Committee held one meeting during Fiscal 1999.
+
+NOMINATING COMMITTEE
+
+The Nominating Committee is comprised of Robert D. Judson (Chairman), Ira A.
+Eichner, Lee B. Stern, and Richard D. Tabery. This committee reviews and
+recommends to the Board qualified candidates for election as directors and
+considers the performance of incumbent directors to
+
+                                       2
+<PAGE>
+determine whether they should be recommended to the Board for nomination for
+reelection. The Nominating Committee will consider director candidates
+recommended by stockholders. Stockholders may submit a recommendation to the
+Nominating Committee for consideration with respect to the Annual Meeting of
+Stockholders for the year 2000 by writing to the Secretary, AAR CORP., One AAR
+Place, 1100 N. Wood Dale Road, Wood Dale, Illinois 60191. To be considered,
+recommendations must be received prior to May 1, 2000, must state the reasons
+for the recommendation and contain the full name and address of each proposed
+nominee, as well as a brief biographical history setting forth past and present
+directorships, employment and occupations, and any other qualifications.
+Recommendations must also include a statement indicating that the proposed
+nominees have consented to being named in the proxy statement and to serve if
+elected. The Nominating Committee held one meeting during Fiscal 1999.
+
+DIRECTORS' COMPENSATION
+
+Each director who is not an officer or employee of the Company or any subsidiary
+("Eligible Director") receives an annual retainer of $28,000 payable only in
+Common Stock, a fee of $1,750 for attendance at each meeting of the Board or of
+any Board committee and reimbursement of expenses. The Chairman of the Board and
+the chairman of each committee receives an additional $2,000 annual retainer.
+Each director may elect to defer receipt of the annual retainer and meeting fees
+pursuant to the Company's Nonemployee Directors' Deferred Compensation Plan.
+
+In addition, each Eligible Director receives term life insurance coverage of
+$200,000 and a one-time grant of stock options for 10,000 shares of Company
+Common Stock under the AAR CORP. Stock Benefit Plan. These options can be
+exercised in 25% increments on each anniversary grant date at the closing New
+York Stock Exchange price on the date of grant.
+
+Each Eligible Director also will receive benefits under the AAR CORP. Directors'
+Retirement Plan upon retirement from the Board on or after age 65 if such
+director has completed at least five years of service as a director. Benefits
+are paid quarterly in cash in an amount equal to 25% of the annual retainer
+payable to an active eligible director and are paid for a period equal to the
+total number of years of service as a director to a maximum of ten years or
+until death. The AAR CORP. Directors' Retirement Plan is unfunded. As of May 31,
+1999, one former director was receiving retirement benefits under such Plan.
+
+Directors who are officers or employees of the Company or any subsidiary receive
+no additional compensation for service on the Board or any of its committees.
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Mr. Jannotta, a director of the Company, is a Senior Director of William Blair &
+Company, L.L.C. ("William Blair"). William Blair, from time to time, has
+rendered investment banking services to the Company and received customary
+compensation for those services. The Company may engage William Blair for
+additional services in the future.
+
+                            BIOGRAPHICAL INFORMATION
+
+<TABLE>
+<CAPTION>
+                                                                        Director
+                                                                         Since
+                                                                        --------
+<S>                                                                     <C>
+NOMINEES:
+  CLASS III DIRECTORS WHOSE TERMS EXPIRE AT THE 1999 ANNUAL MEETING:
+A. ROBERT ABBOUD, 70: Since 1984, President of A. Robert Abboud &         1987
+  Co., a private investment business.
+    Other directorships: Hartmarx Corporation and Alberto-Culver
+     Company.
+</TABLE>
+
+                                       3
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                                        Director
+                                                                         Since
+                                                                        --------
+<S>                                                                     <C>
+HOWARD B. BERNICK, 47: Since 1994, President and Chief Executive          1994
+  Officer of Alberto-Culver Company, a manufacturer, marketer and
+  distributor of personal care and household products. From 1988 to
+  1994, President and Chief Operating Officer of Alberto-Culver
+  Company.
+    Other directorship: Alberto-Culver Company.
+IRA A. EICHNER, 68: Since 1973, Chairman of the Board of AAR. Mr.         1955
+  Eichner founded the Company in 1955 and was its Chief Executive
+  Officer until October, 1996. From 1996 until his retirement as an
+  active executive officer on May 31, 1999, he was executive
+  Chairman of the Board and Founder of the Company. Mr. Eichner is
+  Mr. Storch's father-in-law.
+CONTINUING DIRECTORS:
+  CLASS I DIRECTORS WHOSE TERMS EXPIRE AT THE 2000 ANNUAL MEETING:
+ERWIN E. SCHULZE, 74: Chairman Emeritus, Chicago Stock Exchange.          1977
+  Since 1991, private investor. From 1981 to 1991, Chairman of the
+  Board, President and Chief Executive Officer of Ceco Industries,
+  Inc., a manufacturer of building products and provider of concrete
+  forming services for the construction industry.
+JOEL D. SPUNGIN, 61: Since 1995, Managing Partner, DMS Enterprises,       1992
+  L.P., a consulting and management advisory partnership. From 1994
+  to 1999, Chairman Emeritus, and from 1988 to 1995, Chairman and
+  Chief Executive Officer of United Stationers Inc.
+    Other directorship: Home Products International
+DAVID P. STORCH, 46: Since 1996, President and Chief Executive            1989
+  Officer of AAR. From 1989 to 1996, President and Chief Operating
+  Officer of AAR. From 1988 to 1989, Vice President of AAR. Mr.
+  Storch is Mr. Eichner's son-in-law.
+    Other directorship: Whitman-Hart, Inc.
+  CLASS II DIRECTORS WHOSE TERMS EXPIRE AT THE 2001 ANNUAL MEETING:
+EDGAR D. JANNOTTA, 68: Since 1996, Senior Director of William Blair       1964
+  & Company, L.L.C., an investment banking firm ("William Blair").
+  From 1995 to 1996, Senior Partner of William Blair. From 1977 to
+  1995, Managing Partner of William Blair.
+    Other directorships: Aon Corporation, Bandag, Incorporated,
+     Molex Incorporated, Oil-Dri Corporation of America, and Unicom
+     Corporation.
+LEE B. STERN, 72: Since 1992, President of LBS Co., the General           1982
+  Partner of LBS Limited Partnership, a member firm of the Chicago
+  Board of Trade and Futures Commission Merchant since 1992. From
+  1967 to December, 1992, President and Chief Executive Officer of
+  Lee B. Stern & Company, Ltd., a Futures Commission Merchant. Mr.
+  Stern has been a member of the Chicago Board of Trade since 1949
+  and an owner-director of the Chicago White Sox since 1976.
+    Other directorship: Anicom, Inc.
+RICHARD D. TABERY, 70: Since 1993, Aviation Business Consultant.          1989
+  From 1995 to 1997, Chairman of HKS&A, Inc., an aviation consulting
+  company. From 1988 to 1993, Vice Chairman of AAR. From 1957 to
+  1988, Mr. Tabery held various positions with United Airlines,
+  Inc., most recently as Senior Vice President-Maintenance
+  Operations.
+</TABLE>
+
+                                       4
+<PAGE>
+                                   PROPOSAL 1
+                             ELECTION OF DIRECTORS
+
+The Board of Directors is currently divided into three classes, each having
+three-year terms that expire in successive years. At this year's Annual Meeting,
+the Board of Directors has determined that three directors will be elected in
+Class III, each to serve a three-year term expiring at the Annual Meeting in the
+year 2002 or until the individual is succeeded by another qualified director who
+has been duly elected.
+
+The nominees for Director in Class III this year are A. ROBERT ABBOUD, HOWARD B.
+BERNICK, and IRA A. EICHNER.
+
+The Board expects all nominees to serve if elected as directors. If any of them
+should become unavailable to serve as a director for any reason prior to the
+Annual Meeting, the Board may substitute another person as nominee. Under
+Delaware law and the Company's By-Laws, the three nominees for director who
+individually receive the greatest number of votes shall be elected directors of
+the Company.
+
+                     THE BOARD OF DIRECTORS RECOMMENDS THAT
+                    STOCKHOLDERS VOTE FOR ALL THREE NOMINEES
+
+                                   PROPOSAL 2
+               AMENDMENT TO RESTATED CERTIFICATE OF INCORPORATION
+          TO INCREASE THE AUTHORIZED NUMBER OF SHARES OF COMMON STOCK
+
+The Board of Directors of the Company has unanimously approved an amendment to
+the Company's Restated Certificate of Incorporation to increase the number of
+shares of Common Stock which the Company is authorized to issue from 80,000,000
+to 100,000,000.
+
+Of the 80,000,000 shares of Common Stock authorized, as of August 17, 1999,
+27,401,250 shares of Common Stock were outstanding. As of that date, a total of
+4,779,114 shares of Common Stock were reserved for issuance upon the exercise of
+outstanding grants of stock options and were available for grants under the
+Company's stock option plans and under the Employee Stock Purchase Plan. In
+addition, 22,385,672 shares have been reserved pursuant to the Share Purchase
+Rights Plan. As a result, a total of 25,433,964 authorized shares of Common
+Stock remain available for future issuance.
+
+The additional shares of Common Stock for which authorization is sought would
+have the same rights and privileges as the shares of Common Stock presently
+outstanding. Holders of the Company's outstanding Common Stock have no
+preemptive rights.
+
+The Board believes that it is desirable to have the additional authorized shares
+of Common Stock available for possible future financing and acquisition
+transactions, stock dividends or splits, employee stock plans, shares to be
+reserved and issued under the Share Purchase Rights Plan and other general
+corporate purposes. The additional authorized shares of Common Stock would
+provide the Company with increased flexibility to issue such stock to take
+advantage of market conditions and foreseeable opportunities without the expense
+and delay of a special stockholders' meeting, unless stockholder action is
+otherwise required. The New York Stock Exchange, on which the Company's Common
+Stock is listed, currently requires stockholder approval as a prerequisite to
+listing shares in several instances, including transactions where the present or
+potential issuance of shares could result in a change of control of a company or
+in an increase of at least 20% of the (i) outstanding shares or (ii) voting
+power outstanding (as defined by the New York Stock Exchange) of a company.
+
+                                       5
+<PAGE>
+There are no current plans for the issuance of additional Common Stock. Common
+Stock may, however, be issued by the Company from time to time in connection
+with its acquisition growth strategy as opportunities arise. In such event,
+stockholder approval will be sought if required by the New York Stock Exchange
+as a prerequisite to listing shares.
+
+Although not a factor in the Board's decision to propose an increase in the
+number of authorized shares of Common Stock, one of the effects of an increase
+in authorized shares may be to make more difficult or prevent a change in
+control of the Company. Such shares could be privately placed with purchasers
+who might align themselves with the Board in opposing a hostile takeover bid.
+The issuance of the additional shares of Common Stock could also have the effect
+of diluting the stock ownership or voting rights of persons seeking to obtain
+control of the Company. In this respect, the Company has a Share Purchase Rights
+Plan which permits the Company's stockholders to purchase shares of Common Stock
+at a very favorable price under certain circumstances and contains other terms
+designed to protect against the adverse consequences to stockholders of
+"front-end loaded two-step takeovers" and to encourage potential acquirors to
+negotiate with the Company's Board.
+
+Other provisions of the Company's Restated Certificate of Incorporation
+previously approved by the Company's stockholders may also be deemed to have
+anti-takeover effects. Article TENTH of the Restated Certificate of
+Incorporation provides for the classification of directors into three classes
+with staggered three-year terms and requires the approval by holders of 80% of
+the Company's voting stock for the removal of a director and for the amendment
+of the Company's By-Laws. Article ELEVENTH prohibits stockholder action by
+written consent. Article TWELFTH requires supermajority stockholder approval of
+certain business transactions between the Company and any beneficial owner of
+10% or more of the Company's outstanding voting stock except under certain
+circumstances where the Board has approved such transactions. Articles TENTH,
+ELEVENTH and TWELFTH may not be amended without the approval by holders of at
+least 80% of the Company's voting stock. The Company is also authorized to issue
+up to 250,000 shares of Preferred Stock with such rights, preferences and
+limitations as may be determined by the Board. Such preferred shares could be
+issued in one or more transactions with terms which might deter or make more
+difficult a change in control of the Company. Except for the shares of Common
+Stock which have been reserved as described, the Company has no present plans,
+understandings, agreements or commitments to issue or sell additional shares of
+Common Stock.
+
+The proposed amendment will be accomplished by deleting the first paragraph of
+Article FOURTH of the Restated Certificate of Incorporation and substituting in
+lieu thereof a new first paragraph of Article FOURTH to read as follows:
+
+    "FOURTH. The total number of shares which the Corporation shall have
+    authority to issue is One Hundred Million Two Hundred Fifty Thousand
+    (100,250,000), of which Two Hundred Fifty Thousand (250,000) shares, at a
+    par value of $1.00 per share, shall be Preferred Stock and One Hundred
+    Million (100,000,000) shares, at a par value of $1.00 per share shall, be
+    Common Stock. Any and all such shares issued, and for which the full
+    consideration has been paid or delivered, shall be deemed fully paid shares
+    and the holder of such shares shall not be liable for any further call or
+    assessment or any other payment thereon."
+
+The affirmative vote of the holders of a majority of the outstanding Common
+Stock of the Company entitled to vote at the meeting is required to adopt the
+proposed amendment to the Restated Certificate of Incorporation.
+
+                   THE BOARD RECOMMENDS THAT THE STOCKHOLDERS
+                VOTE FOR THE PROPOSAL INCREASING THE AUTHORIZED
+                       NUMBER OF SHARES OF COMMON STOCK.
+
+                                       6
+<PAGE>
+                         OTHER MATTERS TO BE VOTED UPON
+Management knows of no other matters which are to be brought before this Annual
+Meeting. However, if any other matters properly come before the Annual Meeting,
+the named proxy holders will vote all proxies in their discretion and best
+judgment on such other matters.
+
+                  SECURITY OWNERSHIP OF MANAGEMENT AND OTHERS
+
+TABLES
+
+The following tables show the shares of Common Stock beneficially owned, as of
+July 31, 1999, by (i) each director and nominee for election to the Board, (ii)
+each of the executive officers named in the Summary Compensation Table, (iii)
+all directors and executive officers of the Company as a group, and (iv) each
+beneficial owner of more than 5% of the outstanding shares of Common Stock.
+Except as noted, the nature of beneficial ownership for shares shown in the
+Tables is sole voting and/or investment power.
+
+                        SECURITY OWNERSHIP OF MANAGEMENT
+
+<TABLE>
+<CAPTION>
+                                                                                 Percent of Shares
+                                                 Number of                         Outstanding if
+               Name                              Shares(1)                        greater than 1%
+- -----------------------------------             -----------                    ----------------------
+<S>                                  <C>                                       <C>
+A. Robert Abboud                                        37,832
+Howard B. Bernick                                       27,500
+Ira A. Eichner                                         791,333(2)                     2.9
+Edgar D. Jannotta                                       37,500
+Robert D. Judson                                        21,037
+Howard A. Pulsifer                                      53,486
+Timothy J. Romenesko                                    58,965
+Erwin E. Schulze                                        20,984
+Philip C. Slapke                                       133,446
+Joel D. Spungin                                         20,250
+Lee B. Stern                                           154,173(3)
+David P. Storch                                        740,778(4)                     2.7
+Richard D. Tabery                                       62,212
+
+All directors and executive                          2,159,496(1,2,3,4)               7.9
+ officers as a group
+</TABLE>
+
+- ------------
+
+(1)   Includes the following shares of the identified person that may be
+    acquired within sixty days of July 31, 1999, through the exercise of stock
+    options: Mr. Bernick, 15,000 shares; Mr. Eichner, 160,169 shares; Mr.
+    Jannotta, 15,000 shares; Mr. Judson, 15,000 shares; Mr. Pulsifer, 12,548
+    shares; Mr. Romenesko, 12,865 shares; Mr. Schulze, 15,000 shares; Mr.
+    Slapke, 49,310 shares; Mr. Spungin, 15,000 shares; Mr. Stern, 4,273 shares;
+    Mr. Storch, 435,394 shares; and Mr. Tabery, 34,500 shares; and all directors
+    and executive officers as a group (13 persons), 784,059 shares.
+
+(2)   Does not include 75,000 shares which Mr. Eichner may be deemed to own a
+    beneficial interest in, but as to which Mr. Eichner disclaims beneficial
+    ownership.
+
+(3)   Does not include 49,500 shares which Mr. Stern may be deemed to own a
+    beneficial interest in, but as to which Mr. Stern disclaims beneficial
+    ownership.
+
+(4)   Includes 28,692 shares beneficially owned by Mr. Storch's wife (18,810
+    shares) and minor children (9,882 shares), as to which Mr. Storch disclaims
+    beneficial ownership.
+
+                                       7
+<PAGE>
+                SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+
+<TABLE>
+<CAPTION>
+Name and Address                                                                      Number of    Percent of Shares
+ of Stockholder                                                                        Shares         Outstanding
+- -----------------------------------------------------------------------------------  -----------  -------------------
+<S>                                                                                  <C>          <C>
+Neuberger & Berman, LLC                                                              3,008,050(1)          10.92%
+ 605 Third Avenue
+ New York, NY 10158-3698
+Westport Asset Management, Inc.                                                      2,188,700(2)            7.9%
+ 253 Riverside Avenue
+ Westport, CT 06880-4816
+</TABLE>
+
+- ------------
+
+(1)   As of 12/31/98, Neuberger Berman, LLC ("Neuberger"), a registered
+    investment advisor, stated that it had the following powers with respect to
+    these shares, and that in its capacity as investment advisor, it may be
+    deemed to have beneficial ownership of these shares. Neuberger further
+    stated that it has no economic interest in these shares and that its clients
+    are the actual owners of the shares and have the sole right to receive and
+    the power to direct the receipt of dividends from or proceeds from the sale
+    of such shares:
+
+<TABLE>
+<S>        <C>                       <C>           <C>
+(i)        sole voting power:           1,187,800
+(ii)       shared voting power:         1,809,550
+(iii)      sole dispositive power:              0
+(iv)       shared dispositive           3,008,050
+           power:
+</TABLE>
+
+(2)   As of 2/16/99, Westport Asset Management, Inc. disclaimed beneficial
+    ownership of these shares and stated that it had the following powers with
+    respect to these shares:
+
+<TABLE>
+<S>        <C>                       <C>           <C>
+(i)        sole voting power:                   0
+(ii)       shared voting power:         2,188,700
+(iii)      sole dispositive power:              0
+(iv)       shared dispositive           2,188,700
+           power:
+</TABLE>
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+Based solely upon a review of Securities and Exchange Commission Forms 3, 4 and
+5 and upon related written representations furnished to the Company with respect
+to its most recent fiscal year, no person who, at any time during the fiscal
+year, was a director, officer or beneficial owner of more than ten percent of
+any class of equity securities of the Company registered pursuant to Section 12
+of the Securities Exchange Act of 1934 ("Exchange Act"), failed to file on a
+timely basis reports required by Section 16(a) of the Exchange Act during Fiscal
+1999.
+
+                  EXECUTIVE COMPENSATION AND OTHER INFORMATION
+
+COMPENSATION COMMITTEE'S REPORT ON EXECUTIVE COMPENSATION
+
+GENERAL
+
+The Company's executive compensation program is structured and administered by
+the Compensation Committee of the Board of Directors. The Committee is comprised
+of the five individuals listed below, all of whom are independent directors of
+the Company.
+
+The executive compensation program is designed to enable the Company to attract,
+motivate and retain talented executives capable of achieving strategic business
+initiatives and to reward them for their achievement. It is designed to
+complement the Company's short-term and long-term business objectives and to
+focus executives' efforts on fulfilling these objectives. The program consists
+of three elements: (i) base salaries which are generally set at approximately
+the median salary level of comparable positions in similar companies, adjusted
+up or down to reflect individual capabilities and responsibilities and
+experience levels and other relevant factors; (ii) annual variable incentive
+opportunities paid in cash and stock based on individual contribution and
+performance; and (iii) long-term incentive opportunities, in the form of stock
+option/restricted stock awards.
+
+                                       8
+<PAGE>
+Total compensation opportunities for each executive are intended to be
+competitive with those offered by other companies competing for talent in the
+Company's employment market. In designing and administering the individual
+elements of the executive compensation program for each executive, the Committee
+strives to balance short- and long-term incentive objectives and employ prudent
+judgment in establishing base salary levels and performance criteria, evaluating
+performance and determining actual incentive payments. To ensure competitiveness
+and reasonableness of the Committee's compensation decisions, independent
+compensation consulting firms are retained periodically to advise the Committee
+in connection with both the design and implementation of the various elements of
+the program and the level of individual executive participation. The Company
+uses competitive compensation analyses by independent consultants to ensure that
+the President and Chief Executive Officer's and other executive officers' base
+salaries and total compensation are at an appropriate competitive level relative
+to compensation for such positions at other companies in the relevant employment
+market. Generally, as an executive's level of responsibility increases, a
+greater percentage of total compensation is based on performance, and the mix of
+total compensation shifts toward stock, thereby aligning the long-term interest
+of senior executives with those of stockholders. To encourage stock ownership in
+the Company by senior executives, the Company has established guidelines for
+ownership of Common Stock by senior management equal in value to 75% of salary,
+to be voluntarily achieved. An executive's progress towards achieving these
+guidelines will be one factor considered by the Committee in awarding stock
+compensation to the executive in the future.
+
+BASE SALARIES
+
+Base salary levels of all elected corporate officers, including the President
+and Chief Executive Officer, are reviewed annually by the Committee and may be
+adjusted depending upon the executive's qualifications, responsibilities,
+assessed performance contribution, tenure in the Company and in the position
+held, and competitive salary considerations relative to similar positions at
+selected companies in the employment market from which the Company draws its
+executives. Adjustments in Fiscal 1999 to the base salaries of the President and
+Chief Executive Officer and other executive officers named in the Summary
+Compensation Table reflect the factors referred to above.
+
+ANNUAL INCENTIVE OPPORTUNITIES
+
+The President and Chief Executive Officer has an annual performance-based
+incentive bonus opportunity of up to 150% of his base salary. Twenty percent of
+his incentive bonus is payable in three-year restricted stock. The percentage
+incentive bonus opportunity for other executive positions varies depending on
+their responsibility level and 10% of any bonus paid is payable in restricted
+stock.
+
+Each fiscal year the Compensation Committee establishes specific annual cash
+bonus performance goals, within guidelines approved by stockholders in 1997 and
+intended to meet the requirements of Section 162(m) of the Internal Revenue
+Code, for the President and Chief Executive Officer and the Executive Vice
+President of the Company. These goals focus on two categories: income and
+balance sheet management. The importance and weighting of these two categories
+is established each year by the Compensation Committee. Under the category of
+balance sheet management, the goals include one or several of the following
+criteria: shareholder equity, long-term debt to capital ratio, investment
+rating, debt coverage, cash flow and return on invested capital. Under the
+category of income, the goals include one or several of the following: pre-tax
+income, earnings per share and net income. A participant may earn up to 100% of
+such participant's salary (not to exceed $4 million in any year) for meeting
+target goals and up to an additional 50% of salary for exceeding target goals.
+The amount actually earned depends on each participant's position and actual
+performance versus the pre-established goals.
+
+                                       9
+<PAGE>
+LONG-TERM INCENTIVE OPPORTUNITIES
+
+The long-term incentive program consists of stock option and/or restricted stock
+awards granted under the AAR CORP. Stock Benefit Plan approved by stockholders
+in 1992; Mr. Storch, President and Chief Executive Officer, is also eligible for
+a performance restricted share award based on performance over a four-year
+period pursuant to the terms of his Employment Agreement.
+
+Stock option awards typically expire 10 years from the date of grant or earlier
+upon termination of employment, become exercisable in five equal increments on
+successive grant anniversary dates at the NYSE closing stock price on the date
+of grant, and are accompanied by reload features and, for certain individuals,
+stock rights exercisable in the event of a change in control of the Company.
+Restrictions imposed on restricted stock awards vary and are designed, among
+other things, to encourage executives to stay with the Company and to maintain a
+focus on long-term objectives of the Company. Typically, restricted stock grants
+vest over five (5) years (20% each anniversary), over seven (7) years (25% on
+fourth anniversary, 25% on sixth anniversary and 50% on seventh anniversary), or
+over 10 years (30% on fourth anniversary, 30% on 7th anniversary and 40% on 10th
+anniversary); restrictions on restricted stock used in lieu of cash to pay
+earned bonuses are released over three (3) years ( 1/3 on each anniversary).
+Typically, awards are subject to forfeiture if the employee terminates
+employment for any reason other than retirement or disability or the Company
+terminates employment for cause, during the award cycle. During the award cycle
+the participant receives dividends on the restricted shares and also has the
+right to vote the awarded shares.
+
+In determining stock option and restricted stock awards, the Committee considers
+the recipient's position and responsibilities in the Company, performance and
+contributions made during the preceding year, capabilities and potential for
+future contribution to the Company, the number of options and awards previously
+granted to the recipient and, for senior management, their progress toward
+achieving the Company's guidelines for stock ownership by senior management.
+
+The Board believes that Mr. Storch, as the President and Chief Executive
+Officer, should have the opportunity, based on performance, to become a
+significant shareholder and that the performance measures that govern his
+opportunities should be both economic and shareholder value related. Such
+measures should also be related to the Company's industry and investor
+communities and reflect business objectives of the Company over the coming
+years. Mr. Storch has the opportunity, under his Employment Agreement, to earn
+up to 540,000 performance shares at the completion of four years service as
+President and Chief Executive Officer (July 9, 2000) contingent upon the
+Company's performance compared to the performance of (i) the Company's peer
+group index and (ii) the S&P500 index for both return on total capital and total
+return to shareholders.
+
+Mr. Storch and other named executive officers in the Summary Compensation Table
+below received the long-term incentive stock options and restricted stock awards
+reflected in the tables below. The number of shares covered by each grant
+reflects individual contributions and performance, as well as competitive
+industry practices, in the view of the Committee. The grant levels also continue
+the Board's emphasis on executive share ownership and further the Company's
+objectives of tying incentive compensation to performance and aligning
+executive's interests with the interests of the Company's stockholders.
+
+CHIEF EXECUTIVE OFFICER COMPENSATION
+
+The Committee's action with respect to Mr. Storch's total Fiscal 1999
+compensation reflects consideration of the factors discussed earlier, and the
+leadership role played in the performance results of the Company overall, and in
+maintaining the financial strength and liquidity of the Company.
+
+In Fiscal 1999, Mr. Storch's annual base salary was increased to $610,000 and he
+was awarded an annual incentive bonus equal to 131% of his base salary in effect
+as of May 31, 1999, reflecting achievement of (i) a net income growth of 16.9%,
+(ii) a long-term debt to capital ratio of 35.7%, and
+
+                                       10
+<PAGE>
+(iii) maintenance of an investment grade credit rating, as well as other
+factors, including a substantial improvement over the prior year in consolidated
+net sales (up 17.4%). Mr. Storch also received 22,500 restricted shares and
+195,000 option shares pursuant to the terms of his Employment Agreement. Mr.
+Storch's base salary has been increased to $650,000 effective June 1, 1999.
+
+The tables which follow this report and accompanying footnotes and narrative
+reflect the decisions covered by the above discussion.
+
+FEDERAL INCOME TAX CONSIDERATIONS
+
+Section 162(m) of the Internal Revenue Code of 1986, as amended (the "Code"),
+generally prevents any public company from claiming a deduction for compensation
+in excess of $1 million for any executive. This deduction limitation, however,
+does not apply to performance-based compensation that satisfies certain
+requirements under Section 162(m). The Committee has determined that it is in
+the best interests of the Company and its shareholders to structure compensation
+of executive officers so that compensation will not be subject to the deduction
+limit to the extent that it can reasonably do so in a manner that provides
+adequate incentives and allows the Company to attract and retain qualified
+executives. However, the Committee has previously and may in the future
+structure compensation arrangements that under certain circumstances may be
+subject to the deduction limit. None of the compensation paid by the Company in
+Fiscal 1999 was subject to the deduction limit.
+
+COMPENSATION COMMITTEE
+
+    Erwin E. Schulze, Chairman
+    A. Robert Abboud
+    Edgar D. Jannotta
+    Robert D. Judson
+    Lee B. Stern
+
+                                       11
+<PAGE>
+STOCKHOLDER RETURN PERFORMANCE GRAPH
+
+The following graph compares the five-year cumulative total stockholder return
+(including reinvestment of dividends) of the Company, the S&P (Standard &
+Poor's) Composite--500 Stock Index, and a peer group index selected by the
+Company.
+
+The S&P Composite--500 Stock Index is comprised of domestic industry leaders in
+four major sectors: Industrials, Financials, Utilities and Transportation, and
+serves as a broad indicator of the performance of the U.S. equity market. The
+peer group index selected by the Company is comprised of companies engaged in
+engine, airframe and/or manufacturing activities in support of the
+aerospace/aviation aftermarket similar to those conducted by the Company. The
+peer group selected by the Company is comprised of the following companies:(1)
+Aviall, Inc., Aviation Sales Company, B.F. Goodrich Company, Kellstrom
+Industries, Inc., Sequa Corp., SPS Technologies Inc., Willis Lease Finance
+Corp., and Wyman Gordan Co.
+
+These indices relate only to stock prices and dividends; they do not purport to
+provide a direct comparison of the business or financial performance of the
+companies comprising such indices with the Company or with each other.
+
+         COMPARISON OF FIVE-YEAR CUMULATIVE STOCKHOLDER TOTAL RETURN(2)
+
+EDGAR REPRESENTATION OF DATA POINTS USED IN PRINTED GRAPHIC
+
+<TABLE>
+<CAPTION>
+    RETURN TO SHAREHOLDER
+<S>                            <C>           <C>         <C>
+Index                             AAR CORP.     S&P 500       PEER GROUP
+FY94                                $100.00     $100.00          $100.00
+FY95                                $109.97     $120.19          $106.31
+FY96                                $163.66     $154.37          $169.00
+FY97                                $233.74     $199.77          $200.86
+FY98                                $302.84     $261.07          $250.60
+FY99                                $229.85     $315.96          $209.89
+</TABLE>
+
+- ------------
+
+(1)   Banner Aerospace, Inc., included in the Company's Peer Group in prior
+    years, was acquired during 1999 and delisted; therefore it has been deleted.
+
+(2)   Assumes $100 invested on June 1, 1994, and reinvestment of dividends in
+    the Company's Common Stock, S&P Composite-500 Stock Index and Companies
+    comprising the Peer Group.
+
+                                       12
+<PAGE>
+COMPENSATION TABLE
+
+The following table summarizes the total compensation earned by or paid for
+fiscal years 1997 through 1999 to the President and Chief Executive Officer and
+the four other most highly paid executive officers in Fiscal 1999.
+
+                           SUMMARY COMPENSATION TABLE
+
+<TABLE>
+<CAPTION>
+                                                                                Long Term Compensation
+                                                                           --------------------------------
+                                                                                        Awards
+                                                                           --------------------------------
+                                             Annual Compensation                               Securities
+                                    -------------------------------------  Restricted Stock    Underlying          All Other
+   Name and Principal Position        Year     Salary ($)   Bonus ($)(1)    Award(s) ($)(2)    Options (#)    Compensation ($)(3)
+- ----------------------------------  ---------  -----------  -------------  -----------------  -------------  ---------------------
+<S>                                 <C>        <C>          <C>            <C>                <C>            <C>
+DAVID P. STORCH...................       1999     610,000       800,000          655,313          195,000             97,600
+  PRESIDENT AND CHIEF                    1998     550,000       750,000          511,875          345,000             99,800
+  EXECUTIVE OFFICER                      1997     450,500       500,000          361,799          200,000             98,000
+
+IRA A. EICHNER(4).................       1999     488,000       640,000          287,550           55,800            194,000
+  CHAIRMAN AND FOUNDER                   1998     440,000       600,000          415,440           36,000            199,800
+                                         1997     440,500       400,000          361,800           30,000            202,600
+
+PHILIP C. SLAPKE..................       1999     350,000       491,900          155,756           42,500             34,600
+  EXECUTIVE VICE                         1998     241,500       476,160          225,030           26,250             32,900
+  PRESIDENT                              1997     230,000       373,530          150,734           12,500              2,900
+
+HOWARD A. PULSIFER................       1999     215,000       125,000           47,925           16,350             34,200
+  VICE PRESIDENT,                        1998     195,000       105,000           69,240           12,000             31,400
+  GENERAL COUNSEL,                       1997     177,800       100,000           90,434            7,500              3,600
+  AND SECRETARY
+
+TIMOTHY J. ROMENESKO..............       1999     220,000       143,500           83,870           26,750             21,000
+  VICE PRESIDENT AND                     1998     195,000       125,000          121,170           15,000             21,300
+  CHIEF FINANCIAL OFFICER                1997     158,000       100,000           90,434            7,500              3,600
+</TABLE>
+
+- ------------
+
+(1)   Bonus compensation in Fiscal 1999 was paid to Mr. Storch, 80% in cash and
+    20% in restricted stock, to Mr. Eichner, 100% in cash, and to all others,
+    90% in cash and 10% in restricted stock, based on NYSE May 28, 1999, closing
+    price. The restricted stock vests over a three year period (one-third each
+    grant anniversary date). Dividends are paid on all shares of restricted
+    stock.
+
+(2)   On May 31, 1999, the following shares of restricted stock were held by
+    each named executive: Mr. Storch, 88,917; Mr. Eichner, 25,200; Mr. Slapke,
+    55,319; Mr. Pulsifer, 22,259; Mr. Romenesko, 29,679. The May 31, 1999,
+    market value of each named executive's restricted stock is as follows: Mr.
+    Storch, $1,756,111; Mr. Eichner, $497,700; Mr. Slapke, $1,092,550; Mr.
+    Pulsifer, $439,615; Mr. Romenesko, $586,160. Vesting of long term restricted
+    stock awards for executive officers varies from 3 years for Mr. Storch to 7
+    years in Fiscal 1996 and 1997 and 10 years in Fiscal 1998 for other
+    executive officers (except for Mr. Eichner whose awards all vest in equal
+    amounts on the 1st and 2nd grant anniversary). Dividends are paid on all
+    shares of restricted stock.
+
+(3)   "All Other Compensation" includes the following: (i) contributions to the
+    Company's 401(k) plan on behalf of each of the named executives as a 1%
+    match of 1999 pre-tax elective deferred contributions (Mr. Storch, $5,400;
+    Mr. Eichner, $5,400; Mr. Slapke, $3,800; Mr. Pulsifer, $3,100; Mr.
+    Romenesko, $3,300), (ii) the premium paid on group term life insurance for
+    Mr. Slapke, $1,600; Mr. Pulsifer, $6,300; and Mr. Romenesko, $1,400; and
+    (iii) the value of the benefit of the remainder of the premium paid under
+    the Company's split dollar life insurance program in the following amounts:
+    Mr. Storch, $92,200; Mr. Eichner, $188,600; Mr. Slapke, $29,200; Mr.
+    Pulsifer, $24,800; Mr. Romenesko, $16,300.
+
+(4)   Mr. Eichner retired as an active executive officer and employee of the
+    Company effective May 31, 1999; he will continue in his capacity as an
+    elected director and non-executive Chairman of the Board and Founder for his
+    elected term. Mr. Eichner is a nominee for reelection as a director at the
+    1999 Annual Stockholders Meeting.
+
+STOCK OPTIONS
+
+Options generally become exercisable 20% each year over a five-year period.
+Unexercised options expire ten years after the date of grant. The stock option
+exercise price is equal to the fair market value (NYSE closing price) of a share
+of stock on the date of grant. The options have no value unless the stock price
+appreciates and the holder satisfies the applicable vesting requirements.
+
+                                       13
+<PAGE>
+The following table shows certain information with respect to stock options
+granted in Fiscal 1999 to the named executive officers. It also shows how much
+the named executive officers potentially may realize under two hypothetical
+situations: if the stock gains 5% or 10% in value per year compounded over the
+ten year life of the options. These are assumed hypothetical rates of
+appreciation required to be shown by Securities Exchange Commission regulations
+as an example and are not a forecast of future stock price appreciation. Also
+included in this table by way of example is the hypothetical increase in value
+to all stockholders and to all employee optionees under such circumstances.
+
+                       OPTION GRANTS IN LAST FISCAL YEAR
+
+<TABLE>
+<CAPTION>
+                                               Individual Grants
+                            --------------------------------------------------------  Potential Realizable Value at
+                               Number of                                              Assumed Annual Rates of Stock
+                              Securities        % of Total                            Price Appreciation for Option
+                              Underlying     Options Granted   Exercise                     Term of 10 Years
+                            Options Granted  to Employees in     Price    Expiration  -----------------------------
+Name                              (#)          Fiscal Year      ($/Sh)       Date        5% ($)         10% ($)
+- --------------------------  ---------------  ----------------  ---------  ----------  -------------  --------------
+<S>                         <C>              <C>               <C>        <C>         <C>            <C>
+David P. Storch...........       195,000(1)         23.59%        $23.50    1/1/2009      2,363,166       5,988,726
+
+Ira A. Eichner............        55,800(2)          6.75%         17.75  10/14/2008        676,229       1,713,697
+
+Philip C. Slapke..........        42,500(2)          5.14%         17.75  10/14/2008        515,049       1,305,235
+
+Howard A. Pulsifer........        16,350(2)          1.98%         17.75  10/14/2008        198,142         502,132
+
+Timothy J. Romenesko......        26,750(2)          3.24%         17.75  10/14/2008        324,178         821,530
+
+All Stockholders..........           N/A              N/A            N/A         N/A    331,812,802     840,878,787
+
+All Employee Optionees....       796,650(2)         96.36%         19.27     Various      9,654,442      24,466,251
+                                  30,103(3)          3.64%         22.96     Various        238,289         537,542
+
+Total Optionee Gain as %
+ of all Stockholder
+ Gain.....................           N/A              N/A            N/A         N/A             3%              3%
+</TABLE>
+
+- ----------
+
+(1)   Mr. Storch's option grant is pursuant to his Employment Agreement
+    performance stock program which establishes the option exercise price at
+    $23.50, the NYSE closing price on July 14, 1997, the date of Board approval
+    of his performance stock program (adjusted for a 3-for-2 stock split issued
+    in February, 1998).
+
+(2)   Ten year options subject to reload and rights provisions; 20% of option
+    shares become exercisable on the 1st, 2nd, 3rd, 4th and 5th grant
+    anniversary except for Mr. Storch's which become exercisable on July 9,
+    2000, and Mr. Eichner's which become exercisable in equal amounts on the 1st
+    and 2nd grant anniversary.
+
+(3)   These are reload options resulting from exercise of an original option
+    grant. Under the original grant, reload options result upon surrender of
+    shares then owned by the option holder in payment of the exercise price of
+    the initial option. The reload option is for the number of shares
+    surrendered and expires concurrent with the original option. The reload
+    option exercise price is equal to the fair market value of the underlying
+    stock on the date the original option is exercised. Reload options are
+    included in the percentage total options granted to employees shown on the
+    chart. Values shown in the Potential Realizable Value columns are
+    duplicative of the portion of the value disclosed in such columns in the
+    year of the original option grant and do not represent new value above that
+    of the original grant.
+
+The following table shows that no stock options were exercised by named
+executive officers during Fiscal 1999. This table also shows the number of
+shares of common stock covered by both exercisable and non-exercisable stock
+options as of May 31, 1999, and the number and value of "in-the-money"
+unexercised options.
+
+                                       14
+<PAGE>
+   AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR END OPTION
+                                     VALUES
+
+<TABLE>
+<CAPTION>
+                                                                       Number of Securities
+                                                                      Underlying Unexercised     Value of Unexercised In-the-
+                                                                    Options at Fiscal Year-End     Money Options at Fiscal
+                                                                               (#)                     Year-End ($)(1)
+                                Shares Acquired   Value Realized   ----------------------------  ----------------------------
+            Name                on Exercise (#)         ($)        Exercisable   Unexercisable   Exercisable   Unexercisable
+- -----------------------------  -----------------  ---------------  ------------  --------------  ------------  --------------
+<S>                            <C>                <C>              <C>           <C>             <C>           <C>
+David P. Storch..............              0                  0        360,394       753,000     2,902,334.53   1,517,040.00
+Ira A. Eichner...............              0                  0        160,169       138,600     1,011,641.00     451,350.00
+Philip C. Slapke.............              0                  0         49,310        83,750       206,116.50     206,507.50
+Howard A. Pulsifer...........              0                  0         12,548        38,100        53,545.50     105,604.50
+Timothy J. Romenesko.........              0                  0         12,865        50,900        50,620.50     126,404.50
+</TABLE>
+
+- ------------
+
+(1)   Value of unexercised in-the-money options equals the fair market value of
+    the Common Stock at May 31, 1999, less the exercise price, times the number
+    of option shares outstanding. The most recent closing price of the Common
+    Stock on the NYSE at May 31, 1999, was $19.75.
+
+PENSION BENEFITS
+
+QUALIFIED PLAN BENEFITS
+
+The Company provides benefits to all domestic employees including the named
+executive officers under a qualified retirement program that includes defined
+benefits and 401(k)/profit sharing. The defined benefits are determined pursuant
+to a formula which takes into consideration years of credited service (to a
+maximum of 20), a percentage of the participant's final average compensation
+(the five highest consecutive calendar years of compensation out of the
+employee's last ten calendar years of employment) and adjustments for social
+security "covered compensation" which is an "offset." Compensation includes cash
+compensation shown as income on an employee's Form W-2, reduced by certain items
+specified in the Plan, plus amounts contributed to the Profit Sharing Plan.
+Compensation for purposes of the Plan cannot exceed an annual compensation
+limitation of $160,000 as adjusted from time to time by the Commissioner of
+Internal Revenue in accordance with applicable provisions of the Code.
+
+The aggregate salary and bonus compensation shown for the named executive
+officers in the Summary Compensation Table above is the compensation currently
+included for purposes of determining benefits under qualified plans as well as
+the Supplemental Key Employee Retirement Benefit Plan ("SKERP") described below.
+The number of years of credited service under the qualified plans, is as
+follows: Mr. Storch, 20 years; Mr. Eichner, 20 years; Mr. Slapke, 15 years; Mr.
+Pulsifer, 12 years; and Mr. Romenesko, 18 years. Benefits under the Plan may be
+limited by applicable laws or regulations. Profit sharing and 401(k) benefits
+are based on voluntary contributions by employees with a 1% match and a
+discretionary profit sharing contribution by the Company. The Company's
+discretionary profit sharing contribution has typically been in the three to
+four percent range.
+
+NON-QUALIFIED PLAN BENEFITS
+
+The Company provides supplemental retirement benefits to certain executives and
+key employees under the SKERP. All of the named executive officers are
+participants in the SKERP, except that Mr. Eichner's participation does not
+include supplemental defined benefits. The SKERP is designed to restore the
+approximate amount of employer-provided benefits under the Company's qualified
+retirement plan lost as a result of Code limitations, including those limiting
+compensation for purposes of benefit calculations. Lost benefits restored under
+the SKERP are determined in the same manner, using the same compensation data
+and years of credited service, as benefits are determined under the Company's
+qualified retirement program, subject to maximum compensation limits established
+by the Company from time to time (presently $330,000 for key employee
+participants and $500,000 for executive officer participants designated by the
+Board). The SKERP also provides
+
+                                       15
+<PAGE>
+for aggregate retirement benefits at 50% of final average compensation (as
+defined in Plan documents) for certain executive officers designated by the
+Board (including three of the named executive officers), subject to maximum
+compensation limits established by the Company from time to time and reduced by
+certain items specified in Plan documents. SKERP benefits are unfunded and are
+forfeited if the participant violates a covenant not to compete set forth in the
+Plan document or if employment is terminated for cause.
+
+Mr. Eichner is also covered by an individual Supplemental Executive Retirement
+Plan ("SERP"). Annual benefits under the SERP are equal to 80% of the aggregate
+average of annual salary, bonus and long-term incentive cash payments ("cash
+compensation") paid for the three fiscal years in which cash compensation is
+highest during any ten fiscal years preceding the date of termination of active
+employment, subject to an offset for benefits received under the qualified
+defined benefit plan and certain other reductions. Mr. Eichner retired as an
+active employee of the Company on May 31, 1999. Based on Mr. Eichner's cash
+compensation history, he will receive an annual after tax retirement benefit of
+$540,000 under the SERP. The Company funds the benefits through an irrevocable
+trust arrangement with a bank. The level of funding is based on actuarial
+computations determined by an independent actuary. The residual in the trust
+upon Mr. Eichner's death will be paid to his estate or designated beneficiaries.
+
+TABLE OF PENSION BENEFITS
+
+The following table shows a straight life annuity pension benefit (based on 30%
+of an employee's final average compensation) payable annually under the AAR
+CORP. Retirement Plan and Supplemental Key Employee Retirement Plan ("SKERP")
+commencing at age 65 at various combinations of average compensation and years
+of service.
+
+                             PENSION BENEFIT TABLE
+
+<TABLE>
+<CAPTION>
+                                                          Annual Benefit for
+                                                           Years of Service
+                                                          ------------------
+    Final Average Compensation                               15        20
+    ----------------------------------------------------  --------  --------
+    <S>                                                   <C>       <C>
+    $ 100,000...........................................  $ 22,500  $ 30,000
+      125,000...........................................    28,125    37,500
+      150,000...........................................    33,750    45,000
+      175,000...........................................    39,375    52,500
+      200,000...........................................    45,000    60,000
+      225,000...........................................    50,625    67,500
+      250,000...........................................    56,250    75,000
+      275,000...........................................    61,875    82,500
+      300,000...........................................    67,500    90,000
+      350,000...........................................    78,750   105,000
+      400,000...........................................    90,000   120,000
+      450,000...........................................   101,250   135,000
+      500,000...........................................   112,500   150,000
+      600,000...........................................   135,000   180,000
+      700,000...........................................   157,500   210,000
+      800,000...........................................   180,000   240,000
+      900,000...........................................   202,500   270,000
+     1,000,000..........................................   225,000   300,000
+     1,100,000..........................................   247,500   330,000
+     1,200,000..........................................   270,000   360,000
+     1,300,000..........................................   292,500   390,000
+     1,400,000..........................................   315,000   420,000
+     1,500,000..........................................   337,500   450,000
+</TABLE>
+
+                                       16
+<PAGE>
+EMPLOYMENT AND OTHER AGREEMENTS
+
+DAVID P. STORCH
+
+The Company has an employment agreement with Mr. Storch designed to assure his
+continued services with the Company at a base compensation of $650,000 per year
+or such increased amount as the Board may determine. Mr. Storch's term of
+employment is continuously extended so as to have a remaining term of three
+years, but shall expire upon death, disability, retirement or other termination
+of employment.
+
+Mr. Storch's agreement also includes: confidentiality and non-compete
+provisions; participation in the Company's benefit plans; a severance payment
+upon termination of employment by the Company for other than cause prior to a
+change in control of the Company equal to two times base salary then in effect;
+a severance payment equal to three (3) times his average cash compensation (base
+salary plus cash bonus) for the last two fiscal years of employment upon
+termination of employment under certain circumstances in the event of a change
+in control of the Company; an incentive bonus opportunity of up to 150% of base
+salary subject to annual financial targets approved by the Compensation
+Committee (20% of any bonus is payable in three year restricted stock); and long
+term incentive stock compensation consisting of an option grant of 300,000
+shares (adjusted for 1998 stock split); annual restricted stock awards of up to
+22,500 shares each year for four years in the discretion of the Compensation
+Committee; 540,000 performance shares to be granted at the completion of a
+four-year performance period contingent upon the Company's performance compared
+to the Company's Peer Group index and the S&P500 index for both return on
+capital and total return to shareholders; and 360,000 option shares granted in
+annual increments pursuant to a schedule, all of which vest at the end of the
+performance period.
+
+IRA A. EICHNER
+
+The Company has an employment agreement with Mr. Eichner which provides for
+employment as Chairman and Founder at a base compensation of $488,000 per year
+or such increased amount as the Board may determine. The term of employment is
+continuously extended so as to have a remaining term of three years, and expires
+upon death, disability, voluntary termination or attainment of age 68. The
+agreement also provides for retirement benefits following termination of his
+full-time employment with the Company under the Company's qualified retirement
+plan, and SERP described under "Pension Plans" above. Mr. Eichner has attained
+the age of 68 and retired from active employment on May 31, 1999. Accordingly,
+Mr. Eichner's term of employment under his Employment Agreement has expired.
+
+The Board of Directors acknowledged the extraordinary contributions to AAR of
+Ira A. Eichner as he relinquished his role as an executive officer. His vision,
+foresight and leadership as a founder of the Company and in growing the Company
+from a small sole proprietorship into a position of worldwide leadership as a
+billion dollar NYSE public Company, recognized as the pre-eminent products and
+services provider in the aviation industry, is remarkable. His energetic
+dedication to the Company's success and to ensuring shareholder value has been
+unparalleled for more than 48 years. He brought diversity to the Company's
+capabilities and customer base through a series of strategic acquisitions,
+creating balance and synergies between its trading, overhaul and manufacturing
+businesses. He also set a standard of integrity, instilling it into the
+Company's culture for all employees to emulate.
+
+In addition to leading AAR through good times and more difficult periods,
+achieving profitability every year since the Company's inception, Mr. Eichner
+emphasized the importance to the Company's future of prudent fiscal management
+and a strong balance sheet. He built an outstanding management team, paying
+special attention to successful management planning in order to provide for the
+Company's ongoing growth. The Board feels most fortunate that, as continuing
+director and nonexecutive Chairman of the Board, Ira Eichner will give his
+guidance and counsel to the Company's management, sharing his wealth of
+experience.
+
+                                       17
+<PAGE>
+The Company has entered into an irrevocable trust agreement with The Northern
+Trust Company as trustee to fund at certain dates the Company's obligations to
+Mr. Eichner and his widow or other beneficiary under the retirement provisions
+of his employment agreement. The Company will pay bonuses to Mr. Eichner (or his
+widow or other beneficiary) to provide for federal, state and local income taxes
+incurred as a result of contributions to the trust and income earned by trust
+assets. Mr. Eichner's estate or designated beneficiary(ies) will receive any
+residual amounts in the trust after payment of all retirement and other
+obligations under the trust agreement.
+
+OTHER AGREEMENTS
+
+The Company has also entered into split dollar life insurance agreements with
+certain key employees, including the named executive officers. Under the
+agreements, the Company will fund the annual insurance premiums for the policies
+subject to reimbursement from the cash value or death benefit proceeds of the
+policies, and by the individuals for any deficiency in the event of early
+termination of the policies due to termination of employment by the Company for
+cause.
+
+The Company has entered into severance agreements with certain key employees,
+including all named executive officers other than Mr. Storch and Mr. Eichner.
+The severance agreements are substantially identical, include confidentiality
+and non-compete covenants, and provide for payment of compensation and certain
+benefits in the event of termination of employment for other than cause,
+including a change in control of the Company. Severance equal to base salary
+plus any earned incentive cash bonus will be paid upon termination of employment
+by the Company for other than cause (as defined in the severance agreement)
+prior to a change in control of the Company; severance equal to three times
+average annual total compensation (base salary plus cash bonus) for the last two
+fiscal years of employment will be paid upon termination of employment by the
+Company under certain circumstances following a change in control of the
+Company.
+
+                         INDEPENDENT PUBLIC ACCOUNTANTS
+
+The Company's Board of Directors, upon recommendation of its Audit Committee,
+has selected KPMG LLP as its independent public accountants for the fiscal year
+ending May 31, 2000. Representatives of that firm are expected to be present at
+the Annual Meeting, with the opportunity to make a statement if they so desire
+and to be available to respond to appropriate questions.
+
+                                       18
+<PAGE>
+             STOCKHOLDER PROPOSALS FOR THE YEAR 2000 ANNUAL MEETING
+
+Any stockholder who wishes to present a proposal for consideration at the Annual
+Meeting of Stockholders to be held in 2000 must submit such proposal in
+accordance with the rules promulgated by the Securities and Exchange Commission.
+In order for a proposal to be eligible for inclusion in the Company's Proxy
+Statement and form of proxy relating to the 2000 Annual Meeting, the stockholder
+must submit such proposal to the Company, in writing, to be received by the
+Secretary of the Company, AAR CORP., One AAR Place, 1100 N. Wood Dale Road, Wood
+Dale, Illinois 60007, no later than May 1, 2000.
+
+A stockholder proposal submitted outside the Rule 14a-8 process for presentation
+at the 2000 Annual Meeting will be considered untimely for purposes of Rules
+14a-4 and 14a-5 if notice of the stockholder proposal is received by the Company
+after July 14, 2000.
+
+                                          By Order of the Board of Directors
+
+                                          Howard A. Pulsifer
+                                          SECRETARY
+
+August 23, 1999
+
+UPON THE WRITTEN REQUEST OF ANY RECORD HOLDER OR BENEFICIAL OWNER OF COMMON
+STOCK OF AAR CORP., THE COMPANY WILL PROVIDE, WITHOUT CHARGE, A COPY OF ITS
+ANNUAL REPORT ON FORM 10-K FILED WITH THE SECURITIES AND EXCHANGE COMMISSION FOR
+THE FISCAL YEAR ENDED MAY 31, 1999. REQUESTS SHOULD BE MADE TO MR. HOWARD A.
+PULSIFER, SECRETARY, AAR CORP., ONE AAR PLACE, 1100 N. WOOD DALE ROAD, WOOD
+DALE, ILLINOIS 60191, (630) 227-2000.
+
+                                       19
+<PAGE>
+
+AAR CORP. PROXY
+
+       THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS FOR THE
+       OCTOBER 13, 1999 ANNUAL MEETING OF STOCKHOLDERS TO BE HELD AT THE
+ P     SHAREHOLDERS' ROOM (21ST FLOOR) OF BANK OF AMERICA, 231 S. LASALLE
+       STREET, CHICAGO, ILLINOIS, ON WEDNESDAY, OCTOBER 13, 1999, AT 3:00
+       P.M. (CST).
+ R
+       The undersigned hereby appoints DAVID P. STORCH and HOWARD A.
+       PULSIFER, or either of them, with full power of substitution, as
+ O     Proxies, and hereby authorizes them to represent the undersigned at
+       the 1999 Annual Meeting of Stockholders of AAR CORP. to be held on
+       October 13, 1999, or any adjournment thereof, and to vote all shares
+ X     of AAR CORP. Common Stock which the undersigned would be entitled to
+       vote if personally present.
+
+ Y     1.  Election of three Class III directors; nominees:  A. Robert
+           Abboud, Howard B. Bernick, and Ira A. Eichner (see reverse side);
+
+       2. Amendment to Restated Certificate of Incorporation to increase the
+          authorized number of shares of Common Stock from 80,000,000 shares to
+          100,000,000 shares.
+
+       AS TO EACH ITEM SET FORTH ON THE REVERSE HEREOF, THIS PROXY WILL BE
+       VOTED IN THE MANNER DIRECTED ON THE REVERSE SIDE AND, IF NO DIRECTION
+       IS GIVEN, WILL BE VOTED FOR ITEM 1 AND ITEM 2.
+
+      (Continued and to be dated and signed on reverse side.)
+
+- -------------------------------------------------------------------------------
+                              FOLD AND DETACH HERE
+
+
+[AAR LOGO]
+
+ ... meeting the needs of the aviation/aerospace industry around the world
+
+
+- - Albany, New York
+- - Amsterdam, Netherlands
+- - Anchorage, Alaska
+- - Atlanta, Georgia
+- - Paris, France
+- - Brussels, Belgium
+- - Cadillac, Michigan
+- - Clearwater, Florida
+- - Columbus, Ohio
+- - Dallas, Texas
+- - Elk Grove Village, Illinois
+- - Ft. Lauderdale, Florida
+- - Frankfort, New York
+- - Garden City, New York
+- - Hamburg, Germany
+- - Hannover, Germany
+- - Harrisburg, Pennsylvania
+- - Kansas City, Missouri
+- - Livonia, Michigan
+- - London, England
+- - Madrid, Spain
+- - Miami, Florida
+- - Mitcham, England
+- - Montreal, Canada
+- - Oklahoma City, Oklahoma
+- - Petropolis, Brazil
+- - Port Jervis, New York
+- - Prestwick, Scotland
+- - Ra'anana, Israel
+- - Seattle, Washington
+- - Singapore
+- - South Glamorgan, Wales
+- - Tampa, Florida
+- - Teterboro, New Jersey
+- - Windsor, Connecticut
+- - Winston-Salem, NC
+- - Wood Dale, Illinois
+
+<PAGE>
+       PLEASE MARK YOUR
+  /X/  VOTES AS IN THIS                                             6019
+       EXAMPLE.
+
+As to any other business that may come before the Annual Meeting, or any
+adjournment thereof, this Proxy will be voted in the discretion of the proxies.
+
+                             PLEASE MARK VOTE CLEARLY
+
+   -----------------------------------------------------------------------
+             The Board of Directors recommends a vote "FOR" item 1 and 2
+                       described in the proxy statement:
+   -----------------------------------------------------------------------
+
+1. Election of three Class III directors     FOR          WITHHOLD AUTHORITY TO
+   (nominees: A. Robert Abboud,          ALL NOMINEES*    VOTE FOR ALL NOMINEES
+              Howard B. Bernick, and
+              Ira A. Eichner).                 /  /                  /  /
+
+    *(Instructions: to withhold authority to vote for any individual nominee,
+     write that nominee's name(s) in the space below)
+
+    -------------------------------------------------------------------
+
+
+2. Amendment to Restated Certificate of Incorporation
+
+   / / FOR    / / AGAINST    / / ABSTAIN
+
+
+
+                                        (Please sign as name appears above.
+                                         Joint owners should all sign.
+                                         Executors, administrators, trustees,
+                                         etc. should so indicate when signing.
+                                         If signer is a corporation, sign full
+                                         corporate name by duly authorized
+                                         officer who adds his or her name and
+                                         title.)
+
+                                         -------------------------------------
+                                         PLEASE SIGN
+
+                                         ---------------------- Dated _____1998
+                                                          (please fill in date)
+
+
+- -------------------------------------------------------------------------------
+                              FOLD AND DETACH HERE
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

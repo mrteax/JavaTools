@@ -1,0 +1,834 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G/a8jaIpV+UH93/4BXMIwQhwcnj/9Gp33fXhmujyatUrGXMv7RIIIDCiZacL/FBv
+ nSmt/6xdMWfSo0Mqy7h3/A==
+
+<SEC-DOCUMENT>0000002034-95-000006.txt : 19951023
+<SEC-HEADER>0000002034-95-000006.hdr.sgml : 19951023
+ACCESSION NUMBER:		0000002034-95-000006
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19951207
+FILED AS OF DATE:		19951020
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACETO CORP
+		CENTRAL INDEX KEY:			0000002034
+		STANDARD INDUSTRIAL CLASSIFICATION:	CHEMICALS & ALLIED PRODUCTS [2800]
+		IRS NUMBER:				111720520
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04217
+		FILM NUMBER:		95582894
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5166276000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACETO CHEMICAL CO INC
+		DATE OF NAME CHANGE:	19851203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<TEXT>
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+December 7, 1995
+
+The Annual Meeting of Stockholders of Aceto Corporation,
+a New York corporation, ("the Company"), will be
+held at the LaGuardia Marriott Hotel, 102-05 Ditmars
+Boulevard, Elmhurst, New York, at 10:00 A.M. New York City
+time, on Thursday, December 7, 1995 for the following
+purposes:
+
+     1.   To elect nine directors to hold office until the
+          next Annual Meeting of Stockholders or until their
+          successors are elected and qualified.
+
+     2.   To transact such other business as may properly
+          come before the meeting or any adjournment thereof.
+
+The Board of Directors has fixed the close of business on September
+22, 1995 as the record date for the determination of stockholders
+entitled to notice of and to vote at the Annual Meeting.
+
+If you do not expect to attend the meeting in person, please fill 
+in, sign, and return the enclosed form of proxy.
+
+                          By order of the Board of Directors,
+
+                                   DONALD HOROWITZ
+                                   Secretary
+
+Lake Success, New York
+October 20, 1995
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+PROXY STATEMENT
+
+ANNUAL MEETING OF STOCKHOLDERS
+December 7, 1995
+
+Approximate Mailing Date of Proxy Statement and Form of Proxy:  
+October 20, 1995
+
+This Proxy Statement is furnished in connection with the
+solicitation by the Board of Directors of Aceto Corporation
+("the Company") of proxies to be voted at the Annual Meeting
+of Stockholders to be held on Thursday, December 7, 1995 and
+at any adjournment thereof.
+
+A stockholder who executes and mails a proxy in the enclosed
+return envelope may revoke such proxy at any time prior to
+its use by notice in writing to the Secretary of the Company
+or by revocation in person at the Annual Meeting. Unless so
+revoked, the shares represented by duly executed proxies
+received by the Company prior to the Annual Meeting will be
+voted for or against the proposals referred to therein and
+presented at the Annual Meeting in accordance with the
+stockholder's instructions marked thereon. If no
+instructions are marked thereon, proxies will be voted (l)
+FOR the election as directors of the nominees named below
+under the caption "ELECTION OF DIRECTORS"; (2) in the
+discretion of the proxies named on the proxy card with
+respect to such other business as may properly come before
+the Annual Meeting or any adjournments thereof.
+
+The close of business on September 22, 1995 has been fixed
+as the record date for the determination of stockholders
+entitled to notice and to vote at the meeting. At that
+record date, the following classes of stock were outstanding
+and entitled to notice and vote:
+
+                                   Shares      Votes per
+     Class                      Outstanding     Share        Votes
+                                                             
+
+Second series preferred stock       28,316      3.0482*     86,313
+Third series preferred stock       100,000      1.8788*    187,880
+Fourth series preferred stock       40,000      1.7371*     69,484
+Fifth series preferred stock        40,000      1.6060*     64,240
+Sixth series preferred stock        40,000      1.4849*     59,396
+Seventh series preferred stock      40,000      1.3728*     54,912
+Eighth series preferred stock       40,000      1.3200*     52,800
+Total preferred stock              328,316                 575,025
+Common stock                     4,810,803      1.0000   4,810,803
+
+Total All Classes                5,139,119               5,385,828
+
+*Adjusted for all subsequent stock dividends.
+
+All of the outstanding preferred stock is held by the Aceto
+Corporation Profit Sharing Plan.
+
+PRINCIPAL HOLDERS OF VOTING SECURITIES
+
+The following table sets forth as of September 22, 1995
+certain information with respect to each person who to the
+best of the knowledge of the Company beneficially owned more
+than 5% of the outstanding shares of the Company's common or
+preferred stock:
+
+NAME and ADDRESS           COMMON STOCK              PREFERRED STOCK
+
+                        Amount & Nature           Amount & Nature
+                        of Beneficial    % of     of Beneficial    % of
+                        Ownership       Class     Ownership        Class
+
+Arnold Frankel          312,569(1)       6.5%     328,316(3)       100%
+One Hollow Lane
+Lake Success, NY 11042
+
+Robert E. Parsont        31,609(1)(2)    0.7%     328,316(3)       100%
+One Hollow Lane
+Lake Success, NY 11042
+
+Samuel I. Hendler         3,349(1)       0.1%     328,316(3)       100%
+319 Willis Avenue
+Mineola, NY 11501
+
+Aceto Corporation
+Profit Sharing Plan      94,707(3)       1.9%     328,316(3)       100%
+One Hollow Lane
+Lake Success, NY 11042
+
+Lazard Freres & Co.     267,128(4)       5.6%
+One Rockefeller Plaza
+New York, NY 10020
+
+T. Rowe Price
+Associates, Inc.        351,500(5)       7.3%
+100 East Pratt Street
+Baltimore, MD 21202
+
+(l) Messrs. Frankel, Parsont and Hendler have, or share with
+their wives, voting power and investment power with respect
+to the shares owned directly by each of them.
+
+(2) Includes 10,560 shares of currently exercisable stock options.
+
+(3) These shares are owned by the Company's Profit Sharing
+Retirement Plan ("the Plan"), vote as a class with Common
+Stock, and are entitled to a total of 575,025 votes at this
+Annual Meeting of Stockholders. The Trustees of the Plan are
+Arnold Frankel, Robert E. Parsont and Samuel I. Hendler, who
+have voting and investment power with regard to these
+shares, and who disclaim ownership thereof. The preferred
+stock owned by the Plan is convertible into common stock at
+various conversion rates set forth in the Certificates of
+Amendment of the Certificate of Incorporation of the Company
+fixing the number, designation, relative rights, preferences
+and limitations of each series of preferred stock. As of
+September 22, 1995, the 328,316 shares of preferred stock
+owned by the Plan were convertible into 94,707 shares of
+common stock, and, if so converted on that date, the said
+shares of common stock would comprise 1.9% of the class.
+
+(4) Lazard Freres has investment power and voting power for
+the shares beneficially owned by it. This information is as
+of September 13, 1995.
+
+(5) T. Rowe Price Associates has sole dispositive power for
+the entire holding of 351,500 shares and sole voting power
+for 19,000 shares. These securities are owned by various
+individual and institutional investors, including the T.
+Rowe Price Small Cap Value Fund (which owns 300,000 shares,
+representing 6.2% of the shares outstanding), to which T.
+Rowe Price Associates, Inc. ("Price Associate"s) serves as
+investment advisor with power to direct investments and/or
+sole power to vote the securities. For purposes of the
+reporting requirements of the Securities Exchange Act of
+1934, Price Associates is deemed to be a beneficial owner of
+such securities; however, Price Associates expressly
+disclaims that it is, in fact, the beneficial owner of such
+securities. This information is as of September 15, 1995.
+
+ELECTION OF DIRECTORS
+
+At the meeting nine directors are to be elected, each to
+serve until the next Annual Meeting of Stockholders or until
+their successors are elected and qualified. If any nominee
+should become unavailable for any reason, it is intended
+that shares represented by proxies in the accompanying form
+will be voted for a substitute nominee designated by the
+management. The management has no reason to believe that any
+of the nominees named will not be a candidate or will be
+unable to serve if elected.
+
+The names of the nominees for directors, together with
+certain information regarding them, are as follows:
+
+                                                    Common Stock
+                                                    of the
+                                                    Company
+                                                    Beneficially
+                                                    Owned as of
+                                                    September 22, 1995
+ 
+                                          Director
+                      Present             of the    Amount & Nature
+                      Principal           Company   of Beneficial
+Name                  Occupation     Age  Since     Ownership   % of Class
+
+Arnold Frankel        Chairman of
+                      the Board,      73   1947      312,569 (1)   6.5%
+                      Chief
+                      Executive
+                      Officer of
+                      the Company,
+                      Chairman of
+                      the Executive
+                      Committee
+                      which functions
+                      as the Executive
+                      Compensation
+                      Committee, and
+                      Chairman of the
+                      Audit Committee
+
+Robert E. Parsont     President,      59   1968      31,609(1)(2)  0.7%
+                      Chief 
+                      Operating
+                      Officer of the
+                      Company, and
+                      Member of the
+                      Executive
+                      Committee
+                      which functions
+                      as the Executive
+                      Compensation
+                      Committee
+
+Samuel I. Hendler     Attorney        73   1990       3,349(1)     0.1%
+                      and Member of
+                      the Executive
+                      Committee
+                      which functions
+                      as the Executive
+                      Compensation
+                      Committee
+
+Anthony Baldi         President of    56   1991      13,730(3)    0.3%
+                      Aceto 
+                      Agricultural
+                      Chemicals Corp., 
+                      a wholly owned
+                      subsidiary of 
+                      the Company
+
+Thomas Brunner        Senior Vice     56   1991      11,882(4)    0.2%
+                      President
+                      of the Company
+
+Donald Horowitz       Secretary,      48   1991      11,074(2)    0.2%
+                      Treasurer,
+                      and Chief
+                      Financial Officer
+                      of the Company
+
+Leonard Schwartz      Senior Vice     49   1991       4,362(5)    0.1%
+                      President
+                      of the Company
+
+Stephen M. Goldstein  Senior          56   1993         100
+                      Vice
+                      President   
+                      Chemical Bank,
+                      and Member of
+                      Audit Committee
+
+Robert A. Wiesen      Attorney,       44   1994
+                      Partner in
+                      Clifton Budd &
+                      DeMaria, and
+                      Member of Audit
+                      Committee
+
+All directors, officers
+and nominees as a group -                           388,675 (1)(2) 8.0%
+nine persons                                               (3)(4)(5)
+
+(l) Messrs. Frankel, Parsont and Hendler also are Trustees
+for the Company's Profit Sharing Retirement Plan. The Plan
+owns 328,316 shares of preferred stock. Messrs. Frankel,
+Parsont and Hendler disclaim ownership of such shares.
+
+(2) Includes 10,560 shares of currently exercisable stock options.
+
+(3) Includes 13,200 shares of currently exercisable stock options.
+
+(4) Includes 11,880 shares of currently exercisable stock options.
+
+(5) Includes 3,960 shares of currently exercisable stock options.
+
+Anthony Baldi, Thomas Brunner, Arnold Frankel, Stephen M.
+Goldstein, Samuel I. Hendler, Donald Horowitz, Robert E.
+Parsont and Leonard Schwartz have, or share with their
+respective spouses, voting power and investment power with
+respect to the shares owned by each of them.
+
+Messrs. Arnold Frankel and Robert E. Parsont have been
+employed by the Company since 1947 and 1961, respectively.
+Mr. Frankel is a founder of the Company, and served as
+Chairman of the Board and as Secretary and Treasurer since
+the Company was incorporated in 1947 until January 1990, at
+which time he, in addition to retaining his position of
+Chairman of the Board, became Chief Executive Officer of the
+Company. Mr. Parsont was Executive Vice President of the
+Company until January 1990 when he became President and
+Chief Operating Officer. Mr. Samuel I. Hendler, who has been
+engaged in the private practice of law in New York since
+1949, has acted as counsel for the Company for more than
+forty years. He is a director of WR Capital Group, Inc., a
+Roslyn Heights, New York corporation, a director of
+Pneumercator Company, Inc., a Farmingdale, New York
+corporation, and was, until January 1, 1992, Secretary of
+Chyron Corporation, a Melville, New York corporation, which,
+on September 17, 1990, filed a petition for protection under
+Chapter 11 of the Bankruptcy Code. Mr. Horowitz has been
+employed by the Company since 1971 and was, in January 1990,
+elected Secretary and Treasurer and Chief Financial Officer.
+Messrs. Anthony Baldi, Thomas Brunner and Leonard Schwartz
+have been employed by the Company since 1957, 1967 and 1969,
+respectively. Mr. Baldi has been the President, a director
+and Chief Operating Officer of Aceto Agricultural Chemicals
+Corporation, a wholly-owned subsidiary of the Company since
+1976, when it was incorporated, and prior thereto headed the
+Company's agricultural chemicals division. Messrs. Brunner
+and Schwartz are Senior Vice Presidents of the Company's
+intermediates chemical division and the Company's industrial
+chemicals division, respectively. Mr. Stephen M. Goldstein
+is a Senior Vice President and regional manager in Chemical
+Bank's Middle Market Division. He is responsible for the
+bank's commercial business in Queens, New York. He has been
+employed by Chemical Bank since 1963. Mr. Robert A. Wiesen
+is an attorney and partner in the law firm of Clifton Budd &
+DeMaria. He joined the firm in 1979 subsequent to his
+employment with the National Labor Relations Board. He has
+handled matters for the Company relating to labor and
+employment law for over ten years and he has written and
+lectured on labor law.
+
+The Audit Committee is charged with making recommendations
+to the Board of Directors as to the selection of the
+Company's independent auditors, maintaining communications
+between the full Board and the independent auditors,
+reviewing the annual audit submitted by the auditors and
+determining the nature and extent of problems, if any,
+presented by such audit warranting consideration by the full
+Board. The Audit Committee is also utilized for a review of
+potential conflict-of-interest situations in reviews
+conducted by the Company of related party transactions, if
+any. The members of the Audit Committee during the fiscal
+year ended June 30, 1995 were Messrs. Arnold Frankel,
+Stephen M. Goldstein and Robert A. Weisen. The Audit
+Committee held one meeting during the past fiscal year at
+which all members were present.
+
+The Board of Directors does not have a nominating committee.
+The Executive Committee of the Board of Directors, whose
+members are Messrs. Arnold Frankel, Robert E. Parsont and Samuel 
+I. Hendler, functions as the Executive Compensation Committee.
+
+During the fiscal year ended June 30, 1995 there were 4 meetings
+of the Board of Directors. All directors attended all meetings.
+
+EXECUTIVE COMPENSATION
+
+Summary Compensation Table
+
+The following table sets forth certain information regarding
+compensation paid or accrued during each of the Company last
+three fiscal years to the Company's Chief Executive Officer and
+each of the Company's four other most highly compensated executive
+officers.
+
+     Annual Compensation                         Long Term Compensation
+
+                                         Other   Rest-
+                                         Annual  ricted
+Name and                                 Compen- Stock  Options/ LTIP All Other
+Principal                                sation  Awards SARS     Pay-  Compen-
+Position         Year  Salary      Bonus                        outs  sation(1)
+
+Arnold Frankel   1995  $325,743  $325,000  $3,716    -     -     -    $46,724
+ Chairman and    1994   307,251   298,000   5,234    -     -     -     44,450
+ Chief Exec-     1993   287,396   285,000   2,741    -     -     -     42,807
+ utive Officer
+
+Robert Parsont   1995   325,743   385,000   8,997    -     -     -     49,724
+ President and   1994   307,251   335,000   7,596    -     -     -     46,300
+ Chief Oper-     1993   287,396   320,000   7,017    -     -     -     44,557
+ ating Officer
+
+Anthony Baldi    1995   193,042   235,000   2,213    -     -     -     35,329
+ President,      1994   181,353   216,452   5,109    -     -     -     33,755
+ Aceto           1993   169,019   246,553   5,911    -     -     -     34,388
+ Agricultural
+ Chemicals
+ Corp.
+
+Thomas Brunner   1995   181,634   218,740   2,512    -     -     -     34,206
+ Senior Vice     1994   171,299   171,020   2,312    -     -     -     31,241
+ President       1993   159,000   156,411   2,239    -     -     -     30,020
+
+Leonard Schwartz 1995   169,384   203,670   6,915    -     -     -     33,157
+ Senior Vice     1994   159,796   170,000   7,232    -     -     -     30,677
+ President       1993   149,518   151,458   6,645    -     -     -     29,317
+
+(1) Represents contributions to the Company's qualified and non-qualified 
+retirement plans.
+
+Stock Option Exercises in Fiscal 1995 and Value at June 30, 1995
+
+The following table summarizes information with respect to
+options held by the Chief Executive Officer and the
+executive officers named in the Summary Compensation Table,
+and the value of the options held by such persons at the end
+of fiscal year 1995. Neither the Chief Executive Officer nor
+the named executive officers received stock option grants in
+fiscal year 1995. The Chief Executive Officer, Arnold
+Frankel, does not participate in the Company's stock option
+plan.
+                                                               Value of
+                                          No. of               Unexercised
+                                          Unexercised          In-the-money
+                Shares                    Options at           Options at
+                Acquired                  June 30, 1995        June 30, 1995(1)
+                on             Value      Exercisable/         Exercisable/
+Name            Exercise       Realized   Unexercisable        Unexercisable
+
+Arnold Frankel   -               -            -                      -
+
+Robert Parsont   21,120        $258,240       10,560/            $131,760/
+                                                   0                    0
+
+Anthony Baldi    -              -             13,200/              94,700/
+                                                   0                    0
+
+Thomas Brunner   -              -             11,880/              85,230/
+                                                   0                    0
+
+Leonard Schwartz  3,960          25,440         3,960/             28,410/
+                                                    0                   0
+
+(l) Value of unexercised in-the-money options is based on the closing common 
+stock price on June 30, 1995 of $14.75 as reported by NASDAQ.
+
+On June 9, 1992, the Company's Board of Directors adopted resolutions 
+amending the Company's Stock Option Plan ("the Plan"), in the following 
+respects: the Plan is to be administered by a committee consisting of 
+not less than three directors, all of whom shall be "disinterested persons";
+a committee member shall be a "disinterested person" only if such person is 
+not, at the time he exercises discretion in administering the Plan, eligible 
+and has not at any time within one year prior thereto been eligible, 
+for selection as a person as to whom options may be granted; and no option
+may be granted to any director as to whom the proxy statement for the meeting 
+of stockholders at which the Plan was submitted for approval of the 
+stockholders of the Company disclosed that such director will not 
+participate in the Plan.
+
+On December 1, 1994, a committee consisting of Arnold Frankel, 
+Stephen M. Goldstein and Samuel I. Hendler (Mr. Arnold Frankel to
+be chairman of said committee) was appointed by the Board of Directors
+to administer the Plan.  All of said directors were disinterested
+persons as defined by the Plan.
+
+Report of the Executive Compensation Committee
+
+The Executive Committee of the Board of Directors, whose
+members are Arnold Frankel, Robert E. Parsont and Samuel I.
+Hendler, functions as the Executive Compensation Committee,
+and makes recommendations to the Board with respect to the
+remuneration of the Company's executive officers.
+
+The Company's compensation policy has been designed to enable
+the Company to attract, retain and motivate executives whose
+enthusiasm and abilities will contribute to the growth of
+its business and result in maximum profitability to the
+Company and its shareholders, by providing salaries and
+benefits competitive with those offered by other companies
+in the chemical industry. The executive compensation program
+includes base salary, annual incentive compensation (cash
+bonuses), and long term incentive compensation (stock
+options).
+
+Base salaries are set at levels competitive with the
+chemical industry. Because of the way that the Company
+operates its business, the contributions of its executives
+significantly affect corporate profitability. Bonuses (which
+can exceed base salary) are paid to reflect the extent of
+such contributions. The bonuses paid to the Chairman, who is
+the Chief Executive Officer of the Company (CEO), the
+President, who is the Chief Operating Officer (COO), and the
+Secretary/Treasurer, who is the Chief Financial Officer
+(CFO), reflect the Company's overall performance (excluding
+extraordinary events).  Another consideration is the
+increase in corporate stature and shareholder value
+developed over the years under their stewardship.
+
+The three highest paid executive officers, after the CEO and
+COO, are each responsible for the performance of one of the
+Company's principal profit centers. Internally generated
+performance records are kept on a monthly and yearly basis
+for these profit centers, and each centers profitability is
+compared in the current year to the previous year. Other
+factors considered in determining the bonuses of individual
+executives are the individual's own performance and the
+overall performance of the Company. The Executive
+Compensation Committee determines each bonus primarily based
+on these data, also taking into account the long term
+contributions of each individual.
+
+The Company's Stock Option Plan is administered by directors
+who do not receive stock options under the plan. Grants of
+stock options, which vary according to annual and longer
+term performance ratings, are made to senior and middle
+management executives.
+
+Chief Executive Officer's Compensation
+
+The CEO's compensation was determined on the basis of the
+same factors utilized to compensate other executives. The
+CEO, a founder of the Company, does not participate in the
+Company's Stock Option Plan.
+
+     The Executive Compensation Committee
+          Arnold Frankel, Chairman
+          Robert E. Parsont
+          Samuel I. Hendler
+
+Director Compensation
+
+Each non-employee director receives $7,500 per year for
+serving on the Board of Directors. There is no additional
+compensation for directors who are also employees.
+
+Employment Agreements
+
+There are no employment contracts with any director or
+officer; however, Messrs. Baldi, Brunner, Parsont and
+Schwartz have signed patent and trade secret agreements.
+
+STOCK PERFORMANCE GRAPH
+
+Shown below is a line graph comparing the yearly percentage
+change in the cumulative total shareholder return on the
+Company's common stock against the cumulative total return
+of the S & P 500 Index and the Dow Jones Chemicals Index for
+the period of five years commencing July 1, 1990 and ending
+June 30, 1995.
+
+STOCK PERFORMANCE GRAPH
+Comparison of Five Year Cumulative Total Return among Aceto
+Corporation, the S & P 500 Index and DJ Chemicals Index
+($100 invested on 6/30/90 in stock or index including
+reinvestment of dividends).
+
+Fiscal year ending June 30:
+
+                        1990    1991    1992    1993    1994    1995
+
+Aceto Corp.              100      95     144     150     169     167
+S & P 500 Index          100     107     122     138     140     177
+DJ Chemicals Index       100     118     136     141     167     205
+
+CERTAIN TRANSACTIONS
+
+By resolution of the Board, adopted on April 12, 1993, the
+Company was authorized to purchase, during a three-year
+period beginning May 24, 1993, on the open market or in
+private transactions, up to 1,000,000 shares of its common
+stock, in addition to purchases previously authorized by the
+Board, at prices not to exceed the market value thereof at
+the time of such purchase. On March 16, 1995, the Company
+purchased from Robert E. Parsont, President and Chief
+Operating Officer of the Company, 10,560 shares of its
+common stock at $15 per share, aggregating $158,400. At the
+date of such purchase the price of such common stock in the
+over-the-counter market was $15 per share. The shares sold
+by Mr. Parsont to the Company were acquired by him upon
+exercise of stock options, at an exercise price of $2.27 per
+share. Mr. Parsont's aggregate realized profit resulting
+from this transaction was $134,400. On May 12, 1995, the
+Company purchased from Donald Horowitz, Secretary/Treasurer
+and Chief Financial Officer of the Company, 2,640 shares of
+its common stock at $15 per share, aggregating $39,600. At
+the date of such purchase the price of such common stock in
+the over-the-counter market was $15 per share. The shares
+sold by Mr. Horowitz to the Company were acquired by him
+upon exercise of stock options, at an exercise price of
+$7.58 per share. Mr. Horowitz' aggregate realized profit
+resulting from this transaction was $19,600.
+
+Samuel I. Hendler, a director of the Company, serves as
+general counsel to the Company. Robert A. Wiesen, a director
+of the Company, is a partner in the law firm of Clifton Budd
+& DeMaria, which serves as labor and employment law counsel
+to the Company.
+
+SECTION 16 COMPLIANCE
+
+Section 16(a) of the Securities Exchange Act of 1934
+requires the Company's directors and executive officers, and
+persons who own more than 10% of the registered class of the
+Company's equity securities to file with the Securities and
+Exchange Commission (the SEC), initial reports of ownership
+and reports of changes in ownership of common stock and
+other equity securities of the Company. Officers, directors
+and greater than 10% shareholders are required by SEC
+regulation to furnish the Company with copies of all Section
+16(a) forms they file. To the Company's knowledge, based
+solely on review of the copies of such reports furnished to
+the Company and representations that no other reports were
+required during the fiscal year, all Section 16(a) filing
+requirements applicable to its officers, directors and
+greater than 10% beneficial owners were complied with.
+
+RELATIONSHIP WITH THE COMPANYS INDEPENDENT PUBLIC ACCOUNTANTS
+
+KPMG Peat Marwick LLP was the Company's principal accountant
+for the Company's most recent fiscal year ended June 30,
+1995. Representatives of KPMG Peat Marwick LLP are expected
+to be present at the Stockholder's Meeting with an
+opportunity to make a statement, if they desire to do so.
+Such representatives are also expected to be available to
+respond to appropriate questions.
+
+The Company has not as yet selected its principal accountant
+for its current fiscal year since such selection is usually
+made by the Company's Board of Directors late in the fiscal
+year. At present, management has no reason to believe that
+there will be any change in its principal accountant for the
+current fiscal year.
+
+STOCKHOLDER PROPOSALS
+
+Any proposal which a stockholder intends to present at the
+1996 Annual Meeting of Stockholders must be duly received by
+the Company on or before June 14, 1996.
+
+OTHER MATTERS
+
+The Company's Annual Report to Stockholders for the year
+ended June 30, 1995 is being mailed to stockholders with
+this Proxy Statement.
+
+The cost of solicitation of proxies in the accompanying form
+will be borne by the Company, including expenses in
+connection with preparing and mailing this Proxy Statement.
+In addition to the use of mails, proxies may be solicited by
+personal interview, facsimile, telephone or telegram by
+directors, officers and employees of the Company.
+Arrangements may also be made with brokerage houses and
+other custodians, nominees and fiduciaries for the
+forwarding of solicitation material to the beneficial owners
+of stock held of record by such persons, and the Company may
+reimburse them for reasonable out-of-pocket expenses
+incurred by them in connection therewith.
+
+The management does not know of any matters to be presented
+for consideration, other than the matters described in the
+Notice of Annual Meeting, but if other matters are
+presented, it is the intention of the persons named in the
+accompanying proxy to vote on such matters in accordance
+with their judgement.
+
+The Company will provide, without charge to each person
+whose proxy is solicited, on the written request of any such
+person, a copy of the Company's annual report on Form 10-K
+for its fiscal year ended June 30, 1995 required to be filed
+with the Securities and Exchange Commission, including the
+financial statements and the schedules thereto. Such written
+request should be directed to Mr. Donald Horowitz, Aceto
+Corporation, One Hollow Lane, Lake Success, New York 11042-
+1215.  Each such request must set forth a good faith
+representation that, as of September 22, 1995 the person
+making the request was a beneficial owner of securities
+entitled to vote at the annual meeting of stockholders.
+
+     By Order of the Board of Directors,
+
+     DONALD HOROWITZ
+     Secretary
+
+October 20, 1995
+Addendum
+
+STATEMENT PURSANT TO SECTION 726 (d) OF
+THE NEW YORK BUSINESS CORPORATION LAW
+RELATING TO DIRECTOR AND OFFICER INDEMNIFICATION
+
+The following information pertains to directors and officers
+liability indemnity insurance purchased by the Company:
+
+Insurance Carrier:            National Union Fire Insurance Co. 
+                              of Pittsburgh, PA
+
+Date of Contract:             March 10, 1995
+
+Expiration Date:              March 10, 1996
+
+Cost of Insurance:            $57,500
+
+Corporate Positions Insured:  Directors and Officers
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+PROXY CARD
+
+ACETO CORPORATION      Proxy Solicited on Behalf of the Board of Directors
+
+The undersigned hereby appoints Arnold Frankel and Robert E. Parsont with 
+the full power of substitution, proxies to vote at the annual meeting of 
+stockholders of Aceto Corporation to be held on Thursday, December 7, 1995 
+at the LaGuardia Marriott Hotel, 102-05 Ditmars Boulevard, Elmhurst, New
+York, and at any adjournments of the meeting, according to the number 
+of votes the undersigned might cast with all powers the undersigned would 
+possess if personally present, as follows:
+
+     (1)  Election of Directors
+          [  ] FOR nominees listed      [  ] WITHHOLD authority to
+               below (except as              vote for ALL nominees
+               marked to the contrary        listed below
+               below)
+
+          Arnold Frankel, Robert E. Parsont, Samuel I. Hendler,
+          Anthony Baldi, Thomas Brunner, Donald Horowitz,
+          Leonard Schwartz, Stephen M. Goldstein, Robert A. Wiesen
+
+          To withhold authority to vote for any individual
+          nominee(s), write name of names here:
+
+         ___________________________________________________________
+     (2)  in their discretion with respect to such other
+          business as may properly come before the meeting or any
+          adjournment thereof.
+
+     PLEASE SIGN AND DATE THIS PROXY ON THE REVERSE SIDE AND
+     MAIL IT IN THE ENCLOSED ENVELOPE.  NO POSTAGE REQUIRED
+     IF MAILED IN THE UNITED STATES.
+
+     The shares represented by this proxy will be voted in
+     accordance with the instructions given, but if no
+     instructions are given, the shares will be voted FOR the 
+     election of directors as a group.
+
+     Either of the proxies or their substitutes who are
+     present at the meeting may exercise all powers conferred thereby.
+
+                              Dated:________________________1995
+
+                              __________________________________
+                              Signature of Stockholder
+
+                              __________________________________
+                              NOTE:  Please sign exactly as
+                              your name appears on this proxy.
+                              If shares are held jointly, each
+                              joint owner should sign.  When
+                              signing as an attorney, executor,
+                              administrator, trustee or guardian,
+                              please give full title as such.
+                              Proxies executed by a corporation
+                              should be signed with the full
+                              corporate name by a duly
+                              authorized officer.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

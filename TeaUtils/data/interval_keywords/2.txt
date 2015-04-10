@@ -1,0 +1,1521 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WGy6dqUm9q84dLz9ZaS4SWvw3kvxLUZU0IrudIu/ByBGoDkMiuveKCYnOUaAx7B2
+ +/OASLXsuIffZ8Fs5Jh0Dg==
+
+<SEC-DOCUMENT>0000893220-01-000324.txt : 20010329
+<SEC-HEADER>0000893220-01-000324.hdr.sgml : 20010329
+ACCESSION NUMBER:		0000893220-01-000324
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010511
+FILED AS OF DATE:		20010328
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		1581110
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		8562563318
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>w44285def14a.txt
+<DESCRIPTION>PROXY FOR K-TRON
+<TEXT>
+
+<PAGE>   1
+                                  SCHEDULE 14A
+                                 (RULE 14a-101)
+
+                     INFORMATION REQUIRED IN PROXY STATEMENT
+
+                            SCHEDULE 14A INFORMATION
+
+           PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE SECURITIES
+                      EXCHANGE ACT OF 1934 (AMENDMENT NO. )
+
+Filed by the Registrant [X]
+Filed by a Party other than the Registrant [ ]
+
+Check the appropriate box:
+[ ] Preliminary Proxy Statement            [ ] Confidential, For Use of the Com-
+                                               mission Only (as permitted by
+                                               Rule 14a-6(e) (2))
+[X] Definitive Proxy Statement
+[ ] Definitive Additional Materials
+[ ] Soliciting Material Pursuant to Rule 14a-12
+
+                           K-Tron International, Inc.
+- --------------------------------------------------------------------------------
+
+                (Name of Registrant as Specified in Its Charter)
+
+- --------------------------------------------------------------------------------
+
+    (Name of Person (s) Filing Proxy Statement, if Other Than the Registrant)
+Payment  of Filing Fee (Check the appropriate box):
+
+         [X] No fee required.
+
+         [ ] Fee computed on table below per Exchange Act Rules 14a-6(i) (1) and
+         0-11.
+
+         (1) Title of each class of securities to which transaction applies:
+
+- --------------------------------------------------------------------------------
+
+         (2) Aggregate number of securities to which transaction applies:
+
+- --------------------------------------------------------------------------------
+
+         (3) Per unit price or other underlying value of transaction computed
+pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee
+is calculated and state how it was determined):
+
+- --------------------------------------------------------------------------------
+
+         (4) Proposed maximum aggregate value of transaction:
+
+- --------------------------------------------------------------------------------
+
+         (5) Total fee paid:
+
+- --------------------------------------------------------------------------------
+
+         [ ] Fee paid previously with preliminary materials:
+
+- --------------------------------------------------------------------------------
+
+         [ ] Check box if any part of the fee is offset as provided by Exchange
+Act Rule 0-11(a) (2) and identify the filing for which the offsetting fee was
+paid previously. Identify the previous filing by registration statement number,
+or the form or schedule and the date of its filing.
+
+         (1) Amount previously paid:
+
+- --------------------------------------------------------------------------------
+
+         (2) Form, Schedule or Registration Statement No.:
+
+- --------------------------------------------------------------------------------
+
+         (3) Filing Party:
+
+- --------------------------------------------------------------------------------
+
+         (4) Date Filed:
+
+- --------------------------------------------------------------------------------
+
+
+
+<PAGE>   2
+                           K-TRON INTERNATIONAL, INC.
+                                Routes 55 and 553
+                                  P.O. Box 888
+                          Pitman, New Jersey 08071-0888
+
+
+
+
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+                             TO BE HELD MAY 11, 2001
+
+
+
+To Our Shareholders:
+
+         Notice is hereby given that the Annual Meeting of Shareholders of
+K-Tron International, Inc. (the "Company") will be held on May 11, 2001 at 10:00
+a.m., local time, at the Company's corporate headquarters at Routes 55 and 553,
+Pitman, New Jersey for the following purposes:
+
+         (1) To elect two directors to Class IV of the Board of Directors, each
+to serve for a four-year term and until the election and qualification of his
+successor; and
+
+         (2) To transact such other business as may properly come before the
+meeting.
+
+         Only shareholders of record at the close of business on March 15, 2001
+are entitled to notice of the Annual Meeting and to vote at the Annual Meeting
+and any adjournments thereof. The transfer books will not be closed.
+
+                                        By Order of the Board of Directors,
+
+
+                                        Mary E. Vaccara
+                                        Secretary
+
+
+
+March 30, 2001
+
+
+         YOUR PROXY VOTE IS IMPORTANT. ACCORDINGLY, YOU ARE ASKED TO COMPLETE,
+         SIGN AND RETURN THE ACCOMPANYING PROXY CARD IN THE ENVELOPE PROVIDED
+         WHICH REQUIRES NO POSTAGE IF MAILED IN THE UNITED STATES.
+<PAGE>   3
+                                     [LOGO]
+
+
+
+
+
+
+
+
+
+
+
+                                 PROXY STATEMENT
+
+                         ANNUAL MEETING OF SHAREHOLDERS
+                             TO BE HELD MAY 11, 2001
+
+
+
+         This Proxy Statement is being furnished to the shareholders of K-Tron
+International, Inc. (the "Company") in connection with the Annual Meeting of
+Shareholders of the Company to be held on May 11, 2001 and any postponements or
+adjournments thereof (the "Annual Meeting"). This Proxy Statement and the
+enclosed Proxy Card are being mailed to shareholders on or about March 30, 2001.
+
+         Execution and return of the enclosed Proxy Card are being solicited by
+and on behalf of the Board of Directors of the Company for the purposes set
+forth in the foregoing notice of meeting. The costs incidental to the
+solicitation and obtaining of proxies, including the cost of reimbursing banks
+and brokers for forwarding proxy materials to their principals, will be borne by
+the Company. Proxies may be solicited, without extra compensation, by officers
+and employees of the Company by mail, telephone, telefax, personal interviews
+and other methods of communication.
+
+         The Annual Report to Shareholders for the fiscal year ended December
+30, 2000, including consolidated financial statements and other information with
+respect to the Company and its subsidiaries, is being mailed to shareholders
+with this Proxy Statement. Such Annual Report is not part of this Proxy
+Statement.
+
+
+                              VOTING AT THE MEETING
+
+RECORD DATE; VOTE REQUIRED; PROXIES
+
+         Only shareholders of record at the close of business on March 15, 2001
+are entitled to notice of the Annual Meeting and to vote at the Annual Meeting.
+As of that date, the Company had outstanding 2,443,570 shares of Common Stock.
+The holders of a majority of such shares, represented in person or by proxy,
+shall constitute a quorum at the Annual Meeting. A quorum is necessary before
+business may be transacted at the Annual Meeting except that, even if a quorum
+is not present, the shareholders present in person or by proxy shall have the
+power to adjourn the meeting from time to time until a quorum is present. Each
+shareholder entitled to vote shall have the right to one vote for each share of
+Common Stock outstanding in such shareholder's name.
+
+         The shares of Common Stock represented by each properly executed Proxy
+Card will be voted at the Annual Meeting in the manner directed therein by the
+shareholder signing such Proxy Card. The Proxy Card provides spaces for a
+shareholder to vote for the nominees, or to withhold authority to vote for both
+nominees or either nominee, for the Board of Directors. The nominees for
+election as directors are to be elected by a plurality of the votes cast at the
+Annual Meeting. With respect to any other matter that may properly be brought
+before the Annual Meeting, the affirmative vote of a majority of the votes cast
+by shareholders entitled to vote thereon is
+<PAGE>   4
+required to take action, unless a greater percentage is required either by law
+or by the Company's Restated Certificate of Incorporation or By-Laws. In
+determining the number of votes cast with respect to any voting matter, only
+those cast "for" or "against" are included. Abstentions will be considered
+present and entitled to vote at the Annual Meeting but will not be counted as
+votes cast. Accordingly, abstentions will have no effect on the vote. Similarly,
+where brokers submit proxies but are prohibited and thus refrain from exercising
+discretionary authority in voting shares on certain matters for beneficial
+owners who have not provided voting instructions with respect to such matters
+(commonly referred to as "broker non-votes"), those shares will be considered
+present and entitled to vote at the Annual Meeting but will not be counted as
+votes cast as to such matters and thus will have no effect on the vote.
+
+         If a signed Proxy Card is returned and the shareholder has given no
+direction with respect to a voting matter, the shares will be voted with respect
+to that matter by the proxy agents as recommended by the Board of Directors or
+its Executive Committee. Execution and return of the enclosed Proxy Card will
+not affect a shareholder's right to attend the Annual Meeting and vote in
+person. Any shareholder giving a proxy has the right to revoke it by giving
+notice of revocation to the Secretary of the Company at any time before the
+proxy is voted.
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The following table sets forth certain information as of March 15, 2001
+(or as of such other date or dates as may be noted below) with respect to shares
+of Common Stock of the Company beneficially owned by each director of the
+Company, by each executive officer of the Company named in the Summary
+Compensation Table under "Executive Compensation," by all current directors and
+executive officers of the Company as a group and by each person believed by the
+Company to be the beneficial owner of more than 5% of the outstanding shares of
+Common Stock. Except as indicated below, the Company understands that the
+shareholders listed in such table have sole voting and investment power with
+respect to the shares owned by them. The number of shares in the table below
+includes shares issuable upon the exercise of outstanding stock options to the
+extent that such options are exercisable by the director, executive officer or
+shareholder on or within 60 days after March 15, 2001. In the case of directors
+and executive officers, the information below has been provided by such persons
+at the request of the Company.
+
+                                        2
+<PAGE>   5
+<TABLE>
+<CAPTION>
+Name of Individual or Identity of Group        Number of Shares     Percent of
+                                               of Common Stock      Common Stock
+                                                                    Outstanding
+
+Directors and Executive Officers:
+
+<S>                                               <C>                  <C>
+Edward B. Cloues, II(1)...........................171,360              6.7
+Leo C. Beebe(1)(2)................................ 63,385              2.6
+Kevin C. Bowen(1)................................. 25,154              1.0
+Dr. Hans-Jurg Schurmann(1)........................ 24,000                *
+Lukas Guenthardt(1)............................... 23,839                *
+Richard J. Pinola(1).............................. 21,469                *
+Ronald R. Remick(1)(3)............................ 12,525                *
+Norman Cohen(1)................................... 10,219                *
+Beat Steger(1)(4).................................  7,500                *
+Robert A. Engel(1)................................  4,500                *
+All current directors and executive officers
+as a group (9 persons)(5)..........................356,451            13.6
+
+Other 5% Shareholders:
+
+Heartland Advisors, Inc.(6)........................275,000            11.3
+T. Rowe Price Associates, Inc.(7)..................256,323            10.5
+Paradigm Capital Management Inc.(8)................225,279             9.2
+FleetBoston Financial Corporation(9)...............140,844             5.8
+Dimensional Fund Advisors, Inc.(10)................138,500             5.7
+</TABLE>
+- ---------------
+* Less than 1%.
+
+(1)      Includes with respect to Mr. Cloues 100,000 shares, Mr. Beebe 3,000
+         shares, Mr. Bowen 16,500 shares, Dr. Schurmann 13,000 shares, Mr.
+         Guenthardt 18,000 shares, Mr. Pinola 13,000 shares, Mr. Remick 5,625
+         shares, Mr. Cohen 3,000 shares, Mr. Steger 7,500 shares and Mr. Engel
+         2,000 shares, all of which shares are subject to presently exercisable
+         options.
+
+(2)      With respect to all such shares, Mr. Beebe shares investment and voting
+         power with his wife.
+
+(3)      Includes 4,900 shares as to which Mr. Remick shares investment and
+         voting power with his wife.
+
+(4)      Mr. Steger gave notice of his resignation from K-Tron (Schweiz) AG on
+         January 22, 2001 and he ceased an active role with that subsidiary at
+         the end of February 2001.
+
+(5)      Includes 174,125 shares subject to presently exercisable options.
+
+(6)      As reflected in Amendment No. 2 to Schedule 13G filed January 23, 2001.
+         Such shares may be deemed beneficially owned by (i) Heartland Advisors,
+         Inc. ("Heartland"), a registered investment advisor, and (ii) William
+         J. Nasgovitz, President and principal shareholder of Heartland. Mr.
+         Nasgovitz's position as President and stock ownership of Heartland
+         could be deemed as conferring upon him voting and/or investment power
+         over the shares Heartland beneficially owns. Heartland and Mr.
+         Nasgovitz have sole dispositive power and sole voting power over all
+         such shares, respectively. The principal address of Heartland is 789
+         North Water Street, Milwaukee, Wisconsin 53202.
+
+
+                                        3
+<PAGE>   6
+(7)      As reflected in Amendment No. 9 to Schedule 13G filed February 8, 2001.
+         According to T. Rowe Price Associates, Inc. ("Price Associates"), it
+         (i) is a registered investment adviser and (ii) has sole dispositive
+         power over such shares. These shares are owned by T. Rowe Price
+         Small-Cap Value Fund, Inc. ("Small- Cap Value Fund"), a registered
+         investment company, as to which Price Associates serves as investment
+         adviser with power to direct investments. According to Small-Cap Value
+         Fund, it has sole voting power over such shares. For purposes of the
+         reporting requirements of the Securities Exchange Act of 1934, as
+         amended, Price Associates is deemed to be a beneficial owner of such
+         shares; however, Price Associates expressly disclaims that it is, in
+         fact, the beneficial owner of such shares. The principal address of
+         Price Associates is 100 East Pratt Street, Baltimore, Maryland 21202.
+
+(8)      As reflected in Amendment No. 5 to Schedule 13G filed January 31, 2001.
+         According to Paradigm Capital Management Inc. ("Paradigm"), it (i) is a
+         registered investment adviser and (ii) has sole dispositive power over
+         all such shares. The principal address of Paradigm is Nine Elk Street,
+         Albany, New York 12207.
+
+(9)      As reflected in Schedule 13G filed February 14, 2001. According to
+         FleetBoston Financial Corporation ("Fleet"), it is (i) a parent holding
+         company or control person and (ii) has sole voting power over 110,054
+         shares, sole dispositive power over 140,494 shares and shared
+         dispositive power over 350 shares. The principal address of Fleet is
+         100 Federal Street, Boston, Massachusetts 02110.
+
+(10)     As reflected in an amendment to Schedule 13G filed February 2, 2001.
+         Dimensional Fund Advisors Inc. ("Dimensional"), an investment advisor
+         registered under Section 203 of the Investment Advisors Act of 1940,
+         furnishes investment advice to four investment companies registered
+         under the Investment Company Act of 1940, and serves as investment
+         manager to certain other investment vehicles, including commingled
+         group trusts. (These investment companies and investment vehicles are
+         the "Portfolios"). In its role as investment advisor and investment
+         manager, Dimensional possessed both voting and investment power over
+         138,500 shares as of December 31, 2000. The Portfolios own all
+         securities reported in the amendment, and Dimensional disclaims
+         beneficial ownership of such securities. The principal address of
+         Dimensional is 1299 Ocean Avenue, 11th Floor, Santa Monica, California
+         90401.
+
+
+
+                          MATTERS CONCERNING DIRECTORS
+
+ELECTION OF DIRECTORS
+
+         The Board of Directors currently consists of six directors and is
+classified with respect to terms of office into four classes. One additional
+Board position in Class I is vacant. Each Class IV director elected at the
+Annual Meeting will serve until the 2005 annual meeting of shareholders and
+until such director's successor has been elected and qualified, except in the
+event of such director's earlier death, resignation or removal. The terms of
+office of the Class I, Class II and Class III directors will expire at the
+annual meetings to be held in 2002, 2003 and 2004, respectively, upon the
+election and qualification of their successors.
+
+         The Board of Directors has nominated Mr. Leo C. Beebe and Mr. Edward B.
+Cloues, II for election as the Class IV directors. Both currently are directors
+of the Company. The Board position in Class I which is now vacant may be left
+vacant or may be filled at any time by vote of a majority of directors in office
+prior to the next annual meeting of shareholders in 2002. If the vacancy is
+filled by such a vote, the Class I director so elected would serve until the
+2002 annual meeting of shareholders and until his successor has been elected and
+qualified, except in the event of such director's earlier death, resignation or
+removal.
+
+         The persons named as proxy agents in the enclosed Proxy Card intend
+(unless instructed otherwise by a shareholder) to vote for the election of Mr.
+Leo C. Beebe and Mr. Edward B. Cloues, II as the Class IV directors. In the
+event that a nominee should become unable to accept nomination or election (a
+circumstance which the Board of
+
+
+                                        4
+<PAGE>   7
+Directors does not expect), the proxy agents intend to vote for any alternate
+nominee designated by the Board of Directors or its Executive Committee or, in
+the discretion of the Board or its Executive Committee, the position may be left
+vacant.
+
+         THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE FOR EACH CLASS IV
+NOMINEE.
+
+         Set forth below is certain information with respect to each nominee for
+director and each other person currently serving as a director of the Company
+whose term of office will continue after the Annual Meeting, including the class
+and term of office of each such person. This information has been provided by
+each director at the request of the Company.
+
+         Class I--Director with Term Continuing until 2002
+
+         DR. HANS-JURG SCHURMANN. Dr. Schurmann has been a director since
+November 1993 and was most recently reelected at the 1998 annual meeting of
+shareholders. He is a senior partner in the law firm of Schurmann and Partner in
+Zurich, Switzerland, which represents the Company and its subsidiaries in
+Switzerland, and he has been a partner in that firm and its predecessor firm
+since 1979. Dr. Schurmann serves on the boards of numerous Swiss companies,
+including Instinet AG, Bellaplast Holding AG, Discorack-NCO AG and Orange
+Communications S.A. Dr. Schurmann is 56 years of age.
+
+         Class II--Director with Term Continuing until 2003
+
+         ROBERT A. ENGEL. Mr. Engel has been a director since 1999, when he was
+elected at the 1999 annual meeting of shareholders. Since 1999, Mr. Engel has
+been a Managing Director of Gleacher & Co. LLC, a financial advisory and
+investment banking firm. From 1995 to 1999, Mr. Engel was the Managing
+Director-Head of Mergers and Acquisitions of Gleacher NatWest Inc., a
+predecessor firm. From 1986 to 1995, he worked in various capacities at the
+investment banking firms of Gleacher & Co., Inc., C. J. Lawrence, Morgan
+Grenfell, Inc. and Morgan Grenfell & Co. Ltd. Mr. Engel is 37 years of age.
+
+         Class III--Directors with Terms Continuing until 2004
+
+         NORMAN COHEN. Mr. Cohen has been a director since 1974 and was most
+recently reelected at the 2000 annual meeting of shareholders. From 1993 to
+1999, he was Chairman and Chief Executive Officer of Creative Contracting
+Associates, Inc., a clothing manufacturer, and he is now a consultant to a
+clothing company. Mr. Cohen is 74 years of age.
+
+         RICHARD J. PINOLA. Mr. Pinola has been a director since January 1994
+and was most recently reelected at the 2000 annual meeting of shareholders.
+Since January 1994, he has served as Chairman and Chief Executive Officer of
+Right Management Consultants, Inc., a publicly-held human resource consulting
+and career management firm, and from June 1992 through December 1993 he was
+President and Chief Executive Officer of that company. Prior to joining Right
+Management Consultants, Inc., Mr. Pinola was President and Chief Operating
+Officer of Penn Mutual Life Insurance Company from March 1988 through September
+1991 and a consultant from September 1991 until June 1992. He serves as a
+director of Right Management Consultants, Inc. Mr. Pinola is 55 years of age.
+
+         Class IV--Nominees for Terms Continuing until 2005
+
+         LEO C. BEEBE. Mr. Beebe has been a director since June 1976 and was
+most recently reelected at the 1997 annual meeting of shareholders. From July
+1985 until August 1992 and again from June 1995 until he retired in January
+1998, Mr. Beebe was the Chief Executive Officer of the Company, and from January
+1985 until January 1998, he served as the Chairman of the Board of Directors of
+the Company. Mr. Beebe was Dean of the School of Business Administration of
+Glassboro State College (now Rowan University), Glassboro, New Jersey from July
+1977 to July 1985 and a professor of marketing at Glassboro State College from
+1972 to July 1985. Prior to that
+
+
+                                        5
+<PAGE>   8
+time, he served at Ford Motor Company for 27 years in various capacities in the
+United States and foreign countries, including as General Marketing Manager of
+Ford's Lincoln-Mercury Division, Vice President of Marketing and Planning and a
+director of Ford Motor Company of Canada, and Executive Vice President and
+General Manager of the Consumer Products Division and a director of Philco Ford
+Corporation. Mr. Beebe is 83 years of age.
+
+         EDWARD B. CLOUES, II. Mr. Cloues has been a director since July 1985
+and was most recently reelected at the 1997 annual meeting of shareholders. He
+became Chairman of the Board of Directors and Chief Executive Officer of the
+Company on January 5, 1998. From May 1985 until May 1998, Mr. Cloues served as
+Secretary of the Company. Prior to joining the Company in 1998, Mr. Cloues was a
+senior partner in the law firm of Morgan, Lewis & Bockius LLP, which is the
+Company's general counsel. He is also a director and non-executive Chairman of
+the Board of AMREP Corporation and a director of AmeriQuest Technologies, Inc.
+Mr. Cloues is 53 years of age.
+
+COMMITTEES AND MEETINGS
+
+         The Board of Directors has an Executive Committee, an Audit Committee,
+a Compensation and Human Resources Committee and a Nominating Committee. The
+members of the Compensation and Human Resources Committee also constitute the
+members of the two committees which administer the Company's employee stock
+option plans (collectively, the "Stock Option Committee"). During fiscal year
+2000, the Board of Directors held eight meetings (including three by telephone
+conference), the Executive Committee did not meet, the Audit Committee held
+three meetings, the Compensation and Human Resources Committee held four
+meetings, the Nominating Committee held one meeting and the Stock Option
+Committee did not meet separately from the Compensation and Human Resources
+Committee. Each director attended at least 75% of the aggregate of the fiscal
+year 2000 meetings of the Board of Directors and of the Board committee or
+committees on which he served during the year.
+
+         The Executive Committee is empowered to exercise all powers of the
+Board of Directors, except action on dividends and certain other matters which
+cannot by law be delegated by the Board, during the periods between regular
+Board meetings. The primary duties and responsibilities of the Audit Committee
+are to serve as an independent and objective party to monitor the Company's
+financial reporting process and internal control systems, review the
+independence and performance of the Company's independent accountants, and
+provide an open avenue of communication among the independent accountants,
+financial and senior management of the Company and the Board. The Compensation
+and Human Resources Committee recommends to the Board the compensation of the
+Company's chief executive officer, reviews and takes action on the chief
+executive officer's recommendations regarding the appropriate compensation of
+the Company's other executive officers and also of any other direct reports to
+the chief executive officer, approves the granting of any bonuses to such
+officers and direct reports and the total size of any Company-wide bonus pool,
+reviews other compensation and personnel development matters generally and
+recommends to the Board the compensation of non-employee directors. The
+Nominating Committee's principal duties are to recommend to the Board nominees
+for election as directors, changes in the membership of the committees of the
+Board and the membership of any newly-created Board committee. The Stock Option
+Committee is responsible for administering the Company's 1996 Equity
+Compensation Plan and another stock option plan which has expired (but under
+which there remain outstanding stock options).
+
+         The current members of the Executive Committee are Messrs. Cloues
+(Chairman), Beebe and Cohen; of the Audit Committee, Messrs. Pinola (Chairman)
+and Engel and Dr. Schurmann; of the Compensation and Human Resources Committee,
+Messrs. Cohen (Chairman) and Pinola; of the Nominating Committee, Messrs. Beebe
+(Chairman) and Cloues; and of the Stock Option Committee, Messrs. Cohen and
+Pinola.
+
+STANDARD COMPENSATION ARRANGEMENTS
+
+         Directors who are not employees of the Company receive an annual
+retainer of $12,500, a $2,000 annual retainer for each membership on any of the
+Audit Committee, the Compensation and Human Resources Committee and the
+Nominating Committee, a $1,000 annual retainer for membership on the Executive
+Committee, $1,000 for
+
+
+                                        6
+<PAGE>   9
+each Board meeting attended and $750 for each Executive Committee meeting
+attended provided that, in the case of Executive Committee meetings, such
+meetings either require substantial preparation or last two hours or more. In
+addition, the chairman of the Audit Committee and the chairman of the
+Compensation and Human Resources Committee are each paid an additional $1,500
+for their service in such capacities. All retainers are paid on a prorated
+bi-monthly basis. Directors generally do not receive compensation for their
+participation in telephone meetings or for attendance at other committee
+meetings. Under the 1996 Equity Compensation Plan, non-employee directors are
+eligible to receive stock options and, unless the Stock Option Committee
+determines otherwise (which has not been the case in the past), on the date of
+each annual meeting of shareholders of the Company, each non- employee director
+receives a stock option grant to purchase 1,000 shares of Common Stock with an
+option price per share equal to the fair market value of a share of Common Stock
+on that date. Such options are fully vested on the date of grant and have a
+ten-year term.
+
+SHARE OWNERSHIP GUIDELINE
+
+         Each non-employee director is required to own shares of Company Common
+Stock with a value, at the greater of cost or market, equal to four times the
+current $12,500 annual retainer, or $50,000. As for any newly- elected director,
+this requirement may be phased in over a period of time to be determined by the
+Board. All directors are in compliance with this guideline.
+
+REQUIREMENTS FOR ADVANCE NOTIFICATION OF NOMINATIONS
+
+         Article Ninth of the Restated Certificate of Incorporation of the
+Company provides that no person may be nominated for election as a director by a
+shareholder at an annual or special meeting unless written notice of such
+shareholder's intent to make such nomination has been given, either by personal
+delivery or by United States mail, postage prepaid, to the Secretary of the
+Company at the principal executive offices of the Company not later than (i)
+with respect to an election to be held at an annual meeting of shareholders, 90
+days in advance of such meeting and (ii) with respect to an election to be held
+at a special meeting of shareholders for the election of directors, the close of
+business on the seventh day following the date on which notice of such meeting
+is first given to shareholders. Each such notice shall set forth: (a) the name
+and address of the shareholder who intends to make the nomination and of the
+person or persons to be nominated; (b) a representation that the shareholder is
+a holder of record of stock of the Company entitled to vote at such meeting and
+intends to appear in person or by proxy at the meeting to nominate the person or
+persons specified in the notice; (c) a description of all arrangements or
+understandings between the shareholder and each nominee and any other person or
+persons (naming such person or persons) pursuant to which the nomination or
+nominations are to be made by the shareholder; (d) such other information
+regarding each nominee proposed by such shareholder as would be required to be
+included in a proxy statement filed pursuant to the proxy rules of the
+Securities and Exchange Commission had the nominee been nominated, or intended
+to be nominated, by the Board of Directors; and (e) the consent of each nominee
+to serve as a director of the Company if so elected. The Nominating Committee
+may, in its discretion, consider nominees for the Board of Directors recommended
+by a shareholder according the foregoing procedure, but it is not obligated to
+do so, and the chairman of the meeting may refuse to acknowledge the nomination
+of any person not made in compliance with such procedure.
+
+
+                             EXECUTIVE COMPENSATION
+
+COMPENSATION
+
+         The following table sets forth certain information with respect to
+compensation earned during fiscal years 2000, 1999 and 1998 by the Company's
+chief executive officer and the Company's other executive officers whose salary
+and bonus from the Company or any subsidiary exceeded $100,000 in fiscal year
+2000 (the "Named Executive Officers").
+
+
+                                        7
+<PAGE>   10
+                           SUMMARY COMPENSATION TABLE
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                         Long-Term Compensation
+                                                                                                  Awards
+                                                                                         -----------------------
+                                                                                          Number of
+                                               Annual Compensation                        Shares of    Number of
+                                ----------------------------------------------------     Restricted       Stock
+           Name and                                                   Other Annual         Stock         Options       All Other
+      Principal Position        Year         Salary       Bonus     Compensation(1)       Granted        Granted     Compensation(2)
+
+<S>                               <C>         <C>         <C>          <C>              <C>            <C>                <C>
+Edward B. Cloues, II .........    2000        $420,000         $0      $15,885(3)            0              0             $38,958
+  Chief Executive Officer         1999         400,000    200,000       14,861(3)       12,500              0              32,540
+  and Chairman of the Board       1998         380,000    285,000       15,371(3)        7,500              0              22,234
+  of Directors
+Kevin C. Bowen................    2000        $188,563         $0         $243(3)            0              0             $16,631
+  Senior Vice President,          1999         165,000     50,000          316(3)            0              0              15,951
+  Feeder Operations               1998         150,000     75,000          342(3)            0         30,000              17,126
+  and President and Chief
+  Executive Officer of
+  K-Tron America, Inc
+Ronald R. Remick(4)...........    2000        $178,500         $0         $744(3)            0          7,500             $13,604
+  Senior Vice President,          1999         109,792     33,333          455(3)        2,000          7,500               1,546
+  Chief Financial Officer
+  and Treasurer
+Lukas Guenthardt..............    2000        $173,250         $0         $162(3)            0              0             $24,949
+  Senior Vice President,          1999         165,000     50,000          176(3)            0              0              11,678
+  New Businesses                  1998         147,460(5)  75,000          225(3)            0         30,000              21,346
+  and Chief Strategy Officer
+Beat Steger(6)(7). . . . . . . .  2000        $115,635(7)      $0           $0               0              0             $18,569
+  Managing Director of            1999         114,028(7)  34,544            0               0          6,000              17,000
+  K-Tron (Schweiz) AG
+</TABLE>
+  ----------------
+
+(1)      In fiscal years 2000, 1999 and 1998, no Named Executive Officer
+         received perquisites or other personal benefits, securities or property
+         which exceeded the lesser of $50,000 or 10% of such Named Executive
+         Officer's salary and bonus.
+
+(2)      The amounts disclosed in this column include:
+
+         (a) Company and subsidiary contributions under the thrift portion of
+         Company's 401(k) Profit-Sharing and Thrift Plan on behalf of the
+         following Named Executive Officers: For fiscal year 2000 - Mr. Cloues
+         $10,200, Mr. Bowen $10,200, Mr. Remick $10,200 and Mr. Guenthardt
+         $10,200. For fiscal year 1999 - Mr. Cloues $9,600, Mr. Bowen $9,600 and
+         Mr. Guenthardt $9,600. For fiscal year 1998 - Mr. Bowen $10,560 and Mr.
+         Guenthardt $2,475. No contributions were made under the profit-sharing
+         portion of the plan in any of these years.
+
+         (b) Company and subsidiary payments for supplemental health insurance
+         on behalf of the following Named Executive Officers: For fiscal year
+         2000 - Mr. Cloues $9,057, Mr. Bowen $5,256, Mr. Remick $1,590 and Mr.
+         Guenthardt $14,217. For fiscal year 1999 - Mr. Cloues $4,480, Mr. Bowen
+         $4,978 and Mr. Guenthardt $1,462. For fiscal year 1998 - Mr. Cloues
+         $3,141 and Mr. Bowen $5,025.
+
+
+                                        8
+<PAGE>   11
+         (c) Company and subsidiary payments of premiums for additional group
+         term life insurance on behalf of the following Named Executive
+         Officers: For fiscal year 2000 - Mr. Cloues $552, Mr. Bowen $330, Mr.
+         Remick $1,104 and Mr. Guenthardt $240. For fiscal year 1999 - Mr.
+         Cloues $852, Mr. Bowen $528, Mr. Remick $836 and Mr. Guenthardt $324.
+         For fiscal year 1998 - Mr. Cloues $1,152, Mr. Bowen $696 and Mr.
+         Guenthardt $408.
+
+         (d) Company and subsidiary payments of premiums for additional life
+         insurance on behalf of the following Named Executive Officers: For
+         fiscal year 2000 - Mr. Cloues $4,185, Mr. Bowen $845, Mr. Remick $710
+         and Mr. Guenthardt $292. For fiscal year 1999 - Mr. Cloues $2,792, Mr.
+         Bowen $845, Mr. Remick $710 and Mr. Guenthardt $292. For fiscal year
+         1998 - Mr. Cloues $2,612 and Mr. Bowen $845.
+
+         (e) Company payments of premiums for additional disability insurance on
+         behalf of the following Named Executive Officer: For fiscal year 2000 -
+         Mr. Cloues $14,994. For fiscal year 1999 - Mr. Cloues $15,966. For
+         fiscal year 1998 - Mr. Cloues $15,329.
+
+         (f) Subsidiary contributions expressed in U.S. dollars (using the
+         average $/Sfr. exchange rate of $.593 for 2000, $.6645 for 1999 and
+         $.692 for 1998) to the Swiss pension plan on behalf of the following
+         Named Executive Officers: For fiscal year 2000 - Mr. Steger $18,569.
+         For fiscal year 1999 - Mr. Steger, $17,000. For fiscal year 1998 - Mr.
+         Guenthardt, $18,468.
+
+(3)      Represents amounts reimbursed to certain Named Executive Officers for
+         estimated income taxes incurred with respect to additional life and
+         disability insurance purchased on their behalf.
+
+(4)      On May 10, 1999, Mr. Remick joined the Company as its Senior Vice
+         President, Chief Financial Officer and Treasurer; therefore, his
+         compensation for fiscal year 1998 is not required to be disclosed.
+
+(5)      Prior to June 1, 1998, Mr. Guenthardt served as Managing Director and
+         Chief Executive Officer of K-Tron (Schweiz) AG, and he relocated to the
+         United States in September 1998 in connection with his new position as
+         Senior Vice President - Strategic Planning, Product Development and
+         Marketing of the Company. Mr. Guenthardt's compensation was paid in
+         Swiss francs through September 1998 and in U.S. dollars thereafter. The
+         salary, bonus and other compensation amounts included in the table for
+         Mr. Guenthardt are expressed in U.S. dollars using the average $/Sfr.
+         exchange rate for the portion of 1998 for which he was paid in Swiss
+         francs of $.692. Mr. Guenthardt's salary in Swiss francs was Sfr.
+         211,707 in 1998 (on an annualized basis).
+
+(6)      Mr. Steger became an executive officer in 1999; therefore, his
+         compensation for fiscal year 1998 is not required to be disclosed. Mr.
+         Steger gave notice of his resignation from K-Tron (Schweiz) AG on
+         January 22, 2001, and he ceased an active role with that subsidiary at
+         the end of February 2001 although he remains employed until July 2001.
+
+(7)      Mr. Steger's compensation was paid in Swiss francs. The salary, bonus
+         and other compensation amounts included in the table for Mr. Steger are
+         expressed in U.S. dollars using the average $/Sfr. exchange rate (i)
+         for 2000 of $.593 and (ii) for 1999 of $.6645. Mr. Steger's 2000 salary
+         in Swiss francs was Sfr. 195,000. Mr. Steger's 1999 salary and bonus in
+         Swiss francs were Sfr. 171,600 and Sfr. 52,000, respectively.
+
+
+                                        9
+<PAGE>   12
+OPTION GRANTS
+
+         The following table discloses options granted to the Named Executive
+Officers during the fiscal year ended December 30, 2000.
+
+                        OPTION GRANTS IN LAST FISCAL YEAR
+
+
+<TABLE>
+<CAPTION>
+                                                        INDIVIDUAL GRANTS
+                            -------------------------------------------------------------------------
+
+                                                                                                                POTENTIAL REALIZABLE
+                                                     PERCENT OF TOTAL                                             VALUE AT ASSUMED
+                                   NUMBER OF           OPTIONS/SARS                                               ANNUAL RATES OF
+                                  SECURITIES            GRANTED TO                                                  STOCK PRICE
+                                  UNDERLYING           EMPLOYEES IN         EXERCISE                              APPRECIATION FOR
+                                  OPTION/SARS          FISCAL YEAR        OR BASE PRICE      EXPIRATION             OPTION TERM
+NAME                                GRANTED              2000(1)          PER SHARE(2)          DATE            5%              10%
+- ----                                -------              -------          ------------          ----       -----------       ------
+
+<S>                                <C>                     <C>               <C>               <C>            <C>           <C>
+Edward B. Cloues, II.........         --                    --                   --                --             --              --
+Kevin C. Bowen...............         --                    --                   --                --             --              --
+Ronald R. Remick.............      7,500(3)                100%              $16.00            5/9/10         $75,450       $191,250
+Lukas Guenthardt.............         --                    --                   --                --             --              --
+Beat Steger..................         --                    --                   --                --             --              --
+</TABLE>
+- -------------------
+
+(1)      During fiscal year 2000, an option to purchase 7,500 shares of Common
+         Stock was granted to Mr. Remick pursuant to his employment agreement
+         with the Company.
+
+(2)      The exercise price of the option granted was equal to the fair market
+         value of the underlying stock on the date of grant.
+
+(3)      The option becomes exercisable in four equal annual installments
+         commencing on the first anniversary of the date of grant.
+
+
+                                       10
+<PAGE>   13
+OPTION EXERCISES AND FISCAL YEAR-END VALUES
+
+         The following table sets forth certain information regarding the number
+and value of stock options held at December 30, 2000 by the Named Executive
+Officers.
+
+AGGREGATE OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR-END OPTION VALUES
+
+<TABLE>
+<CAPTION>
+                                                                         NUMBER OF                            Value of
+                                                                        UNEXERCISED                      Unexercised In-the-
+                                                                        OPTIONS AT                        Money Options at
+                                                                     DECEMBER 30, 2000                  December 30, 2000(1)
+                                                              -------------------------------      ------------------------------
+                                SHARES           VALUE
+NAME                           ACQUIRED        REALIZED       EXERCISABLE       UNEXERCISABLE      EXERCISABLE      UNEXERCISABLE
+                             ON EXERCISE
+
+<S>                              <C>             <C>               <C>                <C>             <C>                <C>
+Edward B. Cloues, II........     --              --                92,858             7,142           $406,254           $31,246
+
+Kevin C. Bowen..............     --              --                14,833            26,667           $128,853            $3,334
+
+Ronald R. Remick............     --              --                 1,875            13,125                 --           $17,813
+
+Lukas Guenthardt............     --              --                16,333            26,667           $138,666            $3,334
+
+Beat Steger.................     --              --                 5,166             5,334            $28,707            $5,043
+</TABLE>
+- -------------------
+
+(1)      Based on the closing price of the Company's Common Stock as quoted on
+         the Nasdaq National Market on December 29, 2000 ($18.375 per share),
+         net of the option exercise price.
+
+CERTAIN EMPLOYMENT AGREEMENTS
+
+         Messrs. Bowen, Remick and Guenthardt were employed by the Company or a
+subsidiary during fiscal year 2000 under employment agreements with the Company
+(the "Employment Agreements"). Under the Employment Agreements, Messrs. Bowen,
+Remick and Guenthardt are entitled to receive a base salary, which may be
+increased from time to time, and such additional compensation and bonus payments
+as may be awarded to them. During fiscal year 2000, the annual base salaries for
+Messrs. Remick and Guenthardt were $178,500 and $173,250, respectively. Mr.
+Bowen's annual base salary was $173,250 through July 31, 2000 and $210,000
+thereafter. As of the beginning of fiscal year 2001, Messrs. Remick's and
+Guenthardt's annual base salaries were increased to $191,000 and $185,500,
+respectively, and Mr. Bowen's remained at $210,000. The Company's obligation to
+pay such base salaries is subject to its right to reduce them in the event
+reductions are generally being made for other officers of the Company or its
+subsidiaries holding comparable positions.
+
+         Under Mr. Remick's employment agreement, he received a stock option
+grant to purchase 7,500 shares of Common Stock on May 10, 2000, the first
+anniversary of the commencement of his employment with the Company, at a
+purchase price equal to the fair market value on the date of grant, with 1,875
+shares to vest on each of the first, second, third and fourth anniversaries of
+the date of grant. In addition, under Mr. Remick's employment agreement, he will
+receive a similar option grant for 5,000 shares of Common Stock on May 10, 2001,
+the second anniversary of the commencement of his employment with the Company.
+
+         Each of the Employment Agreements provides that either the Company or
+the employee may terminate the employment term thereunder upon not less than one
+year's prior notice. Such employment terms are also subject to
+
+
+                                       11
+<PAGE>   14
+termination by reason of the employee's death or disability or by the Board of
+Directors at any time for "cause" as specified in the Employment Agreements. In
+addition, the Company has the right to terminate any of Messrs. Bowen, Remick or
+Guenthardt at any time without cause by paying him a lump sum amount equal to
+100% of his then-annual base salary or, if the previously described one-year
+notice of termination has already been given by the Company to him, the portion
+thereof relating to the balance of the employment term.
+
+         Mr. Cloues was employed by the Company during fiscal year 2000 under an
+employment agreement with the Company pursuant to which he served as the
+Company's Chairman of the Board of Directors and Chief Executive Officer. During
+fiscal year 2000, Mr. Cloues' annual base salary was $420,000. As of the
+beginning of fiscal year 2001, Mr. Cloues' annual base salary was increased to
+$436,800.
+
+         Mr. Cloues' employment agreement provides that he can terminate the
+agreement upon not less than 90 days' prior notice. The Company may terminate
+the employment term without cause upon not less than 30 days' prior written
+notice to Mr. Cloues, in which case Mr. Cloues would be entitled to a lump sum
+payment equal to 200% of his then-annual base salary. Mr. Cloues' employment
+term is also subject to termination by reason of his death or disability or by
+the Board of Directors at any time for "cause" as specified in his employment
+agreement.
+
+         Mr. Cloues' employment agreement also includes provisions relating to a
+termination of employment upon a "change of control" (as specified in his
+employment agreement). Mr. Cloues' employment agreement applies to a termination
+of employment upon or within one year after a "change of control" which, if such
+termination was initiated by the Company or any successor thereto, was for any
+reason other than death, disability or "cause" or which, if such termination was
+initiated by Mr. Cloues, was at his sole discretion without regard to reason. In
+the event of the termination of employment of Mr. Cloues upon a "change of
+control," his employment agreement provides that, subject to certain
+limitations, the Company would pay him (i) an amount equal to three times his
+annual base salary in effect either immediately prior to the termination of
+employment or immediately prior to the "change of control," whichever is higher
+and (ii) unless Mr. Cloues notifies the Company in writing that he intends to
+retain his options, an amount equal to the spread (the excess of market value
+over exercise price) on any stock options then held by him, whether or not such
+options were exercisable at the date of termination.
+
+
+                                       12
+<PAGE>   15
+         NOTWITHSTANDING ANYTHING TO THE CONTRARY, THE FOLLOWING REPORTS OF THE
+         COMPENSATION AND HUMAN RESOURCES COMMITTEE AND OF THE AUDIT COMMITTEE
+         AND THE PERFORMANCE GRAPH ON PAGE 16 SHALL NOT BE DEEMED INCORPORATED
+         BY REFERENCE BY ANY GENERAL STATEMENT INCORPORATING BY REFERENCE THIS
+         PROXY STATEMENT INTO ANY FILING UNDER THE SECURITIES ACT OF 1933, AS
+         AMENDED, OR UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED,
+         EXCEPT TO THE EXTENT THAT THE COMPANY SPECIFICALLY INCORPORATES THIS
+         INFORMATION BY REFERENCE, AND SHALL NOT OTHERWISE BE DEEMED FILED UNDER
+         SUCH ACTS.
+
+
+                           REPORT OF THE COMPENSATION
+                          AND HUMAN RESOURCES COMMITTEE
+
+         As members of the Compensation and Human Resources Committee (the
+"Compensation Committee"), it is our duty to review the compensation paid to the
+Company's executive officers and the other benefits received by them, to
+recommend to the Board the annual base salary of the Company's Chief Executive
+Officer, to approve the annual base salaries of the other executive officers, to
+approve all bonuses and other material compensation granted to the Chief
+Executive Officer and other executive officers and to approve the total amount
+of all bonuses paid by the Company under any Company-wide bonus or incentive
+compensation program. In addition, we also constitute the committee (the "Stock
+Option Committee") which administers the Company's 1996 Equity Compensation Plan
+and thus are responsible for the granting of stock options, stock appreciation
+rights and restricted stock to officers and other employees of the Company.
+These duties and the other responsibilities of the Compensation Committee are
+more fully described on page 6 of this Proxy Statement under the caption
+"Matters Concerning Directors - Committees and Meetings." In fulfilling these
+duties and responsibilities, it is the Compensation Committee's goal to have a
+policy that will enable the Company to attract, retain and reward senior
+officers who contribute to both its short-term and long-term success. Both
+members of the Compensation Committee are non-employee, independent directors.
+
+         The Company's compensation policy for executive officers is to pay
+competitively and to be fair and equitable in the administration of pay. This is
+the same policy applicable to all employees of the Company. The Company seeks to
+balance the compensation paid to a particular individual with the compensation
+paid to other executives holding comparable positions both inside the Company
+and at other similar companies.
+
+         The granting of bonuses on an annual basis is subjective and is based
+on a number of factors, and the Compensation Committee determined, upon the
+recommendation of the Chief Executive Officer, that no cash bonuses would be
+paid for fiscal year 2000. In addition, other than the stock option grant to Mr.
+Remick to purchase 7,500 shares of Common Stock which was made in accordance
+with the terms of his employment agreement, no stock option grants were made to
+employees during fiscal year 2000.
+
+         The Compensation Committee has not adopted or made any recommendation
+to the Board regarding a bonus or other incentive compensation program for 2001.
+Whether or not any such program is adopted or recommended, it is expected that
+future stock options will be granted by the Stock Option Committee on a case-by-
+case basis, as and when deemed appropriate, rather than as part of any incentive
+compensation program.
+
+         As with bonuses, the decisions of the Compensation Committee regarding
+salaries are subjective and not based on any list of specific criteria. The
+Company's Chief Executive Officer, Edward B. Cloues, II, had a 2000 base salary
+of $420,000. With respect to the other four Named Executive Officers, their
+annual base salaries during fiscal year 2000 were as follows: Mr. Remick,
+$178,000; Mr. Bowen, $173,250 through July 31, 2000 and $210,000 thereafter; Mr.
+Guenthardt, $173,250; and Mr. Steger, 195,000 Swiss francs. Effective at the
+beginning of fiscal year 2001, Mr. Cloues' annual base salary was increased by
+4% to $436,800, and the annual base salaries for Messrs. Remick and Guenthardt
+were each increased by approximately 7% to $191,000 and $185,500, respectively.
+Mr. Bowen's previously increased salary remained unchanged at $210,000, which
+was the understanding with him
+
+
+                                       13
+<PAGE>   16
+when his salary was increased in mid-2000. With respect to Mr. Steger, no
+increase was approved since on January 22, 2001 he gave notice that he will be
+leaving the Company. The Compensation Committee accepted the Chief Executive
+Officer's salary recommendations for Messrs. Bowen, Remick and Guenthardt,
+which were based on his subjective judgement but took into account a number of
+factors, including the increased responsibilities assumed by all three
+individuals during fiscal year 2000 (for example, Mr. Bowen took on worldwide
+responsibility for the feeder business, Mr. Remick was put in charge of the
+Company's e-Business and information technology efforts in addition to his role
+as Chief Financial Officer, and Mr. Guenthardt assumed leadership of the
+newly-formed New Businesses group which encompasses the Company's pneumatic
+conveying business and also led the effort to acquire Colormax Limited in
+October 2000). The Compensation Committee took similar factors into account in
+determining the Chief Executive Officer's 2001 salary.
+
+         In summary, we believe that the salaries received by each of the Named
+Executive Officers for fiscal year 2000 were reasonable in view of their past
+and anticipated future contributions to the Company and that the salary
+increases approved for fiscal year 2001 were similarly justified.
+
+
+                                      COMPENSATION AND HUMAN RESOURCES COMMITTEE
+
+                                          Norman Cohen, Chairman
+                                             Richard J. Pinola
+
+March 16, 2001
+
+
+                          REPORT OF THE AUDIT COMMITTEE
+
+         The Audit Committee operates pursuant to a formal written charter
+approved and adopted by the Board of Directors on May 15, 2000. A copy of the
+charter is attached hereto as Appendix A. In accordance with the charter, all
+the members of the Audit Committee are independent, and the Audit Committee has
+reviewed the adequacy of the charter during fiscal year 2000.
+
+         The Audit Committee reviews the Company's financial reporting process
+on behalf of the Board. In fulfilling its responsibilities, the Committee has
+reviewed and discussed the audited financial statements to be contained in the
+Company's Annual Report on Form 10-K for the fiscal year ended December 30, 2000
+with the Company's management and also with Arthur Andersen LLP, the Company's
+independent accountants and auditors. Management is responsible for the
+financial statements and the reporting process, including the system of internal
+controls, and has represented to the Audit Committee that such financial
+statements were prepared in accordance with generally accepted accounting
+principles. The independent accountants are responsible for expressing an
+opinion on the conformity of those audited financial statements with accounting
+principles generally accepted in the United States.
+
+         The Audit Committee has discussed with Arthur Andersen LLP the matters
+required to be discussed by Statement on Auditing Standards No. 61,
+Communication with Audit Committees, as amended. Furthermore, the Audit
+Committee has received the written disclosures and the letter from Arthur
+Andersen LLP required by Independence Standards Board Standard No. 1
+(Independence Discussions with Audit Committees), and the Audit Committee has
+discussed with Arthur Andersen LLP that firm's independence from the Company and
+its management.
+
+AUDIT FEES
+
+         The aggregate fees billed for professional services rendered by Arthur
+Andersen LLP for the audit of the Company's annual financial statements for the
+year ended December 30, 2000 and the reviews of the Company's
+
+
+                                       14
+<PAGE>   17
+financial statements included in the Company's Quarterly Reports on Form 10-Q
+for the year ended December 30, 2000 were $200,000.
+
+FINANCIAL INFORMATION SYSTEMS DESIGN AND IMPLEMENTATION FEES
+
+         There were no fees billed for the professional services rendered by
+Arthur Andersen LLP during fiscal year 2000 relating to financial information
+systems design and implementation.
+
+ALL OTHER FEES
+
+         The aggregate fees billed for all other services rendered by Arthur
+Andersen LLP during fiscal year 2000, other than the services referred to above
+under the captions "Audit Fees" and "Financial Information Systems Design and
+Implementation Fees," were $71,000, and such other fees were primarily related
+to preparation of the Company's U.S. federal, U.S. state and foreign income tax
+returns and to tax advice given to the Company.
+
+         After considering the provision of services encompassed within the
+above disclosures about fees (under the captions "Financial Information Systems
+Design and Implementation Fees" and "All Other Fees"), the Audit Committee has
+determined that the provision of such services is compatible with maintaining
+Arthur Andersen LLP's independence.
+
+         Based on the reviews and discussions referred to above, the Audit
+Committee has recommended to the Company's Board of Directors that the Company's
+audited financial statements be included in the Company's Annual Report on Form
+10-K for the fiscal year ended December 30, 2000 to be filed with the U.S.
+Securities and Exchange Commission.
+
+
+                                                 AUDIT COMMITTEE
+
+                                           Richard J. Pinola, Chairman
+                                                 Robert A. Engel
+                                               Hans-Jurg Schurmann
+
+March 16, 2001
+
+
+                                       15
+<PAGE>   18
+                                PERFORMANCE GRAPH
+
+         The following line graph compares the yearly change in the cumulative
+total shareholder return on the Company's Common Stock for the past five fiscal
+years with the cumulative total return of the Standard & Poor's 500 Stock Index
+(the "S&P 500") and the Dow Jones Factory Equipment Industry Group, which is
+described more fully below (the "Factory Equipment Group"). The graph assumes
+that $100 was invested at the end of fiscal year 1995 in the Company's Common
+Stock, the S&P 500 and the Factory Equipment Group. Dividend reinvestment has
+been assumed and, with respect to companies in the Factory Equipment Group, the
+returns of such companies have been weighted at each measurement point to
+reflect relative stock market capitalization.
+
+
+                                  [BAR GRAPH]
+<TABLE>
+<CAPTION>
+
+                                     12/30/1995    12/28/1996    01/03/1998   01/02/1999  01/01/2000   12/30/2000
+                                     ----------    ----------    ----------   ----------  ----------   ----------
+<S>                                    <C>           <C>           <C>           <C>         <C>         <C>
+K-Tron International, Inc. .......     100.00        164.00        276.00        296.00      216.00      294.00
+Factory Equipment Group ..........     100.00         98.28        113.48         90.03       81.06       75.71
+S&P 500 ..........................     100.00        122.96        163.98        210.84      255.22      231.95
+</TABLE>
+
+
+
+                     ASSUMES $100 INVESTED ON DEC. 31. 1995
+                          ASSUMES DIVIDEND REINVESTED
+                        FISCAL YEAR ENDING DEC. 30, 2000
+
+
+         The Factory Equipment Group is not a "published industry or
+line-of-business index" as that term is defined by Securities and Exchange
+Commission regulations. Accordingly, the Factory Equipment Group is considered a
+"peer index," and the identity of the companies used in the index is as follows:
+Baldwin Technology Inc. Class A, Bethlehem Corporation, Brown & Sharpe
+Manufacturing Co. Class A, BTU International, Inc., Chicago Rivet & Machine Co.,
+Farrel Corporation, Flow International Corp., Gardner Denver, Inc., Genesis
+Worldwide, Inc., Gorman-Rupp Company, Hardinge Inc., Hirsch International Corp.
+Class A, Hurco Companies Inc., K-Tron International, Inc., Katy Industries,
+Inc., Key Technology Inc., McClain Industries, Inc., Metso Corp., Middleby
+Corporation, Milacron Inc., Paul Mueller Company, Nordson Corporation, Oilgear
+Company, Paragon Technologies, Inc., Quipp, Inc., Regal-Beloit Corp, Research
+Incorporated, Riviera Tool Company, Sames Corporation, Selas Corporation of
+America, Speizman Industries Inc., The L.S. Starrett Company, Taylor Devices,
+Inc., Thermo Fibertek Inc., Thermo Terratech, Inc. and Utilx Corporation.
+
+
+                                       16
+<PAGE>   19
+                         INDEPENDENT PUBLIC ACCOUNTANTS
+
+         Arthur Andersen LLP has served as the Company's independent public
+accountants and auditors since 1994. It is management's expectation that Arthur
+Andersen LLP will continue in such capacity for the current year, but this
+matter has not yet been considered by the Board of Directors. A representative
+of Arthur Andersen LLP is expected to be present at the Annual Meeting with the
+opportunity to make a statement if he or she desires to do so and to be
+available to respond to appropriate questions.
+
+
+                  SHAREHOLDER PROPOSALS -- 2002 ANNUAL MEETING
+
+         Shareholders may submit proposals on matters appropriate for
+shareholder action at annual meetings in accordance with regulations adopted by
+the Securities and Exchange Commission. Any proposal which an eligible
+shareholder desires to have presented at the 2002 annual meeting of shareholders
+(which is expected to be held on or about May 10, 2002) concerning a proper
+subject for inclusion in the proxy statement and for consideration at the annual
+meeting, will be included in the Company's proxy statement and related proxy
+card if it is received by the Company no later than November 22, 2001.
+
+
+             SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+         Section 16(a) of the Securities Exchange Act of 1934, as amended,
+requires that directors and certain officers of the Company, and persons who own
+more than ten percent of the Company's Common Stock, file reports of ownership
+of Company securities and changes in ownership of Company's securities with the
+Securities and Exchange Commission. The Company believes that all filings
+required to be made during fiscal year 2000 were made on a timely basis.
+
+
+                                  OTHER MATTERS
+
+         The Board of Directors of the Company does not intend to bring any
+other matters before the Annual Meeting and has no reason to believe any other
+matters will be presented. If, however, other matters properly do come before
+the meeting, it is the intention of the persons named as proxy agents in the
+enclosed Proxy Card to vote upon such matters in accordance with their judgment.
+
+                                            By Order of the Board of Directors,
+
+
+                                            Mary E. Vaccara
+                                            Secretary
+March 30, 2001
+
+
+                                       17
+<PAGE>   20
+                                                                      APPENDIX A
+
+                           K-TRON INTERNATIONAL, INC.
+
+                         CHARTER OF THE AUDIT COMMITTEE
+                            OF THE BOARD OF DIRECTORS
+
+                              Adopted May 15, 2000
+
+I.  PURPOSE
+
+The primary purpose of the Audit Committee (the "Committee") of the Board of
+Directors (the "Board") of K-Tron International, Inc. (the "Company") is to
+assist the Board in fulfilling its oversight responsibilities by reviewing the
+quality and integrity of the Company's financial reports; the Company's systems
+of internal controls regarding finance and accounting; and the Company's
+auditing, accounting and financial reporting processes generally. The
+Committee's primary duties and responsibilities are to:
+
+    -    Serve as an independent and objective party to monitor the Company's
+         financial reporting process and internal control systems.
+
+    -    Review the independence and performance of the Company's independent
+         accountants.
+
+    -    Provide an open avenue of communication among the independent
+         accountants, financial and senior management of the Company and the
+         Board.
+
+The Committee will primarily fulfill the above duties and responsibilities by
+carrying out the activities enumerated in Section III of this Charter.
+
+II.  COMPOSITION
+
+The Committee shall be comprised of three or more directors, and, not later than
+June 14, 2001, the members of the Committee shall meet the following
+requirements of this Section II. Each member of the Committee shall be an
+"independent director" as that term is defined in the Nasdaq Audit Committee
+requirements*, and free from any relationship that, in the opinion of the Board,
+may interfere with the exercise of his or her independent judgment as a member
+of the Committee or independence from management and the Company. Each member of
+the Committee must be able to read and understand fundamental financial
+statements, including the Company's balance sheet, income statement and cash
+flow statement, or will become able to do so within a reasonable period of time
+after his or her appointment to the Committee. Additionally, at least one member
+of the Committee must have had past employment experience in finance or
+accounting, requisite professional certification in accounting, or any other
+comparable experience or background which results in the individual's financial
+sophistication, including being or having been a chief executive officer, chief
+financial officer or other senior officer with financial oversight
+responsibilities. Notwithstanding the foregoing, one director who is not
+independent and is not a current employee or an immediate family member of such
+employee, may be appointed to the Committee, if the Board, under exceptional and
+limited circumstances, determines that membership on the Committee by the
+individual is required by the best interests of the Company and its
+shareholders, and the Board discloses, in the next annual proxy statement
+subsequent to such determination, the nature of the relationship and the reasons
+for that determination.
+
+III.  ACTIVITIES
+
+To fulfill its responsibilities and duties, the Committee shall perform the
+following activities:
+
+1.   With respect to financial reports, the Committee shall:
+
+     -   Review and discuss the Company's audited financial statements with the
+         Company's management and the independent accountants and recommend to
+         the Board the inclusion of such statements in the Company's annual
+         filing with the Securities and Exchange Commission (the "SEC") on Form
+         10-K.
+<PAGE>   21
+     -   At the discretion of the Chair of the Committee, review and discuss the
+         Company's unaudited quarterly financial statements with the Company's
+         management and the independent accountants prior to the filing of the
+         Form 10-Q with the SEC. The Chair may represent the entire Committee
+         for purposes of this review.
+
+2.   With respect to the independent accountants, the Committee shall:
+
+     -   Review, approve and recommend to the Board the engagement of the
+         independent accountants, including their fee and the other material
+         aspects of their engagement, and review the scope and timing of their
+         audit of the Company's annual financial statements.
+
+     -   Review, with the independent accountants, the accountants' report on
+         the Company's annual financial statements and discuss with the
+         independent accountants the matters required to be discussed by the
+         relevant SAS(s), including the quality, and not just the acceptability,
+         of the accounting principles and underlying estimates used in the
+         audited financial statements.
+
+     -   Evaluate the performance of the independent accountants; where
+         appropriate, recommend that the Board replace the independent
+         accountants; and approve any proposed discharge of the independent
+         accountants.
+
+     -   On an annual basis, obtain from the independent accountants a written
+         disclosure delineating all relationships between such accountants and
+         the Company and its affiliates, including the written disclosure and
+         letter required by Independence Standards Board (ISB) Standard No. 1,
+         as it may be modified or supplemented.
+
+     -   From time to time, as appropriate, actively engage the Company's
+         independent accountants in a dialogue with respect to any disclosed
+         relationships or services that may impact the objectivity and
+         independence of such accountants and take, or recommend to the Board
+         the taking of, appropriate action in response to any disclosure to
+         satisfy itself or the Board of the accountants' independence.
+
+     -   Inform the independent accountants that they are ultimately accountable
+         to the Board and the Committee, as representatives of the Company's
+         shareholders.
+
+     -   Periodically discuss with the independent accountants the Company's
+         internal controls (including their recommendations, if any, for
+         improvements in such internal controls and the implementation of such
+         recommendations), the fullness and accuracy of the Company's financial
+         statements and certain other matters required to be discussed by
+         Statement on Auditing Standards No. 61 (SAS 61)**, as it may be
+         modified or supplemented.
+
+3.   As part of its review function, the Committee shall:
+
+     -   Meet at least annually with the Company's management and the
+         independent accountants in separate executive sessions to discuss any
+         matters that the Committee or either of these groups believes should be
+         discussed confidentially.
+
+     -   In consultation with the independent accountants, review the integrity
+         and quality of the Company's financial reporting processes, both
+         internal and external, and the independent accountants' perception of
+         the Company's financial and accounting personnel.
+
+     -   Consider the independent accountants' judgments about the quality and
+         appropriateness of the Company's accounting principles as applied and
+         significant judgments affecting its financial reporting.
+
+4.   With respect to ethical and legal compliance matters, the Committee shall:
+
+
+                                        2
+<PAGE>   22
+     -   Review the adequacy and appropriateness of the Company's Statement of
+         Corporate Ethics and Code of Business Conduct.
+
+     -   State in the Committee's report in the Company's annual proxy statement
+         whether, based on the review and discussions referred to in the
+         relevant items of this Charter, the Committee recommended to the Board
+         that the audited financial statements be included in the Company's Form
+         10-K filing for the last fiscal year.
+
+5.   With respect to other matters, the Committee shall:
+
+     -   Review and reassess the adequacy of this Charter on an annual basis and
+         recommend updates to the Board, if any shall be required.
+
+     -   Perform any other activities consistent with this Charter, the
+         Company's By-laws and applicable law, as the Committee or the Board
+         deems necessary or appropriate.
+
+- ------------------
+
+*    "Independent director" means a person other than an officer or employee of
+     the Company or its subsidiaries or any other individual having a
+     relationship which, in the opinion of the Board, would interfere with the
+     exercise of independent judgment in carrying out the responsibilities of a
+     director. The following persons shall not be considered independent:
+
+     (a) a director who is employed by the Company or any of its affiliates for
+         the current year or any of the past three years;
+
+     (b) a director who accepts any compensation from the Company or any of its
+         affiliates in excess of $60,000 during the previous fiscal year, other
+         than compensation for Board service, benefits under a tax-qualified
+         retirement plan or non-discretionary compensation;
+
+     (c) a director who is a member of the immediately family of an individual
+         who is, or has been in any of the past three years, employed by the
+         Company or any of its affiliates as an executive officer. Immediate
+         family includes a person's spouse, parents, children, siblings,
+         mother-in-law, father-in-law, brother-in-law, sister-in-law,
+         son-in-law, daughter-in-law and anyone who resides in such person's
+         home;
+
+     (d) a director who is a partner in, or a controlling shareholder or an
+         executive officer of, any for-profit business organization to which the
+         Company made, or from which the Company received, payments (other than
+         those arising solely from investments in the Company's securities) that
+         exceed 5% of the Company's or business organization's consolidated
+         gross revenues for that year, or $200,000, whichever is more, in any of
+         the past three years; or
+
+     (e) a director who is employed as an executive of another entity where any
+         of the Company's executives serve on that entity's compensation
+         committee.
+
+**       SAS 61 requires independent auditors to communicate certain matters
+         related to the conduct of an audit to those who have responsibility for
+         oversight of the financial reporting process, specifically an audit
+         committee. Among the matters to be communicated to the audit committee
+         are: (1) methods used to account for significant unusual transactions;
+         (2) the effect of authoritative guidance or consensus; (3) the process
+         used by management in formulating particularly sensitive accounting
+         estimates and the basis for the accountants' conclusions regarding the
+         reasonableness of those estimates; and (4) disagreements with
+         management over the application of accounting principles, the basis for
+         management's accounting estimates and the disclosures in the financial
+         statements.
+
+
+                                        3
+
+
+<PAGE>   23
+                        K-TRON INTERNATIONAL, INC. PROXY
+
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS. The undersigned
+hereby appoints NORMAN COHEN and RICHARD J. PINOLA, or either of them acting
+singly in the absence of the other, each with the power to appoint his
+substitute, the Proxy Agents of the undersigned to attend the Annual Meeting of
+Shareholders of K-Tron International, Inc. (the "Company") to be held at the
+Company's principal executive offices at Routes 55 and 553, Pitman, New
+Jersey, on May 11, 2001 at 10:00 a.m., local time, and any postponements or
+adjournments thereof, and with all powers the undersigned would possess if
+personally present, to vote upon the following matters as indicated on the
+reverse side.
+
+    PLEASE MARK, SIGN AND DATE THIS PROXY CARD AND PROMPTLY RETURN IT USING
+                             THE ENCLOSED ENVELOPE.
+
+                 (CONTINUED AND TO BE SIGNED ON REVERSE SIDE.)
+
+
+
+                                                                     SEE REVERSE
+                                                                         SIDE
+
+<PAGE>   24
+/X/ PLEASE MARK YOUR
+    VOTES AS IN THIS
+    EXAMPLE
+
+
+
+
+
+1. Election of Directors Class IV            FOR / /      WITHHELD  / /
+
+   NOMINEE: Leo C. Beebe
+            Edward B. Cloues, II
+
+   For, except vote withheld from the following nominee(s):
+
+
+
+   ---------------------------------------------------------
+
+2. In their discretion, the Proxy Agents are authorized to vote upon such other
+   business that may properly come before the meeting.
+
+
+
+
+
+
+
+
+This proxy when properly executed will be voted in the manner directed herein
+by the undersigned shareholder. If no instruction is specified with respect to
+a matter to be acted upon, the shares represented by the proxy will be voted
+FOR all nominees for election as the Class IV directors. If any other business
+is presented at the meeting, this proxy confers authority to and shall be voted
+in accordance with the recommendation of the Board of Directors of the Company
+or its Executive Committee. The undersigned hereby acknowledges receipt of the
+Notice of the Annual Meeting of Shareholders and the related Statement.
+
+PLEASE MARK, SIGN AND DATE THIS PROXY CARD AND PROMPTLY RETURN IT USING THE
+ENCLOSED ENVELOPE.
+
+
+SIGNATURE(S)                                 DATE                 , 2001
+             -----------------------------         -------------
+
+Please sign exactly as name appears above. When shares are held by joint
+tenants, both should sign. When signing as attorney, executor, administrator,
+trustee or guardian, please give full title as such. If a corporation, please
+sign in full corporate name by the President or other authorized officer. If a
+partnership, please sign in the partnership name by the authorized person.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

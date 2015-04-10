@@ -1,0 +1,2043 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UCy6MfJRaiNx6X25FrZAwrdZSoABJ1uVF9dz6xp/VkaoYQV9NXQyG7A2r5WHBcct
+ kahJif/fh2qdIQpCRCCX8A==
+
+<SEC-DOCUMENT>0000001985-96-000007.txt : 19960523
+<SEC-HEADER>0000001985-96-000007.hdr.sgml : 19960523
+ACCESSION NUMBER:		0000001985-96-000007
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960611
+FILED AS OF DATE:		19960522
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCEL INTERNATIONAL CORP
+		CENTRAL INDEX KEY:			0000001985
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				310788334
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08768
+		FILM NUMBER:		96570793
+
+	BUSINESS ADDRESS:	
+		STREET 1:		475 METRO PLACE N
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+		BUSINESS PHONE:		6147647000
+
+	MAIL ADDRESS:	
+		STREET 1:		475 METRO PLACE NORTH
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCELERATION CORP
+		DATE OF NAME CHANGE:	19870814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<TEXT>
+
+
+                         SCHEDULE 14A INFORMATION
+PROXY STATEMENT PURSUANT TO SECTION 14(A) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+Filed by the Registrant                          X 
+                                                ---
+Filed by a Party other than the Registrant                
+                                                      ----
+
+Check the appropriate box:
+
+      Preliminary Proxy Statement
+- ----
+      
+      Confidential, for Use of the Commission Only (as permitted by Rule
+- ----  14a-6(e)(2))
+  
+  X   Definitive Proxy Statement
+- ----
+      
+      Definitive Additional Materials
+- ----
+      
+      Soliciting Material Pursuant to Section  240.14a-11(c) or
+- ----  Section  240.14a-12
+
+
+                    ACCEL INTERNATIONAL CORPORATION 
+               (Name of Registrant as Specified in Its Charter)
+
+                         Nicholas Z. Alexander
+               (Name of Person(s) Filing Proxy Statement)
+
+Payment of Filing Fee (Check appropriate box):
+
+ X    $125 per Exchange Act Rules 0-11(c)(1)(ii), 14a-6(i)(1), 14a-6(i)(2) or
+- ---     Item 22(a)(2) of Schedule 14A.
+          Previously paid with filing of Preliminary Proxy Statement
+
+      $500 per each party to the controversy pursuant to Exchange Act Rule
+- ----    14a-6(i)(3).
+
+      Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+- ----    
+            1)    Title  of  Each class  of  securities  to which  transaction
+                  applies:
+
+            2)    Aggregate number of securities to which transaction applies:
+
+            3)    Per  unit price  or  other underlying  value of  transaction
+                  computed pursuant to Exchange  Act Rule 0-11 (Set forth  the
+                  amount on which the  filing fee is calculated and  state how
+                  it was determined):
+ 
+            4)    Proposed maximum aggregate value of transaction:
+
+            5)    Total fee paid:
+
+      Check box if any part of the fee is offset as provided by Exchange Act
+- ----  Rule 0-11(a)(2) and identify the filing for which the offsetting fee was
+      paid previously. Identify the  previous filing by registration statement
+      number, or the Form or Schedule and the date of its filing.
+
+      1)    Amount Previously Paid: 
+      2)    Form Schedule or Registration Statement No.: 
+      3)    Filing Party:
+      4)    Date Filed:
+
+                        ACCEL International Corporation
+                             475 Metro Place North
+                              Dublin, Ohio 43017
+                                 614-764-7000
+
+
+                                                    May 20, 1996              
+
+DEAR STOCKHOLDER:
+
+You are cordially  invited to attend the Annual Meeting  of Stockholders to be
+held  at 10:00 A.M.,  local time, on  Tuesday, June 11,  1996, at the Stouffer
+Renaissance Dublin Hotel, 600 Metro Place North, Dublin, Ohio, located in  the
+Metro Center  Complex. Formal  notice  of the  Annual  Meeting and  the  Proxy
+Statement are attached. I hope that you will be able to attend and participate
+in the  meeting, at  which time  we will  have the  opportunity to  review the
+business and operations of the Company.
+
+The matters to be acted upon by our stockholders are set forth in the attached
+Notice of Annual Meeting. It is  important that your shares be represented and
+voted  at  the meeting,  whether or  not you  are  personally able  to attend.
+Accordingly, after  reading the  attached  Proxy Statement,  would you  kindly
+sign, date and return the enclosed proxy card. 
+
+                                          Sincerely yours,
+
+                                          /s/ Thomas H. Friedberg
+                                          Thomas H. Friedberg
+                                          Chairman of the Board,
+                                          President, & Chief Executive Officer
+
+                        ACCEL International Corporation
+                             475 Metro Place North
+                              Dublin, Ohio 43017
+
+                   NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+                                 June 11, 1996
+
+TO THE STOCKHOLDERS OF ACCEL INTERNATIONAL CORPORATION: 
+
+The  Annual Meeting  of  Stockholders of  ACCEL International Corporation (the
+"Company"),  a Delaware corporation, will be held at the  Stouffer Renaissance
+Dublin  Hotel, 600 Metro Place North, Dublin, Ohio,  on June 11 1996, at 10:00
+A.M., to consider and vote on  the following matters described in the attached
+Proxy Statement:
+
+      1.    The election of ten directors to serve for a one-year term.
+      2.    A  proposal  to  amend  Article  Fourth  of   the  Certificate  of
+            Incorporation  of  ACCEL  International  Corporation  in  order to
+            increase the  total number of  authorized shares of  Common Stock,
+            $.10 par value, from 10,000,000 to 15,000,000.
+      3.    A proposal to approve adoption of the 1996 Stock Incentive Plan.
+      4.    The transaction of such other business as may properly come before
+            the meeting, or any adjournments thereof.
+
+April 12, 1996 has been fixed  as the record date for determining stockholders
+entitled to notice  of and to vote at the Annual Meeting. Only stockholders of
+record at the close of business on that date are entitled to receive notice of
+and to  vote at the  meeting or any  adjournments thereof. A  complete list of
+stockholders entitled to vote at the meeting will be available for examination
+by  any stockholder at the Company's  offices from May 28,  1996 until the day
+before the Annual Meeting.
+
+                                          By Order of the Board of Directors 
+
+                                          Nicholas Z. Alexander, Secretary
+Dublin, Ohio
+May 20, 1996
+
+IF YOU ARE UNABLE TO BE PRESENT AT THE MEETING, WE URGE YOU TO SIGN AND RETURN
+THE ENCLOSED  PROXY IN THE ENCLOSED  ADDRESSED ENVELOPE WHICH IS  INTENDED FOR
+YOUR  CONVENIENCE AND WHICH  REQUIRES NO POSTAGE  IF MAILED IN  THE U.S.A. THE
+PROXY IS  REVOCABLE AT ANY  TIME AND  WILL NOT  AFFECT YOUR RIGHT  TO VOTE  IN
+PERSON IN THE EVENT YOU ATTEND THE MEETING.
+
+                        ACCEL International Corporation
+                             475 Metro Place North
+                              Dublin, Ohio 43017
+
+                                PROXY STATEMENT
+ 
+                        Annual Meeting of Stockholders
+                           To Be Held June 11, 1996
+
+              Furnished By The Board of Directors of The Company
+
+                                                                  May 20, 1996
+
+The  Board  of  Directors of ACCEL International Corporation (the  "Company"),
+a  Delaware  corporation   is  soliciting  proxies,   the  form  of  which  is
+enclosed, for the Annual Meeting of Stockholders to be held on June  11, 1996.
+The cost  of  such  solicitation  will  be borne  by  the  Company.  Officers,
+directors  and  regular   employees  of  the  Company  may   communicate  with
+stockholders personally or by  mail, telephone, telegram or otherwise  for the
+purpose of soliciting  such proxies, but  the Company will  pay no  additional
+compensation  for such solicitation. The  Company and any  authorized agent of
+the  Company   will  request  brokers  and  other   custodians,  nominees  and
+fiduciaries to forward proxy  soliciting material to the beneficial  owners of
+shares  held  of record  by  such persons  and will  reimburse  the reasonable
+out-of-pocket expenses in  forwarding such material.  This Proxy Statement  is
+being mailed on or about May 21, 1996.
+
+Any  stockholder giving a proxy has the power  to revoke it at any time before
+it is voted by a later appointment received by the Secretary of the Company or
+by giving notice of such revocation to the Secretary of the Company in writing
+or in  open meeting. All duly  executed proxies received prior  to the meeting
+and not  revoked will  be voted  at the meeting.  The enclosed  proxy contains
+space  in which  the stockholder  may insert  instructions as  to the  way the
+stockholder  wishes his  shares  to  be voted.  When  such  proxy is  properly
+executed and returned,  the shares it represents will be  voted at the meeting
+as directed.  If no specification is indicated, the shares will be voted "For"
+the election  as directors  of the nominees  listed below  under "Election  of
+Directors".
+
+April 12,  1996 has been  fixed as  the record date  for the  determination of
+stockholders entitled to such  notice of and to vote at  the Annual Meeting or
+any adjournments thereof. On that date the total number of  outstanding shares
+of the Company entitled  to vote at the meeting was 4,456,432 shares of Common
+Stock, $.10 par value, (the "Common Stock"). The holder  of each share of such
+stock is  entitled to one vote.  Pursuant to applicable law,  broker non-votes
+and abstentions will not be counted in favor of or against the election of any
+nominee  for director  or any of  the other  proposals to be  presented at the
+meeting. Any stockholder who abstains from voting on any such proposal will in
+effect be voting against it.
+
+                           1.  ELECTION OF DIRECTORS
+In accordance with the Bylaws of the Company, the number of directors has been
+fixed  at ten  by action  of  the Board  of Directors.  Directors are  elected
+annually to  serve until the  next Annual Meeting  of Stockholders, and  until
+their  successors  are elected  and qualified.  The  election of  directors is
+decided by a plurality of the votes cast by the shares entitled to vote in the
+election. In  the absence of instructions to the contrary, it is the intention
+of the persons  named in  the proxy to  vote the proxies  for the election  as
+directors of the persons nominated below. Although the Board of Directors  has
+no reason to believe that any of the nominees set forth below will  not serve,
+in the event  that vacancies occur, the proxies will be voted for the election
+of such nominees, if any, as shall  be designated by the Board of Directors or
+a duly authorized committee thereof.
+
+
+                                   NOMINEES
+                               TERM EXPIRES 1997
+<TABLE>
+<CAPTION>
+                                                                                         Number of shares of
+                                                                                         Common Stock owned
+                                                                                         beneficially, directly
+                                                                                         or indirectly, on
+Name, Position with             Principal Occupation                                     January 31, 1996
+the Company and Age             for past five years/                         Director    (except as otherwise     Percent
+(as of January 31, 1996)        other Directorships                           Since       noted)(1)               of Class
+
+                                                                                                                            
+<S>                             <C>                                           <C>           <C>                   <C>
+Robert Betagole                 President of Mike Albert                      1970          49,529(5)             1.1%
+   Director, 67                 Leasing, Inc., Cincinnati, OH.
+
+David T. Chase (2)              President and Chief Executive
+   Director, 66                 Officer of D.T. Chase                         1985           4,500(6)              *
+                                Enterprises, Inc., Hartford, CT.
+
+Douglas J. Coats                Executive Vice President of the               1995           -                     -
+   Director, 63                 Company since May 23, 1995.
+                                Prior thereto he was Executive
+                                Vice President of Ranger Insurance
+                                Company, Houston, TX since August,
+                                1987.
+
+Raymond H. Deck(2)(3)(4)        President of Chase Insurance                  1990          98,815                2.2%
+   Director, 73                 Enterprises, Inc., Hartford, CT.
+                                Also, is a director of SCOR U.S.
+                                and Scor Re, New York, NY.
+
+Robert E. Fowler, III           Senior Vice President,                        1995            -                    -
+   Director, 37                 Chase Enterprises, Hartford, CT,
+                                since July, 1990.  Prior thereto, he
+                                was a Vice President, CITIBANK,
+                                N.A., New York, NY.
+
+Thomas H. Friedberg (2)         Chairman of the Board and Chief               1995          14,500                 *
+   President, 57                Executive Officer of the Company
+   Chief Executive              since May 23, 1995.  Appointed
+   Officer and Director         President as of October 15, 1995.
+                                Previously served as a Director of the
+                                Company form 1990 to March 1995.
+                                Prior thereto he was Chairman of the
+                                Board, President and Chief Executive
+                                Officer of Ranger Insurance Company,
+                                Houston, TX, since January, 1987.
+
+Kermit G. Hicks(2)(3)(4)        President of Hicks Chevrolet,                 1981          28,087(7)              *
+   Director, 60                 Inc., Greencastle, PA. Also,
+                                Chairman of the Board of Tower
+                                Bancorp Inc., and its wholly owned
+                                subsidiary First National Bank of
+                                Greencastle.
+
+Stephen M. Qua(2)(3)(4)         President of Qua Buick/                       1970          18,698(8)              *
+   Director, 63                 Suzuki, Inc. Cleveland, OH.
+
+
+Milton J. Taylor, Sr.           President of the Taylor Team                  1991           6,500(9)              *
+   Director, 69                 of Dealerships, Lancaster, OH:
+                                Taylor Chevrolet, Inc., and Milt
+                                Taylor Lincoln-Mercury, Inc.
+
+Paul R. Whitters                Consultant. Retired President                 1991           5,050                 *
+
+
+   Director, 70                 of Frankona Reinsurance
+                                Company, Kansas City, MO.
+
+
+All Directors and Officers
+   as a group (14 persons)                                                                  371,002(10)           8.3%
+
+
+<FN>
+(1)   On January 31, 1996, there were 4,456,432 shares of the Company's Common
+      Stock  issued and outstanding. Except as noted, includes shares owned by
+      spouse,  minor  children or  certain other  family  members, or  held as
+      custodian or trustee for the benefit of spouse or children,  or owned by
+      corporations  of   which  such  person   is  an  officer   or  principal
+      stockholder, over which shares such directors have sole or shared voting
+      or  investment power. With respect  to each Director  other than Messrs.
+      Coats  and  Fowler, includes  an aggregate  of  36,000 shares  which are
+      subject to immediately exercisable options.
+
+(2)   Member of Executive Committee (Mr. Friedberg, Chairman).
+
+(3)   Member of Audit Committee (Mr. Qua, Chairman).
+
+(4)   Member of Compensation Committee (Mr. Deck, Chairman). 
+
+(5)   Includes 7,581  shares as  to which  Mr.  Betagole disclaims  beneficial
+      ownership.
+
+(6)   David  T. Chase disclaims beneficial ownership,  for purposes of Section
+      13(d) of  the Securities Exchange Act of 1934, as amended (the "Exchange
+      Act"),  of  1,351,454 shares  of Common  Stock  or 30.3%  of  the shares
+      outstanding,  owned  by Chase  Insurance Holdings  Corporation ("CIHC"),
+      which is a wholly-owned subsidiary of American Ranger, Inc. ("ARI"). ARI
+      is owned  100% by D.T. Chase Enterprises,  Inc. ("DTCE"), which is owned
+      by David  T. Chase (33.95%), his  wife Rhoda L. Chase  (2.21%), his son,
+      Arnold  L.  Chase  (9.34%),  and his  daughter,  Cheryl  Chase  Freedman
+      (14.74%), the Arnold Chase Accumulation Trusts I and II and the David T.
+      Chase  Sprinkling  Trusts IA  through VA  of which  Arnold L.  Chase and
+      Stanley  N. Bergman are co-trustees  (20.15% in the  aggregate), and the
+      Cheryl Chase  Freedman Accumulation  Trusts I and  II and  the David  T.
+      Chase Sprinkling Trusts IB through VB of which Cheryl Chase Freedman and
+      Stanley N. Bergman are co-trustees  (19.61% in the aggregate).  Pursuant
+      to  an agreement, CIHC has loaned 812,842  shares of Common Stock to ARI
+      which has full use of the  borrowed shares, including the right to sell,
+      pledge  or  otherwise  transfer  the shares  until  termination  of  the
+      agreement. Mr. Chase also disclaims beneficial ownership for purposes of
+      Section 13(d) of the Exchange Act, of 382,000 shares of Common Stock, or
+      8.6% of  the shares outstanding, owned by Rhoda L. Chase. Pursuant to an
+      agreement, Rhoda L. Chase  has loaned 335,000 shares of Common  Stock to
+      Insurance Holdings  Limited Partnership ("IHLP")  which has full  use of
+      the  borrowed shares, including the  right to sell,  pledge or otherwise
+      transfer the  shares until  termination  of the  agreement. The  general
+      partner  of IHLP is Chase Insurance Corporation ("CIC"). David T. Chase,
+      Arnold L. Chase and Cheryl Chase Freedman are executive officers of CIC.
+      In filings on Schedule 13D  with respect to the Company's Common  Stock,
+      Rhoda L. Chase, ARI, CIHC and IHLP have each stated that such person has
+      not agreed to act together with any of the foregoing persons or with any
+      other person or  entity for the purpose of acquiring, holding, voting or
+      disposing of shares  of Common  Stock, and disclaims  membership in  any
+      "group"  with  respect  to the  Common  Stock  for  purposes of  Section
+      13(d)(3)  of the Exchange Act or Rule 13d-5(b)(1) adopted thereunder. If
+      such  a  group were  deemed  to  exist, the  group  would  be deemed  to
+      beneficially own all shares  of Common Stock beneficially owned  by each
+      such person.
+
+(7)   Includes  8,696 shares as to which Mr. Hicks claims beneficial ownership
+
+
+      on an indirect basis.
+
+(8)   Includes   1,894  shares  as  to  which  Mr.  Qua  disclaims  beneficial
+      ownership.
+
+(9)   Includes 1,000 shares as to which Mr. Taylor claims beneficial ownership
+      on an indirect basis.
+(10)  This  amount includes  122,342 shares  which are subject  to immediately
+      exercisable  options  and  22,481  shares owned  by  officers  in  their
+      Acceleration Retirement Savings and Stock Ownership  Plan accounts as of
+      December 31, 1995.
+
+*     Less than 1% of outstanding Common Stock.
+</TABLE>
+
+Section 16(a)  of the  Securities Exchange  Act of  1934 (the  "Exchange Act")
+requires the Company's officers  and directors, and persons who own  more than
+10% of the Common Stock, to file reports of ownership and changes in ownership
+with the Securities  and Exchange Commission (the  "SEC"). Officers, directors
+and greater than 10% stockholders  are required by SEC regulations  to furnish
+the Company with copies of all Section 16(a) forms they file.
+Based  solely on  its review  of the copies  of such  forms received  by it or
+written  representations from certain reporting  persons that no  Forms 5 were
+required of  them, the  Company  believes that  during the  fiscal year  ended
+December  31,  1995,  all  filing  requirements  applicable to  its  officers,
+directors  and greater than 10%  stockholders were complied  with, except that
+two  reports covering  an initial  statement of  beneficial ownership  and one
+transaction were filed late by Mr. Coats.
+
+                            THE BOARD OF DIRECTORS;
+
+                      COMMITTEES, MEETINGS AND FUNCTIONS
+The Board  of Directors  of the Company  met eight  (8) times during  1995. No
+director attended  fewer than 75% of the total number of meetings of directors
+and  of any  committees  on  which  he  served. The  Board  of  Directors  has
+established an  Executive Committee,  an Audit  Committee  and a  Compensation
+Committee. It does not have a Nominating Committee.
+
+The Executive Committee, which exercises the powers  of the Board of Directors
+between  regular  meetings  of  the  Board,  did  not  meet during  1995.  The
+membership of the  Executive Committee consists  of Messrs. Friedberg,  Chase,
+Deck, Hicks  and Qua.  The Audit  Committee met  one (1)  time during 1995  to
+review the results of the  audit of the Company's 1994 financial statements by
+the  independent  auditors,  review the  scope  of  the  1995 audit,  consider
+relevant matters  pertaining to  internal controls and  accounting procedures,
+perform  other  customary  functions  of  Audit  Committees,  and  to  make  a
+recommendation  to the  Board of  Directors on  the engagement  of independent
+auditors for fiscal  year 1995. The membership of the Audit Committee consists
+of Messrs. Qua, Deck and Hicks.
+
+The Compensation  Committee met one  (1) time during  1995 for the  purpose of
+reviewing employee  compensation and  benefit arrangements. The  membership of
+the Compensation Committee consists of Messrs. Deck, Hicks and Qua. The Report
+of the Compensation Committee is contained below.
+
+
+COMPENSATION OF DIRECTORS 
+
+During 1995, non-employee directors of the  Company continued to abide by  the
+one-third reduction in compensation levels  initiated in 1993, and accordingly
+received  an annual retainer  of $5,000  plus a  fee of  $500 per  meeting for
+attending  any regular  or  special meetings  of the  Board of  Directors. The
+members of  each committee of the  Board of Directors, other  than officers of
+the  Company, received a  fee of $500  for each meeting  attended. Chairmen of
+committees received a fee of $750 for each meeting attended.
+
+The  First Restatement of ACCEL International Corporation 1987 Stock Incentive
+Plan (the  "Restated Plan") provides for  options to be granted  every year to
+non-employee  directors of the Company for a predetermined number of shares of
+Common  Stock.  In   1991,  the  year  the  Restated  Plan  was  adopted,  the
+non-employee  directors  were  granted  options  for  2,000  shares  each.  In
+subsequent years, options for 1,000 shares each were granted and will continue
+to  automatically  be  granted according  to  the  Restated  Plan (subject  to
+adjustment  for stock dividends, stock splits and other similar events). Newly
+appointed or  elected non-employee  directors are  granted  options for  2,000
+shares in  the year they are appointed or elected, and thereafter will receive
+the automatic grants. The exercise price is  equal to the fair market value of
+a share of stock on the date the option is granted. Options become exercisable
+as to 50% of  the shares subject to the option on completion of each full year
+prior  to termination of the director's status  as director after the date the
+option was  granted. The options  lapse on the  earliest of the  date 10 years
+after  the option was granted,  or the date 180  days after the termination of
+the director's status  as director. The  options shall  fully vest and  become
+completely exercisable upon the death or voluntary retirement of a director.
+
+
+COMPENSATION COMMITTEE
+
+Executive Compensation including the  grant of stock options is  determined by
+the Compensation  Committee of the Board  of Directors. The formal  report  of
+the Compensation Committee with respect to 1995 compensation is as follows: 
+
+                      REPORT OF THE COMPENSATION COMMITTEE
+
+The Company's compensation package for its executive officers consists of base
+salary,  participation in  a  profit sharing  plan  for senior  officers,  and
+periodic stock option grants or awards. The base salary for Mr. Friedberg, the
+Chairman of the Board, President and Chief Executive Officer, is  fixed by the
+Committee  and may  be adjusted  as determined  periodically by  the Committee
+after a performance review is  conducted. Since Mr. Friedberg agreed to  serve
+without salary  for the current year,  the Committee was not  required to make
+any determination  with respect to a  salary or bonus. Base  salary levels for
+all other executive officers  are determined by Mr. Friedberg  and recommended
+to the Committee.  The amount of profit sharing compensation  and stock option
+grants or awards, if any, are also determined by this Committee.
+
+The Committee believes that a significant or meaningful portion of total  cash
+compensation should be related  to profitability and the achievement  of fixed
+objectives.  Consequently,  the profit  sharing  potential  for the  Company's
+executive   officers  is   conditioned   on  overall   corporate   performance
+(profitability), and achieving individual  and departmental objectives tied to
+a percentage of total base salary.
+
+Generally speaking, base  salary levels are set  and adjusted at  levels which
+are part of the Company's budgetary process, yet are believed by the Committee
+to  be sufficient to attract  and retain qualified  executives when considered
+with the other components of the Company's compensation structure.
+
+Profit sharing plans  were adopted for  all employees of  the Company and  for
+senior  officers.  The  overall  objectives  for  establishing  the  Company's
+incentive compensation  programs in  1995 were  to enhance  total compensation
+without adding fixed  expense, modify  the corporate reward  systems and  give
+managers  the discretion  to  reward contributors,  better focus  management's
+attention on the  achievement of  objectives and drive  accountability to  all
+levels of the Company, and foster teamwork.
+
+For 1995,  the  profit sharing  goal  set for  all  employees and  the  senior
+officers was the attainment of a predetermined level of profit by the Company.
+Accordingly,  no  profit sharing  compensation was  paid  to any  employees or
+senior  officers in  1995. Furthermore, the  freeze on base  salaries put into
+effect during 1993 for all senior officers of the Company and its subsidiaries
+was continued into 1995.
+
+
+In  addition to  approving the  ACCEL Bonus  Plan, the  Compensation Committee
+determines  annual stock  option grants  or awards  to executive  officers and
+other  eligible  employees.  Stock  options  are  intended  to  encourage  key
+employees to remain employed by the Company by providing them with a long-term
+interest  in the Company's overall performance as reflected by the performance
+of the market of the Company's Common Stock.
+
+ Raymond H. Deck, Chairman   Kermit G. Hicks, Member   Stephen M. Qua, Member
+
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+Mr.  Qua  is  associated with  two  automobile  dealerships  which are  master
+policyholders  of  the Company  and receive  commissions  from the  Company in
+connection with credit insurance  sold by such dealerships. During  the fiscal
+year ended December  31, 1995,  such dealerships received  commissions in  the
+amount of $91,670.
+
+                            EXECUTIVE COMPENSATION
+SUMMARY
+
+The  following  table  is a  summary  of  certain  information concerning  the
+compensation awarded or  paid to, or  earned by, the  Company's current  Chief
+Executive Officer, Executive Vice  President, and each of the  Company's other
+most highly compensated executive officers whose total annual salary and bonus
+for the  fiscal year ended  December 31,  1995, exceeded $100,000  (the "named
+executives") during each of the last three fiscal years:
+
+<TABLE>
+      SUMMARY COMPENSATION TABLE
+<CAPTION>
+                                                          Annual Compensation            Long Term Compensation
+      Year            Name, Age, and Principal            Salary ($)       Bonus ($)     Securities          All Other
+                      Position                                                           Underlying          Compensation
+                                                                                         Options/SARs (#)    ($)(1)
+      <S>             <C>                                 <C>              <C>           <C>                 <C>
+      1995            Thomas H. Friedberg, 57  (2)        --               --            100,000             --
+      1994            Chairman of the Board,              --               --            --                  --
+      1993            President and Chief Executive       --               --            --                  --
+                      Officer
+
+      1995            Douglas J. Coats, 63     (2)        --               --            50,000              --
+      1994            Executive Vice President. President --               --            --                  --
+      1993            President and Chief Executive       --               --            --                  --
+                      Officer
+
+      1995            R. Max Williamson, 58  (3)          225,000          --            15,000              4,240
+      1994            Chairman of the Board,              225,000          --            15,000              7,294
+      1993            President and Chief Executive       225,000          --            15,000              6,152
+                      Officer
+
+      1995            Larry L. Main, 47 Senior Vice       112,000          --            10,000              2,639
+      1994            President Auto After Market         112,000          --            10,000              2,605
+      1993            Product Group                       112,000          --            10,500              3,064
+      
+      1995            Nicholas Z. Alexander, 60           109,000          --            10,000              4,093
+      1994            Senior Vice President,              109,000          --            10,000              4,061
+      1993            Secretary and General Counsel       109,000          --            10,500              2,980
+                      
+      1995            William B. Johnson, 43  (4)         108,000          --            10,000              2,144
+      1994            Senior Vice President Claims        108,000          --            10,000              2,112
+      1993                                                108,000          --            10,500              1,734
+
+<FN>
+(1)   Represents  approximate  amounts  contributed  on behalf  of  each  such
+      executive  to the  Acceleration Retirement  Savings and  Stock Ownership
+      Plan.
+
+(2)   Mr.  Friedberg was appointed Chairman  of the Board  and Chief Executive
+      Officer  of  the Company  on  May  23,  1995.  Mr. Coats  was  appointed
+      Executive  Vice President of  the Company and  President of Acceleration
+      National Insurance Company on May 23, 1995. They agreed to serve without
+      salary for the  first year of their employment. In  lieu of salary, they
+      were  granted  stock  options  for 100,000  shares  and  50,000  shares,
+      respectively, of Common Stock,  which options vested immediately, become
+      exercisable one year following  the date of grant, and lapse  five years
+      from the date of grant.
+
+(3)   Mr. Williamson relinquished his positions with the Company as of October
+      15,  1995. Pursuant to the  provisions of his  Employment Agreement with
+      the Company,  his compensation  thereunder will continue  until February
+      28, 1997.
+
+(4)   Mr. Johnson resigned effective December 31, 1995.
+</TABLE>
+
+The  following table sets  forth information  concerning individual  grants of
+options to purchase the Company's Common Stock made to the named executives in
+1995:
+
+<TABLE>
+                                               OPTION GRANTS IN LAST FISCAL YEAR
+<CAPTION>
+                                    INDIVIDUAL GRANTS IN 1995                                      Potential Realizable
+                                                                                                   Value at Assumed Annual
+                                                                                                   Rates of Stock Price
+                                                                                                   Appreciation for Option
+                                                                                                   Term
+  Name                        Number of            Percent of      Exercise or   Expiration        5% ($)       10% ($)
+                              Securities           Total           Base Price    Date
+                              Underlying           Options         ($ Sh) (1)
+                              Options/SARs         Granted to
+                              Granted (#)          Employees in
+                                                   Fiscal Year
+  <S>                         <C>                  <C>             <C>           <C>               <C>          <C>
+  Thomas H. Friedberg         100,000              43.0%           $2.125        5/23/00           $58,710      $129,733
+  Douglas J. Coats            50,000               21.5%           $2.125        5/23/00           $29,355      $64,867
+  R. Max Williamson           15,000               6.5%            $2.125        Expired           N/A          N/A
+  Larry M. Main               10,000               4.3%            $2.125        5/23/05           $13,364      $33,867
+  Nicholas Z. Alexander       10,000               4.3%            $2.125        5/23/05           $13,364      $33,867
+  William B. Johnson          10,000               4.3%            $2.125        Expired           N/A          N/A
+
+<FN>
+(1)   Market price of the Company's Common Stock on date of grant.
+</TABLE>
+
+The  following  table  sets  forth certain  information  regarding  individual
+exercises of stock options during 1995 by each of the named executives:
+
+<TABLE>
+     AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FY-END OPTION VALUES
+
+
+
+<CAPTION>
+     Name                       Shares         Value         Number of Securities              Value of Unexercised
+                                Acquired on    Realized      Underlying Unexercised Options    In-The-Money Options at Fiscal
+                                Exercise       (Mkt. Price   at Fiscal Year End (#)            Year End (1)
+                                (#)            at Exercise
+                                               Less
+                                               Exercise
+                                               Price)
+                                                             Exercisable     Unexercisable     Exercisable     Unexercisable
+     <S>                        <C>            <C>           <C>             <C>               <C>             <C>
+     Thomas H. Friedberg        0              N/A           4,500           100,000           N/A             $62,500
+     Douglas J. Coats           0              N/A           N/A             50,000            N/A             $31,250
+     R. Max Williamson          0              N/A           N/A             N/A               N/A             N/A
+     Larry L. Main              0              N/A           35,931          14,000            $6,250          N/A
+     Nicholas Z. Alexander      0              N/A           39,404          14,000            $6,250          N/A
+     William B. Johnson         0              N/A           N/A             N/A               N/A             N/A
+
+<FN>
+(1)   Intended  to  represent the  amount by  which  the market  price  of the
+      Company's  Common  Stock  on  December  31, 1995  ($2.75)  exceeded  the
+      exercise prices of unexercised options on that date.
+</TABLE>
+
+BENEFICIAL OWNERSHIP OF MANAGEMENT
+
+The following  table  sets  forth  certain  information  regarding  the  named
+executive's beneficial  ownership of  the Common  Stock of  the Company  as of
+January 31, 1996:
+
+                                                Shares of Common Stock of
+                                                Company Beneficially
+                                                Owned
+
+        Title of Class   Name of Officer        Number (1)  Percent of
+                                                            Class
+        Common Stock     Thomas H. Friedberg    14,500      *
+        Common Stock     R. Max Williamson      5,419       *
+        Common Stock     Larry L. Main          46,854      1%
+        Common Stock     Nicholas Z. Alexander  44,642      1%
+        Common Stock     William B. Johnson     N/A         N/A
+
+
+[FN]
+(1)   The  amounts shown  represent the  total shares  owned outright  by such
+      individuals together with shares which are issuable upon the exercise of
+      all  stock options  which are  currently exercisable.  Specifically, the
+      following  individuals have the right  to acquire   the shares indicated
+      after  their  names,  upon  the  exercise  of  such  stock  option:  Mr.
+      Friedberg, 4,500; Mr. Main, 39,404; and Mr. Alexander, 35,931.
+
+*     Less than 1% of outstanding Common Stock.
+
+
+                            EMPLOYMENT AGREEMENT
+
+On August 1, 1990, the Company entered into an employment agreement with R.Max
+Williamson  pursuant to which Mr. Williamson served as Chairman, President and
+Chief Executive  Officer of the Company. The  term of the agreement  was for a
+period of three  years and provided that, unless terminated in accordance with
+the provisions thereof, on the first day of  each month that the agreement was
+in  effect, the  remaining term  thereof would  automatically be  extended one
+additional month.  On December 13,  1993, the Board of  Directors notified Mr.
+Williamson that the employment  agreement would be terminated on  February 28,
+1997. Mr.  Williamson's base salary under the agreement was $225,000 per year.
+In addition  to a  base salary, the  agreement provided for  a cash  bonus and
+other  employee  benefits  to  be  provided  Mr.  Williamson.  Mr.  Williamson
+relinquished his positions with the  Company as of October 15, 1995.  Pursuant
+to  the  provisions  of  this  employment  agreement  with  the  Company,  his
+compensation thereunder will continue until February 28, 1997.
+
+                             CERTAIN RELATIONSHIPS
+
+Several of the Company's directors are associated with automobile dealerships.
+These  dealerships  are  master  policyholders  of  the  Company  and  receive
+commissions from the Company in connection with credit insurance sold by them.
+All  commissions paid to  automobile dealerships and  agencies associated with
+the Company's  directors are at  rates determined  on a basis  consistent with
+commissions paid  to non-related parties. Total commission on credit insurance
+business paid to all agencies relating to all directors as a group  during the
+year ended December 31, 1995 was $180,231.
+
+The following  table  sets  forth  those  directors  whose  agencies  received
+commissions in connection with the credit insurance business of the Company in
+excess of $60,000 in the year 1995:
+            Director                                    1995
+            -------------------------------------------------
+            Stephen M. Qua                            $91,670
+            Milton J. Taylor, Sr.                     $88,561
+
+Also, an insurance agency of which Robert Betagole is a  shareholder, received
+$1,734,913 through a reinsurance arrangement.
+
+FINANCIAL PERFORMANCE
+
+The  graph below summarizes the cumulative return experienced by the Company's
+shareholders compared with the Russell 2,000 and NASDAQ Insurance Stocks.
+
+               COMPARISON OF FIVE-YEAR CUMULATIVE TOTAL RETURN*
+                 VS. RUSSELL 2000 AND NASDAQ INSURANCE STOCKS
+                    (Performance results through 12/31/95)
+
+
+Description of Graph:
+
+      The  graph charts the Value of  Investment from $0 to  $300 for the time
+      period of December 31, 1990 to December 31, 1995 for ACCEL International
+      Corp.,  Russell  2000  and  NASDAQ  Insurance.    Listed  below  is  the
+      breakdown, by year, for each Company.
+
+
+
+                                1991   1992  1993   1994  1995
+ACCEL                   $100    $100    $45   $50    $23   $37
+Russell 2000            $100    $146   $173  $206   $202  $260
+NASDAQ Insurance Stocks $100    $141   $191  $204   $192  $273
+
+*     $100 invested  on 1/1/90 in stock  or index - including  reinvestment of
+      dividends. Fiscal year ending December 31.
+
+          2.  PROPOSED AMENDMENT TO THE CERTIFICATE OF INCORPORATION
+
+TO INCREASE TOTAL AUTHORIZED SHARES
+
+In the  judgment  of the  Board of  Directors  of the  Company, it  is  deemed
+advisable to increase  the total number  of authorized shares of  Common Stock
+from  10,000,000 to 15,000,000 by amending the Certificate of Incorporation so
+that the first sentence of Article Fourth will read as follows:
+
+      FOURTH:  The  Corporation shall be  authorized to  issue two classes  of
+      shares of stock  to be designated,  respectively, "Preferred Stock"  and
+      "Common Stock"; the total  number of shares which the  Corporation shall
+      have authority  to  issue is  sixteen  million (16,000,000);  the  total
+      number of shares of Preferred Stock shall be one million (1,000,000) and
+      each such share  shall have a par value  of one dollar ($1.00);  and the
+      total  number of  shares  of  Common  Stock  shall  be  fifteen  million
+      (15,000,000) and each  such share shall  have a par  value of ten  cents
+      ($.10).
+
+The Company's  Certificate of Incorporation currently  authorizes the issuance
+of 10,000,000 shares of Common Stock and  1,000,000 shares of Preferred Stock.
+As of  April  12, 1996,  4,456,432  shares of  Common  Stock were  issued  and
+outstanding.
+
+The Board of Directors is  asking the stockholders to approve the  adoption of
+the 1996  Stock Incentive Plan  pursuant to  which 1,000,000 shares  of Common
+Stock will be available for issuance.  In addition, the Board of Directors has
+authorized  a rights offering ("Rights Offering") in which each stockholder of
+record  on a  date yet  to be  determined would  receive rights  ("Rights") to
+subscribe  for additional  shares of  the Company's  Common Stock.  Holders of
+Rights would also be  entitled to an oversubscription privilege.  Although the
+number  of shares  which  may  be  offered  in the  Rights  Offering  and  the
+subscription  price have not been  finally determined, the  Board of Directors
+has  authorized  the  issuance of  up  to 7,000,000  shares  of  Common Stock.
+Accordingly, it  is possible  that a  significant number of  shares of  Common
+Stock could  be issued in  the Rights Offering.  The Rights Offering  would be
+subject to  the effectiveness of a registration statement to be filed with the
+Securities and  Exchange Commission  and  would be  made only  by  means of  a
+prospectus. Other than  the adoption of the 1996 Stock  Incentive Plan and the
+proposed Rights  Offering, no  specific transaction is  presently contemplated
+which would result in the issuance of additional shares of Common Stock.
+
+The Board of Directors believes  it to be in the best interest  of the Company
+and its  stockholders to increase  the number of  authorized shares  of Common
+Stock which  would be readily  available without further  stockholder approval
+for  such  activities  as  possible acquisitions,  future  financing,  use  in
+connection with possible stock dividends or  possible diversification into new
+insurance  programs  through  the  issuance  of  stock  or  stock  options  to
+independent agents and for any other corporate purposes.
+
+
+The additional shares  of Common  Stock authorized by  the proposed  amendment
+will, if and when issued, have the same rights and privileges as the shares of
+Common Stock currently authorized and outstanding. Holders of shares of Common
+Stock of the Company have no pre-emptive rights. If the  proposed amendment is
+adopted, additional shares of  Common Stock could be issued in  the discretion
+of the Board of Directors of the Company without further stockholder approval.
+
+The  Certificate of  Incorporation  contains a  provision  which requires  the
+affirmative  vote of not less than 80 percent of the outstanding shares of the
+Company  entitled  to elect  directors for  the  approval of  certain business
+combinations and  other  transactions  with  a corporation  or  any  affiliate
+thereof which  acquires more than five percent  of the beneficial ownership of
+the outstanding  shares of Common  Stock of the  Company unless such  business
+combination or other  transaction was approved by  resolution of the  Board of
+Directors  of the  Company prior  to the  acquisition by  such corporation  or
+affiliate thereof of the beneficial ownership of more than five percent of the
+outstanding  Common Stock. This provision  could have the  effect of delaying,
+deferring or preventing a change in control of the Company.
+
+The affirmative vote of the holders of a majority of the outstanding shares of
+Common Stock of the Company is required to authorize the proposed amendment to
+the Certificate of Incorporation.
+
+THE BOARD OF DIRECTORS RECOMMENDS THAT YOU VOTE FOR THE AMENDMENT.
+
+         3.  APPROVAL OF THE ADOPTION OF THE 1996 STOCK INCENTIVE PLAN
+
+1996 STOCK INCENTIVE PLAN
+
+Subject to  stockholder approval, on March 11, 1996, the Board of Directors of
+the Company adopted the Company's 1996 Stock Incentive Plan (the "Plan").  The
+Plan, if  approved by the Stockholders,  will become effective June  11, 1996.
+The  purpose of the Plan is to  advance the long-term interests of the Company
+by (i) motivating executive,  other personnel and independent agents  by means
+of long-term incentive compensation; (ii) furthering the identity of interests
+of  participants with  those of  the stockholders  of the Company  through the
+ownership  and performance  of  the Common  Stock of  the  Company; and  (iii)
+permitting the Company to attract and retain directors and executive personnel
+upon whose  judgment the successful  conduct of  the business  of the  Company
+largely depends.
+
+The maximum number of shares of Common Stock with respect  to which awards may
+be granted under the  Plan is 1,000,000  and the maximum  number of shares  of
+Common Stock that may  be awarded during any calendar year  may not exceed 10%
+of the total  number of issued and outstanding  shares of Common Stock  of the
+Company.  The Common Stock to be issued by  the Company under the Plan will be
+made available  from authorized  but unissued shares  of Common Stock  or from
+treasury  shares.   The  Plan contains  customary  provisions with  respect to
+adjustments  for share  splits  and similar  transactions  and the  rights  of
+participants  upon mergers and other business combinations.  The Plan provides
+for stock option, stock appreciation  rights, restricted stock, phantom  stock
+and performance awards.  No award under the Plan may be granted after June 11,
+2006.  The  Plan may  be amended or  terminated at  any time by  the Board  of
+Directors acting  through a Committee,  except that  no amendment may  be made
+without stockholder approval if the Committee determines that such approval is
+necessary  to comply  with any  tax or  regulatory requirement,  including any
+approval requirement which is a prerequisite for exemptive relief from Section
+16 of the Exchange Act, for which or with which the Committee  determines that
+it is desirable to qualify or comply.
+
+SUMMARY OF THE PROVISIONS OF THE PLAN
+
+The  following summary of the Plan is qualified  in its entirety by the actual
+provisions of the Plan included in this Proxy Statement as Exhibit A.
+
+Overview.  The Plan permits the granting of (1) options to purchase shares  of
+Common Stock which are either (a)  non-statutory stock options ("Non-statutory
+Stock  Options") not intended to  qualify for special  tax treatment under the
+Internal Revenue Code of 1986,  as amended (the "Code"), or (b)  options which
+are intended to qualify as incentive  stock options under the Code ("Incentive
+Stock  Options"), (2)  stock  appreciation rights  in  conjunction with  stock
+options,  (3)  restricted  stock awards,  (4)  phantom  stock  awards and  (5)
+performance  shares.  All  employees of the  Company and its  subsidiaries who
+hold a  position of responsibility in an executive, managerial, administrative
+or professional capacity or  independent agents who market and  sell insurance
+written by a  subsidiary of the Company, and whose  performance, as determined
+by the Committee (as defined below under the  caption "Administration") in the
+exercise of  the Committee's sole and absolute  discretion, can have an effect
+on the  growth, profitability and success  of the Company, are  eligible to be
+participants in  the Plan.   In addition, the  Plan provides for  the grant of
+stock options to Directors of the Company who are not employees of the Company
+or any of its subsidiaries (the "Outside Directors").  The Plan is not subject
+to the provisions  of the Employee Retirement Income Security  Act of 1974, as
+amended, and is not qualified under Section 401(a) of the Code.
+
+Common Stock Available.  The total  number of shares of Common Stock available
+under the Plan is 1,000,000 shares.  Of this number, up to 100,000  shares may
+be  issued pursuant  to  the exercise  of  Outside Directors'  stock  options.
+Notwithstanding the foregoing, at no time shall the number of shares of Common
+Stock deemed  available for grant in any  fiscal year exceed 10%  of the total
+number of issued and outstanding shares of Common Stock.  The number of shares
+of  Common Stock  available for  grant to  any individual  participant in  any
+calendar year shall not exceed 250,000.  The number of shares of Common  Stock
+which remain available for grant pursuant to the Plan and Common Stock subject
+to outstanding  awards will be  appropriately and proportionately  adjusted to
+reflect changes in the Company's capitalization, including stock splits, stock
+dividends,  mergers,  reorganizations,  consolidations and  recapitalizations.
+The   purchase  price  per  share  under  outstanding  options  will  also  be
+appropriately adjusted to reflect capitalization changes.
+
+Administration.  The Plan may be administered by the Compensation Committee of
+the Board  of Directors or  such other  committee designated by  the Board  to
+administer the  Plan under  Section  3 of  the Plan  (the  "Committee").   The
+Committee shall be composed of at least three directors and shall serve at the
+pleasure  of the Board of Directors.   Each member of the  Committee must be a
+director who is  a "disinterested person" under Rule  16b-3 under the Exchange
+Act  and an  "outside  director" under  Section  162(m) of  the  Code and  the
+regulations  thereunder.    The Committee  has  the  authority  to select  the
+employees  and/or independent agents to be participants, to determine the type
+and number of awards to be granted, and to establish rules and regulations for
+the administration of the Plan.
+
+Stock Options.  For stock options  granted to employees or independent  agents
+under the Plan, the option price per share  will be not less than 100% of  the
+fair market value of  Common Stock on the date  of the grant.  Payment  of the
+option price upon  exercise of an option may be made in cash, Common Stock, or
+a combination thereof, as set forth in the option agreement.  The term of each
+option  will be  fixed by the  Committee, except that  Incentive Stock Options
+will  not be exercisable after ten  years from the grant date.   The grant and
+terms of Incentive Stock Options will be limited to the extent required by the
+Code.  Independent agents shall not be eligible to receive grants of Incentive
+Stock Options.   In the absence of any provision in  an option to the contrary
+(i) options will  become exercisable as to  25% of the shares  of Common Stock
+subject to the option upon the completion of the first full year of employment
+or retention and  as to 25%  of such shares upon  the completion of  each full
+year  thereafter prior to  termination of the  participant's relationship with
+the  Company, and (ii)  options will  lapse upon the  earlier of  (w) 180 days
+after  the termination of the  participant's relationship with  the Company if
+the termination is  due to due  to death or  disability or if the  participant
+dies  within 90  days of such  termination, (x)  90 after  termination  of the
+participant's  relationship with the Company  for any other  reason other than
+death,  disability  or gross misconduct  or neglect, (y)  upon  termination of
+the  participant's relationship  with the  Company if  the termination  is the
+result of the participant's  gross misconduct or neglect as  determined by the
+Committee, and (z) ten years after the option  was granted.  Each stock option
+will  be evidenced by an option agreement  conforming to the provisions of the
+Plan,  in such form as  is approved by  the Committee from time  to time.  The
+option agreement will set forth the number of shares of Common Stock  that are
+subject to the option, the type of option granted, the option price to be paid
+upon exercise, the manner in which  the option is to be exercised,  the option
+period, and such other terms as may be approved by the Committee.
+
+Stock  Appreciation Rights.  Stock appreciation rights may be granted pursuant
+to the  Plan either separately  or in  conjunction with other  awards.   Stock
+appreciation rights related to stock options may be granted when the option is
+granted, and with respect to non-statutory options, also may be granted at any
+time  before exercise or expiration  of the option.   Upon exercise of a stock
+appreciation right, the  holder will receive  payment from  the Company in  an
+amount  equal to the excess of the then  fair market value of the Common Stock
+covered by the stock appreciation right over  the option or grant price of the
+stock  appreciation  right.   The  Committee  may  impose  such conditions  or
+restrictions  on the  exercise  of  any  stock  appreciation  right  it  deems
+appropriate.
+
+Restricted Stock  Awards.  Restricted stock awards  may be granted pursuant to
+the  Plan.  Shares of Common Stock covered  by restricted stock awards may not
+be sold  or otherwise  transferred by the  recipient until termination  of the
+restrictions applicable  to the awards, which restrictions will be established
+by  the Committee and  need not be the  same for all  such awards.  Restricted
+stock  awards shall  be subject  to such  terms, conditions,  restrictions, or
+limitations as the Committee  deems appropriate.   During the period in  which
+any shares  of Common Stock are subject to restrictions, the Committee may, in
+its  discretion, grant to recipients all or  any of the rights of stockholders
+with respect to such Common Stock.
+
+Phantom Stock Awards.  Awards of  phantom stock may be granted under  the Plan
+either separately or in  conjunction with other awards.   Phantom stock awards
+entitle the  recipient to receive the market value or appreciation in value of
+a  stated number of shares of Common Stock  on a settlement date determined by
+the Committee.  The  Committee has complete authority to determine  the terms,
+conditions, restrictions and limitations of such awards.
+
+Performance  Shares.    Performance shares  may  be  granted  under the  Plan.
+Performance shares are convertible into Common Stock or cash, or a combination
+thereof, upon the  obtainment of predetermined  performance targets during  an
+established performance period.  The Committee shall establish the performance
+targets, the performance period and  the other terms, conditions, restrictions
+or limitations on any award of performance shares.
+
+Outside Director  Stock Options.  The  Plan provides for the  grant to Outside
+Directors  of  options to  purchase  Common  Stock  ("Outside  Director  Stock
+Options").   See "Compensation of  Directors".  Each  Outside Director  who is
+elected or appointed to serve as a Director of the Company after the effective
+date of the Plan and who is not  a Director on the effective date of the Plan,
+shall, upon his initial  appointment or election, automatically be  granted an
+option  to  purchase 2,000  shares of  Common Stock.    At each  year's annual
+meeting of  the  stockholders of  the Company  commencing at  the 1997  annual
+meeting there shall be  granted automatically to each Outside  Director (other
+than any Outside Director  who first became a Director at  any time during the
+period following  the immediately  preceding annual meeting  of stockholders),
+the option  to purchase 1,000  shares of Common  Stock.  All  Outside Director
+Stock Options will be Non-statutory Stock Options with a 10-year term, and the
+purchase price per share will be 100% of the fair market value of Common Stock
+on the date of grant.  Payment of the option price may be made in cash, Common
+Stock, or a combination thereof, as set forth in the option agreement.  In the
+absence of any  provision in an  option to the  contrary, options will  become
+exercisable as to 50% of the shares of Common Stock subject to the option upon
+the completion of the  first full year after the date thereof and as to 50% of
+such  shares upon  the  completion  of  each full  year  thereafter  prior  to
+termination.   Outside Director Stock Options not otherwise exercisable at the
+time  of  the termination  of  the  Director's status  as  a  Director may  be
+exercised for 180 days following the date of such termination, as long as such
+period is within the  original 10-year option term.  Outside  Director Options
+not otherwise  exercisable at the time of the death or voluntary retirement of
+a Director may  be exercised for a period of 180  days subject to the original
+term of the option.
+
+Tax  Effects.   For  federal income  tax  purposes, under  existing  statutes,
+regulations  and authorities, an optionee  does not realize  taxable income at
+the time  of the grant  of an  Incentive Stock Option,  a Non-statutory  Stock
+Option, phantom stock award or a stock appreciation right.   Upon the exercise
+of a  Non-statutory Stock  Option, the Company  is entitled to  a compensation
+expense deduction in the amount  by which the fair market value of the subject
+Common  Stock  exceeds the  option price  and  the optionee  realizes ordinary
+income in such amount.   Upon the exercise of a stock appreciation  right, the
+Company is entitled  to a deduction and the  optionee realizes ordinary income
+in the  amount of the cash or fair market  value of the Common Stock received.
+On  the subsequent  sale  of Common  Stock  received upon  the  exercise of  a
+Non-statutory  Stock Option, the difference  between the fair  market value of
+the Common Stock  on the date of receipt  and the amount realized on  the sale
+will be  treated as capital  gain or  loss, which will  be short or  long term
+depending on the period for which the Common Stock is held  prior to the sale.
+An  optionee will  have no taxable  income upon  the exercise  of an Incentive
+Stock Option (except that the alternative minimum tax may apply) and generally
+does not  realize taxable income until  the sale of the  Common Stock received
+upon exercise of the option.  If a sale does not take place until at least two
+years after grant  and one year after exercise of the option, any gain or loss
+realized will  be treated  as long  term capital  gain  or loss.   Under  such
+circumstances,  the Company will not be entitled  to a deduction in connection
+with the grant or the  exercise of the option.  If a  disposition occurs prior
+to  two years  after grant  or one  year after  exercise, then  the difference
+between the option price and the fair market value  of the Common Stock on the
+date  of exercise (or in  certain cases, the amount realized  on sale, if less
+than the market value  on the date of exercise) is  taxable as ordinary income
+to the  optionee and  is  deductible by  the Company  for  federal income  tax
+purposes.
+
+With respect to  awards of phantom stock, a  participant will realize ordinary
+income equal  to the fair market value of  the Common Stock or appreciation in
+value  of the  Common Stock,  as applicable,  on the  settlement date  and the
+Company will be entitled to a deduction  in the same amount.  With respect  to
+restricted stock  awards, a participant generally will realize ordinary income
+equal to  the fair market value of  the Common Stock received  as of the first
+day that such shares of Common Stock become transferable or are not subject to
+substantial risk of forfeiture, whichever occurs earlier.  The Company will be
+entitled to a deduction at that time in the same amount.
+
+Assignment of Interest.  Except as expressly provided in the Plan with respect
+to  transfers by  will or  the laws  of descent  and distribution,  no option,
+phantom stock awards, stock  appreciation right or restricted stock  award may
+be assigned or transferred by any participant.
+
+Limitations  on  Resale  of Securities.    Participants  who  are officers  or
+directors of the  Company, including those  who may be deemed  "affiliates" of
+the Company,  as such term is  defined under the Securities  Act, have certain
+limitations on their ability to resell  Common Stock acquired pursuant to  the
+Plan.   Any sale of Common Stock by  an employee or Outside Director also must
+be made  in compliance with the Company's policies on trading in securities of
+the Company.
+
+Amendment or Termination of the Plan.  No awards may be granted under the Plan
+after June  11, 2006.   The  Plan gives  the Committee the  power to  suspend,
+reinstate and terminate  the Plan  or any  portion thereof  at any  time.   In
+addition, the Committee may amend the Plan, except  that, without any required
+stockholder  approval,  no  such amendment  may  (1)  materially increase  the
+benefits to participants in the Plan, (2) materially increase the total number
+of  shares of Common Stock that  could be issued or  (3) materially modify the
+requirements as to eligibility for participation  in the Plan.  The provisions
+of the Plan relating to the eligibility  for, and the amount, price and timing
+of, awards to Outside Directors may not be amended, nor shall the operation of
+such provisions be suspended or reinstated, more than once every six months.
+
+               SECURITY OWNERSHIP AND CERTAIN BENEFICIAL OWNERS
+The following  table sets  forth certain  information as  of January  31, 1996
+(except as otherwise noted) with respect to stockholders  known to the Company
+to be the  beneficial owners  of more than  five percent of  any class of  the
+Company's voting securities:
+
+<TABLE>
+<CAPTION>
+  Title of Class           Name and Address of Beneficial Owner           Amount of Beneficial     Percent of Class 
+                                                                          Ownership (1)
+  <S>                      <C>                                            <C>                      <C>
+  Common Stock             Chase Insurance Holdings Corporation           1,351,459 Shares (2)     30.3%
+                           One Commercial Plaza
+                           Hartford, CT  06103
+
+                           Rhoda L. Chase                                 382,000 (2)              8.6%
+                           96 High Ridge Road
+                           West Hartford, CT 06117
+                           Dimensional Fund Advisors Inc                  315,119 Shares (3)       7.1%
+                           1299 Ocean Avenue
+                           11th Floor
+                           Santa Monica, CA 90401
+
+                           Tweedy, Browne Company L.P. and TBK            246,000 Shares (4)       5.5%
+                           Partners, L.P.
+                           52 Vanderbilt Avenue
+                           New York, NY 10017
+
+<FN>
+(1)   Except as otherwise noted, the Company has no reason to believe that any
+      beneficial owner listed above  does not have sole voting  and investment
+      power with respect to these shares.
+
+(2)   As of January 31, 1996. See footnote (6) to the Nominees Table hereof.
+
+(3)   Dimensional Fund Advisors Inc.  ("Dimensional"), a registered investment
+      advisor, is deemed  to have  beneficial ownership of  315,119 shares  of
+      ACCEL  International Corporation stock as  of December 31,  1995, all of
+      which shares are held  in portfolios of DFA Investment  Dimensions Group
+      Inc., a registered open-end investment company, or  in series of the DFA
+      Investment  Trust Company, a Delaware  business trust, or  the DFA Group
+      Trust  and  DFA  Participation  Group  Trust,  investment  vehicles  for
+      qualified employee benefit plans, all of which Dimensional Fund Advisors
+      Inc.  serves  as investment  manager.  Dimensional disclaims  beneficial
+      ownership of all such shares.
+
+(4)   Tweedy,  Browne Company  L.P.  ("TBC"), a  registered broker-dealer  and
+      registered  investment advisor,  and  TBK Partners,  L.P. ("TBK"),  have
+      jointly filed amendments  to their respective Schedule  13D Reports (the
+      "Schedule 13D")  with the SEC. The  Schedule 13D stated that  TBC may be
+      deemed  to have  beneficial ownership  of 246,000  shares, all  of which
+      shares are  held in accounts  of various customers  of TBC.  TBC further
+      reported that it has  investment discretion with respect to  all 246,000
+      shares  and  sole  power to  vote  171,000  shares.  As  a result  of  a
+      disposition  of shares, TBK reported  that it does  not beneficially own
+      any shares. Each  of TBC and TBK disclaimed beneficial  ownership of the
+      246,000  shares  held  in the  TBC  accounts  and  disclaimed beneficial
+      ownership  of the shares  held by the  other. TBK and  TBC also reported
+      that their respective general partners, four of whom are common to each,
+      may, solely  by reason of  their positions as  such, be deemed  to share
+      voting power and dispositive  power with respect to the  shares. Finally
+      TBC and  TBK stated that  the filing of the  Schedule 13D should  not be
+      deemed an admission that TBC and TBK comprise a group within the meaning
+      of Section 13(d)(3) of the Act.
+
+                 RELATIONSHIP WITH INDEPENDENT PUBLIC AUDITORS
+KPMG Peat Marwick LLP has  served as the independent auditors for  the company
+for each  of the years  in the  two-year period  ended December  31, 1995.  In
+recent years, it has been  the practice of the Board of Directors  to annually
+review and select independent auditors for the Company. The Board of Directors
+intends to  continue such  practice and to  make the selection  of independent
+auditors later  in the  year. The  selection of  independent auditors  has not
+therefore been made for the current fiscal  year. Representatives of KPMG Peat
+Marwick LLP will  be  present  at  the Annual  Meeting  of  Stockholders  with
+an opportunity to  make a statement  and  will  be  available  to  respond  to
+appropriate questions, if any, of the stockholders of the Company.
+
+                             STOCKHOLDER PROPOSALS
+Stockholders  wishing  to  submit  proposals  for  the  Company's  1997  Proxy
+Statement may do  so prior  to December 30,  1996 by  letter addressed to  the
+Company in care of the Secretary.
+
+                                 OTHER MATTERS
+Management  does  not  know  of  any  other   business  to  be  presented  for
+consideration at the meeting. If any other business properly  comes before the
+meeting,  or any adjournment or  adjournments thereof, the  proxy holders will
+vote in regard thereto according  to their discretion insofar as  such proxies
+are  not limited to  the contrary. The  1995 Annual Report  to Stockholders is
+being furnished to stockholders along with this proxy statement.
+
+                                             By   Order   of   the   Board  of
+Directors
+
+                                             Nicholas Z. Alexander, Secretary 
+                              
+May 20, 1996
+A  COPY OF  THE COMPANY'S  LAST  ANNUAL REPORT  ON  FORM 10-K  FILED WITH  THE
+SECURITIES AND EXCHANGE COMMISSION IS AVAILABLE,  WITHOUT CHARGE, UPON WRITTEN
+REQUEST OF A BENEFICIAL OWNER OF COMMON STOCK ENTITLED TO VOTE AT THE MEETING.
+REQUESTS FOR A COPY OF THE REPORT SHOULD BE DIRECTED TO NICHOLAS Z. ALEXANDER,
+SECRETARY, ACCEL INTERNATIONAL  CORPORATION, 475 METRO  PLACE NORTH, P.O.  BOX
+7000, DUBLIN, OHIO 43017.
+
+
+
+
+
+
+
+                                   EXHIBIT A
+
+                        ACCEL INTERNATIONAL CORPORATION
+
+                           1996 STOCK INCENTIVE PLAN
+
+                                  Proposal 3
+
+                 Adopted by Board of Directors: March 11, 1996
+
+
+                        ACCEL INTERNATIONAL CORPORATION
+                           1996 Stock Incentive Plan
+
+Section 1.  Purpose
+      The purpose of this Plan is to advance the long-term  interests of ACCEL
+International Corporation by (i) motivating executive and other  personnel and
+independent  agents  by  means   of  long-term  incentive  compensation,  (ii)
+furthering  the  identity  of interests  of  participants  with  those of  the
+stockholders  of  the Company  through the  ownership  and performance  of the
+Common Stock  of the Company and  (iii) permitting the Company  to attract and
+retain  directors,  executive  personnel  and independent  agents  upon  whose
+judgment  the  successful  conduct of  the  business  of  the Company  largely
+depends.  Toward this objective, the  Committee may grant stock options, stock
+appreciation rights, restricted stock awards, phantom stock and/or performance
+shares  to Key  Employees of  the Company,  and shall  grant stock  options to
+non-employee directors  of  the  Company, on  the  terms and  subject  to  the
+conditions set forth in the Plan.
+
+Section 2.  Definitions
+
+      2.1.   "Administrative Policies"  means the administrative  policies and
+procedures  adopted and  amended  from  time  to  time  by  the  Committee  to
+administer the Plan.
+
+      2.2.   "Applicable Market"  means the Nasdaq National  Market or, if the
+
+
+Common  Stock is  no longer  traded in  the Nasdaq  National Market,  then the
+principal national securities exchange,  if any, on which the  Common Stock is
+traded as  determined by the  Committee, or if  the Common Stock is  no longer
+traded in the  Nasdaq National Market or on any  national securities exchange,
+then such other  market price reporting  system pursuant  to which the  Common
+Stock is traded or quoted as designated by the Committee.
+
+      2.3."Award" means  any form of  stock option, stock  appreciation right,
+restricted stock award, phantom  stock or performance share granted  under the
+Plan, whether singly,  in combination, or in tandem, granted,  made or awarded
+to  a Participant  by  the  Committee  pursuant  to  such  terms,  conditions,
+restrictions and limitations,  if any, as  the Committee may establish  by the
+Award Agreement or otherwise.
+
+      2.4."Award Agreement" means a written agreement with respect to an Award
+between the  Company and  a  Participant establishing  the terms,  conditions,
+restrictions and  limitations applicable to  an Award. To the  extent an Award
+Agreement is  inconsistent with the terms  of the Plan, the  Plan shall govern
+the rights of the Participant thereunder.
+
+      2.5."Board  of Directors" or "Board" means the directors of the Company,
+as a group, serving as such from time to time.
+
+      2.6."Code" means the Internal Revenue Code of 1986, as amended from time
+to time.
+
+      2.7."Committee"  means  the  Compensation  Committee  of  the  Board  of
+Directors or  such other committee  designated by the Board  to administer the
+Plan under Section 3 hereof.
+
+      2.8.   "Common  Stock" means the  Common Stock,  $.10 par  value, of the
+Company.
+
+      2.9.    "Company"  means  ACCEL International  Corporation,  a  Delaware
+corporation.
+
+
+      2.10.  "Derivative Security" means any of the "derivative securities" as
+defined  in Rule 16a-1 under the  Exchange Act as such rule  may be amended or
+superseded from time to time.
+
+      2.11.  "Director" means a member of the Board of Directors.
+
+      2.12.   "Exchange Act"  means the  Securities Exchange  Act of  1934, as
+amended.
+
+      2.13.  "Key  Employee" means an employee of the  Company or a Subsidiary
+who  holds  a   position  of  responsibility  in  an   executive,  managerial,
+administrative or professional  capacity or an  independent agent who  markets
+and  sells insurance  written  by  a  Subsidiary  and  whose  performance,  as
+determined  by  the  Committee  in  the  exercise  of  its  sole  and absolute
+discretion, can have an effect on the growth, profitability and success of the
+Company.  For the purpose of any provision of this Plan relating to  incentive
+stock options, the term "Key  Employee" shall be limited to mean  any employee
+who is eligible to receive the grant of an incentive  stock option pursuant to
+the provisions of Section 422  of the Code as amended or superseded  from time
+to time  and shall  exclude any independent  agent unless at  the time  of the
+Award  is granted, such independent agent is  eligible to receive the grant of
+an incentive stock option. 
+
+      2.14.   "Participant" means any  individual to  whom an  Award has  been
+granted by the Committee under this Plan.
+
+      2.15.  "Plan"  means this  ACCEL International  Corporation, 1996  Stock
+Incentive Plan, as the same may be amended from time to time.
+
+
+      2.16.  "Qualified Domestic  Relations Order" means a  qualified domestic
+relations order  as defined by the Code or  the rules thereunder if so defined
+therein,  and, if  not, as  defined by  Title I  of the  Employment Retirement
+Income Security Act of 1974 ("ERISA"), or the rules thereunder.
+
+      2.17.  "Section 16 Officer" means any Participant who is an "officer" of
+the Company within the  meaning of Rule 16a-1  under the Exchange Act as  such
+rule may be amended or superseded from time to time.
+
+      2.18.   "Subsidiary"  means a  corporation or  other business  entity in
+which  the Company  directly  or  indirectly  has  an  ownership  interest  of
+fifty-one percent or more.
+
+      2.19."Termination"   means   the   termination  of   the   Participant's
+relationship  with  the Company  including  termination  of the  Participant's
+employment, status  as a Director or  appointment as an independent  agent.  A
+Participant  who  is absent  from employment  or  other relationship  with the
+Company for a  reason or  purpose and  for a period  of time  approved by  the
+Committee, in its sole discretion, shall not for the period of such absence be
+deemed, solely because of such absence, to have suffered a Termination, unless
+and until the Committee otherwise determines.
+
+Section 3.  Administration
+
+      The  Plan shall be administered  under the supervision  of the Committee
+composed  of  not  less  than  three   Directors  each  of  whom  shall  be  a
+"disinterested person" under  Rule 16b-3 under the  Exchange Act as such  rule
+may be amended or superseded from time to time and an "outside director" under
+Section 162(m) of the Code and the regulations thereunder.
+
+
+      Members of  the Committee shall  serve at the  pleasure of the  Board of
+Directors,  and may resign  by written notice  filed with the  Chairman of the
+Board, President or Secretary of the Company.  A  vacancy in the membership of
+the  Committee shall be filled by the appointment of a successor member by the
+Board of Directors.  Until such vacancy is filled, the remaining members shall
+constitute a quorum and the action at  any meeting of a majority of the entire
+Committee,  or  an action  unanimously approved  in  writing by  all Committee
+members, shall  constitute action of  the Committee.   Subject to  the express
+provisions  of this  Plan,  the  Committee  shall  have  exclusive  and  final
+authority to:  (i) construe  and interpret  the Plan and  any Award  Agreement
+entered  into  hereunder; (ii)  establish,  amend  and rescind  Administrative
+Policies for  the administration of  the Plan;  and (iii) determine  the "fair
+market value"  of the  Common Stock  of the Company  (based on  the Applicable
+Market,  if  any, for  the  Common  Stock).   The  Committee  shall have  such
+additional authority as the Board of Directors may from time to time determine
+to be necessary or  desirable.  Employees, agents and  independent contractors
+of  the Company or the  Committee may be assigned, or  employed or retained to
+perform,  administrative, clerical and other  duties of the Committee, subject
+to the supervision and control of the Committee; provided,  however, that only
+the Committee may  grant or award an  Award under the Plan and  make decisions
+concerning  the timing,  pricing and  amount of  any  Award, except  for stock
+options  automatically granted  to  Directors who  are  not employees  of  the
+Company under Section 13 hereof.
+
+      For  so long  as Directors  and/or  Section 16  Officers are  or may  be
+Participants in the Plan,  the Committee shall not knowingly  take any action,
+or decline  to take any  action, which  shall cause the  Plan not to  meet the
+requirements contained in  Rule 16b-3 under the Exchange Act,  as such rule is
+amended or superseded from time  to time, which permit the granting  or making
+of Awards  under the Plan to be exempt from  Section 16(b) of the Exchange Act
+as amended or superseded from time to time.
+
+Section 4.  Eligibility
+
+      Except as otherwise  provided herein,  any Key Employee  is eligible  to
+become a  Participant in  the  Plan.   Directors of  the  Company, other  than
+Directors who are employees of the  Company, shall be eligible only to receive
+stock options pursuant to Section 13 hereof.
+
+Section 5.  Shares Available
+
+      (a) Shares of Common Stock available for issuance under the  Plan may be
+authorized and unissued shares or treasury shares.  Subject to the adjustments
+provided for in  Sections 17 and  18 hereof, the  maximum number of  shares of
+Common Stock available for grant of Awards under the Plan is 1,000,000 shares.
+Of  this total  number, up to  100,000 shares  may be  issued pursuant  to the
+exercise  of Directors' Stock Options.   Notwithstanding the  foregoing, at no
+time shall the  number of shares  of Common Stock deemed  to be available  for
+grant in any fiscal year exceed ten percent of the total number of  issued and
+outstanding  shares of Common Stock  of the Company.   The number of shares of
+Common Stock available for grant to any individual Participant in any calendar
+year shall not exceed 250,000 shares.
+
+      (b)  For purposes  of calculating the  number of shares  of Common Stock
+deemed to be  granted hereunder  during any fiscal  year, each Award,  whether
+denominated  in stock  options, stock  appreciation rights,  restricted stock,
+performance shares or phantom stock, shall be deemed to be a grant of a number
+of shares  of Common Stock  equal to the number  of shares represented  by the
+stock options,  shares  of restricted  stock,  performance shares,  shares  of
+phantom stock or  stock appreciation rights set  forth in the  Award; provided
+however
+
+           (i)  in the case of any Award as to which the exercise of one right
+      nullifies  the   exercisability  of   another  (including,  by   way  of
+      illustration   the  grant  of  a  stock  option  with  Tandem  SARs  (as
+      hereinafter  defined)), the number of shares deemed to have been granted
+      shall be the  maximum number  of shares (and/or  cash equivalents)  that
+      could have been acquired upon the maximum exercise  or settlement of the
+      Award; and
+
+           (ii)  in  the case  of  Performance  Share Awards  (as  hereinafter
+      defined)  providing for  payments in  excess of  100% of  the number  of
+      shares set forth  in the Award Agreement,  the number of shares  granted
+      shall be  deemed to be  the maximum  number of shares  (and/or the  cash
+      equivalent thereof) issuable  under the  Award at the  highest level  of
+      performance.
+
+      (c) Shares of Common  Stock covered by lapsed, canceled,  surrendered or
+terminated  Awards shall  be  shares available  for  regrant under  the  Plan;
+provided, however, that the portion of any Award that has been settled  by the
+payment of cash or  the issuance of shares  of Common Stock, or a  combination
+thereof, shall not be available for  re-grant under the Plan, irrespective  of
+the value of the settlement or the method of its payment. The settlement of an
+Award shall not be deemed to be the grant of an Award hereunder.
+
+Section 6.  Term
+
+      The Plan shall become effective as of June 11, 1996, subject to approval
+of the Plan  by the holders of a  majority of the shares of Common  Stock.  No
+Awards shall  be exercisable or payable  before approval of the  Plan has been
+obtained from the  Company's stockholders and  no Awards may be  granted after
+June 11, 2006. 
+
+Section 7.  Participation
+
+      The Committee shall select,  from time to time, Participants  from those
+Key Employees  who, in the  opinion of the  Committee, can further  the Plan's
+purpose and the Committee shall determine the type or types of Awards, if any,
+to be made  to the Participant.  Any selection by the Committee of an employee
+or independent agent of the Company or a Subsidiary to be a Participant in the
+Plan shall  irrevocably constitute  the Committee's concurrent  and conclusive
+
+
+determination  that such employee or independent agent  is a Key Employee.  In
+addition, all non-employee Directors  shall participate in the Plan  solely in
+the  manner  specified  in  Section  13 hereof.    The  terms,  conditions and
+restrictions of  each Award shall be  set forth in an Award  Agreement, and no
+Participant shall have any rights to or  interest in an Award unless and until
+such Participant has exercised  and delivered an Award Agreement  with respect
+to such Award.
+
+Section 8.  Stock Options
+
+      (a)  Grants.  Awards may be granted in the form of stock options.  Stock
+options may  be incentive stock options  within the meaning of  Section 422 of
+the  Code or  nonqualified stock  options (i.e., stock  options which  are not
+incentive stock options), or a combination  of both, or any particular type of
+tax advantage option authorized by the Code from time to time.
+
+
+      (b) Terms  and Conditions of Options.  An option shall be exercisable in
+whole  or in such installments  and at such times as  may be determined by the
+Committee; provided, however, that  no stock option shall be  exercisable more
+than ten  years after  the date  of  grant thereof.   In  the absence  of  any
+provision in an option to the contrary (i) the option  will become exercisable
+upon  as to  25% of  the shares  of Common  Stock subject  to the  option upon
+completion  of  the  first  full  year  of  employment  or  retention  of  the
+Participant after  the date  thereof and  as to  25% of such  shares upon  the
+completion of  each full year  thereafter prior  to Termination, and  (ii) the
+option will lapse  upon the earliest of (A) 180 days  after Termination of the
+Participant's relationship with the Company if the Termination is due to death
+or disability  or if the Participant  dies within 90 days  of the Termination,
+(B) 90  days after Termination if the Termination is for any reason other than
+death, disability or gross  misconduct or neglect, (C) upon Termination if the
+Termination is the result of the  Participant's gross misconduct or neglect as
+determined by  the Committee, or (D)  ten years after the  option was granted.
+The  option exercise  price shall be  established by  the Committee,  but such
+price  shall not be less  than the per  share fair market value  of the Common
+Stock, as determined by the Committee, on the date of the stock option's grant
+subject to adjustment as provided in Sections 17 or 18 hereof.
+
+      (c) Restrictions  Relating to  Incentive Stock Options.   Stock  options
+issued  in the  form of incentive  stock options  shall, in  addition to being
+subject to  all applicable terms, conditions,  restrictions and/or limitations
+established by  the Committee, comply with Section 422 of the Code.  Incentive
+stock  options shall be granted only to  those Key Employees who are employees
+of the Company and its "subsidiaries" within the meaning of Section 424 of the
+Code, shall  not be  granted  to any  independent agents  unless permitted  by
+Section 422 of the Code or any successor provision and shall be granted within
+ten years after the date the Plan was adopted by the Board of Directors.   The
+aggregate fair  market value (determined as of the date the option is granted)
+of shares with  respect to which incentive  stock options are exercisable  for
+the  first time by an individual during any  calendar year (under this Plan or
+any other  plan  of the  Company  or any  Subsidiary  which provides  for  the
+granting  of incentive  stock options) may  not exceed $100,000  or such other
+number as may be applicable  under the Code from time to time.   Any incentive
+stock option that is granted to any employee who is, at the time the option is
+granted,  deemed for  purposes of Section  422 of  the Code,  or any successor
+provision, to own shares of the Company possessing more than ten percent (10%)
+of the total  combined voting power of all classes of shares of the Company or
+of a  parent or subsidiary of the Company shall  have an option exercise price
+that is at least 110 percent (110%) of the fair market value of the  shares at
+the date of grant and shall not be exercisable after the expiration of 5 years
+from the date it is granted.
+
+      (d) Additional Terms and Conditions.   The Committee may, in  any manner
+not inconsistent  with the Plan, by  way of the Award  Agreement or otherwise,
+establish  such other terms, conditions, restrictions  and/ or limitations, if
+any, on any stock option Award and the exercise thereof.
+
+
+      (e) Payment.   Upon exercise, a Participant  may pay the option exercise
+price of a stock option (i) in cash, (ii) in shares of Common Stock,  or (iii)
+a  combination thereof,  or (iv)  in  the sole  discretion  of the  Committee,
+through  a cashless exercise procedure  involving a broker; provided, however,
+that  such method  and  time for  payment  shall  be permitted  by  and be  in
+compliance  with  applicable  law, or  (v)  such  other  consideration as  the
+Committee  may deem  appropriate.  The  Committee shall  establish appropriate
+methods for accepting Common Stock and  may impose such conditions as it deems
+appropriate on the use of such Common Stock to exercise a stock option.
+
+Section 9.  Stock Appreciation Rights
+
+      (a) Grants.   Awards may be  granted in the  form of stock  appreciation
+rights ("SARs"). SARs shall entitle the  recipient to receive a payment  equal
+to the appreciation  in market value of  a stated number  of shares of  Common
+Stock from the price stated in the  Award Agreement to the market value of the
+Common Stock on  the date of  exercise or surrender. A  SAR may be  granted in
+tandem with all or a portion of a related stock option under the Plan ("Tandem
+SARs").  Tandem SARs shall permit the optionee to surrender a stock  option or
+portion  thereof and to receive the payment  to which he is entitled under the
+SAR Award Agreement with respect to the shares of  Common Stock subject to the
+surrendered stock  option  or portion  thereof. A  Tandem SAR  may be  granted
+either  at the time of  the grant of  the related stock option  or at any time
+thereafter during the term of the stock option.
+
+      (b)  Terms  and Conditions  of  Tandem  SARs.   A  Tandem  SAR shall  be
+exercisable to  the extent, and  only to  the extent, that  the related  stock
+option is exercisable. The appreciation  in value of a Tandem SAR shall be the
+appreciation in  fair market  value from  an amount not  less than  the option
+exercise   price  of  the  related  stock  option  or  portion  thereof  being
+surrendered to the market  value of the Common Stock on  the date of exercise.
+Upon exercise of  a Tandem SAR as to  some or all of the shares  covered by an
+Award, the related stock option shall be canceled  automatically to the extent
+of  the number  of SARs  exercised, and  such shares  shall not  thereafter be
+eligible for grant under Section 5 hereof.
+
+      (c) Deemed Exercise.   The Committee  may provide that  an SAR shall  be
+deemed to  be exercised at the  close of business on  the scheduled expiration
+date  of such  SAR,  if  at such  time  the  SAR  by its  terms  is  otherwise
+exercisable  and,  if  so  exercised,  would  result  in  a  payment  to   the
+Participant.
+
+      (d) Additional Terms  and Conditions.  The Committee may,  in any manner
+not inconsistent  with the Plan, by  way of the Award  Agreement or otherwise,
+determine such  other terms,  conditions, restrictions and/or  limitations, if
+any, on any SAR Award.
+
+Section 10.  Restricted Stock Awards
+
+      (a)  Grants.   Awards may  be granted  in the  form of  Restricted Stock
+Awards.   Restricted Stock  Awards consist of  shares of Common  Stock bearing
+restrictions  on their transfer or  otherwise as authorized  by Section 10(b),
+below,  and  may be  awarded to  a  Key Employee  with or  without  payment of
+consideration by the Key Employee.
+
+      (b) Award Restrictions.   Restricted  Stock Awards shall  be subject  to
+such  terms, conditions, restrictions,  or limitations as  the Committee deems
+appropriate including, by  way of illustration but  not by way  of limitation,
+restrictions on  transferability,  requirements  of  continued  employment  or
+individual  performance  or  the  financial performance  of  the  Company. The
+Committee  may  modify, or  accelerate  the termination  of,  the restrictions
+applicable to a Restricted  Stock Award under  such circumstances as it  deems
+appropriate.
+
+      (c) Rights  as Stockholders.  During  the period in which  any shares of
+Common  Stock are subject  to the restrictions imposed  under this Section 10,
+
+
+the Committee  may, in its discretion,  grant to the Participant  to whom such
+restricted shares have been awarded, all or any of the rights of a stockholder
+with respect to such shares, including, by way of illustration  but not by way
+of limitation, the right to vote such shares and to receive dividends.
+
+
+      (d)  Evidence of Award.   Any Restricted  Stock Award granted  under the
+Plan  may be  evidenced in  such manner  as  the Committee  deems appropriate,
+including,  without limitation, book entry registration or issuance of a stock
+certificate or certificates.
+
+      (e) Additional  Terms and Conditions.  The  Committee may, in any manner
+not  inconsistent with  the  Plan, by  way  of Award  Agreement  or otherwise,
+determine such other  terms, conditions, restrictions or  limitations, if any,
+on any Award of Restricted Stock.
+
+Section 11.  Phantom Stock
+
+      (a) Grants.  Awards may be granted in the form of Phantom  Stock Awards.
+Phantom Stock Awards shall entitle the Participant to receive the market value
+or the appreciation in value of a stated number of shares of Common Stock on a
+settlement date determined by the Committee.
+
+      (b)  Terms  and  Conditions.   The  Committee  may,  in any  manner  not
+inconsistent with the  Plan, by way of Award Agreement or otherwise, determine
+such terms, conditions,  restrictions or limitations, if any, on  any Award of
+Phantom Stock.
+
+Section 12.  Performance Shares
+
+      (a) Grants.   Awards may be  granted in the form  of performance shares.
+"Performance  Shares" means interests the  entitlement to which  is based upon
+the attainment  of pre-determined  Performance Targets as  hereinafter defined
+during  a Performance  Period  as  hereinafter  defined. At  the  end  of  the
+Performance Period,  Performance Shares shall  be converted into  Common Stock
+(or  Common  Stock and  cash,  as  determined  by  the  Award  Agreement)  and
+distributed to Participants based upon such entitlement.
+
+      (b)  Performance  Criteria.    The  Committee  may  grant  an  Award  of
+Performance  Shares to Participants  as of the  first day of  each Performance
+Period. As  used herein, the term "Performance Period" means the period during
+which a Performance Target is measured and the term "Performance Target" means
+the  predetermined goals  established by the  Committee. A  Performance Target
+will be established at the beginning of each Performance Period. If at the end
+of   the  Performance  Period,  the  Performance  Target  is  fully  met,  the
+Performance Shares will be converted 100% into shares of Common  Stock (or the
+cash equivalent thereof, as determined by  the Award Agreement) and issued  to
+the Participant.  Award payments in  excess of  100% shall be  permitted based
+upon  an  attainment in  excess  of 100%  of  the Performance  Target.  If the
+Performance  Target has  not  been  fully  met,  Performance  Shares  will  be
+converted and delivered  only to the extent,  if any, provided at the  time of
+the grant  of such Award for  conversion based upon partial  attainment of the
+Performance Target and the balance of the Performance Shares will be forfeited
+to the Company and available for reissuance pursuant to Section 5 hereof.
+
+      (c) Additional  Terms and Conditions.  The  Committee may, in any manner
+not inconsistent with the terms of this Plan, by way of the Award Agreement or
+otherwise, determine the manner of payment of Awards of Performance Shares and
+other terms, conditions, restrictions or limitations,  if any, on any Award of
+Performance Shares.
+
+Section 13.  Directors' Stock Options
+
+      (a) Grants.  Awards may be granted to non-employee Directors only in the
+form of  stock options satisfying the  requirements of this Section  13.  Each
+person who is elected or appointed to serve as a Director of the Company after
+
+
+the effective date of the Plan and who is not a Director on the effective date
+of the  Plan shall, upon  his initial appointment  or election as  a Director,
+automatically be granted an option for 2,000 shares of Common  Stock.  At each
+year's annual  meeting of the  stockholders of  the Company commencing  at the
+1997 annual meeting, there shall be granted automatically to each non-employee
+Director (other than any non-employee Director who first became  a Director at
+any  time during the period following the immediately preceding annual meeting
+of the  stockholders of the Company),  the option to purchase  1,000 shares of
+Common  Stock.   All  stock options  granted under  this  Section 13  shall be
+nonqualified stock options.
+
+      (b) Option  Exercise Price.    The option  exercise price  of all  stock
+options granted under this Section 13 shall be the per share fair market value
+of the  outstanding shares of  the Common Stock  on the date  such options are
+automatically granted.   Payment of the  option exercise price may  be made in
+cash or in shares of Common Stock or a combination of cash and Common Stock to
+the extent provided in the Award Agreement.
+
+      (c) Administration.  Subject  to the express provisions of  this Section
+13,  the Committee shall have  conclusive authority to  construe and interpret
+any  Stock  Option   Award  granted  under  this  Section  13   and  to  adopt
+Administrative  Policies  with respect  thereto;  provided,  however, that  no
+action shall  be taken  which  would prevent  the options  granted under  this
+Section 13 or any Award  granted under the Plan from meeting  the requirements
+for exemption from Section 16(b) of the Exchange Act, or subsequent comparable
+statute, as set  forth in  Rule 16b-3 of  the Exchange Act  or any  subsequent
+comparable rule.
+
+      (d)  Option Agreement.  The options granted hereunder shall be evidenced
+by an option agreement,  dated as of  the date of  the grant, which  agreement
+shall  be in  such form, consistent  with the  terms and  requirements of this
+Section  13, as  shall be  approved  by the  Committee from  time to  time and
+executed on  behalf of the  Company by  the President.   The Option  Agreement
+shall require  the optionee to refrain from  selling or otherwise disposing of
+shares so acquired for at least six months following the date of the  grant of
+such option.
+
+      (e) Option Period.  In the absence of any provision in  an option to the
+contrary (i) the  option will become  exercisable as to 50%  of the shares  of
+Common  Stock subject  to the option  upon completion  of the  first full year
+after  the date thereof  and as to 50%  of such shares  upon the completion of
+each full year thereafter prior to Termination, and (ii) the option will lapse
+upon  the earliest of (A) 180 days  after Termination of the Director's status
+as a Director, or (B) ten years after the option was granted. 
+
+      (f) Transferability.  No  option granted under this Section  13 shall be
+transferable  by the  non-employee Director  except  by will  or  the laws  of
+descent and distribution, or pursuant to a Qualified Domestic Relations Order,
+and during the Director's lifetime options may be exercised only by him or his
+guardian  or  legal representative  or  his  transferee under  such  Qualified
+Domestic Relations Order.
+
+      (g) Limitations on  Exercise.  To the extent an  option is not otherwise
+exercisable at the date of  the Director's death or voluntary retirement  as a
+Director, it shall  become fully  exercisable upon  such retirement  provided,
+however, that Director Stock  Options shall not become exercisable  under this
+sentence prior to the expiration of six  months from the date of grant.   Upon
+such death or  voluntary retirement, such options  shall be exercisable  for a
+period of 180 days, subject to the original term of the option.
+
+Section 14.  Payment of Awards
+
+      Except as otherwise  provided herein Award Agreements  may provide that,
+at  the discretion of the  Committee, payment of  Awards may be  made in cash,
+Common Stock, a  combination of cash  and Common Stock, or  any other form  of
+property as  the Committee shall determine.  The terms of Award Agreements may
+
+
+provide for payment  of Awards in the form  of a lump sum or  installments, as
+determined  by the Committee.   In connection with  transactions involving the
+exercise and cancellation of an Award (under this Section 14 or Section 25, or
+otherwise) held by or through  a Director or a Section 16 Officer  (whether or
+not the transaction also involves the related  surrender and cancellation of a
+stock option) and the receipt of cash in complete or partial settlement of the
+Award,  or  the cash  settlement  of an  equity  security to  satisfy  the tax
+withholding consequences of a  Derivative Security, the Committee may  require
+that  such transaction be consummated  in compliance with  Rule 16b-3(e) under
+the Exchange Act, as such rule may be amended or superseded from time to time,
+unless the holder  of such Award waives such compliance  in a writing executed
+by such  holder and delivered to  the Committee and the  Committee consents to
+such waiver.
+
+Section 15.  Dividends and Dividend Equivalents
+
+      If an  Award is  granted in  the form  of  a Restricted  Stock Award  or
+Phantom Stock Award, the Committee may choose, at the time of the grant of the
+Award, to include as part of such Award an entitlement to receive dividends or
+dividend  equivalents,  subject to  such  terms,  conditions, restrictions  or
+limitations,  if any, as the  Committee may establish.  Dividends and dividend
+equivalents  shall be  paid in such  form and manner  and at such  time as the
+Committee shall determine. All dividends or dividend equivalents which are not
+paid  currently  may, at  the Committee's  discretion,  accrue interest  or be
+reinvested into additional shares of Common Stock.
+
+Section 16.  Assignment and Transfer; Holding Period
+
+      The rights  and interests of  a Participant under  the Plan, and  in any
+Derivative  Security issued  or granted under  the Plan, may  not be assigned,
+sold,  encumbered  or transferred  except,  in the  event  of the  death  of a
+Participant,  by will  or  the laws  of descent  and  distribution, or  except
+pursuant to a Qualified Domestic Relations Order.
+
+      Except as otherwise provided  in the first paragraph of  this Section 16
+(but such exception shall not  apply if its application would cause  the grant
+or  award of  the subject  equity security  or Derivative  Security not  to be
+exempt from  section 16(b)  of the  Exchange Act), an  equity security  of the
+Company granted or  awarded to a  Director or Section 16  Officer as an  Award
+under  the  Plan  shall not  be  assigned.  sold,  encumbered, transferred  or
+otherwise disposed  of prior to the expiration of  six months from the date of
+grant, and neither a Derivative  Security granted or awarded to a  Director or
+Section  16 Officer  as an  Award under  the Plan,  nor the  underlying equity
+security  with respect to such  Derivative Security, shall  be assigned. sold,
+encumbered,  transferred or otherwise disposed  of prior to  the expiration of
+six months from the date of acquisition of the Derivative Security to the date
+of  disposition  of  the Derivative  Security  (other  than  upon exercise  or
+conversion)  or such underlying equity  security, unless, in  either case, the
+holder of such equity security or Derivative  Security requests waiver of such
+restrictions  in  a  writing delivered  to  the  Committee  and the  Committee
+consents to such waiver.
+
+Section 17.  Adjustments Upon Changes in Capitalization
+
+      In the event of any change in the outstanding shares  of Common Stock by
+reason of  any reorganization, recapitalization, stock  split, stock dividend,
+combination  or exchange of shares, merger, consolidation or any change in the
+corporate structure or shares of the Company, the maximum aggregate number and
+class of shares as to which Awards may be or are required to be  granted under
+the Plan  and the shares  issuable pursuant  to and the  exercise or  purchase
+price payable  under then outstanding Awards, shall  be appropriately adjusted
+by the Committee whose determination shall be final.  Any such adjustments may
+be provided for in Award Agreements.
+
+Section 18.  Extraordinary Distributions and Pro Rata Repurchases
+
+
+      In the event the Company shall at any time when an Award is  outstanding
+make  an Extraordinary  Distribution  (as hereinafter  defined) in  respect of
+Common Stock or effect a  Pro Rata Repurchase of Common Stock  (as hereinafter
+defined),  the Committee may consider the economic impact of the Extraordinary
+Distribution  or Pro Rata Repurchase on Participants and make such adjustments
+as  it deems  equitable  under the  circumstances.  The determination  of  the
+Committee  shall, subject to revision by the  Board of Directors, be final and
+binding upon all Participants.
+
+      (a)  As  used herein,  the term  "Extraordinary Distribution"  means any
+dividend or other distribution by the Company of:
+           (i)  cash, where  the  aggregate amount  of  such cash  dividend or
+      distribution  together  with  the  amount  of  all  cash  dividends  and
+      distributions  made  during the  twelve  months  preceding the  date  of
+      payment of such dividend  or other distribution, when combined  with the
+      aggregate  amount  of  all  Pro  Rata  Repurchases  (for  this  purpose,
+      including only that portion of the aggregate purchase price  of such Pro
+      Rata  Repurchases  which  is in  excess  of the  fair  market  value (as
+      determined by the Committee) of the Common Stock repurchased during such
+      twelve  month period), exceeds ten  percent (10%) of  the aggregate fair
+      market value  (as determined by the  Committee) of all shares  of Common
+      Stock outstanding on  the record date  for determining the  shareholders
+      entitled to receive such Extraordinary Distribution; or
+
+           (ii) any shares of  capital stock of the Company (other than shares
+      of Common Stock), other  securities of the Company (including  evidences
+      of indebtedness of  the Company),  or any other  investments, assets  or
+      property  of  the Company  (including shares  of  any Subsidiary  of the
+      Company), or any combination thereof.
+
+      (b) As used herein "Pro Rata Repurchase" means any purchase of shares of
+Common Stock by the Company or  any Subsidiary thereof, pursuant to any tender
+offer or exchange offer  subject to section 13(e)  of the Exchange Act or  any
+successor  provision  of law,  or  pursuant to  any  other offer  available to
+substantially all holders of Common Stock; provided, however, that no purchase
+of shares  of  the Company  or  any Subsidiary  thereof  made in  open  market
+transactions shall be deemed a Pro Rata Repurchase.
+
+Section 19.  Withholding Taxes
+
+      The Company or  the applicable  Subsidiary shall be  entitled to  deduct
+from any payment under the Plan, regardless  of the form of such payment,  the
+amount  of all  applicable income  and employment  tax required  by law  to be
+withheld with respect to such payment or may require the Participant to pay to
+it such  tax prior to and  as a condition of  the making of such  payment.  In
+accordance  with any  applicable Administrative  Policies it  establishes, the
+Committee may allow a Participant to  pay the amount of taxes required  by law
+to be withheld from  an Award by withholding from any payment  of Common Stock
+due as a result of such Award, or by permitting the Participant to  deliver to
+the Company shares  of Common Stock having a fair  market value, as determined
+by the Committee, equal to the amount of such required withholding taxes.
+
+Section 20.  Regulatory Approvals and Listings
+
+      Notwithstanding anything contained  in this  Plan to  the contrary,  the
+Company shall have  no obligation to  issue or deliver certificates  of Common
+Stock  evidencing Restricted Stock Awards or any other Award payable in Common
+Stock prior to (a) the obtaining of any approval from  any governmental agency
+which the Company shall, in its  sole discretion, determine to be necessary or
+advisable,  (b)  the admission  of such  shares to  trading on  the Applicable
+Market and  (c) the completion  of any registration or  other qualification of
+said shares under any state or Federal  law or ruling of any governmental body
+which the  Company shall, in its sole discretion, determine to be necessary or
+advisable. The Company shall  have the right to  require that any  certificate
+for Common Stock issued pursuant. to the Plan or an Award bear any restrictive
+legend required  by law and/or to evidence restrictions on the transfer of the
+
+
+shares under applicable law, the Award Agreement or the Plan.
+
+Section 21.  No Right to Continued Employment or Grants
+
+      Participation in the  Plan shall not give any Key  Employee any right to
+remain  in the employ  of, or continue to  be retained by,  the Company or any
+Subsidiary. The Company or, in the case of employment with, or retention by, a
+Subsidiary,  the Subsidiary, reserves the right to terminate the employment or
+retention of  any  Key Employee  at any  time,  subject to  the terms  of  any
+agreement  with such  Key Employee.  The adoption  of this  Plan shall  not be
+deemed to  give any  Key  Employee or  any other  individual any  right to  be
+selected as a Participant, to  be granted any Awards hereunder or,  if granted
+an Award, to receive any additional Awards at any subsequent time.
+
+Section 22.  Rights as Stockholder
+
+      No Participant  shall have any  rights as a  stockholder as a  result of
+participation in the Plan until the date of issuance of and only as the holder
+of  a stock certificate  in his name  except, in the  case of Restricted Stock
+Awards, to the extent such rights are granted to the Participant under Section
+10(c) hereof.  To the extent  any person acquires a right to  receive payments
+from the Company  under this Plan,  such rights shall  be no greater  than the
+rights of an unsecured creditor of the Company.
+
+Section 23.  Responsibility and Indemnification
+
+      No member of the Board of Directors or the Committee shall be liable  to
+the   Company,  any  Participant  or  any   third  party  for  any  action  or
+determination  made  in  good  faith  with  respect  to  the  Plan  and Awards
+thereunder,  or for  any  matter  as to  which  the Company's  certificate  of
+incorporation or bylaws, or  any valid contract between  the Company and  such
+member, limits  or negates the liability  of Directors. Such members  shall be
+entitled  to indemnification and reimbursement  in the manner  provided in the
+Company's  certificate  of incorporation  and  bylaws, in  any  valid contract
+between  the Company and such  member, and under  any directors' and officers'
+liability insurance coverage which may be in effect from time to time.
+
+Section 24.  Substitution, Extension, Renewal and Regrant of Awards
+
+      Awards  may be granted under the Plan  from time to time in substitution
+for  stock  options  and  other   rights  or  awards  held  by   employees  of
+organizations who become or are  about to become Key Employees of  the Company
+or a  Subsidiary as the result  of a merger or consolidation  of the employing
+organization with  the  Company or  a Subsidiary,  or the  acquisition by  the
+Company or  a Subsidiary of the  assets of the employing  organization, or the
+acquisition  by  the  Company or  a  Subsidiary  of  equity interests  in  the
+employing organization  as the  result of which  it becomes a  Subsidiary. The
+Committee may  extend or renew  outstanding Awards  granted under the  Plan on
+terms not inconsistent with the Plan.
+
+      The  Committee may accept  the surrender or  cancellation of outstanding
+Awards (to the extent not theretofore exercised, paid or settled) and grant or
+award  new Awards in substitution therefor, which  new Awards may be different
+types of Awards than the Awards so surrendered and/or canceled.
+
+Section 25.  Amendment
+
+      The  Committee  may suspend,  reinstate and  terminate  the Plan  or any
+portion thereof  at any  time. In  addition, the Committee  may, from  time to
+time, amend the Plan in  any manner, but may not without  stockholder approval
+adopt  any  amendment (i)  which would  (a)  materially increase  the benefits
+accruing to Participants under the Plan, (b) materially increase the number of
+shares of Common Stock which may be issued under the Plan (except as specified
+in  Section  17 or  18),  or  (c) materially  modify  the  requirements as  to
+eligibility for participation in  the Plan, or (ii) that  requires stockholder
+approval in order  for the  Plan to comply  with Section  162(m) of the  Code.
+
+
+Notwithstanding  the foregoing, the provisions  of Section 13  relating to the
+eligibility  for, and  the amount,  price and timing  of, Awards  to Directors
+thereunder shall  not be amended,  nor shall  the operation of  Section 13  be
+suspended or reinstated, more than once every six months other than to conform
+with changes in the Code, ERISA, or the rules thereunder.
+
+Section 26.  Corporate Changes; Use of Funds
+
+      The grant of an Award pursuant to the Plan shall not affect the right or
+power of the Company  to make adjustments, reclassifications, reorganizations,
+or  changes of its  stock, securities,  capital or  business structure,  or to
+merge, consolidate, dissolve, or liquidate, or to sell, lease or  transfer all
+or any part of its business or assets. The  funds received by the Company upon
+any exercise  or settlement of  an Award may  be used by  the Company  for any
+corporate purpose or purposes.
+
+Section 27.  Governing Law
+
+      The Plan shall be governed by and construed in accordance  with the laws
+of the State of Delaware, except as preempted by applicable Federal law.
+
+Section 28.  Interpretation
+
+      The  Plan is designed and intended to comply with Rule 16b-3 promulgated
+under  the Exchange Act and, to the  extent applicable, with Section 162(m) of
+the  Code  and all  provisions hereof  shall be  construed in  a manner  to so
+comply.
+
+      [End of Plan]
+
+
+                        ACCEL INTERNATIONAL CORPORATION
+                             475 Metro Place North
+                             Dublin, Ohio   43017
+
+       Proxy                                         THIS PROXY IS SOLICITED
+Annual Meeting of Stockholders                      BY THE BOARD OF DIRECTORS
+                                                         OF THE COMPANY
+
+The  undersigned hereby appoints Thomas H. Friedberg and Nicholas Z. Alexander
+as Proxies, each with the power to appoint a substitute, and hereby authorizes
+them  to represent and to vote as designated below, all of the shares of ACCEL
+International Corporation held of record by the undersigned on April  12, 1996
+at  the Annual Meeting of Stockholders to  be held at the Stouffer Renaissance
+Dublin  Hotel,  Dublin,  Ohio at  10:00  A.M.  on  June 11,  1996,  or  at any
+adjournment thereof.
+
+1. ELECTION OF DIRECTORS
+
+   FOR all nominees listed below   [  ]          WITHHOLD AUTHORITY  [  ]
+   (except as marked to the contrary below)      to vote for all listed below
+
+   Robert Betagole         Douglas J. Coats          Robert E. Fowler, III
+   Kermit G. Hicks         Milton J. Taylor, Sr.     David T. Chase
+   Raymond H. Deck         Thomas H. Friedberg       Stephen M. Qua
+   Paul R. Whitters
+
+   (INSTRUCTION:   To withhold  authority to  vote for  any individual,  write
+   that nominee's name in the space provided below.)
+
+
+   ------------------------------------------------------------------------
+   
+   (Continued and to be signed, on the other side)
+- ------------------------------------------------------------------------------
+                                                     FOR   AGAINST   ABSTAIN
+2. Approval of the proposed amendment to the
+   Certificate of Incorporation to increase
+   the total number of authorized shares of
+   Common Stock, $.10 par value, from
+   10,000,000 to 15,000,000.                         [ ]     [ ]       [ ]
+
+
+
+3. Approval of adoption of 1996 Stock Incentive
+   Plan.                                             [ ]     [ ]       [ ]
+
+
+IN  THEIR DISCRETION,  THE PROXIES  ARE  AUTHORIZED TO  VOTE  UPON SUCH  OTHER
+BUSINESS AS MAY PROPERLY COME BEFORE THE MEETING.
+
+This  proxy, when  properly  executed, will  be voted  in the  manner directed
+herein  by the undersigned  stockholder. IF NO  DIRECTION IS MADE,  THIS PROXY
+WILL BE  VOTED FOR  THE  DIRECTOR NOMINEES  LISTED ON  THE  REVERSE SIDE.  The
+undersigned  acknowledges   receipt  of  this  Notice  of  Annual  Meeting  of
+Stockholders to be held on June 11, 1996 and the related Proxy Statement.
+
+                           Please sign  below exactly as  name appears.   When
+                           shares  are  held  by  joint  tenants, both  should
+                           sign.    When signing  as  attorney,  as  executor,
+                           administrator,  trustee  or guardian,  please  give
+                           full  title as such.  If a corporation, please sign
+                           in  full  corporate  name  by  President  or  other
+                           authorized  officer.  If a partnership, please sign
+                           in partnership name by authorized person.
+
+                           Dated                                       ,  1996
+                                 -------------------------------------
+
+
+                           ---------------------------------------------
+                           Signature
+
+
+                           ---------------------------------------------
+                           Signature if held jointly
+
+
+PLEASE MARK,  SIGN, DATE AND RETURN THE PROXY CARD PROMPTLY USING THE ENCLOSED
+ENVELOPE.
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

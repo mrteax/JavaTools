@@ -1,0 +1,812 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Byc8xKsHr6+v6GG9AE7zMmo+76rAO8HyWyQ1v91knayj2LoZ+Iosxxb7rC0V7CKq
+ pCIRIfU9to2NwMaLNF1Nng==
+
+<SEC-DOCUMENT>0000910195-97-000192.txt : 19970718
+<SEC-HEADER>0000910195-97-000192.hdr.sgml : 19970718
+ACCESSION NUMBER:		0000910195-97-000192
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19970820
+FILED AS OF DATE:		19970717
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000001923
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL BUILDING CONTRACTORS - NONRESIDENTIAL BUILDINGS [1540]
+		IRS NUMBER:				580522129
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10146
+		FILM NUMBER:		97641772
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 76600
+		CITY:			ALTANTA
+		STATE:			GA
+		ZIP:			30358
+		BUSINESS PHONE:		4042569785
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 76600
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30358
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>NOTICE OF ANNUAL MEETING
+<TEXT>
+
+                         SCHEDULE 14A INFORMATION
+                Proxy  Statement Pursuant to Section 14(a)
+                  of the Securities Exchange Age of 1934
+
+
+
+Filed by the Registrant       /X/
+
+Filed by a Party other than the Registrant
+
+Check the appropriate box:
+
+/ /  Preliminary Proxy Statement
+
+/ /  Confidential, for Use of the Commission Only (as permitted
+     by Rule 14a-6(6)(2)
+
+/x/  Definitive Proxy Statement
+
+/ /  Definitive Additional Materials
+
+/ /  Soliciting Material Pursuant to Section 240.14a-11(c) or
+     Section 240.14a-12
+
+                         ABRAMS INDUSTRIES, INC.
+         ------------------------------------------------
+         (Name of Registrant as Specified in Its Charter)
+
+
+            ------------------------------------------
+            (Name of Person(s) Filing Proxy Statement)
+
+Payment of Filing Fee (Check the appropriate box):
+
+/X/  No fee required.
+
+/ /  Fee computed on table below per Exchange Act Rules 14a-
+     6(i)(1)(4) and 0-11.
+
+/ /  (1)  Title of each class of securities to which transaction
+     applies:
+
+     ----------------------------------------------------------
+
+     (2)  Aggregate number of class of securities to which
+transaction applies:
+
+     ----------------------------------------------------------
+
+     (3)  Per unit price or other underlying value of transaction
+          computed pursuant to Exchange Act Rule 0-11 (set forth
+          the amount on which the filing fee is calculated and
+          state how it was determined):
+
+     ----------------------------------------------------------
+<PAGE>
+                               ABRAMS INDUSTRIES, INC.
+                                  Atlanta, Georgia
+
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+
+To Be Held On August 20, 1997
+
+        The annual meeting of shareholders of ABRAMS INDUSTRIES, INC. (the
+"Company") will be held on Wednesday, August 20, 1997, at 4:00 P.M., Atlanta
+time, in the Ascot Room of the Renaissance Waverly Hotel, 2450 Galleria
+Parkway, Atlanta, Georgia, for the purpose of considering and voting upon the
+following:
+
+                    (1) The election of nine Directors to constitute the
+     Board of Directors until the next annual meeting and until their
+     successors are elected and qualified.
+
+                    (2) Such other matters as may properly come before the
+     meeting or any and all adjournments thereof.
+
+          The Board of Directors has fixed the close of business on July 14,
+1997, as the record date for the determination of the shareholders who will
+be entitled to notice of, and to vote at, this meeting or any and all
+adjournments thereof.
+
+
+
+                              BY ORDER OF THE BOARD OF DIRECTORS
+
+
+
+                             Joseph H. Rubin
+                             President
+
+
+Atlanta, Georgia
+July 18, 1997
+
+
+                       IMPORTANT - YOUR PROXY IS ENCLOSED.
+            PLEASE DATE, SIGN AND MAIL THE ENCLOSED PROXY PROMPTLY.
+                        NO POSTAGE IS REQUIRED IF MAILED
+                 IN THE UNITED STATES IN THE ACCOMPANYING ENVELOPE.
+<PAGE>
+                           ABRAMS INDUSTRIES, INC.
+
+                            EXECUTIVE OFFICES
+
+5775-A Glenridge Drive, NE
+Suite 202
+Atlanta, Georgia  30328
+
+
+                               PROXY STATEMENT
+
+          The following information is furnished in connection with the 
+solicitation of proxies by the Board of Directors of the Company for the 
+annual meeting of shareholders to be held on Wednesday, August 20, 1997, at 
+4:00 P.M., Atlanta time, in the Ascot Room of the Renaissance Waverly Hotel, 
+2450 Galleria Parkway, Atlanta, Georgia. A copy of the Company's annual 
+report for the fiscal year ended April 30, 1997, and a proxy for use at the 
+meeting are enclosed with this proxy statement. This proxy statement and the 
+enclosed proxy were first mailed to shareholders on or about July 18, 1997.
+
+                             GENERAL INFORMATION
+
+          Any proxy given pursuant to this solicitation may be revoked, 
+without compliance with any other formalities, by any shareholder who attends 
+the meeting and gives oral notice of his or her election to vote in person. 
+In addition, any proxy given pursuant to this solicitation may be revoked 
+prior to the meeting by delivering to the President of the Company a notice 
+of revocation or a duly executed proxy for the same shares bearing a later 
+date. All proxies of shareholders solicited by the Company which are properly 
+executed and received by the President of the Company prior to the meeting, 
+and which are not revoked, will be voted at the meeting. The shares 
+represented by such proxies will be voted in accordance with the instructions
+thereon, and unless specifically instructed to vote otherwise, the 
+individuals named in the enclosed proxy will vote to elect all the nominees 
+as set forth in this proxy statement. Abstentions and broker non-votes will 
+be included in determining whether a quorum is present at the Annual Meeting, 
+but will otherwise have no effect on the election of the nominees for 
+Director. For purposes of determining approval of a matter presented at the
+meeting other than the election of directors, abstentions will be deemed 
+present and entitled to vote and will, therefore, have the same legal effect 
+as a vote "against" a matter presented at the meeting. Broker non-votes will 
+be deemed not entitled to vote on the subject matter as to which the non-vote 
+is indicated and will, therefore, have no legal effect on the vote on that 
+particular matter. A system administered by the Company's transfer agent will 
+tabulate the votes cast.
+
+          The cost of soliciting proxies is paid by the Company. Copies of 
+solicitation material may be furnished to banks, brokerage houses and other 
+custodians, nominees and fiduciaries for forwarding to beneficial owners of 
+shares of the Company's common stock, $1.00 par value per share (the "Common 
+Stock"), and normal handling charges may be paid for such forwarding service. 
+In addition to soliciting by mail, Directors and regular employees of the 
+Company, at no additional compensation, may assist in soliciting proxies by 
+telephone or other means.
+
+          As of July 14, 1997, the record date for the annual meeting, there
+were 2,942,356 shares of Common Stock outstanding and entitled to vote. The 
+holders of Common Stock, the only class of voting stock of the Company 
+outstanding, are entitled to one vote per share.
+
+
+                                     1<PAGE>
+NOMINATION AND ELECTION OF DIRECTORS
+
+          The Board of Directors recommends the election of the nine (9) 
+nominees listed below to constitute the entire Board to hold office until the 
+next annual meeting of shareholders and until their successors are elected 
+and qualified. If, at the time of the annual meeting, any of such nominees 
+should be unable to serve, the persons named in the proxy will vote for such 
+substitutes or vote to reduce the number of Directors for the ensuing year as 
+management recommends. Management has no reason to believe that any 
+substitute nominee or nominees or reduction in the number of Directors for 
+the ensuing year will be required. The affirmative vote of a plurality of the 
+votes cast is required to elect the nominees.
+
+          The Company's By-Laws contain an advance notice procedure for the 
+nomination of candidates for election to the Board. Notice of proposed 
+shareholder nominations for election of directors must be given to the 
+Secretary of the Company not less than 60 days nor more than 90 days prior to 
+the meeting at which directors are to be elected, unless the notice of 
+meeting is given less than 60 days prior to the meeting, in which case the 
+notice of nomination must be received not later than the 10th day following
+the day on which the notice of meeting was mailed to shareholders.
+The notice of nomination must contain information about each proposed
+nominee, including age, address, principal occupation, the number of shares
+of stock of the Company beneficially owned by such nominee and such other
+information as would be required to be disclosed under the Securities Exchange
+Act of 1934 (the "Exchange Act"), in connection with any acquisition of
+shares by such nominee or with the solicitation of proxies by such nominee for
+his election as a director. Information must also be disclosed by and about
+the shareholder proposing to nominate that person. The chairman of a
+shareholder meeting may refuse to acknowledge the nomination of any person
+not made in compliance with the foregoing procedure.
+
+          All of the nominees are now Directors of the Company
+and have served continuously since their first election. The following
+information relating to: (1) age as of August 20, 1997; (2) directorships in
+other publicly-held companies; (3) positions with the Company; (4)
+principal employment; and (5) Common Stock beneficially owned as of June
+30, 1997, has been furnished by the respective nominees. Except as otherwise
+indicated, each nominee has been or was engaged in his present or last
+principal employment, in the same or a similar position, for more than five
+years.
+<TABLE>
+<CAPTION>
+================================================================================================================
+                                                                                                  SHARES OF 
+                                                                                                 COMMON STOCK 
+                                   INFORMATION ABOUT NOMINEES                                 BENEFICIALLY OWNED
+NAME                                    FOR DIRECTOR                                          (PERCENT OF CLASS)
+- ----------------------------------------------------------------------------------------------------------------
+<S>                              <C>                                                               <C>
+Alan R. Abrams                   A Director of the Company since 1992, he has                       97,093 <F1>
+                                 been President of Abrams Properties, Inc. since                    (3.30%)
+                                 September 1994. Prior to that he served as 
+                                 Vice President of Abrams Properties, Inc.
+                                 Mr. Abrams is 42.
+
+Bernard W. Abrams                A Director of the Company since 1952, he has                      612,208 <F2>
+                                 been Chairman of the Executive Committee                           (20.81%)
+                                 since August 1995. Prior to that he served as 
+                                 Chairman of the Board of Directors and Chief 
+                                 Executive Officer. Mr. Abrams is 72. 
+                               2<PAGE>
+Edward M. Abrams                 A Director of the Company since 1953, he has                      597,900 <F3>
+                                 been Chairman of the Board of Directors and                        (20.32%)
+                                 Chief Executive Officer since August 1995. 
+                                 Prior to that he served as President and 
+                                 Treasurer of the Company. Mr. Abrams is 70.
+
+J. Andrew Abrams                 A Director of the Company since 1992, he has                       81,390
+                                 been a Vice President of Abrams Fixture                            (2.77%)
+                                 Corporation since September 1994. Prior to 
+                                 that he served as Vice President of Abrams 
+                                 Properties, Inc. Mr. Abrams is 37. 
+
+Paula Lawton Bevington           A Director of the Company since 1992, she is                        200*
+                                 Chairman of Servidyne Systems, Inc. 
+                                 (mechanical engineering services company). 
+                                 Ms. Bevington is 59.
+
+Donald W. MacLeod                A Director of the Company since 1984, he is                        2,500*
+                                 Chairman of the Board of IRT Property 
+                                 Company (a real estate investment trust). 
+                                 Mr. MacLeod is 72.
+
+L. Anthony Montag                A Director of the Company since 1969, he is                        5,461* <F4>
+                                 Chief Executive Officer of A. Montag & 
+                                 Associates, Inc. (investment counselors). 
+                                 Mr. Montag is 63. 
+
+Joseph H. Rubin                  A Director of the Company since 1983, he has                      15,159*  <F5>
+                                 been President and Chief Operating Officer 
+                                 since August 1995. Prior to that he served 
+                                 as Executive Vice President, Chief Financial 
+                                 Officer and Secretary of the Company.
+                                 Mr. Rubin is 54.
+
+Felker W. Ward, Jr.              A Director of the Company since 1992, he is                        2,103*
+                                 Chairman of Pinnacle Investment Advisors, 
+                                 Inc. (investment advisory services) and President 
+                                 of Ward and Associates, Inc. (investment bankers).
+                                 He is a Director of AGL Resources, Inc. and 
+                                 Fidelity National Bank. Mr. Ward is 64.
+===================================================================================================================
+
+*Owns less than 1% of outstanding shares.
+<FN>
+<F1>Includes 17,132 shares owned by Mr. Abrams as custodian for
+    his minor children and 100 shares owned by his wife.
+
+<F2>Does not include 144,817 shares (4.92% of the outstanding
+    shares) owned by trusts established by the parents of Bernard W.
+    Abrams, and under which Bernard W. Abrams and his children are
+    beneficiaries. Both trusts are administered by an independent trustee
+    who holds the power to vote and dispose of the shares.
+
+
+                                 3
+<PAGE>
+<F3>Includes 12,389 shares owned jointly with Mr. Abrams' wife
+    and 16,109 shares owned by Mrs. Abrams. Does not include 144,817
+    shares (4.92% of the outstanding shares) owned by trusts established
+    by the parents of Edward M. Abrams and under which Edward M. Abrams
+    and his children are beneficiaries. Both trusts are administered by
+    an independent trustee who holds the power to vote and dispose of the
+    shares.
+
+<F4>Shares are owned by a partnership of which Mr. Montag is the
+    managing partner and in which he has a substantial beneficial
+    interest.
+
+<F5>Includes 14,330 shares owned jointly with Mr. Rubin's wife
+    and 829 shares owned by Mrs. Rubin as custodian for their son.
+</FN>
+</TABLE>
+
+          Bernard W. Abrams and Edward M. Abrams are brothers.
+Alan R. Abrams and J. Andrew Abrams are sons of Edward M. Abrams and
+nephews of Bernard W. Abrams. There are no other family relationships
+between any Director or Executive Officer and any other Director or
+Executive Officer of the Company.
+
+                  MEETINGS AND COMMITTEES OF THE BOARD OF DIRECTORS
+
+          The Board of Directors held four meetings, the Audit
+Committee held one meeting and the Compensation Committee held one
+meeting during the year ended April 30, 1997. All of the Directors
+attended at least 75% of the aggregate of such meetings and the meetings
+of each committee of the Board on which they serve, with the exception of
+Bernard W. Abrams who attended 50% of the aggregate of such meetings.
+
+          The Board has a standing Executive Committee currently
+consisting of Bernard W. Abrams, Edward M. Abrams, Alan R. Abrams, J.
+Andrew Abrams and Joseph H. Rubin. This committee is empowered to take
+actions that do not  require the approval of the full Board of Directors.
+All actions of the Executive Committee are subsequently reviewed and
+approved by the full Board of Directors. No fees are paid for service on
+this Committee.
+
+          The Board has a standing Audit Committee currently consisting
+of Paula Lawton Bevington, Richard H. Danielson, Donald W. MacLeod,
+L. Anthony Montag and Felker W. Ward, Jr. This committee is authorized to
+review the scope and results of audits and recommendations made relating
+to internal controls by the external and internal auditors; appraise the
+independence of, and recommend the appointment of the external auditors;
+and review the adequacy of the Company's financial controls. The Audit
+Committee held one meeting during the year ended April 30, 1997.
+
+          The Board formed a Compensation Committee, composed
+entirely of outside Directors, in May 1996. The committee currently
+consists of Paula Lawton Bevington, Richard H. Danielson, Donald W.
+MacLeod, L. Anthony Montag and Felker W. Ward, Jr. This committee is
+authorized to review and approve the compensation of the Company's
+executive officers. The Compensation Committee held one meeting during
+the year ended April 30, 1997.  No fees are paid for service on this
+Committee.
+
+          The Company does not have a Nominating Committee.
+
+
+                                4<PAGE>
+              PRINCIPAL HOLDERS OF THE COMPANY'S SECURITIES
+            AND HOLDINGS BY EXECUTIVE OFFICERS AND DIRECTORS
+
+          As of June 30, 1997, the following "persons" (as that
+term is defined by the Securities and Exchange Commission) are deemed to
+be owners of record or beneficial owners of the Common Stock: (1) persons
+who own more than 5% of the outstanding shares of such stock; (2) persons
+who are executive officers of the Company who are not Directors; and (3)
+all persons who are executive officers and Directors of the Company as a
+group.
+<TABLE>
+<CAPTION>
+                                                                       SHARES OF              PERCENTAGE OF
+                                                                      COMMON  STOCK            OUTSTANDING
+NAME AND ADDRESS                                                   BENEFICIALLY OWNED             SHARES
+
+<S>                                                                    <C>                        <C>
+Bernard W. Abrams                                                       612,208 <F1>              20.81%
+Post Office Box 76600
+Atlanta, Georgia 30358
+
+Edward M. Abrams                                                        597,900 <F2>              20.32%
+Post Office Box 76600
+Atlanta, Georgia 30358 
+
+Melinda S. Garrett                                                        --                        --
+Post Office Box 76600
+Atlanta, Georgia 30358
+
+B. Michael Merritt                                                        --                        --
+Post Office Box 76600
+Atlanta, Georgia 30358
+
+Richard V. Priegel                                                        13,933 <F3>                 *
+Post Office Box 76600
+Atlanta, Georgia 30358
+
+All Executive Officers                                                 1,427,947 <F3>            48.53%
+  and Directors as a group (12 persons)
+
+*Less than 1%
+<FN>
+<F1>Does not include 144,817 shares (4.92% of the outstanding shares)
+    owned by trusts established by the parents of Bernard W. Abrams, and
+    under which Bernard W. Abrams and his children are beneficiaries.
+    Both trusts are administered by an independent trustee who holds the
+    power to vote and dispose of the shares. 
+
+<F2>Includes 12,389 shares owned jointly with Mr. Abrams' wife
+    and 16,109 shares owned by Mrs. Abrams. Does not include 144,817
+    shares (4.92% of the outstanding shares) owned by trusts established
+    by the parents of Edward M. Abrams, and under which Edward M. Abrams
+    and his children are beneficiaries. Both trusts are administered by
+    an independent trustee who holds the power to vote and dispose of the
+    shares.
+
+
+                              5<PAGE>
+<F3>Includes 13,666 shares which may be acquired under presently
+    exercisable stock options.
+</FN>
+</TABLE>
+              COMPENSATION OF EXECUTIVE OFFICERS AND DIRECTORS
+
+          The following table sets forth all cash compensation paid by
+the  Company and its subsidiaries (for the purposes of this section
+collectively referred to as the "Company") to the Chief Executive Officer
+("CEO") and each of the five other most highly compensated Executive
+Officers for services rendered in all capacities during the Company's
+last three fiscal years:
+<TABLE>
+<CAPTION>
+                                                                                        Other
+                                                                                        Annual          All Other
+                Name and                       Fiscal    Salary         Bonus        Compensation    Compensation
+           Principal Position                   Year        ($)        ($) <F1>         ($) <F2>            ($)
+ --------------------------------------------------------------------------------------------------------------------------
+ <S>                                            <C>       <C>          <C>                <C>           <C>      
+ Edward M. Abrams                               1997      355,420       81,084            --              35,207        <F3>
+    Chairman of the Board of Directors          1996      341,744       76,555            --              33,759
+    and Chief Executive Officer                 1995      341,744       73,693            --              32,161
+ Joseph H. Rubin                                1997      301,860       62,429            --              32,547        <F4>
+    Director, President, Chief Operating        1996      251,836       51,611            --              31,347
+    Officer                                     1995      251,836       47,233            --              30,459
+ Bernard W. Abrams                              1997      206,904       58,255            --              14,755        <F5>
+    Director, Chairman of the Executive         1996      246,334       79,416            --              16,959
+    Committee                                   1995      341,744       73,693            --              33,614
+ Alan R. Abrams                                 1997      137,752       72,669            --              30,706        <F6>
+    Director, President,                        1996      123,614       16,164            --              17,886
+    Abrams Properties, Inc.                     1995      105,000       26,307            --             16,324
+ B. Michael Merritt                             1997      118,850      125,433            --              17,701        <F7>
+    President, Abrams Construction,             1996      108,925      119,958            --              15,925
+    Inc.                                        1995      103,980      107,913            --              15,845
+ Richard V. Priegel                             1997      125,976       80,485            --              14,532        <F8>
+    President, Abrams Fixture                   1996      117,988        6,269            --                 --
+    Corporation                                 1995      117,988        6,269            --               1,378
+<FN>
+<F1>Consists of cash bonuses, cash profit-sharing and special incentive 
+    payments (both accrued and deferred, during the applicable fiscal
+    year, at the election of the Executive Officer).
+
+<F2>Perquisites and other benefits paid by the Company on behalf
+    of the Executive Officers do not meet the SEC threshold for
+    disclosure.
+
+<F3>Consists of benefits derived from Company paid premiums on
+    split dollar life insurance policies of $4,607, amounts credited to
+    Mr. Abrams' account in the Company's Deferred Profit-Sharing Plan of
+    $19,200, and directors fees of $11,400.
+
+                               6
+<PAGE>
+<F4>Consists of amounts credited to Mr. Rubin's account in the
+    Company's Employee's Deferred Compensation Plan of $1,850, benefits
+    derived from Company paid premiums on a split dollar life insurance
+    policy of $97, amounts credited to Mr. Rubin's account in the
+    Company's Deferred Profit-Sharing Plan of $19,200, and directors fees
+    of $11,400.
+
+<F5>Consists of benefits derived from Company paid premiums on a split
+    dollar life insurance policy of $5,755, and directors fees of $9,000.
+
+<F6>Consists of amounts credited to Mr. Abrams' account in the
+    Company's Deferred Profit-Sharing Plan of $19,306, and directors fees
+    of $11,400.
+
+<F7>Consists of amount credited to Mr. Merritt's account in the
+    Company's Deferred Profit-Sharing Plan.
+
+<F8>Consists of amount credited to Mr. Priegel's account in the
+    Company's Deferred Profit-Sharing Plan.
+</FN>
+</TABLE>
+          The Company entered into an employment agreement with
+Mr. Bernard W. Abrams effective August 23, 1995, when Mr. Abrams ceased
+to be Chairman of the Board of Directors and Chief Executive Officer.
+This agreement, which provides that Mr. Abrams will serve initially as
+Chairman of the Executive Committee, continues for a ten-year term or
+until Mr. Abrams' death or disability, if earlier, and provides for an
+initial annual salary of $200,000 with annual increases of 5%. Mr. Abrams
+is also entitled to participate in other employee benefit plans generally
+provided by the Company.
+
+                OPTION EXERCISES AND FISCAL YEAR-END VALUES
+
+          The following table shows for the Company's CEO and
+other Executive Officers named in the Summary Compensation Table on the
+previous page, the number of shares covered by both exercisable and
+non-exercisable stock options as of April 30, 1997, and the values for
+"in-the-money" options, based on the positive spread between the exercise
+price of any such existing stock options and the fiscal year-end market
+price of the Company's Common Stock.
+<TABLE>
+<CAPTION>
+                                        Aggregated Option Exercises in Last Fiscal Year
+                                            and Fiscal Year-End Option Values
+
+                           SHARES                       SHARES OF SECURITIES               VALUE OF UNEXERCISED
+                      ACQUIRED ON    VALUE         UNDERLYING UNEXERCISED OPTIONS        IN-THE-MONEY OPTIONS AT
+                        EXERCISE    REALIZED             AT APRIL 30, 1997                    APRIL 30, 1997
+           NAME           (#)          ($)         EXERCISABLE       UNEXERCISABLE       EXERCISABLE    UNEXERCISABLE
+ <S>                       <C>         <C>         <C>                    <C>             <C>            <C>
+ Edward M. Abrams          --          --              --                 --              $  --          $    --
+ Joseph H. Rubin           --          --            4,000                --               10,500             --
+ Bernard W. Abrams         --          --              --                 --                 --               --
+ Alan R. Abrams            --          --              --                 --                 --               --
+ B. Michael Merritt        --          --              --                 --                 --               --
+ Richard V. Priegel        --          --           13,666                --               25,041             --
+</TABLE>
+
+
+                                7
+<PAGE>
+                      COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS 
+                              REPORT ON EXECUTIVE COMPENSATION
+
+          The objectives of the Company's compensation program
+are to enhance the profitability of the Company, and thus shareholder
+value, by aligning  compensation with business goals and performance and
+attracting, retaining and rewarding Executive Officers who contribute to
+the long-term success of the Company. In furtherance of these goals, the
+Company's compensation program for Executive Officers includes base
+salary and annual bonus. In addition, at the discretion of the Board of
+Directors, selected Executive Officers may participate in the Senior
+Management Deferral Plan, which is designed to permit eligible employees
+to defer a portion of their incentive compensation. The Compensation
+Committee reviews and approves the compensation of the Company's
+Executive Officers. 
+
+          SALARY. The Compensation Committee determines the base
+salary for the Executive Officers, including the CEO, based upon the
+financial performance (including profitability and/or revenues) of the
+Company or subsidiary, as the case may be, and upon the individual's
+level of responsibility, time with the Company, contribution and
+performance. Evaluation of these factors is subjective, and no fixed,
+relative weights are assigned to the criteria considered. The beginning
+point for determining the salary is the base salary the Executive Officer
+received in the prior fiscal year.
+
+          BONUS. The majority of the Bonuses and All Other Compensation 
+reported in the Summary Compensation Table was paid pursuant to the
+Company's profit-sharing plan. In general, all employees meeting certain
+service requirements are eligible to participate in this plan. The
+aggregate contribution of the Company is set annually by the Board of
+Directors and then allocated based on the eligible compensation of
+participants. As a result, profit-sharing plan allocations are based on
+the same factors as are the salaries of the Executive Officers. 
+
+          The Board of Directors of the Company or the Board of
+Directors of a subsidiary company, as the case may be, determines the
+amount of an annual cash bonus, separate from the profit-sharing plan,
+for certain of the Executive Officers. These bonuses are based upon the
+financial performance (including profitability and/or revenues) of the
+Company or subsidiary, as the case may be, and upon the individual's
+level of responsibility, time with the Company, contribution and
+performance. During the most recently completed fiscal year, neither the
+CEO nor the President received any such annual cash bonus.
+
+          The Company does not anticipate that the law that
+serves to cap executive compensation that is deductible by the Company at
+$1,000,000 will have any impact on the compensation policies of the
+Company.
+
+          The tables included in the proxy statement and accompanying 
+narrative and footnotes, reflect the decisions covered by the above 
+discussion. The foregoing report has been furnished by the members of the
+Compensation Committee of the Board of Directors: Paula Lawton Bevington,
+Richard H. Danielson, Donald W. MacLeod, L. Anthony Montag, Felker W.
+Ward, Jr.
+
+                         DIRECTORS COMPENSATION
+
+          Each Director is paid a retainer of $550 per month and
+a fee of $1,200 per Board of Directors meeting attended. In addition,
+Directors who are members of the Audit Committee, but who are not
+Officers of the Company, are paid a fee of $600 for each Audit Committee
+meeting attended.
+
+          DIRECTORS' DEFERRED COMPENSATION PLAN. The Company maintains a 
+Directors' Deferred Compensation Plan (the "Deferred Compensation Plan") 
+under which members of the Board of Directors of the Company may elect to
+defer to a future date receipt of all or any part of their compensation
+as Directors and/or as members of a committee of the Board. For
+purposes of the Deferred Compensation Plan, "compensation" means the
+retainer fees and meeting fees payable to such Directors by the 
+
+                               8<PAGE>
+          Company in their capacities as Directors or as members
+of the Audit Committee of the Board of Directors.
+
+          The Deferred Compensation Plan is administered by the
+Executive Committee of the Board of Directors. A committee member may not
+participate in any decision relating in any way to his individual rights
+or obligations as a participant under the Deferred Compensation Plan.
+
+           The Company will make payments of deferred compensation and
+the earnings on such deferred compensation under the Deferred
+Compensation Plan at the time specified by each participant in a lump sum
+or, at the sole discretion of the participant, in no more than five equal
+annual installments. For the year ended April 30, 1997, five members of
+the Board of Directors (including two Executive Officers who are also
+Directors) participated in the Deferred Compensation Plan. 
+
+                 COMPARISON OF FIVE-YEAR CUMULATIVE TOTAL RETURN ON 
+                   $100 INVESTMENT AMONG ABRAMS INDUSTRIES, INC., 
+                       NASDAQ STOCK MARKET (U.S. COMPANIES), 
+            NASDAQ RETAIL TRADE STOCKS AND NASDAQ NON-FINANCIAL STOCKS 
+                            ASSUMING REINVESTMENT OF DIVIDENDS
+
+          Set forth below is a line graph comparing, for the
+five-year period ending April 30, 1997, the cumulative total shareholder
+return (stock price increase plus dividends, divided by beginning stock
+price) on the Company's common stock with that of (i) all U.S. companies
+quoted on NASDAQ, (ii) all retail trade companies quoted on NASDAQ and
+(iii) all non-financial companies quoted on NASDAQ. The stock price
+performance shown on the graph below is not necessarily indicative of
+future price performance.
+<TABLE>
+<CAPTION>
+                                                       04/30/92   04/30/93    04/30/94     04/30/95    04/30/96  04/30/97
+ <S>                                                   <C>        <C>         <C>          <C>          <C>        <C>
+ Abrams Industries, Inc.                               $100.00    $ 118.07    $151.73      $119.83      $ 99.33    $147.97
+ NASDAQ Stock Market (US Companies)                    $100.00    $ 114.98    $127.97      $148.76      $212.07    $224.79
+ NASDAQ Retail Trade Stocks *(See note next page)      $100.00    $  93.10    $101.70      $ 98.97      $135.91    $121.67
+ NASDAQ Non-Financial Stocks                           $100.00    $ 110.18    $123.20      $143.13      $204.48    $208.20
+</TABLE>
+
+                               9
+<PAGE>
+*The Company has selected a different index to use for
+comparative purposes for the fiscal year ended April 30, 1997. In
+the past, the Company has used the NASDAQ Non-Financial Stocks index;
+however, the Company believes the NASDAQ Retail Trade Stocks index is
+more closely related to its overall business, considering that the
+majority of the Company's operating revenues are derived from retailers
+or from companies related to the retail industry.
+
+      INFORMATION CONCERNING THE COMPANY'S INDEPENDENT AUDITORS
+
+          KPMG Peat Marwick LLP were the independent public
+accountants for the Company during the fiscal year ended April 30, 1997.
+Representatives of KPMG Peat Marwick LLP are expected to be present at
+the shareholders' meeting and will have the opportunity to make a
+statement if they desire to do so and to respond to appropriate
+questions. The Board of Directors has not selected auditors for the
+present fiscal year because the matter has not yet been considered.
+
+                             SHAREHOLDERS PROPOSALS
+
+          In accordance with the provisions of Rule 14a-8(a)(3)(I) of the
+Securities and Exchange Commission, proposals of shareholders intended to
+be presented at the Company's 1998 annual meeting of shareholders
+must be received by the Company at its executive offices on or before
+March 21, 1998, in order to be eligible for inclusion in the Company's
+proxy statement and form of proxy for that meeting.
+
+          The Company's By-Laws require notice to the Secretary
+in advance of any regular shareholders' meeting of any shareholder
+proposals.  The By-Laws further require that in connection with such
+proposals the shareholders provide certain information to the Secretary.
+The summary descriptions of the By-Laws contained in this Proxy Statement
+are not intended to be complete and are qualified in their entirety by
+reference to the text of the By-Laws, which are available upon request of
+the Company.
+
+                               OTHER MATTERS
+
+          The Board of Directors knows of no other matters to be
+brought before the annual meeting. However, if other matters should come
+before the annual meeting, it is the intention of each person named in
+the proxy to vote the proxy in accordance with his judgment of what is in
+the best interest of the Company.
+
+
+
+                                 BY ORDER OF THE BOARD OF DIRECTORS
+
+
+
+
+                                 Joseph H. Rubin
+                                 President
+
+
+Atlanta, Georgia
+July 18, 1997
+
+                               10
+<PAGE>
+                            ABRAMS INDUSTRIES, INC.
+
+THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS FOR THE ANNUAL MEETING
+             OF SHAREHOLDERS TO BE HELD ON AUGUST 20, 1997
+
+        The undersigned shareholder of Abrams Industries, Inc. hereby 
+constitutes and appoints Edward M. Abrams and Joseph H. Rubin, and either
+of them, the true and lawful attorneys and proxies of the undersigned,
+with full power of substitution and appointment, for and in the name,
+place and stead of the undersigned to act for and to vote all of the
+undersigned's share of Common Stock of Abrams Industries, Inc. at the
+Annual Meeting of Shareholders to be held in Atlanta, Georgia, on
+Wednesday, the 20th day of August 1997 at 4:00 P.M., and at any and all
+adjournments thereof as follows:
+
+        (1) Election of Directors
+
+        /  /  FOR all nominees listed below (except as marked to the
+              contrary below)
+
+        /  / WITHHOLD AUTHORITY to vote for all nominees listed below
+
+   NOMINEES: BERNARD W. ABRAMS; EDWARD M. ABRAMS; ALAN R. ABRAMS; J. 
+   ANDREW ABRAMS; PAULA LAWTON BEVINGTON; DONALD W. MACLEOD;
+   L. ANTHONY MONTAG; JOSEPH H. RUBIN; AND FELKER W. WARD
+
+(INSTRUCTION: TO WITHHOLD AUTHORITY TO VOTE FOR ANY INDIVIDUAL 
+NOMINEE WRITE THAT NOMINEE'S NAME IN THE SPACE PROVIDED BELOW.)
+          
+_______________________________________________________________________
+
+        (2) For the transaction of such other business as may lawfully
+come before the meeting; hereby revoking any proxies as to said shares
+heretofore given by the undersigned and ratifying and confirming all that
+said attorneys and proxies may lawfully do by virtue hereof.
+
+        It is understood that this Proxy confers discretionary authority
+in respect to matters not known to or determined by the undersigned at
+the time of mailing of notice of the meeting.
+
+        THE BOARD OF DIRECTORS FAVORS A VOTE "FOR" THE ELECTION OF THE 
+PERSONS NAMED IN THE PROXY STATEMENT, AND UNLESS INSTRUCTIONS TO THE
+CONTRARY ARE INDICATED IN THE SPACE PROVIDED, THIS PROXY WILL BE SO
+VOTED.
+
+        The undersigned hereby acknowledges receipt of the Notice of
+Annual Meeting of Shareholders dated July 18, 1997, and the Proxy
+Statement furnished therewith.
+
+                              ______________________________________
+
+Date and                      ______________________________________
+signed _________, 1997       (Signature should agree with name hereon.
+                             Executors, administrators, trustees,
+                             guardians and attorneys should so indicate
+                             when signing. For joint accounts each owner
+                             should sign. Corporations should sign full
+                             corporate name by duly authorized officer.)
+
+        This Proxy is revocable at or at any time prior to the meeting. 
+Please sign and return this Proxy to SunTrust Bank, Attn: Corporate Trust
+Department, P.O. Box 4625, Atlanta, Georgia 30302, in the accompanying 
+prepaid envelope.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

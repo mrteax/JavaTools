@@ -1,0 +1,2665 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RbZtOEK4AOB0VsVlz+wmQrimiwxzxkqC9bKsbEItT4cF0IfsVfQupxHmYCwO2hbE
+ jYjczWZbHSZ/G3hxfFIydg==
+
+<SEC-DOCUMENT>/in/edgar/work/20000727/0001107049-00-500052/0001107049-00-500052.txt : 20000921
+<SEC-HEADER>0001107049-00-500052.hdr.sgml : 20000921
+ACCESSION NUMBER:		0001107049-00-500052
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000823
+FILED AS OF DATE:		20000727
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000001923
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [1540
+]		IRS NUMBER:				580522129
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0430
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		DEF 14A
+			SEC ACT:		
+			SEC FILE NUMBER:	000-10146
+			FILM NUMBER:		679999
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		1945 THE EXCHANGE, SE
+				STREET 2:		SUITE 300
+				CITY:			ALTANTA
+				STATE:			GA
+				ZIP:			30339-2029
+				BUSINESS PHONE:		7709530304
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		P O BOX 724728
+					STREET 2:		STE 202
+					CITY:			ATLANTA
+					STATE:			GA
+					ZIP:			31139-1728
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>abr00pxy.txt
+<DESCRIPTION>ABRAMS INDUSTRIES, INC. NOTICE AND PROXY
+<TEXT>
+
+                         SCHEDULE 14A INFORMATION
+                Proxy Statement Pursuant to Section 14(a)
+                  of the Securities Exchange Act of 1934
+
+
+
+Filed by the Registrant       /X/
+
+Filed by a Party other than the Registrant
+
+Check the appropriate box:
+
+/ /  Preliminary Proxy Statement
+
+/ /  Confidential, for Use of the Commission Only (as permitted
+     by Rule 14a-6(6)(2)
+
+/X/  Definitive Proxy Statement
+
+/ /  Definitive Additional Materials
+
+/ /  Soliciting Material Pursuant to Section 240.14a-11(c) or
+     Section 240.14a-12
+
+                       ABRAMS INDUSTRIES, INC.
+         ------------------------------------------------
+         (Name of Registrant as Specified in Its Charter)
+
+                              N/A
+            ------------------------------------------
+            (Name of Person(s) Filing Proxy Statement)
+
+Payment of Filing Fee (Check the appropriate box):
+
+/X/  No fee required.
+
+/ /  Fee computed on table below per Exchange Act Rules 14a-
+     6(i)(1)(4) and 0-11.
+
+/ /  (1)  Title of each class of securities to which transaction
+          applies:
+
+     ----------------------------------------------------------
+
+     (2)  Aggregate number of class of securities to which
+          transaction applies:
+
+     ----------------------------------------------------------
+
+     (3)  Per unit price or other underlying value of transaction
+          computed pursuant to Exchange Act Rule 0-11 (set forth
+          the amount on which the filing fee is calculated and
+          state how it was determined):
+
+     ----------------------------------------------------------
+
+<PAGE>
+                            ABRAMS INDUSTRIES, INC.
+                                Atlanta, Georgia
+
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+
+                         TO BE HELD ON AUGUST 23, 2000
+
+
+
+      The  Annual  Meeting  of  Shareholders  of ABRAMS  INDUSTRIES,  INC.  (the
+"Company")  will be held on Wednesday,  August 23, 2000,  at 4:00 P.M.,  Atlanta
+time, at the Company's  Corporate  Headquarters,  1945 The Exchange,  Suite 300,
+Atlanta, Georgia, for the purpose of considering and voting upon the following:
+
+      (1)   The  election  of  eleven  Directors  to  constitute  the  Board  of
+            Directors  until the next Annual Meeting and until their  successors
+            are elected and qualified.
+
+      (2)   To approve the  Company's  2000 Stock  Award Plan (the "Stock  Award
+            Plan").
+
+
+      (3)   Such other  matters as may  properly  come before the meeting or any
+            and all adjournments thereof.
+
+
+      The Board of  Directors  has fixed the close of business on July 10, 2000,
+as the  record  date  for the  determination  of the  shareholders  who  will be
+entitled to notice of, and to vote at, this meeting or any and all  adjournments
+thereof.
+
+
+
+
+                                          BY ORDER OF THE BOARD OF DIRECTORS
+
+
+
+                                          Alan R. Abrams
+                                          CO-CHAIRMAN OF THE BOARD
+                                          PRESIDENT AND CHIEF EXECUTIVE OFFICER
+
+
+Atlanta, Georgia
+July 27, 2000
+
+
+                      IMPORTANT - YOUR PROXY IS ENCLOSED.
+            PLEASE DATE, SIGN AND MAIL THE ENCLOSED PROXY PROMPTLY.
+                        NO POSTAGE IS REQUIRED IF MAILED
+               IN THE UNITED STATES IN THE ACCOMPANYING ENVELOPE.
+
+
+<PAGE>
+                            ABRAMS INDUSTRIES, INC.
+
+                               EXECUTIVE OFFICES
+
+                               1945 The Exchange
+                                   Suite 300
+                          Atlanta, Georgia 30339-2029
+
+                                PROXY STATEMENT
+
+      The following information is furnished in connection with the solicitation
+of proxies by the Board of  Directors  of the Company for the Annual  Meeting of
+Shareholders  (the "Meeting") to be held on Wednesday,  August 23, 2000, at 4:00
+P.M., Atlanta time, at the Company's Corporate Headquarters,  1945 The Exchange,
+Suite 300,  Atlanta,  Georgia.  A copy of the  Company's  Annual  Report for the
+fiscal  year  ended  April  30,  2000,  and a proxy for use at the  meeting  are
+enclosed with this Proxy Statement.  This Proxy Statement and the enclosed proxy
+first were mailed to shareholders on or about July 27, 2000.
+
+
+                              GENERAL INFORMATION
+
+      Any proxy given  pursuant  to this  solicitation  may be revoked,  without
+compliance  with any other  formalities,  by any  shareholder  who  attends  the
+Meeting  and gives oral  notice of his or her  election  to vote in  person.  In
+addition,  any proxy given pursuant to this solicitation may be revoked prior to
+the Meeting by delivering to the President of the Company a notice of revocation
+or a duly executed  proxy for the same shares  bearing a later date. All proxies
+of  shareholders  solicited  by the  Company  which are  properly  executed  and
+received by the President of the Company prior to the Meeting, and which are not
+revoked,  will be voted at the Meeting.  The shares  represented by such proxies
+will  be  voted  in  accordance  with  the  instructions   thereon,  and  unless
+specifically instructed to vote otherwise, the individuals named in the enclosed
+proxy will vote to elect all the  nominees as set forth in this Proxy  Statement
+and in favor of the Stock Award Plan.  Abstentions and broker  non-votes will be
+included in determining  whether a quorum is present at the Annual Meeting,  but
+will  otherwise  have no effect on the  election of the nominees for Director or
+the approval of the Stock Award Plan. For purposes of determining  approval of a
+matter  presented at the Meeting  other than the  election of Directors  and the
+approval  of the  Stock  Award  Plan,  abstentions  will be deemed  present  and
+entitled  to vote  and  therefore  will  have the same  legal  effect  as a vote
+"against" a matter presented at the Meeting. Broker non-votes will be deemed not
+entitled to vote on the subject matter as to which the non-vote is indicated and
+will,  therefore,  have no legal effect on the vote on that particular matter. A
+system  administered  by the  Company's  transfer  agent will tabulate the votes
+cast.
+
+      The  cost  of  soliciting  proxies  is  paid  by the  Company.  Copies  of
+solicitation  material  may be furnished  to banks,  brokerage  houses and other
+custodians,  nominees and  fiduciaries  for  forwarding to beneficial  owners of
+shares of the  Company's  common  stock,  $1.00 par value per share (the "Common
+Stock"), and normal handling charges may be paid for such forwarding service. In
+addition to soliciting by mail,  Directors and regular employees of the Company,
+at no additional compensation,  may assist in soliciting proxies by telephone or
+other means.
+
+      As of July 10, 2000,  the record date for the Annual  Meeting,  there were
+2,936,356  shares of Common Stock  outstanding and entitled to vote. The holders
+of Common Stock, the only outstanding class of voting stock of the Company,  are
+entitled to one vote per share.
+
+<PAGE>
+                      NOMINATION AND ELECTION OF DIRECTORS
+
+      The Board of Directors recommends the election of the eleven (11) nominees
+listed below to constitute the entire Board to hold office until the next Annual
+Meeting of  Shareholders  and until their  successors are elected and qualified.
+If, at the time of the Annual Meeting,  any of such nominees should be unable to
+serve,  the persons named in the proxy will vote for such substitutes or vote to
+reduce the number of Directors  for the ensuing year as  management  recommends.
+Management has no reason to believe that any  substitute  nominee or nominees or
+reduction in the number of Directors for the ensuing year will be required.  The
+affirmative  vote of a  plurality  of the votes  cast is  required  to elect the
+nominees.
+
+      The  Company's  By-Laws  contain  an  advance  notice  procedure  for  the
+nomination  of  candidates  for  election  to  the  Board.  Notice  of  proposed
+shareholder nominations for election of Directors must be given to the Secretary
+of the  Company not less than 60 days nor more than 90 days prior to the meeting
+at which Directors are to be elected, unless the notice of meeting is given less
+than 60 days prior to the meeting,  in which case the notice of nomination  must
+be received not later than the 10th day following the day on which the notice of
+meeting  was mailed to  shareholders.  The  notice of  nomination  must  contain
+information  about each proposed  nominee,  including  age,  address,  principal
+occupation,  the number of shares of stock of the Company  beneficially owned by
+such  nominee and such other  information  as would be required to be  disclosed
+under the Securities  Exchange Act of 1934 (the "Exchange  Act"),  in connection
+with any  acquisition  of shares by such  nominee  or with the  solicitation  of
+proxies by such nominee for his election as a Director. Information must also be
+disclosed by and about the  shareholder  proposing to nominate that person.  The
+chairman of a shareholder  meeting may refuse to  acknowledge  the nomination of
+any person not made in compliance with the foregoing procedure.
+
+      All of the  nominees  are now  Directors  of the  Company  and have served
+continuously since their first election.  The following information relating to:
+(1)  age as of  August  23,  2000;  (2)  directorships  in  other  publicly-held
+companies;  (3) positions with the Company;  and (4) principal  employment,  has
+been furnished by the respective nominees.  Except as otherwise indicated,  each
+nominee  has  been  or was  engaged  in his or her  present  or  last  principal
+employment, in the same or a similar position, for more than five years.
+
+
+
+
+================================================================================
+                                       INFORMATION ABOUT NOMINEES
+            NAME                               FOR DIRECTOR
+- --------------------------------------------------------------------------------
+Alan R. Abrams             A Director  of the Company  since  1992,  he has been
+                           Co-Chairman  of the Board since  August  1998,  Chief
+                           Executive  Officer  since  July 1999,  and  President
+                           since May 2000.   From May 1998 to July 1999,  he was
+                           President and Chief Operating  Officer.  He served as
+                           Executive  Vice  President of the Company from August
+                           1997 to May 1998.  From  July  1994 to May  1998,  he
+                           served as  President,  and from July 1997 to May 1998
+                           as Chief Executive Officer of Abrams Properties, Inc.
+                           Mr. Abrams is 45.
+
+David L. Abrams            A Director of the Company since  February 2000, he is
+                           an attorney with  Sutherland  Asbill & Brennan LLP (a
+                           law firm). Mr. Abrams is 42.
+
+<PAGE>
+
+Edward M. Abrams           A Director  of the Company  since  1953,  he has been
+                           Chairman  of the  Executive  Committee  since  August
+                           1998. He served as Chairman of the Board of Directors
+                           from  August  1995  to  August  1998,  and  as  Chief
+                           Executive  Officer  from August 1995 to August  1997.
+                           Prior to that he served as President and Treasurer of
+                           the Company. Mr. Abrams is 73.
+
+J. Andrew Abrams           A Director  of the Company  since  1992,  he has been
+                           Co-Chairman  of the Board since August 1998, and Vice
+                           President-Business  Development  since May  2000.  He
+                           served as President and Chief Operating  Officer from
+                           July  1999  to  May  2000,   and  as  Executive  Vice
+                           President  from August 1997 to July 1999. He also has
+                           served as Chief  Executive  Officer of Abrams Fixture
+                           Corporation  since July 1997.  From September 1994 to
+                           July 1997, he served Abrams  Fixture  Corporation  as
+                           Vice President. Mr. Abrams is 40.
+
+Paula Lawton Bevington     A Director of the Company since 1992, she is Chairman
+                           of Servidyne Systems, Inc. (a mechanical  engineering
+                           services company). Ms. Bevington is 62.
+
+Gilbert L. Danielson       A  Director  of the  Company  since May  2000,  he is
+                           Executive Vice President, Chief Financial Officer and
+                           a  Director  of  Aaron  Rents,   Inc.  (a  furniture,
+                           consumer   electronics  and  home  appliance  rental,
+                           rental purchase and specialty retailing company). Mr.
+                           Danielson is 53.
+
+Melinda S. Garrett         A Director of the Company since  September  1999, she
+                           has been Chief Financial Officer of the Company since
+                           February 1997. She also has served Abrams Properties,
+                           Inc. as Chief  Financial  Officer since May 1998, and
+                           Vice President since June 1993. Ms. Garrett is 44.
+
+Robert T. McWhinney, Jr.   A Director of the Company since May 2000, he has been
+                           President  and  Chief  Executive  Officer  of Stone &
+                           Webster    Management    Consultants,     Inc.    (an
+                           international consulting company to energy, water and
+                           broader  utility   sectors,   that  is  an  operating
+                           subsidiary of Stone & Webster,  Inc.) since  February
+                           1997. He was an independent  business consultant from
+                           October 1996 to January 1997, and he served Resources
+                           Group,  Ltd.  (a  commercial  consulting  company) as
+                           Senior  Vice   President   from   September  1995  to
+                           September  1996.  From April  1995 to August  1995 he
+                           served as an  independent  business  consultant.  Mr.
+                           McWhinney is 60.
+
+B. Michael Merritt         A Director of the Company since February 2000, he has
+                           been  President of Abrams  Construction,  Inc.  since
+                           June   1995.   Prior   to  that  he   served   Abrams
+                           Construction,  Inc. as Executive Vice President.  Mr.
+                           Merritt is 50.
+
+<PAGE>
+
+L. Anthony Montag          A Director  of the Company  since  1969,  he is Chief
+                           Executive  Officer of A.  Montag &  Associates,  Inc.
+                           (investment counselors). Mr. Montag is 66.
+
+Felker W. Ward, Jr.        A Director of the Company  since 1992, he is Chairman
+                           of Pinnacle  Investment  Advisors,  Inc.  (investment
+                           advisory  services).  He is a Director  of  Shoney's,
+                           Inc., AGL Resources, Inc. and Fidelity National Bank.
+                           Mr. Ward is 67.
+
+================================================================================
+
+      Alan R.  Abrams  and J.  Andrew  Abrams  are  brothers,  sons of Edward M.
+Abrams,  and first cousins of David L. Abrams.  David L. Abrams is the nephew of
+Edward M. Abrams. There are no other family  relationships  between any Director
+or Executive Officer and any other Director or Executive Officer of the Company.
+
+      On June 2,  2000,  in  conjunction  with  and as a  condition  to  Stone &
+Webster,  Inc.'s definitive  agreement to sell  substantially all of its assets,
+Stone  &  Webster  and 71  affiliates,  including  Stone  &  Webster  Management
+Consultants,  Inc.,  of which  Mr.  McWhinney  serves  as  President  and  Chief
+Executive Officer,  sought bankruptcy court approval of the asset sale by filing
+a voluntary petition for reorganization  under Chapter 11 of the U.S. Bankruptcy
+Code. On July 13, 2000, the U.S.  Bankruptcy  Court for the District of Delaware
+approved the sale of substantially all of Stone & Webster,  Inc.'s assets to The
+Shaw Group, Inc., and the transaction was effectively closed on July 14, 2000.
+
+
+               MEETINGS AND COMMITTEES OF THE BOARD OF DIRECTORS
+
+      During the fiscal year ended April 30, 2000,  the Board of Directors  held
+eight  meetings  and  the  Audit  Committee  held  two  meetings.  Although  the
+Compensation Committee did not meet during the fiscal year ended April 30, 2000,
+it held meetings in April 1999 and May 2000. All of the incumbent  Directors who
+served during the fiscal year ended April 30, 2000, attended at least 75% of the
+aggregate of such  meetings  and the meetings of each  committee of the Board on
+which they serve.
+
+      The Board has a standing Executive Committee currently  consisting of Alan
+R. Abrams, Edward M. Abrams, J. Andrew Abrams, Melinda S. Garrett and B. Michael
+Merritt.  This  committee  is  empowered to take actions that do not require the
+approval of the full Board of Directors.  All actions of the Executive Committee
+subsequently are reviewed by the full Board of Directors.
+
+      The Board has a standing  Audit  Committee  composed  entirely  of outside
+Directors.  The committee currently consists of Paula Lawton Bevington,  Gilbert
+L.  Danielson and Felker W. Ward,  Jr. This  committee is  authorized  to, among
+other things,  review the scope and results of audits and  recommendations  made
+relating to internal  controls by the external and internal  auditors;  appraise
+the independence of and recommend the appointment of the external auditors;  and
+review the adequacy of the Company's financial controls.
+
+      The Board has a standing  Compensation  Committee,  composed  entirely  of
+outside Directors.  The committee  currently consists of Paula Lawton Bevington,
+Robert T.  McWhinney,  Jr.,  L.  Anthony  Montag and Felker W.  Ward,  Jr.  This
+committee  is  authorized  to review  and make  recommendations  to the Board of
+Directors regarding the compensation of the Company's Executive Officers.
+
+      The Company does not have a Nominating Committee.
+
+
+<PAGE>
+
+                 PRINCIPAL HOLDERS OF THE COMPANY'S SECURITIES
+                AND HOLDINGS BY EXECUTIVE OFFICERS AND DIRECTORS
+
+      As of April 30, 2000, the following reflects  beneficial  ownership of the
+Common Stock by persons (as that term is defined by the  Securities and Exchange
+Commission)  who: (1) own more than 5% of the outstanding  shares of such stock;
+(2) are Directors; (3) are Executive Officers, named in the Summary Compensation
+Table below;  and (4) are  Executive  Officers and Directors of the Company as a
+group.
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------
+                                                 SHARES OF                    PERCENTAGE OF
+                                               COMMON STOCK                   OUTSTANDING
+NAME AND ADDRESS                            BENEFICIALLY OWNED                  SHARES
+- -----------------------------------------------------------------------------------------------
+<S>                                                <C>     <C>                  <C>
+Edward M. Abrams                                   780,093 <F1>                 26.57%
+
+David L. Abrams                                    685,474 <F2>                 23.34%
+
+Janet B. Abrams                                    685,473 <F3>                 23.34%
+Post Office Box 53407
+Atlanta, Georgia 30355
+
+Judith F. Abrams                                   685,473 <F4>                 23.34%
+Post Office Box 53407
+Atlanta, Georgia 30355
+
+Kandu Partners, L.P.                               612,208                      20.85%
+Post Office Box 53407
+Atlanta, Georgia 30355
+
+Alan R. Abrams                                     500,100 <F5>                 17.03%
+
+Abrams Partners, L.P.                              500,000                      17.03%
+Post Office Box 724728
+Atlanta, Georgia 31139
+
+J. Andrew Abrams                                   500,000 <F6>                 17.03%
+
+BankAmerica Corporation                            289,634 <F7>                  9.86%
+100 South Tryon Street
+Charlotte, North Carolina 28255
+
+L. Anthony Montag                                    5,461                          *
+
+Felker W. Ward, Jr.                                  2,103                          *
+
+Paula Lawton Bevington                                 200                          *
+
+Gerald T. Anderson II                                    0                          *
+
+
+<PAGE>
+
+<CAPTION>
+
+- -----------------------------------------------------------------------------------------------
+                                                 Shares of                    Percentage of
+                                               Common Stock                   Outstanding
+Name and Address                            Beneficially Owned                  Shares
+- -----------------------------------------------------------------------------------------------
+
+Gilbert L. Danielson                                     0                          *
+
+Melinda S. Garrett                                       0                          *
+
+Robert T. McWhinney, Jr.                                 0                          *
+
+B. Michael Merritt                                       0                          *
+
+All Executive Officers
+  and Directors as a group (12 persons)          1,473,431                      50.18%
+
+
+*Less than 1%
+<FN>
+<F1>  Includes 500,000 shares (17.03% of the outstanding shares) owned by Abrams
+      Partners,  L.P. which Edward M. Abrams  beneficially owns due to his joint
+      control of the general partner of such  partnership.  Also includes 12,389
+      shares owned  jointly with and 19,919  shares owned  directly by Edward M.
+      Abrams' wife.  Does not include  144,817 shares (4.93% of the  outstanding
+      shares)  owned by trusts  established  by the parents of Edward M. Abrams,
+      and under which  Edward M. Abrams and his  children,  Alan R.  Abrams,  J.
+      Andrew Abrams, and Laurie Abrams Lindey,  are  beneficiaries.  Both trusts
+      are administered by an independent trustee who holds the power to vote and
+      dispose of the shares.
+
+<F2>  Includes  612,208  shares  (20.85% of  outstanding  shares) owned by Kandu
+      Partners,  L.P. which David L. Abrams  beneficially  owns due to his joint
+      control of the  general  partner  of such  partnership.  Does not  include
+      144,817  shares  (4.93%  of  the  outstanding   shares)  owned  by  trusts
+      established by the grandparents of David L. Abrams,  and under which David
+      L. Abrams, his father,  Bernard W. Abrams,  and his two sisters,  Janet B.
+      Abrams  and  Judith  F.  Abrams,  are   beneficiaries.   Both  trusts  are
+      administered  by an  independent  trustee  who holds the power to vote and
+      dispose of the shares.
+
+<F3>  Includes  612,208  shares  (20.85% of  outstanding  shares) owned by Kandu
+      Partners,  L.P. which Janet B. Abrams  beneficially  owns due to her joint
+      control of the  general  partner  of such  partnership.  Does not  include
+      144,817  shares  (4.93%  of  the  outstanding   shares)  owned  by  trusts
+      established by the grandparents of Janet B. Abrams,  and under which Janet
+      B. Abrams, her father,  Bernard W. Abrams,  her brother,  David L. Abrams,
+      and her  sister,  Judith F.  Abrams,  are  beneficiaries.  Both trusts are
+      administered  by an  independent  trustee  who holds the power to vote and
+      dispose of the shares.
+
+<F4>  Includes  612,208  shares  (20.85% of  outstanding  shares) owned by Kandu
+      Partners,  L.P. which Judith F. Abrams  beneficially owns due to her joint
+      control of the  general  partner  of such  partnership.  Does not  include
+      144,817  shares  (4.93%  of  the  outstanding   shares)  owned  by  trusts
+      established  by the  grandparents  of Judith F.  Abrams,  and under  which
+      Judith F. Abrams,  her father,  Bernard W. Abrams,  her brother,  David L.
+      Abrams, and her sister,  Janet B. Abrams,  are beneficiaries.  Both trusts
+      are administered by an independent trustee who holds the power to vote and
+      dispose of the shares.
+
+<F5>  Includes 500,000 shares (17.03% of the outstanding shares) owned by Abrams
+      Partners,  L.P.  which Alan R. Abrams  beneficially  owns due to his joint
+      control of the general  partner of such  partnership.  Also  includes  100
+      shares  owned by Alan R. Abrams'  wife.  Does not include  144,817  shares
+      (4.93%  of the  outstanding  shares)  owned by trusts  established  by the
+      grandparents  of Alan R.  Abrams,  and under  which  Alan R.  Abrams,  his
+      father,  Edward M. Abrams, his brother,  J. Andrew Abrams, and his sister,
+      Laurie Abrams Lindey, are  beneficiaries.  Both trusts are administered by
+      an  independent  trustee  who holds the power to vote and  dispose  of the
+      shares.
+
+<PAGE>
+
+<F6>  Includes 500,000 shares (17.03% of the outstanding shares) owned by Abrams
+      Partners,  L.P. which J. Andrew Abrams  beneficially owns due to his joint
+      control of the  general  partner  of such  partnership.  Does not  include
+      144,817  shares  (4.93%  of  the  outstanding   shares)  owned  by  trusts
+      established by the  grandparents  of J. Andrew Abrams,  and under which J.
+      Andrew Abrams, his father,  Edward M. Abrams, his brother, Alan R. Abrams,
+      and his sister,  Laurie Abrams Lindey, are beneficiaries.  Both trusts are
+      administered  by an  independent  trustee  who holds the power to vote and
+      dispose of the shares.
+
+<F7>  Consists of shares owned by the trusts referenced in Footnotes 1, 2, 3, 4,
+      5, and 6, of which BankAmerica Corporation serves as trustee.
+</FN>
+</TABLE>
+
+
+            SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+      Section  16(a)  of the  Securities  Exchange  Act  of  1934  requires  the
+Company's  Directors,  certain officers and persons who own more than 10% of the
+outstanding Common Stock of the Company to file with the Securities and Exchange
+Commission  reports of changes in  ownership  of the Common Stock of the Company
+held by such  persons.  These  persons are also  required to furnish the Company
+with  copies of all forms  they file  under this  regulation.  To the  Company's
+knowledge,  based solely on a review of the copies of such reports  furnished to
+the Company and without further inquiry, all required forms were filed on time.
+
+
+                       APPROVAL OF 2000 STOCK AWARD PLAN
+
+PURPOSE OF THE 2000 STOCK AWARD PLAN
+
+      The Board of  Directors  adopted the Abrams  Industries,  Inc.  2000 Stock
+Award Plan (the "Stock  Award  Plan") on May 26,  2000,  subject to  shareholder
+approval. The Board of Directors is recommending that the Company's shareholders
+approve the Stock Award Plan for a number of reasons,  including compliance with
+Section  162(m) of the Internal  Revenue Code of 1986,  as amended (the "Code").
+See  "Compliance  with Section 162(m) of the Internal  Revenue Code" below.  The
+Stock Award Plan,  if approved by the  shareholders,  will be effective  May 26,
+2000,  and will remain in effect until May 26, 2010,  unless it is terminated by
+the Board at an earlier date.
+
+      The Board of Directors believes that the Stock Award Plan will be the most
+direct way of making compensation dependent upon increases in shareholder value.
+It is the intent of the Plan to provide the means  through  which  employees can
+build a  financial  stake in the  Company,  so as to align  employees'  economic
+interests with those of  shareholders.  The Plan is designed to play an integral
+role in the  ability  of the  Company  to  attract  and  retain  key  employees,
+directors, and independent contractors.  Equity ownership among employees is an
+incentive  which can enhance company growth,  profitability,  and,  accordingly,
+shareholder value.
+
+      The following description of the material features of the Stock Award Plan
+is a summary and is  qualified  in its  entirety by reference to the Stock Award
+Plan, a copy of which will be provided to any  shareholder  upon written request
+to the  Company.  The Stock Award Plan is not subject to the  provisions  of the
+Employee Retirement Income Security Act of 1974 (ERISA).
+
+
+<PAGE>
+DESCRIPTION OF AWARDS
+
+      Awards granted under the Stock Award Plan may be "incentive stock options"
+("ISOs"),  as defined in Section 422 of the Code;  "nonqualified  stock options"
+("NQSOs");   shares  of  Common  Stock,  which  may  be  nontransferable  and/or
+forfeitable  under  restrictions,  terms and  conditions  set forth in the award
+agreement  ("restricted  stock" or "stock awards");  stock  appreciation  rights
+("SARs");  or performance  shares.  ISOs may be granted only to employees of the
+Company,  including officers.  NQSOs may be granted to any person employed by or
+performing  services  for the  Company,  including  non-employee  directors  and
+independent contractors.
+
+      The Compensation  Committee of the Board of Directors (the "Committee") or
+its designee  generally has discretion to set the terms and conditions of grants
+and  awards,   including  the  term,  exercise  price,  and  vesting  conditions
+(including  vesting based on the Company's  performance);  to select the persons
+who receive such grants and awards;  and to interpret and  administer  the Stock
+Award Plan.  The number of shares of Common  Stock with  respect to which awards
+may be granted under the Stock Award Plan is a maximum of 1,000,000 shares.  The
+maximum number of shares for which options (ISOs and NQSOs), SARs, or restricted
+stock may be  granted to any  individual  during  any  calendar  year is 300,000
+shares, subject to anti-dilution and similar provisions.  The Board of Directors
+may at any time amend or terminate  the Stock Award Plan,  subject to applicable
+laws. The Company will pay the administrative costs of the Stock Award Plan.
+
+      The  option  price  for each ISO  cannot be not less than 100% of the fair
+market value of the Common Stock  subject to the option.  The option price for a
+NQSO can be less than,  equal to, or greater  than the fair market  value on the
+date of grant.  ISOs are also subject to certain  limitations  prescribed by the
+Code, including the requirement that such options cannot be granted to employees
+who own more than 10% of the  combined  voting  power of all  classes  of voting
+stock (a "principal  shareholder") of the Company, unless the option price is at
+least 110% of the fair market value of the Common  Stock  subject to the option.
+In addition,  an ISO granted to a principal  shareholder  cannot be  exercisable
+more than five years from its date of grant.
+
+      Full payment of the option price must be made when an Option is exercised.
+The purchase price can be paid in cash or in such other form of consideration as
+the  Committee may approve,  which may include  shares of Common Stock valued at
+their fair market value on the date of exercise, or by any other means which the
+Committee  determines to be consistent  with the Stock Award Plan's  purpose and
+applicable law. A Participant  will have no rights as a shareholder with respect
+to the share subject to his Option until the Option is exercised.
+
+TERMINATION OF AWARDS
+
+      The terms of an award may  provide  that it will  terminate,  among  other
+reasons,  upon the holder's  termination  of employment or other status with the
+Company or its  subsidiaries,  upon a specified date, upon the holder's death or
+disability,  or upon the occurrence of a change in control of the Company. Also,
+the  Committee  may,  within the terms of the Stock Award  Plan,  provide in the
+Award Agreement for the acceleration of vesting for any of the above reasons.
+
+
+<PAGE>
+
+COMPLIANCE WITH SECTION 162(M) OF THE INTERNAL REVENUE CODE
+
+      Section  162(m) of the Code denies a deduction  by an employer for certain
+compensation  in  excess of $1.0  million  per year  paid by a  publicly  traded
+corporation  to the  Chief  Executive  Officer  or any of the four  most  highly
+compensated  executive  officers  other than the Chief  Executive  Officer  (the
+"Named  Executive  Officers").  Compensation  realized  with  respect  to  stock
+options,  including upon exercise of an NQSO or upon a disqualifying disposition
+of an ISO, as described below under "Certain  Federal Income Tax  Consequences,"
+will be excluded from this deduction limit if it satisfies certain requirements,
+including a  requirement  that the Stock Award Plan be approved by the Company's
+shareholders.
+
+CERTAIN FEDERAL INCOME TAX CONSEQUENCES
+
+      OPTIONS.  Under  current tax law, a holder of an ISO under the Stock Award
+Plan does not, as a general  matter,  realize  taxable  income upon the grant or
+exercise of the ISO. (Depending upon the holder's income tax situation, however,
+the  exercise  of the ISO may have  alternative  minimum tax  implications.)  In
+general,  a holder of an ISO will only recognize  income at the time that Common
+Stock acquired through exercise of the ISO is sold or otherwise  disposed of. In
+that  situation,  the amount of income that the optionee must recognize is equal
+to the amount by which the value of the Common  Stock on the date of the sale or
+other disposition exceeds the option exercise price. If the optionee disposes of
+the stock after the required  holding  period -- that is, no earlier than a date
+that is two years  after the date of grant of the  option and one year after the
+date of exercise -- the income is taxed as a capital gain. If disposition occurs
+prior to expiration of the holding period,  the optionee will recognize ordinary
+income  equal to the  difference  between the fair market value of the shares at
+the exercise date and the option exercise price; any additional  increase in the
+value of option  shares after the exercise date will be taxed as a capital gain.
+The  Company is  entitled  to a tax  deduction  equal to the amount of  ordinary
+income recognized by the optionee, if any.
+
+      An optionee  will not realize  income when a NQSO option is granted to him
+or her.  Upon  exercise of such option,  however,  the optionee  must  recognize
+ordinary  income to the extent that the fair market value of the Common Stock on
+the date the option is exercised  exceeds the option  exercise  price.  Any such
+gain is taxed in the same  manner as  ordinary  income in the year the option is
+exercised.  Thereafter,  any additional  gain recognized upon the disposition of
+the shares of stock obtained by the exercise of a NQSO will be taxed as short or
+long-term capital gain,  depending on the optionee's holding period. The Company
+will not experience any tax  consequences  upon the grant of a NQSO, but will be
+entitled  to take an income tax  deduction  equal to the amount  that the option
+holder includes in income, if any, when the NQSO is exercised.
+
+      STOCK  AWARDS;  RESTRICTED  STOCK.  With respect to the grant of stock (or
+restricted  stock)  under the  Plan,  the  Company  is of the  opinion  that the
+Participant  will  realize  compensation  income in an amount  equal to the fair
+market value of the stock, less any amount paid for such stock, at the time when
+the  Participant's  rights with respect to such stock are no longer subject to a
+substantial risk of forfeiture,  unless the Participant  elected,  pursuant to a
+special  election  provided in the Code, to be taxed on the stock at the time it
+was  granted.  The Company is also of the opinion  that it will be entitled to a
+deduction under the Code in the amount and at the time that compensation  income
+is recognized by the Participant.
+
+
+<PAGE>
+
+      SARS;  PERFORMANCE SHARE AWARDS. In general,  a Participant will recognize
+compensation  income on account  of the  settlement  of an SAR or a  performance
+share  award  in an  amount  equal  to the sum of any  cash  that is paid to the
+Participant  plus the fair  market  value of Common  Stock (on the date that the
+shares  are  first  transferable  or  not  subject  to  a  substantial  risk  of
+forfeiture)  that is  received in  settlement  of the award.  The  Company  will
+generally be entitled to a deduction for the same amount.
+
+NEW STOCK AWARD PLAN BENEFITS
+
+      As of July 10, 2000,  no options or other  awards have been granted  under
+the Stock  Award  Plan.  Future  awards may be made,  at the  discretion  of the
+Committee. The number of options and awards that may be granted in the future to
+eligible participants is not currently determinable.
+
+VOTE REQUIRED AND RECOMMENDATION OF THE BOARD
+
+      The  affirmative  vote of the  holders of a majority  of the shares of the
+Common  Stock  of the  Company  represented  and  voted at the  Annual  Meeting,
+assuming the presence of a quorum, is required to approve the Stock Award Plan.
+
+      The Board of Directors,  which unanimously  approved the Stock Award Plan,
+recommends a vote "FOR" approval of the Stock Award Plan.
+
+
+<PAGE>
+                COMPENSATION OF EXECUTIVE OFFICERS AND DIRECTORS
+
+      The  following  table  sets forth all  compensation  earned by each of the
+persons who served  during the last fiscal year as the Chief  Executive  Officer
+("CEO") and each of the four other most highly  compensated  Executive  Officers
+for services  rendered in all capacities  during the Company's last three fiscal
+years:
+
+
+<TABLE>
+<CAPTION>
+                                                             Annual Compensation        Other
+                                                             -------------------        Annual             All Other
+        Name and                                  Fiscal     Salary      Bonus       Compensation        Compensation
+     Principal Position                            Year        ($)       ($)<F1>        ($) <F2>              ($)
+- ----------------------------------------------------------------------------------------------------------------------
+<S>                                                <C>       <C>         <C>          <C>                   <C>       <C>
+  Alan R. Abrams                                   2000      225,000     131,912          --                35,366  <F3>
+      Chief Executive Officer since July 1999,     1999      224,692      30,272          --                26,917
+      President since May 2000.                    1998      185,000     185,274          --                34,111
+      President and Chief Operating
+      Officer from May 1998 to July 1999.
+
+  J. Andrew Abrams                                 2000      185,000      65,805          --                22,877  <F4>
+      Vice President-Business Development          1999      183,014       8,497          --                15,674
+      since May 2000. Former President             1998      150,020      10,853          --                15,704
+      and Chief Operating Officer from
+      July 1999 to May 2000, Executive
+      Vice President to July 1999. Chief
+      Executive Officer, Abrams Fixture
+      Corporation.
+
+  B. Michael Merritt                               2000      159,000     168,515          --                18,846  <F5>
+      President, Abrams Construction, Inc.         1999      150,020     253,770          --                21,003
+                                                   1998      126,068     237,470          --                19,559
+
+  Melinda S. Garrett                               2000      149,678     123,884          --                30,453  <F6>
+      Chief Financial Officer.                     1999      139,808      18,420          --                13,546
+      Chief Financial Officer and Vice             1998      115,001     101,072          --                16,508
+      President, Abrams Properties, Inc.
+
+  Gerald T. Anderson II                            2000      190,000     118,958          --                23,063  <F7>
+      President and Chief Executive                1999      180,000      24,682          --                14,578
+      Officer, Abrams Properties, Inc.             1998      120,560     141,573          --                19,407
+
+  Joseph H. Rubin                                  2000       73,000        --        194,023 <F8>          313,762 <F8>
+      Former Chief Executive Officer to            1999      365,000      58,786          --                 28,776
+      July 1999.                                   1998      347,139     112,084          --                 32,288
+
+
+<FN>
+<F1>  Consists  of cash  bonuses,  cash  profit-sharing  and  special  incentive
+      payments (both accrued and deferred,  during the  applicable  fiscal year,
+      such deferral at the election of the Executive Officer).
+
+<F2>  Perquisites  and  other  benefits  paid by the  Company  on  behalf of the
+      Executive  Officers,  other  than as  shown  below,  do not  meet  the SEC
+      threshold for disclosure.
+
+<PAGE>
+
+<F3>  Consists  of amounts  credited  to Mr.  Abrams'  account in the  Company's
+      Deferred Profit-Sharing Plan of $17,766 and directors fees of $17,600.
+
+<F4>  Consists  of amounts  credited  to Mr.  Abrams'  account in the  Company's
+      Deferred Profit-Sharing Plan of $5,277 and directors fees of $17,600.
+
+<F5>  Consists of amounts  credited to Mr.  Merritt's  account in the  Company's
+      Deferred Profit-Sharing Plan of $16,346 and directors fees of $2,500.
+
+<F6>  Consists of amounts  credited to Ms.  Garrett's  account in the  Company's
+      Deferred Profit-Sharing Plan of $21,053 and directors fees of $9,400.
+
+<F7>  Consists of amounts  credited to Mr.  Anderson's  account in the Company's
+      Deferred Profit-Sharing Plan.
+
+<F8>  Other  Annual  Compensation  consists of  earnings  on amounts  previously
+      deferred under the Company's  deferred  compensation  plans that were paid
+      out during the fiscal year ended April 30,  2000.  All Other  Compensation
+      consists  of amounts  credited  to Mr.  Rubin's  account in the  Company's
+      Employee's  Deferred  Compensation  Plan of $2,162,  and directors fees of
+      $7,600.  Also includes $68,000 paid, and $236,000 to be paid by January 1,
+      2001,  to Mr.  Rubin  pursuant to a  Severance  and  Consulting  Agreement
+      entered into with the Company, effective July 13, 1999.
+</FN>
+</TABLE>
+
+                COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS
+                        REPORT ON EXECUTIVE COMPENSATION
+
+
+      The  objectives of the  Company's  Executive  compensation  program are to
+enhance  the  profitability  of the  Company,  and thus  shareholder  value,  by
+aligning  compensation  with the financial  interests of the shareholders of the
+Company,  and  attracting,   motivating,   rewarding  and  retaining  employees,
+including  Executive  Officers,  who contribute to the long-term  success of the
+Company. In furtherance of these goals, the Company's  compensation  program for
+Executive  Officers  includes base salary,  annual  incentive  compensation  and
+long-term incentive compensation. In addition, at the discretion of the Board of
+Directors,  selected Executive Officers may participate in the Senior Management
+Deferral Plan, which is designed to permit eligible employees to defer a portion
+of their incentive  compensation.  The Compensation  Committee reviews and makes
+recommendations  to the Board of Directors  regarding  the  compensation  of the
+Company's Executive Officers.
+
+      SALARY.  The  Compensation  Committee  determines  the base salary for the
+Executive  Officers,  including the CEO,  based upon the  financial  performance
+(including  profitability and/or revenues) of the Company or subsidiary,  as the
+case may be, and upon the individual's level of responsibility,  qualifications,
+time  with  the  Company,  contribution,  performance,  and  the pay  levels  of
+similarly  positioned  executives in comparable  companies.  Evaluation of these
+factors is  subjective,  and no fixed,  relative  weights  are  assigned  to the
+criteria considered.  The beginning point for determining the salary is the base
+salary the Executive Officer received in the prior fiscal year.
+
+      INCENTIVE  COMPENSATION.  The  majority  of  the  Bonuses  and  All  Other
+Compensation reported in the Summary Compensation Table (excluding  compensation
+for Mr.  Rubin's  Severance and  Consulting  Agreement)  was paid as annual cash
+bonuses, as described below, and pursuant to the Company's  profit-sharing plan.
+In general,  all employees meeting certain service  requirements are eligible to
+participate  in the  profit-sharing  plan.  The  aggregate  contribution  of the
+Company to the profit-sharing plan is set annually by the Board of Directors and
+then allocated based on the eligible compensation of participants.  As a result,
+profit-sharing  plan  allocations  are  based  on the  same  factors  as are the
+salaries of the Executive Officers.
+
+<PAGE>
+
+      The Board of  Directors  of the  Company  or the Board of  Directors  of a
+subsidiary  company, as the case may be, determines the amount of an annual cash
+bonus,  if any,  separate  from the  profit-sharing  plan,  for  certain  of the
+Executive  Officers and management  employees.  These bonuses are based upon the
+financial performance  (including  profitability and/or revenues) of the Company
+or  subsidiary,  as the  case  may  be,  and  upon  the  individual's  level  of
+responsibility,   qualifications,  time  with  the  Company,  contribution,  and
+performance,  and upon the  respective  Board of  Director's  judgment as to the
+impact of the individual on the financial performance of the Company.
+
+      The  Company  does not  anticipate  that  Section  162(m) of the  Internal
+Revenue Code that limits the tax deduction for certain executive compensation at
+$1,000,000 will have any impact on the compensation policies of the Company.
+
+      The tables included in the proxy statement and accompanying  narrative and
+footnotes reflect the decisions covered by the above discussion.
+
+      The foregoing  report has been  furnished by the following  members of the
+Compensation  Committee of the Board of Directors:  Paula Lawton  Bevington,  L.
+Anthony Montag and Felker W. Ward, Jr.
+
+
+                             DIRECTORS COMPENSATION
+
+
+      Currently, each Director is paid a retainer of $600 per month and a fee of
+$1,300 per Board of Directors meeting attended.  In addition,  Directors who are
+members  of the  Audit  Committee  or  Compensation  Committee,  but who are not
+Executive  Officers  of the  Company,  are  paid a fee of $600  for  each  Audit
+Committee or Compensation Committee meeting attended.
+
+      DIRECTORS' DEFERRED  COMPENSATION PLAN. The Company maintains a Directors'
+Deferred  Compensation  Plan (the  "Deferred  Compensation  Plan")  under  which
+members of the Board of  Directors of the Company may elect to defer to a future
+date receipt of all or any part of their  compensation  as  Directors  and/or as
+members of a committee of the Board.  For purposes of the Deferred  Compensation
+Plan,  "compensation"  means the retainer  fees and meeting fees payable to such
+Directors by the Company in their  capacities  as Directors or as members of the
+Audit or Compensation Committee of the Board of Directors.
+
+      The Deferred  Compensation Plan is administered by the Executive Committee
+of the  Board of  Directors.  A  committee  member  may not  participate  in any
+decision  relating  in any way to his  individual  rights  or  obligations  as a
+participant under the Deferred Compensation Plan.
+
+      The Company will make payments of deferred  compensation  and the earnings
+on such deferred  compensation under the Deferred  Compensation Plan at the time
+specified by each  participant in a lump sum, or, at the sole  discretion of the
+participant, in no more than five equal annual installments.  For the year ended
+April 30, 2000, four incumbent members of the Board of Directors  (including one
+Executive  Officer  who  is  also  a  Director)  participated  in  the  Deferred
+Compensation Plan.
+
+
+<PAGE>
+
+               COMPARISON OF FIVE-YEAR CUMULATIVE TOTAL RETURN ON
+              $100 INVESTMENT AMONG ABRAMS INDUSTRIES, INC., NASDAQ
+           STOCK MARKET (U.S. COMPANIES), NASDAQ RETAIL TRADE STOCKS,
+                  AND DOW JONES U.S. HEAVY CONSTRUCTION STOCKS
+                       ASSUMING REINVESTMENT OF DIVIDENDS
+
+
+      Set forth below is a line graph comparing, for the five-year period ending
+April 30, 2000, the cumulative  total  shareholder  return (stock price increase
+plus dividends,  divided by beginning stock price) on the Company's common stock
+with that of (i) all U.S.  companies  quoted on NASDAQ,  (ii) all  retail  trade
+companies  quoted on NASDAQ and (iii) all companies in the Dow Jones U.S.  Heavy
+Construction  Index. The stock price performance shown on the graph below is not
+necessarily indicative of future price performance.
+
+     [PERFORMANCE GRAPH APPEARS HERE IN THE PRINTED VERSION AND THE NUMBERS
+                      ARE REPRESENTED IN THE TABLE BELOW.]
+
+<TABLE>
+<CAPTION>
+                                               04/30/95    04/30/96     04/30/97   04/30/98    04/30/99    4/30/00
+                                               --------    --------     --------   --------    --------    -------
+<S>                                             <C>        <C>          <C>        <C>         <C>         <C>
+Abrams Industries, Inc.                         $100.00    $ 84.30      $117.90    $155.70     $ 92.10     $ 92.40
+
+NASDAQ Stock Market (US Companies)              $100.00    $142.60      $150.90    $225.60     $309.20     $470.70
+
+NASDAQ Retail Trade Stocks                      $100.00    $137.30      $122.70    $188.40     $192.40     $144.00
+
+Dow Jones U.S. Heavy Construction Index*        $100.00    $130.59      $117.07    $109.76     $100.06     $121.95
+</TABLE>
+
+
+            *     The Company  has added  another  index to use for  comparative
+                  purposes  beginning  in the fiscal year ended April 30,  2000.
+                  The Company  believes  the Dow Jones U.S.  Heavy  Construction
+                  Index is  closely  related to its core  business,  considering
+                  that the  majority of the  Company's  operating  revenues  are
+                  derived from its construction activities.
+
+<PAGE>
+
+           INFORMATION CONCERNING THE COMPANY'S INDEPENDENT AUDITORS
+
+      PricewaterhouseCoopers LLP were the independent public accountants for the
+Company   during   the  year   ended   April  30,   2000.   Representatives   of
+PricewaterhouseCoopers  LLP are expected to be present at the Annual Meeting and
+will have the  opportunity  to make a  statement  if they desire to do so and to
+respond  to  appropriate  questions.  The Board of  Directors  has not  selected
+auditors  for the  present  fiscal  year  because  the  matter  has not yet been
+considered.
+
+
+                             SHAREHOLDERS PROPOSALS
+
+
+      In accordance with the provisions of Rule 14a-8(a)(3)(I) of the Securities
+and Exchange Commission,  proposals of shareholders  intended to be presented at
+the  Company's  2001  Annual  Meeting of  Shareholders  must be  received by the
+Company at its  executive  offices on or before March 22,  2001,  in order to be
+eligible for  inclusion in the Company's  Proxy  Statement and form of proxy for
+that  meeting.  The Company must be notified of any other  shareholder  proposal
+intended to be presented for action at the meeting not later than 45 days before
+the Company's 2001 Annual Meeting, or else proxies may be voted on such proposal
+at the discretion of the person or persons holding those proxies.
+
+      The Company's  By-Laws  require  notice to the Secretary in advance of any
+regular shareholders' meeting of any shareholder proposals.  The By-Laws further
+require that in connection with such proposals the shareholders  provide certain
+information to the Secretary.  The summary descriptions of the By-Laws contained
+in this Proxy  Statement  are not intended to be complete,  and are qualified in
+their  entirety by reference to the text of the By-Laws which are available upon
+request of the Company.
+
+
+                                 OTHER MATTERS
+
+      The Board of Directors  knows of no other matters to be brought before the
+Annual Meeting. However, if other matters should come before the Annual Meeting,
+it is the  intention  of each  person  named in the  proxy to vote the  proxy in
+accordance with his judgment of what is in the best interest of the Company.
+
+
+
+
+                                           BY ORDER OF THE BOARD OF DIRECTORS
+
+
+
+                                           Alan R. Abrams
+                                           CO-CHAIRMAN OF THE BOARD
+                                           PRESIDENT AND CHIEF EXECUTIVE OFFICER
+
+
+
+
+
+Atlanta, Georgia
+July 27, 2000
+
+
+<PAGE>
+                        ABRAMS INDUSTRIES, INC
+
+
+   THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS FOR THE ANNUAL
+        MEETING OF SHAREHOLDERS TO BE HELD ON AUGUST 23, 2000.
+
+      The undersigned shareholder of Abrams Industries,  Inc. hereby constitutes
+and appoints Alan R. Abrams and J. Andrew  Abrams,  and either of them, the true
+and  lawful  attorneys  and  proxies  of the  undersigned,  with  full  power of
+substitution  and  appointment,  for and in the  name,  place  and  stead of the
+undersigned  to act for and to vote all of the  undersigned's  shares  of Common
+Stock of Abrams  Industries,  Inc. at the Annual Meeting of  Shareholders  to be
+held in Atlanta,  Georgia,  on Wednesday,  the 23d day of August,  2000, at 4:00
+P.M., and at any and all adjournments thereof as follows:
+
+
+(1) Election of Directors
+
+<TABLE>
+ <C> <S>                                                   <S>
+ [ ] FOR all nominees listed below (except as marked        [ ] WITHHOLD AUTHORITY to vote for all nominees listed below
+     to the contrary below)
+
+       NOMINEES: ALAN R. ABRAMS; DAVID L. ABRAMS; EDWARD M. ABRAMS; J. ANDREW ABRAMS; PAULA LAWTON BEVINGTON;
+       GILBERT L. DANIELSON; MELINDA S. GARRETT; ROBERT T. McWHINNEY, JR.; B. MICHAEL MERRITT; L. ANTHONY MONTAG;
+       AND FELKER W. WARD, JR.
+
+     (INSTRUCTION: TO WITHHOLD AUTHORITY TO VOTE FOR ANY INDIVIDUAL NOMINEE WRITE THAT NOMINEE'S NAME IN THE SPACE PROVIDED
+      BELOW.)
+
+      --------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+(2)  Approval of the Company's 2000 Stock Award Plan.
+         / / FOR / / AGAINST / / ABSTAIN
+
+(3) For the  transaction  of such other business as may lawfully come before the
+    meeting;  hereby revoking any proxies as to said shares  heretofore given by
+    the  undersigned  and ratifying and  confirming  all that said attorneys and
+    proixes may lawfully do by virtue hereof.
+
+     It is understood that this Proxy confers discretionary authority in respect
+to matters not known to or determined by the undersigned at the time of mailing
+of notice of the meeting.
+
+    THE BOARD OF  DIRECTORS  FAVORS A VOTE "FOR" ALL OF THE  NOMINEES  LISTED IN
+ITEM 1 AND "FOR" ITEM 2. UNLESS  INSTRUCTIONS  TO THE CONTRARY ARE  INDICATED IN
+THE  SPACE  PROVIDED FOR IN ITEM 1,  THIS  PROXY  WILL BE VOTED "FOR" ALL OF THE
+NOMINEES LISTED AND "FOR" THE APPROVAL OF ITEM 2.
+
+
+<PAGE>
+
+
+    The undersigned hereby acknowledges  receipt of the Notice of Annual Meeting
+of  Shareholders  dated  July  27,  2000,  and  the  Proxy  Statement  furnished
+therewith.
+
+
+                                              _________________________________
+
+Dated and signed__________________, 2000      _________________________________
+                                              (Signature should agree with name
+                                              hereon. Executors, administrators,
+                                              trustees, guardians and attorneys
+                                              should so indicate when  signing.
+                                              For  joint  accounts  each  owner
+                                              should sign.  Corporations should
+                                              sign full corporate  name by duly
+                                              authorized officer.)
+
+        This Proxy is revocable at or at any time prior to the meeting.  Please
+sign  and return this Proxy to SunTrust Bank, Attn: Stock Transfer  Department,
+P.O.  Box  105649,  Atlanta, Georgia  30348-9923,  in the accompanying  prepaid
+envelope.
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>2
+<FILENAME>proxy.pdf
+<DESCRIPTION>NON-OFFICIAL PDF COPY OF NOTICE AND PROXY
+<TEXT>
+
+<PDF>
+begin 644 proxy.pdf
+M)5!$1BTQ+C,-)>+CS],-"C$@,"!O8FH-/#P@#2]4>7!E("]086=E(`TO4&%R
+M96YT(#D@,"!2(`TO4F5S;W5R8V5S(#,@,"!2(`TO0V]N=&5N=',@,B`P(%(@
+M#3X^(`UE;F1O8FH-,B`P(&]B:@T\/"`O3&5N9W1H(#$R,C@@+T9I;'1E<B`O
+M1FQA=&5$96-O9&4@/CX@#7-T<F5A;0T*2(FT5MMRVD@0_0+]0S]*6TB9T0V1
+M-PR*3<H@@N3-NNQ]D-%@E`B)Z!+'?[_=,X)@AU3Y(5M4P3#3ZCY]^G2/.#QJ
+M[RYC#H^-QL!W`]CUOX6VT;YI''+03(X[(_!<&TS?8U"+H^UG*#5F,4?^]5R&
+M!KA``SJX2+1W'WS@D&PT;@/##_[P$;=\'[Q@:`5\"`D%E$?PE:#8!,5$G_C8
+M&H^2)TT?7ZS&\QAFB^E-G*QF83S`]<0RDB^:8S&;`R),IFC7%FG9I@.X%%7]
+MF*=D8`;6B+M@VF1QIR^B9#8)(?I@F-P-]/%B<3.^QG7@Z?,P3&:+2WEF,T>/
+MK\:K\"JZGH:KV/@W^:AY5C`*CIX28V3KE<%TN!!P)8H,HA(,S]/'W6/7M&`[
+M`[`98_+1,-$^_1$Z@YY.KCA#5QQ<9/0-5%J<CXA.A+X5"FE9=FD!<R':O'R$
+M:@/Q-JW%MBHR43?T7UJ=9Q_N]1;]W#NV/:EV^[1\QJ5S;\!37A3P(&3>)M;:
+M\;$^%AO)&E%V/1P6N`K.ELBKD#P>Z)^-@.DB*T63I<^&[^J#<YP.(&W!?<\8
+M+`W.F6[-K=Y.*0#:?">D$4'\"<\S/%=O<*/>5W7:*HS)7Z<D,61?HKH2:?:M
+M2^L6J1B@:EU/`B3NPA_K;5H^8H2XRUL!#B$Z":\$2-8HP@%LJEKBV'<8MA'$
+MZ[HJFQQ))MK3,H/O%57@`$>IOMLC)_3<IBJ*Z@G/WY.@>T9MBP=VSRCS^P*S
+MOL#WNL%]G=/7O6&8+JJ;<(M"K-L<O2("7'\7)4SS&O<JK'9;251MWG:8$L6]
+MJ-(Z(]N?1EW9YH4\+,6/]D1$$OKK8K]JXX/.*.&CH[R&IENO1=.0?U2?0BDR
+M:88%*/)-+C+9[.;KW"E3FS+T&,>&'#+5D.E^7U??Q:_%][#XI!^(VVK]5<&G
+M-GZB1)=8NQ-1_\Y$J=QZ(1V/DB0PC@+CZW&WWD*%OFK8I2UI"-(&E\^`T/:B
+M+IZ1[9W`/D%U**2[0QO6F/JS3#_%3DJS+U57ESM1M@W9U:+:6.>$J]I)%OI,
+MY;88?I/_0%XIUKKHA?C0-3DV6T/]][%#5)P=6TR&P^FSKM!9ANUR4/)I+4X[
+MFW2("#*!^>[R,CUHC=PTIY/E:5L=Q@1@7GE;$*X*2FR#->$:R/1Q!QM#8!\/
+MT$?>G*&(H!P[YO=T4=^,)%+3L>RAH\1S<:LF?;3"&8]S7S7X50@7T7@UI8WI
+M;!5.$MJ.^DL`9[)K.;ZK/(Q),RM+R>2A3G?-GQWWG+V>][;G@&V_^>Z\TR>5
+M.=FF>;U+C[4@>1C.4,_@D-*QBG?Z4AX)&D]E*\LPV>9B@T-/K+LVQ[:*-ANL
+M4@W__\W&AZ.W)WIN^/Z2GRY%;@_[NQEU\<<2\%\GP+VAY0:X[;SI?E99S.;+
+M:&4X'HTS%]]/$I2H;>LF4%5NHYL5+%?1/[UP9S&$B\EU%(=3-1),SQKA''A1
+MS^MP'(<P'9._),0[:W:Y4()=3&$^GM'KCS^4NC\X.XV!R_DRN:89>$M?*I!O
+MC9SABSB+")91K%!?AH#05N&G&^R?*<SZ-RH*%DX/0%WG)=#9XMA_-XM9@L_U
+MWA1P>@,Y&DCXDPDB4RS=THM;N/@[O(Z6H?53F/\),``QC==Q#65N9'-T<F5A
+M;0UE;F1O8FH-,R`P(&]B:@T\/"`-+U!R;V-3970@6R`O4$1&("]497AT(%T@
+M#2]&;VYT(#P\("]&-B`T(#`@4B`O1C@@-2`P(%(@+T8Q,"`V(#`@4B`^/B`-
+M+T5X=$=3=&%T92`\/"`O1U,Q(#<@,"!2("]'4S(@."`P(%(@/CX@#3X^(`UE
+M;F1O8FH--"`P(&]B:@T\/"`-+U1Y<&4@+T9O;G0@#2]3=6)T>7!E("]4>7!E
+M,2`-+TYA;64@+T8V(`TO16YC;V1I;F<@-S4@,"!2(`TO0F%S949O;G0@+U1I
+M;65S+4)O;&0@#3X^(`UE;F1O8FH--2`P(&]B:@T\/"`-+U1Y<&4@+T9O;G0@
+M#2]3=6)T>7!E("]4>7!E,2`-+TYA;64@+T8X(`TO16YC;V1I;F<@-S4@,"!2
+M(`TO0F%S949O;G0@+U1I;65S+5)O;6%N(`T^/B`-96YD;V)J#38@,"!O8FH-
+M/#P@#2]4>7!E("]&;VYT(`TO4W5B='EP92`O5'EP93$@#2].86UE("]&,3`@
+M#2]%;F-O9&EN9R`W-2`P(%(@#2]"87-E1F]N="`O5&EM97,M271A;&EC(`T^
+M/B`-96YD;V)J#3<@,"!O8FH-/#P@#2]4>7!E("]%>'1'4W1A=&4@#2]302!F
+M86QS92`-+T]0(&9A;'-E(`TO2%0@+T1E9F%U;'0@#3X^(`UE;F1O8FH-."`P
+M(&]B:@T\/"`-+U1Y<&4@+T5X=$=3=&%T92`-+U-!(&9A;'-E(`TO3U`@9F%L
+M<V4@#2](5"`V,R`P(%(@#3X^(`UE;F1O8FH-.2`P(&]B:@T\/"`-+U1Y<&4@
+M+U!A9V5S(`TO2VED<R!;(#$@,"!2(#$P(#`@4B`Q,R`P(%(@,38@,"!2(#$Y
+M(#`@4B`R,B`P(%(@,C4@,"!2(#(X(#`@4B`S,2`P(%(@,S0@,"!2(`U=(`TO
+M0V]U;G0@,3`@#2]087)E;G0@-#`@,"!2(`T^/B`-96YD;V)J#3$P(#`@;V)J
+M#3P\(`TO5'EP92`O4&%G92`-+U!A<F5N="`Y(#`@4B`-+U)E<V]U<F-E<R`Q
+M,B`P(%(@#2]#;VYT96YT<R`Q,2`P(%(@#3X^(`UE;F1O8FH-,3$@,"!O8FH-
+M/#P@+TQE;F=T:"`R,C0U("]&:6QT97(@+T9L871E1&5C;V1E(#X^(`US=')E
+M86T-"DB)M%?;<MLX$OT"_0,>]L'9DCF\B]PWQU&RWII<QM;LS%;E!28A"1.*
+M5'BQXK_?TVB`HF0[V9J:K50LB00:I[O/Z6X$8C/[Z=U=*#;=S!=IG(F=_:QF
+MZ]G762"TF%T&>)*+)`[%99KXHE7CVM]$/?,]/S(_D]C'`GS!`GKQ>C7[Z6TJ
+M`K%:SX)0^/B'CR`/O#05:>A[6;`0*SK0O!)?9I>PA>4%'JT.LXNKU[=7[^_$
+MS8<WO]ZM;F^6=W-\O_9>K?Z8!5X4Q^(R%*LWLXOE[\OK7U<W_UZ*CV_?WEPO
+M[WA%X*=N19#'B:"GH1=D!(4>KK9*++\56UEO%+VCT\-(P%UZ>S?H7HG(]\VK
+MV/,7J7MUU5>R[N5<O%--N]$2JZ(HOPS],+<G!XD[^=/MQ]__0T\C;^%G]N2[
+ME5T7YO;)%3WPO31R2U;+]\L/9MER-?OE+TE%9E,1<+QA*A")_]TT(""I207%
+M:MU457/0]4;H>MVT.]GKIA:Z$^NAK76W525>B**I:U685P?=;T6/G5U3Z4+W
+MO*%9BWW;?-.J$_>/YO7K1K8EGIM(@QT11=KS<Q-MPA(RF`#>$9@WNL4)3=N1
+M+3)PW>SVLGX$PM;\-M&-O<0?PUO7@ZS$>Z5ZPH]M=UO9JFU3E0IF/E_0KL]1
+M&-H5^!I]?B7Z1MPKL545T-6,CJT>X5W\QIG+DIC/&H-WH<I:=:5\Y.PGX`^#
+MF0O>$D>6B=CA+YCQPV;H>A%&<Q'ZOC\7LA?Q/WQ??#(N^5Z4+*P5[[W'A@)O
+MD0?.3V:FZ/5.F<V3Z,"GQ*P/3,9Y0X>W[;YI);C^3R7+KX-L>X1D+D@RQN4P
+M\[+P+"/I8F2%4]!<C(JQN'PO@0[\IY*AMXD7I0XU).195](L/E5$GKH'1;-_
+M/$NX<RGS\B`=/7)2"DZ3?ZO@9S]R9*V[`D\?E6R=FTC")+&J+L%H+AII<$Q5
+MEG.J]JVNX.V8J;H4TC";>3ATRB5@9VD'Q@E5%U73P;`5!^3SR>RY@SS43M4]
+MAR)*X5,T5BK=&9!1[B5A,LV%P7)FP6"A@\?#+"S=@EP'!1@[J2L\!\&[J1!(
+MGJV0]\W0BW\-U:,(%^R?]Y=6HF>:0HI2DXG8C[]3CB[>+3\L;Z]^9O[X+N,W
+M']Y^O'UO^!)[BW@,VLW'#__W^AEEWZ^?U`D,6U"=.`D;_:!JL1_:;H`B*`.&
+M!"<E<B<?J?"TZJ'YHLJYX0JEI`#M*RWK0C%]J.8U2'3[4N7,N7J;:EWI'C5W
+M3D67]DWR+@[;!ESMP?C.\,;52>(1X04Q6FBE;GJ-HZ%!0@RBX&2A*EOM^X90
+MK/YNW$>K8_]#+MD/#4H#NL,>+&MJ3]S40I:EIHUS`^?/!@<;-2F:5JH)`->_
+M4#[H?.<1G"]5A5-:^L6[($#5Z9*$<]9/Y,1E.J^P'0P2$27)0WU3Q=`[@=GC
+M<6J<N+AS_Y,[Q0%'ST/!,;$5%>3:BA)_;?5+O#P9.U95C6T2IY^HU(8#Q]H&
+MZO`>MKK84IEA/K"]$T*$7+AA&9F8.D"I1E=5",UH]L6X3&/NR,(5<$1`D1OC
+M$4`L=.R$T'`/221:E*Y,6D-C,++C,+0=P]>J/3Z`B6%V`XYS<3JU"K;)HN!N
+M$R88'MS<=\D3'7I+?!J<!5?V\B@P@J7KKF\'PW&CCE8Q9TLQU)7JD(Z]*O1:
+MHYL@H&XU%U=#>Z/0@^[0(ME>J1]TB9;4'0GCLU!K$,4@?Z9Z&^^,01@VJA,X
+MT:RLFYVN%2(@@4:9'@?PQLS3_F*@Z]J=S425#TBHS?)=WQ1?3!(67I"?3Z@N
+MB@>:V3ZAJW.^8O1S]^KJOD,MX8#18?<MLMX"97U)^(^)TO!P*-GC4D$-<(.T
+M<=BJ8U6CD3TX&P@S@UJ*KT/3#CN:02TK')?<N!2ESTZ`J((HIP;&F!VQE0\4
+M2J',(!IDGIO/+M84[,9FQ=4[&RV*O5D?>N$XO+Q$,:L#DRLJ#FZ2%;90R#UR
+M_0"<3U(!.-DB^G$NWL(2ZN<>Q#&%8QK6J77)P<V].(].@QLQ%7?4$%IQ5-NI
+M2CEN>"*?AN4XG[M!Y&6_HNSIS'?BEYM[(O],K3ZKE=R&'">4<^PJE=H9]5AF
+M``LMZ:N)-BW`5B$;BG<:&HQ5NU(;P&9*`$7FQQ-..&S9.;:<NQ[D*/D<NEO(
+MC:3J0'<+//Y!?#WQ^B756+]08*?^'&M).FFYEK3=</\'<=@>"EP(`-=JYC"?
+M04*B\H0^9UL"G3D_1F@^BN3/Q04UF*!95$>$\'V/BX<NADJV%J5A?80IV%GV
+MW+TI7)SR)1N+5/<(&NPP6A#C\;5]TB/'6U#LY5DVWAGZ5M;=FD*S(:Z84/?R
+M?J`>S=[X7A@NGDS>SHU.%++K/7N)H3&,RE9XHGKJ8D73F6YJ6S@)R74O*F)2
+MG^,UW8MN;&,0KIN]&PI.QR*XJY$3.Q^M!X[@PBC\!YW/9\H@9EL6Q[VLO]"L
+M:#B(F`C,GU11B!.L_`(7U:;$,(IEQ_Z#UVOTMD)CR+$U#O])QW;>NE>U"2B#
+M^!]@\13-O$&3)0^;0VTN*VLW%#Q_*PQ2;S&ZWM'PO$.<.BH]<_$WG.,3Z03*
+MTJ!H,&5KXK-)*@GVVNS@0LFVCNA.9DP#SM0T$O?G5SP>U&;JAF+JLB+OBZUT
+MI$[SQ.+:`+[-F,D^1<P,-9.P=:I]P!1Z,C6;J]M((L;(=B=76%")+GKSLXK<
+MJHW1F<)MHGE43P)H.!=A8G*RFE-Q@NC=X?"*KB*J[B1/\.2![#I(SDX6EW;_
+MN5Z>X3WQ'=UCOVUJ17V0Z;538-8+>O+I4F5XP7<K@]]<5P.?KZL\:<'G!HV1
+M)FSA1G%C,4?.@A<&`U/KQ('^A/,\2N=1DAYYQKZA1>6+Y\D0!#QA,W=LH\/=
+MK>L1>7>G.F]#GH.5GXR\;MZ'=U-S[%Q3P]^)8=?/R<1YU(L*R2$S.,P0BE$]
+M23J*8CP&9F[&^"E42I"IV:-83()PS0@Y09'9&-##Y6KVR^R_`@P`'(J)1PUE
+M;F1S=')E86T-96YD;V)J#3$R(#`@;V)J#3P\(`TO4')O8U-E="!;("]01$8@
+M+U1E>'0@72`-+T9O;G0@/#P@+T8V(#0@,"!2("]&."`U(#`@4B`^/B`-+T5X
+M=$=3=&%T92`\/"`O1U,R(#@@,"!2(#X^(`T^/B`-96YD;V)J#3$S(#`@;V)J
+M#3P\(`TO5'EP92`O4&%G92`-+U!A<F5N="`Y(#`@4B`-+U)E<V]U<F-E<R`Q
+M-2`P(%(@#2]#;VYT96YT<R`Q-"`P(%(@#3X^(`UE;F1O8FH-,30@,"!O8FH-
+M/#P@+TQE;F=T:"`R,S,S("]&:6QT97(@+T9L871E1&5C;V1E(#X^(`US=')E
+M86T-"DB)K%?+=ANY$?T"_@-6.70.B>GW([.2)3G1Q!(=B4D6419@-RABIA]T
+M/T3K[W,+0#>[:8\G"Y_Q&;&[`535K;JW"BY[6?STUR>/O;0+AT5!PDK[MUCL
+M%Y\7+E-LL7;Q)F5AX+%U%#JLD>/:?[-JX7#'UX]AX&`!?F`!?7B_7?ST(6(N
+MV^X7KL<<_(<_KA_S,`A8Y#D\<6.V)8OZ&_MML<9A6)\ME@^;^[N'JW?;7Q<!
+M=P/:O;U9++=WFP=&+ST>8Z%^B?^=%LNKAQMV^_'V6J_8?*`U*?>3R&Z\N7O$
+M-WKKPZK=N=P\/M&KV^WB'S\DV,0&ZYJ`<)3+PC3ZG3A#"A0_8E='L#U(]KX6
+M3<[J/;M1C<RZNFEQ?E:7I:SREG58(0N\5W5%B^SSJZS8\]+5L(0\CE(;G?O\
+MCE5UJ2HI6U:HMI,YV\FB/K&N9EE=M9VB/:[/0S^T>];T9ATX/`W8VN5.ZFJ(
+MX:UOO4UC[6W7=](X4'7PU7J.@P]U01'8DWUGR,!>99+U6%SH;97\TNE,QCR)
+MAC575=6+@MU+V:GJA4)\.HA&TI$24(@J/Y^@&NVJYW(W]B>^SJ!UC+-MGV6R
+M;0E.'&<P!!ATWF<85'LE<\[N]BLF.NU=ITHY(*QQ];@SXCKW$GNJ-UH+(X<S
+MWNVA[@O"VWAI]L\1#;1O?25VA23D6MF\RI6V>42X2!"K1`D_565>-O67-W92
+M1<%>:Z"_KQMCM.UWR"5EI&5XIS_BO$;F?6:25/7E3FK`MG\FVX$IN5FAT7$F
+MH6U/Z+])T3#1LE)4XD6B`KM)+7)V?WY]P*J*[`DX399190IEB>-$=S:*-)%1
+M@NOL\8`8.3Z"A]_:>5WH-GH3`OMCES5`!G?873;R<X\-R*]A?Q3Y4]T@UHF]
+MD90@]L=B;4K1*82@P811P8Y%WZ!6NK>A,.A3RS+1=DP13XT=BE\7F/':AL0-
+MKWC(UAYW$V^L5%NHT>C,=5T>`=&S[X6T)^3I*%<M>_^V_BA.+;&W$P!&X%_^
+M*JJ,+'7$,!1)!N@:.8*C71"#9F0H>I4+\AP+M%>DQ_$%@QQ+=]=-M&>C[""Z
+M;A`JSAZ,49P+N\>Z1?CMF;$3TR974_$Z9['L@>"8L"DJ0:B-ORB2.&OY26:-
+M[$0SIL$"1@"P`BRGJJM8Y+!<O%%=-JRL&VG>IO;ML5&$CCFQ-$0^%VIDS$(+
+M3@<%?IU=)?70]3UHR`J"9(V.*8!?]DBJ"^/\UXY-79AP1%LN!VE!BHT+J#)Y
+M86.25XL@\5/"7&ZP0)(;8Y,VNDYW(,M(1($>,`LX,%)$RVA%/5C]=E`G+0JJ
+M,+4^R7=K..;%W/&&AK+]KL^H8]LH4O?[+6BIZUU5**/2'"!V==\Q*>#G6'R6
+M;@1<5O0Y>0N1@D3G>8,,K`CU*E-'R'>=9?U1G[3ZID2FWB"1.L)62WQ79[]=
+MUMU.5A+-38FB`'2GBKKLVZP;Z$:C7]38V,RC:,\F$V/R9#O'3%+PF*LV*W28
+M?97+9F!#WZA.P;_;+QER_6(;5L0];U"S*X@1G'93/\"@0-N@+MYLO>OR,#PO
+MQW?_^1W!J).!D2V>-5D2!M-"D,'*DOJD4&&$B,C@=ZL&IEO\+D&I&[.#_&GK
+M`@AVHTI1JU/G/1-JFAXRG$&B<@#)1F%!:8J1KSJP@*?)T+G1XR?0ZPH417L!
+M+FQ2ODQY:>?.%:[1L$?.FGEB),,4(I4=4F:+W;1!V](-0W""YWD3AB`3U'$J
+MTVFF$CJ0K@0O&[GO6RU`(ONMJD]@X(L<7*(#)RZ-A)[+/Z7'>*(UHA2Y))%!
+M6S\62O>1,2<`2K[49'OL*;J+N3SRHTD;L_,6S>!HO)8<8RLGQ82K$PV]H`]A
+M?1#HM'K\R75K4U5?]RWH!"C-!*,:AI[<=B9:X\%9&X;TCSW>"6R/YTX8CZUU
+M5+X9`QL)I30I^PO-T9B:H1E42?!4<\G!T#`.?_T+E8WGKYCG.,[/V.%A1SZ$
+M=U#'EA#53#>S'W)S01XG,>0Y]CO4??&V/L@BUTD0%<J>#@7]&)62:9YC4BQJ
+M/VO8GI<!K1HE32*)]1N-9"L]D^TD.L^^UVX8/?VC(=\V7M<Q#:%2[<$P@FR#
+MQ$?"^74RUI#JR&.GT:*(3ZJE@LI5)G1WU/(\L'7TB:@_"M^TX:?&KJQ>D`(]
+M^!*[B>2@PA$.T+B)QX*&KF\';L?%5I1:8L`F5:H"<^&`YDJK!LT$@ZQ8KH!^
+M>PJ.ID@SL.%B.-S9_HY?O^#7KXRJ(68G-%1VS_[S7[3S1>`S+W2XOB4&N"#9
+MAV+QI#\%*0=#["?S0)]^S)TSNKQS>GX$#SW]]]L73P)[>??P8?-X?Z5K@\?!
+MT"NV=YL'4_4\=H;!\^K]YI];0ZW82^S+A\W]W</M[1/[#E+AUSCAP@9*6C#,
+M`X&!6,XA1"%"1B2@CHU@^7!U?VO)2//99()'&.SF[O'V6GL8<=<?E'7S:%W[
+M,4@GETA3.$[R'9`=*XNHK,=!FSQOO.WN&E&V^G7*DVALOT9DG:%!@(Z>T==!
+M0R\EU*BDFZ8>>#^AV76]OCXW%BN=SKQ/0"#'5J&'>GN:P3)PPKGNP4BR8M<'
+M)?>@/H8/+0>;O9WBO&18CXD(E#5G_=)#RK$S71D?4AZE%\.$O1GF[!-(KG*B
+MN=E[C[Y'0LO9AZ8N]2/Y0$WP?"Q%?9I.4H.@N*X1E/.I9,.XOT$?-,(_NI^D
+MR5A9F8W!9"..T[&C6`)Q]K>Q:8EV@H;>`96(!RS^16^<V<T3^W&XZ0^Q;J#S
+M^]<@B,FE_Q>IWQ,HVJ#'4R_X*EDQ`36`9C$DW$PBS)YY-9ARP/)@NE5#?`YV
+M]&>E`=T/QTY-GK-ADZ#SALV_4ST.3Y)H5CVV__JXH,1SSGS"G"4;&GM7&.DR
+MSNZ;`?5T0-T0#D+LI[/-!G0H3!1]-3"AV00A-^#X^A/FG)"NH=A^(UY5SCZ.
+M0T;TU;$IC+E3&J/%^F/=^/[_P>(/<M?T=+NEHM>HPR?P5W384LDW/0IH!_79
+MDR'HJ:<&7%`^C*@';CS5R:MVIS"@_8F];V15X<B/'S\9I]VA;IZ7`JWU1*-6
+M^?QN0!57B<2]!'6\X-F,$'(>'\LJ2M@ZY#$:):WQ1AW^GP`#`+%L>@<-96YD
+M<W1R96%M#65N9&]B:@TQ-2`P(&]B:@T\/"`-+U!R;V-3970@6R`O4$1&("]4
+M97AT(%T@#2]&;VYT(#P\("]&-B`T(#`@4B`O1C@@-2`P(%(@/CX@#2]%>'1'
+M4W1A=&4@/#P@+T=3,B`X(#`@4B`^/B`-/CX@#65N9&]B:@TQ-B`P(&]B:@T\
+M/"`-+U1Y<&4@+U!A9V4@#2]087)E;G0@.2`P(%(@#2]297-O=7)C97,@,3@@
+M,"!2(`TO0V]N=&5N=',@,3<@,"!2(`T^/B`-96YD;V)J#3$W(#`@;V)J#3P\
+M("],96YG=&@@,3<V,"`O1FEL=&5R("]&;&%T941E8V]D92`^/B`-<W1R96%M
+M#0I(B917RW+;-A3]`OX#5AV[(R,$2(#D,DYJMYEXXD::9N,-),$66XI40<J.
+M_KX73SXD)>IX(0L"+N[CG',O"'J)WMW/*7IIHQCQ-$=;]UE%S]&_$4$EBFX(
+MK!2(I13=<!8C)</>;ZB.8APGYBM+8]@`_\`&_</M(GIWER."%L\1(2B&/_A(
+M83,E.,URM-"7F67T3W0#=F#K"I86;]'5;^LWH=;H`:/KQ=]1BEF1P,;%Q^CJ
+M_5*);6N6<YP6F5_6"P1L,+L08T)R8^ICJ>2J:Q1JGE&WD>A#L]V)^H#:LEY)
+M1`J6S!`L;T2+EE+6Z,-&E&HK:K=?V[VQAO5'0:QU_=TX^EVN]EWY:NQNRZZ3
+MTEDV#L6X@$AC?X:;,^_W+_NV@ZN+'*/?8;]4KW*-P(&3=UL;H\M=JB#&U%B\
+M;72VX)`/MD7/JMEZ'Q*6^S2%JQGJ&O,[QQE8F?Z<SY"HG4^E?+:>9#C.Z,"3
+MOFB8T'22CR_F$,,T+YSUYW(E5>]8^C._6'[L5X;1HRJAFK"KVX@.^2QQ3!,R
+MS))QIT_MHY)MN99U9^+29PJ<I-ZUA5Z(,>/<+2@IVKV24]38<YQXV&'TH"SR
+M..W7K+&4LC%FRQ9E"3;N)BGF&2"*XB(NS)Y/_E@>AZCKM9)O9CD!7_DI!A0I
+MF3"`TL``RBYB0$$G#&AN!D#T!*!TC$'.7.4S<XDV;&'8PS_#!6?GH.7\][S^
+MRT:?A30"6/JBW=SNP:QL6P]$/G4'SAEWXMS17K[*JMEM=<6M1P_B@&@<QQ/.
+MC8$1T+[X=0COF!-C]<M.*M&5]4L/;\J/X?UI7QUTJ(6&J;\W,*KGB#8!:D@"
+M#UP6.*-]%DS(%+B7\''(F:5<'T"@%L<DSHZYH[T)KIDTB*IM3.&'&N3Y;JV,
+M52]U18_)&;JSX+K-!V#.`CA-)@"^*[]W0#&`F]HU.JM-[2KE?<PL60`E^40`
+M@0RN+H7QXTY'/I>[3FZ7<"F<38?!9@;@+D:7=$K(27]LNNWOIZ3.W#?T65@N
+M,ER$;G2JC#W0O&APS)/D`M%(8YL'"E)=Y$/1>!3[2J#/XJT#/V[E*P`3_C-"
+MD!C/!](`;<0K<6RCNE`:6E@OQ[UI#IDLUX?:)LM:_B$;YX<62M/.T!_U"J.G
+M*X&V<K41=;D2%9+U"W!;*DTK72-(5HM6UI.G:\A6BX\8:=N>CUC[QZG-DHM\
+MD*7[L@)0=.@S1A_A2@F8/Y,C""%E?;M./-CI!<GJ:6[S-6$Y*`4O)O#(^)3E
+M'$!TNL'&\83M,\M4@&TMZE4)>;04)#!=T3$'C>Z@H?M6?/.^_PH%6?P*9@<U
+MLB[%T,%'Q?6#U?->U:5FS`R*5;?[+=PD*[@"3)6KUMRZ:;8@,KM=50J=(P47
+MB&KF/M%N;W@`VI:'3GSCY4XO3=LY0*:5QG"[DSKF[@"V.E%6&CM#R-BNK`G#
+M`L-"\75YF.O$M,!YSH=P>9!@;2W0'*-[H<!\=Y90O)_MLDL(-5*HPE)K,'AZ
+MX;66QS"(,S]H63!.R\YPS,A4>8\]N)-+M1?*R2N:;_H>8*ZV9B97&QY<#>43
+M!R7Q:'!R]:@::)%=*3V.?$<YQBG@+QOC-!#):W!V9MPT-XY'B11*P"^2W]!D
+M:J-PB1$87VJCMRGV8T9.BB$TOC9&2&P*\C">^NEQ,`(^K+YMRKJ6!UN;A'JA
+MGZ%/;F(D_7;;(<,>#R_?'6+3^_^G!`5<C08<CR\P/1)L9M7%EFK:U6'<"K$&
+M;,U!=R7ZQ;\A4A_,-S?&,G]"+D'[%3A7BQ=IYK$/6BZJ3FBUL9G6SX3)`\M-
+M7%Z,@+0UF*E-SP40K:R-`>]UPY>UM-DM,`L#\\O!Y=,_#J$(;Z)SPKA4C5C;
+M4UKL4DXFF;%^0#ZJ$N2FM>^KF7U]E%KF4!.FPG:_A%R7FF"3%%&*@_Z?29&%
+M%<VSX*4._NG:NL9PGDQFWLR"XB2S8;A[$\8[$#.YD[5!P-*-T3Y]PDV-KK]J
+MH%DZ?X$HG4YQ,TF).ABWI.L'JJ^R;?9*-^U[U>QW,_2Y6X<&XJPR/P]8'6^V
+MT"V,&!S7\>E:B\9<UOJ9YXJ9%-,)N3CY3@C!Z%+&!3O32^W0.%)C\^X<K7",
+M[OQ`#5*0A&?93I75Z*G*<$8"=_N7K/4#^@9+CCK99O@$^7F1?$>#J)(L.589
+M,P"Y,3&!69NG0]FZA9TE]$Y9H0>I5/F#CC90G.0"Q0F@^X'L!,D9).'*S2"@
+M@J1_KY)TV$JT2G1JO]*$=\UDK-P,PR4:)%`&P\:05/=FU;9'DTN<_^2"H]<9
+MC!`)32_J*_U8G_<SA\LWU,>C(:?#9]P5LU7+,-5H3:&\U*PG>O6W1?1G])\`
+M`P"1\E/Z#65N9'-T<F5A;0UE;F1O8FH-,3@@,"!O8FH-/#P@#2]0<F]C4V5T
+M(%L@+U!$1B`O5&5X="!=(`TO1F]N="`\/"`O1C@@-2`P(%(@/CX@#2]%>'1'
+M4W1A=&4@/#P@+T=3,B`X(#`@4B`^/B`-/CX@#65N9&]B:@TQ.2`P(&]B:@T\
+M/"`-+U1Y<&4@+U!A9V4@#2]087)E;G0@.2`P(%(@#2]297-O=7)C97,@,C$@
+M,"!2(`TO0V]N=&5N=',@,C`@,"!2(`T^/B`-96YD;V)J#3(P(#`@;V)J#3P\
+M("],96YG=&@@,C0X-2`O1FEL=&5R("]&;&%T941E8V]D92`^/B`-<W1R96%M
+M#0I(B:Q7V7+;R!7]`OY#OR2E24D8-'94GK198X]D.1)3?HCST`*:9-M@@P9`
+M<31?G],K0%+R3*JF7&5)C5[N<NZYYU*RG/U\\QB193\+29849&U_-K/%[/N,
+M$D%F9Q0K)4F3B)QE:4@Z[O=^)G(6!F&L_TR3$!OP"S:H#Q?SV<_O"D+)?#&C
+ME(3XAQ\)-D<T2/*"S-5C>IE\FYWA'FRM9B>W`?EI_G5&@S#*\'%^A5WSW>SD
+M7`ZK5KZ0NU8.;*FW1$&8I6;/R;E:"8,RM`NX+RSTP2O1\6IH.](NR+#BY+)=
+M;Q@NZH6L.*%E5IX2+(N>7*X$7Y#KWWBU'<0S)_<+=6F4!$GDGEF(BJN;U(>S
+M*`WBF)S!U)*:-VF8&V,#:R?YN_8F#?+46]KW;278P/M3\EY6`?ER(N0S[X<U
+MEP.IVJWL>=-V_9>?<$FG'<V#O+#!./$WB]X8$0=I0B=6G&19H+_06"^=18A*
+MJ;^\X\TWF*^]"G+JKOQL8E<@Q>X-LY)DT<&6-)GFA'7U*?G0F?OB/';'C<M%
+M$D^3`P/C9$Q.I+*-B-'X3V6IC,8L,=&MF50[/PDI6=5PXZ]^8)J.,-*OG+P?
+MXZMV)D&9CS`IC0'G];/H$?;7DL+,-UC#NV<@0.?F%VT-TT^;&\>G/9P5).B1
+M@X]`,G_Y$D>I.IT'9>HB99\_M3DJ<Y>`\YM;&^:HM$L/O&^W7>5QQ&1-WHF:
+M-V)X(1_9(%K)&G7H>NXK[5?\]@&_?25AD&4YV1$:DCORG_^&I)XA7RG@1!/4
+M=E+F[H]F]F@^T:"@_I/^0WU"H8_U30OUK1P+7+E^P>0WA^4XR,KB3\-,(4Q%
+M.<LMI#-L+A2D4UHX))4F?PT@\6"NC(,H<3></W5LW>O@?`AL,18>F++N^,Z>
+MB<<2M6<Z3IZZ%G!4L.A;V:OD7=<[9=6=Y:E,A6AZ[%2_M1!=KZL9`.X=8<1A
+M$(4&)UEBS:<6'NQ9U.36V9\5T=ZE`=G;D`=17NX;BRBINI%\LX)'QW8F079P
+MQ+V5^O4Y/.7:;=D2[3=9L+5H7D#JC48ZI4$>4;O]S&`?K)OL^Y2;DE(([%=B
+MTY,G/NPXET15]%@(W1'7TA*WT#VN5<%4QXPY/SP,FBSW#QLR,;'/`*MH8N>)
+MI1@3A-Q#SB`M`C/E"F@TRB=`,Q6=:??N)?FPE9R`F:(P#$^)D$BX_+J5E?*<
+M[,2P,N8#2NI++?3ZT)+'`01@>P.J):+%00%X+N5/_<`MPSH+3;T[^L"Z9XF>
+MU'PAI%!1<5ZG93GQ6C&3:E+:$46/BL:7'>>:Z&`:FD]#^BV>97(0K$'R\9^*
+MI!C@1]_S`1#?<P!]ICCL)6F^YX".0TX)TYE21L4^48UMAF#Z9EL+N72WNYI)
+MXVR:-_=$X2D<G4P[%):&"^R;=TRRI7'L$DC<-LHES[#P:+<2U<H2$PAM+!"P
+M5?5YA>;"#>=SY3GYU/$>_*H:`KS1:L%@!724'@;9T[^IA4.PID&4%5.LFA:9
+M)]0G&>R^7`WD">S9;3=#]:+HI,/CFTW7/K/&M4J=$]*S!FSU0E0\$4)&GMMF
+M"Z&`KK7A@T'>HM7/G.4:S).0=KRU!J1I-';&5)N^9%+\KML)V<H:<44'WJCX
+M4GU$"0>'3.IL^G?P&)"+T?++MN8!T14#0-'8E<PK>PW1H]&5V3ZKF$!>ZAC`
+M$WWV2O1#)ZI!O7L%CMHI\C(!XK7>H>."KZ]">@KC&.TV3M]J1-,ZC(K\C4J,
+MO!YUI6(P7`2QU6@VX"@T*U@=BK5S(&"(`[8C-UV[W3BD*K0I5X:.R9Y9<@$>
+MN>/,L=LMP(X`&3RLFK9'"%H7\L2$/+""X%]_B;[/K+Z/3/^/2%$&,61%'$/4
+MO*WQ[ZZOY^\_WCS:=IR4Z30(YQ^OR.7]W=W[^?SZ^I'<O[.-)W11G_]R32[N
+MSQ^N[+<<FL(%X.K]P_7EW'!Z05TQW3\\_J5^'\TU:%HQ6FSZIL^*=A/3Z;>=
+M*E"5T(7H*]3Q"V<=X2BMFEA7H]2W_TTG&A*'TX*Y:%5C5XBWW;"'-&YJPH7B
+MBS5'N<ME[V&CH:EDBHO?.5AV,,!$OXW3P_90N/;@*FZ]%L/`N7EEV+7^#:LM
+M,$Q$_O(&<QJ(RZMX#LQJR([WU%`RLC6FDOHP'HX`U)VO<FH8FP9\$#>$WX\T
+MAV$3@S'>!P>]6IL.E(PSI#Z$6:/4L;MC+Z9DB.6Y//-*K_'LBZZU73^IIN"S
+M89I"B8@?ZB(SD>Y6K>DJ];'S1V#(0#=O.,403+V1#:3A#'HS3__FN\(277V)
+MSFK(KUHY`8WK)D9I@XX@XQ=PEC/TR,KGSEYO,2AM#\62[92!Z2.9ZME3]127
+MGN',V96618J3=<\?&^2(DVK;=8BL8C/T;U"]V@@#-*(+5(E/QU3[Q^&A(/=2
+MV(`>4TU)#U2X81Z[WPX*29"$7C+_:%(X)7>8NF3-"#K9#8/1@]$(%Q`2"`_C
+M#79T';PR-T>8OOS,-U]!NX\!QA]\O6EWD.)(1FO`5`0)S?=-!LUJD<V^(=FZ
+M*:@)`%"H6UU<'?^^!2(-&`XDPV(+`!_3B(T@2I].D>YNMX=]IIP^4[L/(34F
+M435>F&+RJ-ISQY\%W\$YJ)4_-.85).7TQTBRU9IDV93OIK`"*^GF")OP&LS"
+MN^UV4.+N\/U(@27QF>)CHHSWT'&'.J4PLND(O#J`G]BV8>26[:`\R`4B(9?X
+M[93<B.:)0]C<JDE/"MY@W-00>L>;;]!:.C$4"N50:">N4P164:2>YX]$#((%
+M<+MI(BW?/.D@Z68C!_<W)[[$Y&2$,-NB#73B=XUA4-6Z5:6K9[AAI:CEU.+`
+MB+2JW7#M+B0V=+H.%5-IZ^VJ"CO(3G<23;#S?TPZP9K57,^HFB$@KH2$6I,`
+M/&(_=&W3.[#QW^P'=:W?I9]"SO^I*X6)GEMNK_E&4:RL-/'AS/AT9KJC-\T5
+M6HM;]<QARV5\<7Q$N^2]A_'?MZQZ<2?L8.ID9:R8SJ6P1Y^03)H49G[L>B,Q
+M!HAB$H?7J^IL.MY&R8_KZ_6F?OI_E15\HF-1.2V2[PUZTXY/#=E5;[>&'U;7
+M0ZN+2T<MQ3.>>BWPO7J9#'Y&F\:3@>R#G9&HE]L0Y[<NHKEOTQ+0ER_D#B%G
+M2^,;M$F4[I>,55<'-8Z>0_^PQ)/BS3EEK\35"/76R>.NLU>R#I_*O+5J,0<E
+MJ+9X':!]+(,D/Y86>RI5"9*N=H*GFN+H=>A'49`6'OFC1+A?F.SDA1]\1,4=
+MN,Z@=G,E<X!O4)=C;GLW^B/O=8=<,5S%R,=VC9(:++1-/(R**4!]^A95Z[@E
+M\4/$_P08`.8Y]\(-96YD<W1R96%M#65N9&]B:@TR,2`P(&]B:@T\/"`-+U!R
+M;V-3970@6R`O4$1&("]497AT(%T@#2]&;VYT(#P\("]&-B`T(#`@4B`O1C@@
+M-2`P(%(@/CX@#2]%>'1'4W1A=&4@/#P@+T=3,B`X(#`@4B`^/B`-/CX@#65N
+M9&]B:@TR,B`P(&]B:@T\/"`-+U1Y<&4@+U!A9V4@#2]087)E;G0@.2`P(%(@
+M#2]297-O=7)C97,@,C0@,"!2(`TO0V]N=&5N=',@,C,@,"!2(`T^/B`-96YD
+M;V)J#3(S(#`@;V)J#3P\("],96YG=&@@,30P-R`O1FEL=&5R("]&;&%T941E
+M8V]D92`^/B`-<W1R96%M#0I(B=17VW+;-A#]`O[#OF1&R<@(+@0)-D^ZV5%B
+M6ZZE-LW4?:`EV&),D0I)1?'?=P$2M&0KMTXZTXYG+(I8[.XY>Q6#6^_ER93#
+M;>E1"'P%J^8S]6Z\CQZ#!+PCAF\BD#Z'HT!2*'0K^PXRCQ(J[%?I4Q3`!Q0P
+M!_V9]_(X``:S&X]QH/B''XSA!:X@H!'Q0P4S8]&>P9UWA&<H/_<Z%Y?C\\'X
+MXOGL@^>C/$.!V=#K]$[-&T:D].LW^&_K=5Y/3H>CRRE,CLUQ0`(FF@NSUR,8
+M3,ZL(DEXP)VB\_=7@LLI3$>#WR['L_%H:D2.F"(!#0$QUU)#,+K'YR=3Z+\W
+M$NAU%#9*1G_@Y=GX]Q$:/AX/C`?6/4:XE*VA(0S'EZ/!K':-*7=[<FE-CF;>
+MKS^%:M50S6HZ414#&8JOL(R?(;,$]DK(;ZSS'.5;MM=%DH*@7>"4XO]JJ>$F
+M3]-\FV2W:/LFU?.JA&N=Z9MDGL0IY-M,%^4R61MU1GR0KU9Y!M,JG]_!]3VL
+M\3C/2LNU3QA52#6AD:7;P/.M.U>=N,3K<065+E:0E+!`"YE>&!5&[53/-T52
+M);J$.%O`Z/-\&6>WM;FD+),\NWH.VV7^"UQU&#ZB7[#*"VV49B"?->X9-V8O
+MC.%(6</YIBHKU&CPE<NXT):7<C-?0FD@O$)]'/7A"0R3`N'G16E>BN;EZ#-Z
+M5B6?-$QN+)T183QH^$22$'X7LGB%4)*LAK)9K>+BWC+22#]0TD%`:YV5<860
+MH$YB%48NN<T+2J1@N\407Z<:8X)1>F7)N>KX7W".^41$?,\Y>Z-%MA/%=9S=
+M`T8EAMLBWZQ)D[HNJ][BTQM\^@#H#VR!43B#/_^BL/!\`9()$@K,8E,[S9?4
+MF_ZDQ`\>)SY7(0FB`"1E7^LQ4PQPW4XB#/\.@[JM!D64:#I-YT(WTKYT!3+7
+M615CVC721XA,*OXH?@_Y;Z]S(GR7$).'=/LA/OW0)]SQV7PQ?"(=#RQ8N=`1
+MT#G'I+/1K7NJ'[0=:K$HZLKG+A=T:2L4X?BND?;;(D_O88)EOG`9I!Q!!_A$
+M3?]NCS,@@Z]%N8[H:+&-BP6<D0:]C!RNWG41KVJT(5:#\SM4M$LC8=X+(D)'
+MC.TF]1A@;@1U>$!D^,PF@$#5#,<'QS[/[>$P_I0LX+0V+$@0/+6KB!#.0*!D
+M%P/ZU"X_8!<E_"_9?1-GNH*^LRMX>,APT&9!;?@`8/%=AA\R_B(O*]?\2.2N
+MF.X"_?PS2.'3L&YVYG3G8J]*8RRG+ISHO&CF=7O_-HEQ$`DI[=7Z9!?M9I%4
+M2SBNW3<:ZVLU?$I\+@_!]\/@6_#]_P/\MUC7&[B(BRJS`^:4V(4G)(JZA"9-
+MN;*V7`/&NYRJIBG)EB%.B9+_*7@]O`J7+I4Y/UA#85M:$G<51NG36,JGL<2B
+MI^)+-53K?\JK0@?#/5ZQL".Y8Y[6YO=X/6#JNWD-N1]R]0^)9;56$;:>B,BJ
+MPBD91'MEY.I%4:>AERT*O75=Q#]`/6:9SY]BWZ<^^$'J^W%VUUOI(IG'N'T4
+MZ[RP*Y!%8N:+T\Q5U`W$@7X9.H.![PQ&1`6-/4DHW>,?\P6FN/TMFP'!F4/J
+MEJPVO8I[.]`+K:MFC0T?S7R<@VE>5;H+YWF!*@=QD:=)%N-BPNL<I[M8F^&`
+M"AXR.ZN6.2Y<9[E9,!SJEGWL50%K$LP7+A5?.&P^W8OJL4[O=-%L]V$+[%T3
+MZC9X;;-L?R4YD39F.$2[\*9P"27VBD`23%,7%ZQ`\=T>7L2;-(;3>%LAM7W]
+M"?>AJ@DV[HJT#79350S??4OEB2[B=-&`5HH_BF8[#@],B&QA?Z3`>&QO&XJ<
+M=&V?(M!]^XB=X@YFBI.I.D3MWO.W``,`IAJAJ0UE;F1S=')E86T-96YD;V)J
+M#3(T(#`@;V)J#3P\(`TO4')O8U-E="!;("]01$8@+U1E>'0@72`-+T9O;G0@
+M/#P@+T8V(#0@,"!2("]&."`U(#`@4B`^/B`-+T5X=$=3=&%T92`\/"`O1U,R
+M(#@@,"!2(#X^(`T^/B`-96YD;V)J#3(U(#`@;V)J#3P\(`TO5'EP92`O4&%G
+M92`-+U!A<F5N="`Y(#`@4B`-+U)E<V]U<F-E<R`R-R`P(%(@#2]#;VYT96YT
+M<R`R-B`P(%(@#3X^(`UE;F1O8FH-,C8@,"!O8FH-/#P@+TQE;F=T:"`Q-S0U
+M("]&:6QT97(@+T9L871E1&5C;V1E(#X^(`US=')E86T-"DB)U%?;;MLX$/T"
+M_<.\%$@+FR4IBI(>DTU:;)IL+S'0A\T^*!8=JU6DK"37V[_?(2GJ8CN)TZ1`
+MBQ:M)?$R/'/.F2&#:^_UVPL.U[5'08H(;MK_<V_A_>LQR,";,GP30R`X3&5`
+MH5+=V,]0>)10WSP&@N(`_($#S`?0?QB\PU^G^.L+4!+`&AB%<_C['PJI)W`F
+M9R3T<2T1A^XA]RZ\CT_=_FCFO7XC<?_9PF/,QL*`1R&1L01)8R+""&8W79Q?
+MO2DNAN/GWL'%,JE>SKYXC,1QA%]GQSALMO8.5`WE`O2GB$2^L)\./JAVM`A8
+M^VJNBB:Y5F[TE/DDB/`(C-"8F1%_E#<W90$733G_:L8P3GPAV_GO5TW=)$6:
+M%=?ZV\EL3SQQ$\(=GNV#QA/AZ%$PXP('P,%?R8T"W,M$(8B001O$89J:@^$J
+MO'VEZMK$ZA-<Q+XZ4H5:9/,LR?/O\'Y=J-2,$,2/'$`[\,25VH,]3ZJCS53K
+M0\K[LFPS^C;+KU35P!F!XZ3(5%Z7A3FS(#)RIZ8F>$I"'K9O7IFL^@@BC6'*
+MS;MSE6=%FL`%@;=)5:FF^<&%/I4F)`M]U*$XTR\PZ=U<`N?SS\NL*-1W_2D@
+M/G=)F<!IBSCKA[=YB3A[5#A'N$\V7R8JAW-55=D/G^LPS^'D/S5?-=DW!>\7
+M>H@D,G!!(XM496@QE82A$PSDHOEYG%5JWI15#0G^A>NJ7-W"Y0'C<(OSRJ*^
+M?&DBPSBZR-A$A/Y$^*RE+0\<NP-*6/3B4>H20O3J:A]VJ4N(L%/7JS/4##3+
+MI`#VPJ9$^A(AP=TM+'B"RY?6`H@?MN%IFK8\)8Q)P]4_BWF^2M&#`DHGE%*H
+M45?XB`N$*(X7VFV:)9I.;Q[M$%R_U,J$J^^65C'QJ8/]\*I*;FKXD%1-@3A.
+M4`L?K,6%-!IR9^I'J!TV2$LO)HR6FR#72^0*G*3KI$KAG)CM0@1J8[>KH6M@
+M;#6D*P5-"<NLAB]E5C0P+XNF*G-WJFN<424YW-HX]>MZ-5^:P.P&`[JT@^IE
+M=DM:7XM\9^6$\L#$>HAJA\RAROC$CV('JL7+1((1KK-F:3R2Q9.8;0Q*#2]Q
+MU)71X=3N-48)D;2Y1,KHK<<`X8P@'`%TZ?-`?_&Q(CJYKK.%0ILJ<>.B;%S@
+MP(281"SLV2!(?#\93)015J3XCER&H0FRXTQ3K>JF!H4K7>59O6S?XO((-)8Z
+M4Q;'1^(^\C8>G6EB$%P5*69O@R8FHG9*'Y*FOK"9LJS1\S5!YLLL3W'C";3&
+M(SH3.<Q1:9]L#%BE`K$1PJE#7+(.\0+76KL9<D?,9\FJRE1;^'TV'@)G:/O6
+M@M&V9-A9,$)C92-QU7!T+HKGU.?J9(#+UP2.2J19"S;.AB2]R8JL;E1E$<>C
+MZ;UN%?Z#"C$CE4(P43=EGM8V)>4:`48I?2L;$\#L55OL]%'2K+XM:^7H82EA
+M\;?V,U#1Y0'?=B:=E&CL1Q*EPY'A'0/1@J/`4/!^+WJ'7U;;SH-E@\NNR!FJ
+MN'*"[\<X6J8>)]^R5!=QFT09BY]D-^[9[*,+@"LG4QMA2&(^IC`-K7M;+WH&
+M]<).69J`[.X/!,2HQ6PLY.L*MQFH>80H"T@L-Y6T*>;Q#!38Y@2-]2+!S2I;
+M%`3MM+*[O&!O617:(&Q6_=B)_+-MA2+!.Y;8-T($O<D/G&/264>S+J$VDM)F
+MD!2J@:,NY)#R,6_TK--5JMW_C54_"^[:LM\*E3L6MK4W3$48C;EAJ?'\LH>!
+MU$<6L)_L_5]=]E@3=2BC_"%!HGA?V2-43Y!]5U5^%]6;%D2Z%H3MH?^Q-`*\
+MASP@_TTM!6QSA@9]J'_)Q+;^^:Z69,,(L+]^T`CBN#."4(R<0(=Q595]'/VE
+M=#(V,;S#2K[CV'H%ZR'6$^(@[A88N@4V;UT+M!78#KMH8>DZ\WO894[T$_L&
+M?<Z1<3RN;Q"_NH&T_=<X6XQM>?O>?<33#,4/?S='H:97W\-'!@BCC?AR`^)`
+M/-17C%806-?%@TML.DT@V+;3W-=I1.)!@W$GH6:I>PTF"OE=!L-"?P^#"?M+
+MQ4;)B[;0&S8?=C;*[$%RV5OISW03W8[L32X3S2/\)MCV&U/RV@LM8W+L/`&E
+M$TIIKQ86(@9[RL5<;V/BTW'JMOT($T==:2&[B=>7.$MVLS9QETAJAZVWKK5=
+MY_S<]QL3I42S&=Y7#]I!UGHL<1WQ=*,=MB'6I;.C&EB/[@@X5#`+G!K'I^+A
+MN#1>^CQH[W/<S5AG"W6W^]D^&YN5F(_IS9UW/LT<[[<Z$ZLDOH@&Q[.,Q1X!
+MA8XA2;PMZ$]2OS^9>1^]_P48`)BVXHT-96YD<W1R96%M#65N9&]B:@TR-R`P
+M(&]B:@T\/"`-+U!R;V-3970@6R`O4$1&("]497AT(%T@#2]&;VYT(#P\("]&
+M-B`T(#`@4B`O1C@@-2`P(%(@/CX@#2]%>'1'4W1A=&4@/#P@+T=3,B`X(#`@
+M4B`^/B`-/CX@#65N9&]B:@TR."`P(&]B:@T\/"`-+U1Y<&4@+U!A9V4@#2]0
+M87)E;G0@.2`P(%(@#2]297-O=7)C97,@,S`@,"!2(`TO0V]N=&5N=',@,CD@
+M,"!2(`T^/B`-96YD;V)J#3(Y(#`@;V)J#3P\("],96YG=&@@,C0W,B`O1FEL
+M=&5R("]&;&%T941E8V]D92`^/B`-<W1R96%M#0I(B;17VW+;1A+]`O[#O&R5
+MLD4B&-SQ*,MTEEE9TDJL]8M>0'!(P@(P-`"*X=_OZ;F`($79J:Q323D.,=/3
+M?;K[]&G.UJ-??WORV+H=N2P*$E:9_Y:CU>C;B+."C28<OZ0L##PVB4*7-:(_
+M^X75(]=Q??6_8>#B`/Z"`_3APWSTZZ>$<39?C3AG+O[!?^+(X5[((H\[09RP
+M.3VH/K$7,L4#-L]'5X\.^V7^=<0=+PSQ<?X1W[@+4_O1U?6BR:IVS+)ZR7;U
+M4C1LORGRC;Z`&Y&^<'5=9C4SAGPGXHG]W=S?%"U;9=U&-'0B=A+/-R?&;+K<
+M9\V2?=:W0R>*O`NW%XVTUQ/'3X_7Z9>)GR`<SB;<<5-.'R84GPKO=VW7=1+$
+M:^S6RT;LC;-^&-FH+P1-3[=%V]F7HS#I7[[-=DTAC!G/#T^\9K<%\#K0Q\AQ
+MHZ._62/80M1B5>1%AONMPSX@--8UN[9KU>=L616U@CAT$M>B,=&1QD[JI8-(
+M7>6S<E$LV>(`MQD]O17XH^ZT72&0.,DVLERV##BRK=PCF9UDK[(3*M)ET6YE
+M*YA<J0/M!IZTCGJ3.WX<#IZ\>KZ*GG\Q54.?7`NYQASUPR/EUJS.R]U2M"QT
+MW;'KNL8L>[[B,6KY'_8UN>O:#EX4]=H<@7VYKW5$])"7.K[KGT+\D#5=+1JD
+MZM9YT/F)79L?YP>%H7J)?-05_;LMWB"-+Y9)?);?/H=E>2!76[;<"4*42N:K
+M+`!]+NNND:4-<HT;35:RK7:;?FYW^4;Y&3E)[`VSBIJ)E7OF=+LIM@[[*`%>
+M+3MD6`'+>!",$QX?<0V<],_"JBN.GI__DQY,0_6@P)5%6;0;<XH\;V`$CJ">
+M6K)MP.+T6'@)K2#@9SU\SB#6!!^RQ?=-`%B=4WST@V$]'JG%0R/R(XMY*J*W
+M'./'EQAJP#'HLN"48UPG].*+=!>@']\&>\X<J?7KG#F",[8\80YN.?EJ?+F>
+MD;<P4%'^66+YJU1A"T4]]A=I(WZ'-GQ+&XFR?B-K@D[5FJGL8]7B%1-2(U:(
+MI,[QH:C9)RD[M`;.\C'SQLP?LV#,0IV-:$RV5.FI9%YD!/7VAZQ^N:Y$4^09
+MNY'-5C995\B:M:)YA>VLM3"I(*?ST7]^RO#F[OGTYF[HI)A90>B_'=]G3C]-
+M;^:S^SO&H^>K#!A_F-Y-/\UN9M>W"FW/\;FMYOLO=]/'IW_-'G0GQ'V;/4X?
+M[A]U27)NJVX^N_N-W=Q_?KB=7=_=3']JR&_T2L09>NE[P3HN>DT%+'*5%1NP
+M*3_\C,[J4/QL^D>^R>JU[C(>#;1*WM%QGH)#&O%M5U!YT>4;66VS^O#L>Z&Z
+MXSMI:(=ORS[B7-Y)FC:Y:+H,%2=7NK7#?D:O"D,5J4553^W`!9^<=JWA)MAJ
+M585N\1>4O6H^%#NK)!JV0P@HA(N$#G<K(/#4R?S%?C<AT!A:%24ZN>@V1X*/
+M]%`^`XH>[\$BHT7;$K2-0.WK'M0?6^HRZD,UC`9/GKLQ>#$T_:S=VHA2]3"-
+M/1NPF0.^8@%3=!L!1K&`*.(J6VF3M531[1H0V>8D:`H6,W=+0>G43(S9$^!C
+MC0+F-EO)IE*Y/VBX](#JB+H;L=Z5JO.=OH("R_-SD^6>TN6E`HJ<P.5]_;S4
+M<E^*Y5J,V2)K$44K2T'2H6897GLM,/F.\$T\=&%R+ES<U/"DIRF_#U8C:C-F
+MP-%(#1&B5!-**",Z1,,..254U;CQN</]M)]2A%"/N88*DT"[9XZ^RZ($YY)B
+MZXI*:`1_&F]$AC<\31`>XV!(M#/S+RTZQTW@^N'A\?Z_FN'2N*<#39%.&-KU
+MX/Z3^24V;:U#\DB_/LV-'$PL0][?_%L+5(B27I_J^HCZ]'\Q*TC<*X7'C^SA
+M]OKN;YXAT#!>&O]P?#SLFN$0UY&JAE9(N#!P&ED86/B@JS1:06)C6[('Z*._
+M?51X\3MSD9A5JPFMH$$G4$*D_Q!?3^,00W+;48]LS(P(@<F9%)O52\QZ$E-C
+M_#UWWD`3(*?A6=:]Y(B-Q@*ZG%X!,7CJKFXA#^HN&>JCWL!1&=FQ%^A0>HLP
+MY=/8J]GG[,`\R!OR;`P>6'Q%?-3X2CB1C$.39]MM(U^S4G>B%X++^@E_&1U%
+M@3FX'=K0HM-'^NY02[2;-)XPNKI+K`@E'-GB:8=.ML9+H2?Y$6.D.>+G&+^!
+M&`0%(JUWU4*O5HW(:'R,S:H$ERRO$IBG7H>&3:MM6630DWJ4'#6&]WQ5'47&
+MK(:`KK'(/8I74>\HPJ70DB)!(J`0,T(-I75,.QW1.7-@=S`AW<`6*U=.Z,/_
+MAR/T"O:`4NX54]%>9^%VV#DOS4^0#C#1DC.@_>`<:2"JAZL?.DF47)P!_>IE
+M4MHK]V&^QX@.(V8AF%C9$<LMT:PH9M3":7GK`:;F4D4*#/^:N[$3]P1.=S'+
+MNZ*TU^W>F,8GNY/A=0[+N[H4+<J^H\H'K%B4LN[HM^X05#0J361-6:#(ECC@
+M:/*+_(A-T,^)9S;/[Q$/DE.(5R4Z38L,BCT%=&\(Y4VQ6^#H<B7;#FL866=[
+MA(NWJNREKW>L6C!P4N]I7^ZB;O5V<UP"=UM)N.;4/UKR#8D$'++#/)]IF/!Z
+M@1JL.UN1RCEP#R6]6(I3,1CKY:X264UW&[E;;_1*Q@0*7AX$WLMA8+$KH!,S
+M:+(:35"@P"%Z7^BM(:&8\@Y]"Q?83ZK]#'^6Q;H^6K7<,S'G3]`(=+)`=K6L
+MBEQ%A)4`.DHU']22GHS#TC6:D*3_L)54^`!F*5J\K_77MLQ(>"FSZP:Q--!]
+M-I1L491%=]!:55L[\<W3D+U5]UG7-5G>J89HA-I&7J!B^XC'IB+4OD*'BOJ8
+M8D2J;DL*9`J!UQU(URL*4)S^`Y:/#&)Z#\@@_]>##!:M#C?'4]3!.L.45U%O
+M%*GE)HYU(_?=9DS5LBJZ`1;$+$&?5;B//_)<-DN]LWY_MZ+I4QYT7Z9VN]6M
+M/KY0R\J&Z_@@XF$'T]I@>W@E2]`I#34D-F^*K6H9DY0*+-!0C:Y$UNT:+<=/
+MF]H#L08_;FH"#@.\JK)&2W7\\&V'4C9*@_?D_&YF0B.^!24<9-8R2@(*Y$!$
+MUH@5*ILR8/:"`>_$@RWV71>1!EJP%,?HM%HB,@VO*IY2JW!6L7M.TI/ZNWYS
+MO9.9Q"@*VF,]!;6H#03=>+;*&)^]7I+8V4:*\/)L\WZL(0!X+;NAB*(G56QM
+M0;OH<$'SG##QWTR3J>D#S&0"OJ)^@W*4E:`QOFNHUXR>"G@/>-YI_1`'T`S3
+MQ]G3-82"=IM^H\),U<FXE]7_$V``'&=,40UE;F1S=')E86T-96YD;V)J#3,P
+M(#`@;V)J#3P\(`TO4')O8U-E="!;("]01$8@+U1E>'0@72`-+T9O;G0@/#P@
+M+T8V(#0@,"!2("]&."`U(#`@4B`O1C$P(#8@,"!2(#X^(`TO17AT1U-T871E
+M(#P\("]'4S(@."`P(%(@/CX@#3X^(`UE;F1O8FH-,S$@,"!O8FH-/#P@#2]4
+M>7!E("]086=E(`TO4&%R96YT(#D@,"!2(`TO4F5S;W5R8V5S(#,S(#`@4B`-
+M+T-O;G1E;G1S(#,R(#`@4B`-/CX@#65N9&]B:@TS,B`P(&]B:@T\/"`O3&5N
+M9W1H(#(R,3$@+T9I;'1E<B`O1FQA=&5$96-O9&4@/CX@#7-T<F5A;0T*2(FL
+M5TUSVT82_07X#W-)E;Q%P1A\D2R?[#C>RF43KUF5BRX@,!0G!@$:`TK1O]_7
+MW3,@2$G1'E(NV](`F'G=_?KU&ZWNH_?__I:J>Q<EJLQ7ZN#_;Z-=]"/2RJKH
+M5F-EK8H\5;=ED:C!3._^H;HHB9.,?RWR!"_@![Q`#SYMHO=?=**TVNPBK56"
+M/_@OQ]NICO/E6FWH-%Y6WZ-;;(17:RQM'J.;S\;5@SV.MN]4OU/O-G]&1;S*
+M:)O-Y^CF(RTD<9&7?N&Q&F@)&Z_6?JEQM/++)OKZCX2RNHZDU*I8+Y]'$L"5
+MJ0`Y1Q8G2<K1`6WCU/U0=:-IU*EKS*#&O5'?QK[^SL'J-$[*\C+:L"%_KGYO
+MJTX=JB>U->HN2U/;U:8;[8-1CG?I.7D.CS)U=T-O_/KM-_[U[MU"54XU9F<[
+M'&\[VOY6Y_$:Q;G5<;+6=`S!73'<;Z;F0N1I2L4@I#_WC?G`YW9]]^-4M79G
+ML==K1__GZW3V!^7VU6`<[?1S?SA@7PY[H1[WMMY32(1G\R\"H"5?"!''C,B7
+MVYFAVK9&55WSOA_4KA]VQHZ\)'G$UN-@&;!;J-$,!T<OJ[KO&LNKRIF1/ASW
+MB)VCJ3BCU?U@#)V=)TB%S_4M)T=6+G*S9&0'Y-S'&`X.:>#P`9&>25[XF',:
+M9.UX'$QM*T[P8._WH_/[??OXW^E=;',T`S`?*I399S`^YZF4/%&%`R<"N_JN
+M?5)CK\SAV/9/1A(O)3P<JXZ3G:9Q668^X@6R4K>GQG;W>%4Z+TN7_NG.UF9P
+ML>**7I\U]IRM=!FOUY?9RH1).(\"<8C5XVG4]FD6'AWJS/"`4QS5Z!E2J,`+
+M.,&.VQ"@:BPR.O8#UUT`T5<S/(S%@BY'@W]0P9K9Q1_%HB-E5JK;--:KU$>`
+M8M)7&X_'=$YJ1ARVXXAS?5X_]40F_/)YPG%W0P^HJ-/;4EF*W([4B\[>=]CC
+MWG0@>-L^24\*C(N6U`QC3PULH9&&0:"^1&HZY47&`PW72!X(#^?Y"Q\NE/G+
+M#+5U1AW!9;,(*12:K85F#V`Z?34[X.[FO%EXO*T<\V]>0X1=<!WSN`ARYN;<
+M)K9S-"URQU\*7QSDP;.+/YTG12=KQH5T&Q;`$W3D6;P?^&?L;<'5`5TWRL,&
+MI+-N?";!Z1HL7KXEP3&_F\>E#FI-#.E.ARTVE/:YS8HXS:ZD-1?]>%D+U:.%
+M..'!D9/0>VF4.*Z;[J7Q@1.3I'AS?%CD)R`LT^)*X`I1N.HO>S@="*)>)$E"
+M?X,`A5$U:0?%'CZ8<A`$G]I9`O$#`JQAQ:(RR(1XMQ#>\Y:7:*3$)(H+ZIIK
+MM7TN18K$!DUN'VR#`:6:TT"LI-6Z:M'XU:">#/Y!%K*+N!8S894JG;9_^DI@
+M=WO;V/;$?4?(G3W8%ML<A_[!.HK+YV4%?Y+/$O.",!#H:F1,HSU@$&&>-!0>
+M-:/UTIRMR[>&42;BU%6CN6("E"]9O46$A9I'>#RVMN:)VE:/(9@BUGHY"\;W
+M,YC:MNJ(,'B.^EX:*C8B=>]&%YH`IH_LVK4*7_$V7DTI>[WE9+]XE:ZN)'HU
+M2;0P3$2,B6<J\`YL0^V[KA\56XI1M<8Y0$<OZ"3Y*4CXKK(#:C-\AT8\5.W)
+MS&8FFO0U;5Z*-DLXLXR.$R"?3!VG.ITE\QG:BON!L!+0"23DF;P6]N0>@%^I
+M1+<J%EG!)9M?`-,B-B^$)>+<$&_"C(B5-.6`>K:NGP>"T3]6\$PM*#]6TL,0
+M4K+J6YGDP1O.6BA;^G$['S8#`D$7L'T"_%$T.^C"N4:S=CX;&$P"U3_"_?:#
+M"<7[R?.,S]1^6--)=7_8LL]]Z'DJ'?M'425,656WE7.BO_ZQB,G=3<7C&A7I
+M:GM$RED9]GT+K0VC^YF-RC7;!&]/I%=EZ5P-N@W0N*JCFU/G"WM%`%)E8F;E
+M1J69+WF<YF%?_7_35+U$Q.#UT_P:5;BC>*L6"/LK5*Z1,4]N@'MH+K+JQ1S-
+M2N@=!0O*N6([$@B27Q>J)A0=^H,XH@M*ON+)LIP_^G(2#6(V^11<9/1P<@SE
+M4#4&[#$DW.HW>0/9#IZGD?;,<+%,]*P]CZ>AAN'RGHA"DZ$)*"#WI3TKPX7E
+M6%FZ6^%MMV>;UWF.`QW?6WBDPD(YBWR)EZS<5#ZQE#P?CC19S.Q^Y(V;.?>8
+M5[Y7W`1SHR%287=0YDT="`EAE4%7D]`+[H/!'>S<9_Z"*,@NH3>&9U@'/*#)
+MUDBH\%FH$=N;*[=5QMEJ_9;T!_N8QYF>V<?3<.R=$3LW32^ID<;=1<]J=(.9
+M)FS*\G"<E#V)\^P*P%I[&E!["-=^KX;1$MTY#/!N7SW0*`EW-Y2PNFB$:RM'
+M8?/S>6/NP4+/QQ,,1NLG7+E^?FVA[U^E[B^;Z&OT(]+**G2Y*A%BD6,8E$4"
+M#-BAS%?J$/VA.FX?_K7($[R`'_`"/?BTB=Y_T8G"F;N($X"?M8)>Z.4RSLF(
+M':)$EM5W=(A/7N$']UE+&"^30.@-9HDE*:XM"3F#J=12GGQB0^/^T=!6UY&5
+M6NDB>Q[97!238K(6<L&B`=*)(^>69/?7&!EFUG-C],'3/0KM>.^;"&.;;C0+
+M=3KZQA.NL/@LT0?!:`6Z)W%:KB:ZC\:GJ)P8_*HQ]#>C>0EDCHI6#AZ1PS0_
+MN7-?!G?GKZ=@*E3*5H,U`35(#D;;G86P-!PA+9\5*2\GMIZ#RQG0W\76P-&P
+M7#8T,6QK1YZLRWB9!E_(HC1EKJ_KTS`8W!RY)`I"W=T;%MZ^&X>^?6%.I[B/
+M37-Z:OYE$)2/<#V+:5:B(.6ZO)[@F?!":Q'`"\6FS\HX3Y<38,JK%;P3>R[E
+M3V?7TK>\UK[%Q#&_%7^7Q,M5^K??<L1Q.ETB/L(VBO$BISF%F<7+8OVB)>`(
+MJ[HV;9A39)=P_R*_Q&Z5F"(155N,JD!P26V:@-%((/*8%XQ@-?7S_P08``OK
+MGT,-96YD<W1R96%M#65N9&]B:@TS,R`P(&]B:@T\/"`-+U!R;V-3970@6R`O
+M4$1&("]497AT(%T@#2]&;VYT(#P\("]&."`U(#`@4B`O1C$P(#8@,"!2(#X^
+M(`TO17AT1U-T871E(#P\("]'4S(@."`P(%(@/CX@#3X^(`UE;F1O8FH-,S0@
+M,"!O8FH-/#P@#2]4>7!E("]086=E(`TO4&%R96YT(#D@,"!2(`TO4F5S;W5R
+M8V5S(#,V(#`@4B`-+T-O;G1E;G1S(#,U(#`@4B`-/CX@#65N9&]B:@TS-2`P
+M(&]B:@T\/"`O3&5N9W1H(#(S,#`@+T9I;'1E<B`O1FQA=&5$96-O9&4@/CX@
+M#7-T<F5A;0T*2(FT5]MRXS82_0+]`Q[VP=Z2&9(2);'RE'62K=FMC3.Q4WE8
+MYP$F00ECBM00I&7OU^_I!L"++'N2JDE-U5@B(?3M].G3D=C.OOGG;2RV9A:*
+MU7(C]NYO.2MFGV>1T&)V%>%)*I)E+*Y622@:U9_]352S,`@7_#59ACB`#SA`
+M+_YQ-_OFQR@4D;@K9E$D0OS#GR5.QU&P7&_$'5GCQ^)Q=H6+<#3#H[OC[.*Z
+MWA]*+:M,B:-N=^)69:VN*Q&MXON+_?VEJ`O1[I3X4+6JJ60I?E%/JNJ4N*YS
+M=7GW:?;#W>SC5PEA<QK!*A))NGXO`OR-.(JWO"8G1:XJK8R0^)!W]MS#BY"5
+M4`B]?E&-*.I&9*III:Y$AH2HRD@^A^_J.5/&X$(*]BH*5HN5P)\PA>7OR875
+MBEWX&YZ)O2Y+^MT!E[XHV8B#U#E;$X?NH=19^2+:1L(1V&D.=6/-M+7U=J=5
+M(7YX5EG7ZB<E;MCF8AF$\1*QP]Q%H>&G@+NR>G%!LE_NT.`8)2G<V"Q%\8)=
+M+.JN$?O:M&*GMSNXTL<*?U1OUH8:K8,D2<=FD028:V`3N7O;WV@5+#:+B;_W
+M%W3\?A''/\F]RJW'BR`EG$P\]F5%*.3PZ=5)$&VF+N'.Q?UE(*['56N4+/7_
+M$!,CNE'F`'A0DDU;9X^B/M`I,T=UL[++=;45W:&F2JLFTX82@/2RD];@I-QQ
+MRJ[]]/'VANK`OP2TM/G<P6KQ0M?AVZ$VFIWAR\2'VYNYD`80-%FC'^#;@RKK
+MH^BJG/*#S%P[_/VH\`1]]J%"=;BX=W^?7=S1AS!(%I$-GW)E<R2?$7QEU.=.
+MH8G-G#*"P,L2%@B\B!#6BJ;>HV;:C)J@U'O="ET(_$^9,P6UB>^#!C?J1NU5
+MU?:I(B>68;`,?1&N.$MXE(ZQ9YF%$B''UQ!P6@;.+=>!P1('*S20O>T[&^0J
+M=M^/LLG%SR72AU#DX=#43XJ[R;;V_H`F0+@)7Y0$:0]7(\Q.-FI7E\BE";XJ
+M39UEVB1\CVDO4%OV$6=<^3A#9^HMN-`;)&7C8CFI[U].N<OU>Y1[<6.;Q[GA
+M3_P;G_Z%3Y\$83051X$T_4?\]_=0Y#.^=!7$ZQ1.I0D8,^X?E+/;OZPNO:DS
+M`5T$[T40;Z81C)Q>QC%%L0XVT?#@ZT7QJB)1B'Y+OE06^Q>0^I7Y).N:AAL.
+MX"GET4(J<8`"#PG;&0,W.1XZZ<UE@.;Z8F_F-5BCJEOF-RFVJB(\,S'$%L@3
+M9@"&]K)M;4?$01+YE@BB*.$8YI[`R7_Y4"IB'^H-YEKR<=M(1`?V'5,VJY3;
+MFP#3YGN%83`0.[VQ$?,\W03AQG>7IX\0:/3/C">US>9THOID+U>.XM@O2C/8
+MON/I,X>I(S22[?@HV*SZO),?9SP6>_DB=A)33I8LLGCB[76E]]V>+]>DT3*^
+MW@3WEU:)\-4G`S]V`Q]))?\^5+X<9XO.4Z*N(`0:E=7;BE+N0G)$W6H*CV@;
+M=+M'*BTZ9,:DGKOI-,[,PDZE=M?4W79W-EP,(0-7J'XL*([TWHY,T'M=!.!"
+M:W245/JQW-<=U;WP7M(AYP--YMB95F[$*V2Q@]H916>$HCGM%9>[$2/EN-/9
+MCI\]R;)3@X`<A>V@E$,O]5:CT*;:G3<2</6!370`Z4B5&S&X-R3GT$#,(.Q"
+M3)QW.3'>&98O0[S1Q@J`HG6MZV9MSI4F]$.&ZCH'QB-.I\8@KVH!75IJK^,D
+MAR/<>]$>:Q:NZ.3^6CX`%US7%8,'Z4G"`2P4L%)6^[Z^P0=L/>K!1G;E,_QF
+M`LGD0;<HT1;3D7,RRN*HV+8#ZPQ<9RB!2#J*JIX/VHEJE[1I+N;3#','#/"H
+M&QR5S8MW;(P5K\1R;54N)L*BUV*)]:90#0UIR)7VJ)1%2R$U1+=L'E4[A19+
+M%.,[K<<"YXKR^"90OG6;"#DPD:9>$6(UD'G."8/[B`5\:BC;4WR[R[T??;6F
+MKG@I^5:%1FBP_7<WB#/NMZK5;8F?(HV2V6Q0H.=ZD1P[*4-?("_^O$T+`5?,
+M.4E9&*67*P#$KR"!I7,L)6MQ%4/0QU[)VZ)]5YW@`;.LGT#.@^-.4:M8T6_3
+MAM"X(6QD.[VGMM^Y$1,'B]2/DT#\>K)=]!O;(OG"QF8ZD)(U.)DKF*N+>#)7
+MWF*\TURZ9*OG=J+(1RAE[ZR!\\,OM5+C#_'D&,4$!I>$_(_0(6<R#9)UY#6(
+M+>Z5>SC!_F(])(QP.9"*@[W!YHD(*XQ#0O%I7MPI)JXW?'8>.;U".`=*"J=D
+MEB/$S2WB(GXT\7*5GNO0K=VW>I#WHN5DCQRQ!KZY9?:!MHAA+9HLL4-O+M?#
+MUOJJH\VN;EA.E76UO4)`^TF+S]&Q7D\YQSS:O'P"X->IEXKFA'-MWE;8$1=#
+MZGPAUXN)/@PLMCQ_]/T(7L==3*[TG&@D&VU%KZ1AX;IU+AZZMH]XQ$6C21*Y
+M9>R1[A8C3?<^4?6]XZ#BY!5^7W8Y7-+^KC$Q+:BQ!D5(O&(S89]/E+(;K5RS
+M"0[M_.'S/9\Q>ZQ97@\*_D]L:%&_H6U2B)JD?T"[#5:382/IW_<+B5T.8.SD
+MI[SMI:MW[NK?#\L-N,_.$=HPS+?B%V5:\`'Q+`?F%[>3J_>S.%P&<1B];2P.
+MU\#@9N+Y;U;\;WJVUNT.K6@.*FM]O7M(V8Z[OT"G-(-7_/3^<EBA['A.<.GB
+M#09-[*)#Z]/<TZ>?E[47@=#_=36@[&?9M#K3!_+%R18[H@`Q=*>QHF=@,])V
+M#-1!JD8VL1,PORU/**RY*)4QW'(.]0>I<U$@`\RT[M!X6^!1.<SH$2Y'$7C>
+M6`9)O.SW/U=X(QJ]W;4&84Z+,9@4($&2LD18BGQY^.3.2/IB6MC0"++1YI$"
+M@L.%PC+1*,?-;/?]V=M5'/MI[E6IJ.QS<8#P[.B)M0HGR2*_IDH<FOI)Y\/\
+MN:YS,`'.]LQ;G^;)P\,)>Q?I*+<:I9>][K"\&H%ZP]5`K&,LR=+49P&ESW(B
+M+0.>\BR([=VGK-0CG8/R`3J`D'1]M3V>Q:AY+>S&F>9&CT/H-GBP#E;+A$-,
+M7?]_G/U?@`$`TL]W%0UE;F1S=')E86T-96YD;V)J#3,V(#`@;V)J#3P\(`TO
+M4')O8U-E="!;("]01$8@+U1E>'0@72`-+T9O;G0@/#P@+T8X(#4@,"!2("]&
+M,3`@-B`P(%(@/CX@#2]%>'1'4W1A=&4@/#P@+T=3,B`X(#`@4B`^/B`-/CX@
+M#65N9&]B:@TS-R`P(&]B:@T\/"`-+U1Y<&4@+U!A9V4@#2]087)E;G0@-#$@
+M,"!2(`TO4F5S;W5R8V5S(#,Y(#`@4B`-+T-O;G1E;G1S(#,X(#`@4B`-/CX@
+M#65N9&]B:@TS."`P(&]B:@T\/"`O3&5N9W1H(#$Q,S@@+T9I;'1E<B`O1FQA
+M=&5$96-O9&4@/CX@#7-T<F5A;0T*2(F\5EM3XS84_@7^#^<QVR%:R_=,GZ!;
+M.MW.;BEDVH?2!V$KB<"7K&23H;^^GR0["8%E^K#MP&#'D8^^\UV.X+0.WO]T
+M$]':!"%E24'->*V#5?`EX*0HF',\65":1#3/TI"TW*_]@]H@9&'L/J9)B`6X
+MP0+[Q<4R>']9$*?E*N"<0OS@DN$WXBS)"UK:S=QC>@CFJ(.EI:V71K3<!;.;
+M\VOS/5U)O>IT(]I2TLU&:$GOEO?!C\O]N[_@[B/N[BED:;R@'?&0/M&??X54
+M!6Z[D$7Y`G!YGK.L2/=/ZN#&HCR`.RS8(YR=C]N=OHQR1<+2,'^CW'[!H=Q.
+MZ,JPJ>9)A2:(>,06V>+K-2.>L3#/GM7\N:6U;*46]1D)NA*Z5Z7:BK:GG:IK
+MZ%%VZU;]+:GLFJULC>A5UY)J\5%2UUHP<YZR/$YHSEFX@`X?O*Y6!E&6W8!:
+MW8KZC20C^[Z6C?1/1$N0R5;@:"5+`!+OSCH-(-LCY8Q33MCNL;%]332NJOPR
+MB)KZSM<>&E_TR6/R)0^8K$G"PKN$1QY>*<P&+XN>E*&M4-54[)B';3T8]W`E
+ME*9&Z`?9TZ.H!VGW^Z%K&A!RTW?E`]W.<&N75J*7OC`^63S+[YZY-$G=_JXS
+M0[:]E=(&J[5HS0IJW-6HKJGM>C1V=R_+WD(3]H/I@4JA<:W,@X4`HE92]8.6
+MM^_VW4`XJ1ZE8^Q`^P@E=+N/HCABF4M&RF*$P,NPQ%=H#A0\>2N,-JF?Z$X2
+M:BG4K#RJ2E9#Z8P!+%X-`7MXF2;#_O9-A@(/3Z="$F/EXJVIX+K]+'>C2A9/
+MPN(H&SMU*47^D^D!"'&N9$DQL5'150WC78"#E>K--VWIM3F71NGK'2'QHX7]
+MH#LWU@(?!\C"PS.*PA!_VXZZK=7#6!-U$$1[F0UMQ*.$@!*QA]=Z*#BTE?2B
+M'>B)$Y;ER7-^LB@Y\./Y<-+.XXPMXM.H[9WN85X.UI\3B$8X$S6BDI@ZO8^,
+M,J66SD2C,6VT5-]+Z<T)1O+HR)SMT-P!.!9/O8JVFG:P,7#@_%M'H\G!&0%,
+M%"B?VI4'"4O+6JV5S>#V,`B,C94-9#EH#?^#\4KV4C>JM7']'VR>X!AY88K9
+M[UZ>9+3JB>T[#*)K#$JEO>W#='(Y^K:$76/"-Y@-E3CF_J(;,Y"P*"NF$/SG
+MMD_2^.WC'<ML5U9_L7*N8"F??(D9VJ`+&/S1MCVVLNEJ&-S%1,!R]YU6_=/^
+M1/(3^,AQ^V%^>+:=#I6$\90_/^>BA0.DY19UI'.39=4"J"9K.R(YB,RG1+6M
+M/;D^2?B]72,"!J<7[MQJ7ZB4'O"7H=-#<^9'NI5QG+G;K>X>I3_J?.E3CY\D
+MFA7)BT"_GN>(%5%!N/`B^MK)N1P]4EF4'X"J[#MMSFBW4>4&(T6T"L/?(",C
+MTNIDPD09>XGG!:`S]P^(LR?B[5CU$`N6+8I71XZ#=QM'T>6OU[C$(P#0/0IZ
+MP`#BTKSX5Z3D&''8+P:-43YR7`8S'NXC\8\``P!H<OC<#65N9'-T<F5A;0UE
+M;F1O8FH-,SD@,"!O8FH-/#P@#2]0<F]C4V5T(%L@+U!$1B`O5&5X="!=(`TO
+M1F]N="`\/"`O1C@@-2`P(%(@+T8Q,"`V(#`@4B`^/B`-+T5X=$=3=&%T92`\
+M/"`O1U,R(#@@,"!2(#X^(`T^/B`-96YD;V)J#30P(#`@;V)J#3P\(`TO5'EP
+M92`O4&%G97,@#2]+:61S(%L@.2`P(%(@-#$@,"!2(%T@#2]#;W5N="`Q."`-
+M+TUE9&EA0F]X(%L@,"`P(#4T,"`V-#@@72`-/CX@#65N9&]B:@TT,2`P(&]B
+M:@T\/"`-+U1Y<&4@+U!A9V5S(`TO2VED<R!;(#,W(#`@4B`T,B`P(%(@-#4@
+M,"!2(#0X(#`@4B`U,2`P(%(@-3D@,"!2(#@X(#`@4B`X,"`P(%(@72`-+T-O
+M=6YT(#@@#2]087)E;G0@-#`@,"!2(`T^/B`-96YD;V)J#30R(#`@;V)J#3P\
+M(`TO5'EP92`O4&%G92`-+U!A<F5N="`T,2`P(%(@#2]297-O=7)C97,@-#0@
+M,"!2(`TO0V]N=&5N=',@-#,@,"!2(`T^/B`-96YD;V)J#30S(#`@;V)J#3P\
+M("],96YG=&@@,C(R,R`O1FEL=&5R("]&;&%T941E8V]D92`^/B`-<W1R96%M
+M#0I(B:Q737/CN!']!?H/?<A!DZ*Q^`:8VXS&GGA2'L^.M;M)Q3G0$C3B1B*U
+M)#5>__LT`)*B+-K6(>4J4P1`H/OUZ]<-!M\G/WVZX_"]GE#0TL*V?6XFJ\D?
+M$P8Y3"X8CJ2@)(<+K2A4KE_[&Q032J@(KTI27(`_<(&?^#"?_'2E@<%\-6$<
+M*/[A(Q6$XVZ:I40RG/,'ABGX[^0"]\*AQ60ZN[WY>OGE[OV[^>\3190VN&+^
+M$9?.'R?3^?7M%[B]\G.2"&[CW/3RGY>S7^;7OU[BW-7U[/+;'?@EC!&N5+OF
+M_9>/\/'ZV^5L[J<T8;;=>7K[[<X/7<XG/_]?'+>MXRQZAULQ4*EZQ6E\<A$=
+M7#M8E9M-^9@7WZ')'C8.:M?4.%@U:\@V&UB4VYTKZJS)RP)<5A5N"0]/^&NQ
+MAG(%#>ZP<U5=%C4\KDO\NOJ!*Y;[*NRX=M[7"T:TT(`/FK(`+Z%*!@LV6=W`
+M*J\7V0:><'O(ZK#G;)V[%5S^Z1;[)O_AX'85(-:$I[(%<I4O7`7WTWO!^>SR
+M%A_B_AUDQ?+(N%6YKZ#$7Q5L2SQKG7]?;YY:M_R>7!*E>+OG13!74F+ET%X/
+M'4TC=HQ'RQ$2=/2YA89H8X8&!BP#+/A68^2*I:OPP[R(\&:[;)$W.4X=,(,9
+M6I<53^B2"B9JHM*TW;6&@%FSKIQKD0M&"TFX>6YT)+D'MOY;`+"E`P5A#1&&
+M@Q*BH\KTUL,4`\:(%0)P"WM(A_=%L<<PS0:,:'FOC/5K1:1^6!9IW\7J/;IZ
+MV%V@/]9Z4X.ATR_9UOG`A=T$2667:5>]>XHPJMO1NVR354]Q5)HN=!_*8E_'
+M5.6T&WQNJR9&JA?F,".[9/D'_OJ,OWX'2A0\>KQNX-__H;"<2`$R-81I3$Z)
+M:9;J[GTSN?,9>8!86\(4IC6E/<)?,<2+?(<H?BWKO$=0$6V[^/[+CU"B6><#
+M!B^ZE;)VY'[ZE_MW<<RDPS',!A9G%#'&/IOB<<H0*?CSG2XD(P)A\ZG:1BPK
+MX!L)RH9*RCOPWS]4V3;@S"2BWQW/*:71HCYXG*ND'<4XJ6XE$RQ)&8^6]#%%
+MJK.XDMO.3:$2H75(`&+LP5%Q,-FB8*/)O.,[CZ(^*A[(]U0/4Q-J#(:#SWO4
+M`Y:F:>)7I1UG#^GCYTY\DXE.>;0XE9UM@B;<\$@T95YQC6O$P,1D0)8@.SHO
+MD"*NSI>N:%KS;K(G\.C&4"!5K.B03%/[S"YFQS''86[DBYB+OFX)F80QI('I
+MSXF,E.IHP*ND&#?<:W",P2W6!DRPXGN;8#Y[!#W.GOA^FCU^2A^T*18`C,F1
+MO,*J*K<!(X\&-.4AG"18R1&OP)$@9-//$4;4-=IK4[&LW&-+="%'B"Z(>IGF
+M1Y`?J*!58JDZAPH\L<:<LER.LWSZ:ZL/?<U"&*#'_N+#'FGCZAH^NA]N4^ZV
+M.-B63M9+WPBCF14)9;*5;='981-4MSA([2M>,)7H2+`30C^G\559;3%PO<GG
+MT%K1A/(3C!E-K!)G8(S6&=I:9X@U`^M&N-KJ14JX.*%:V`,U8A"0GG">?9V;
+MR4!^_#?SO[X5N6/N1IO":?&+_KCGLH:54:NAG3%/C.R<3UK&2ZZ.J`U7^9_-
+MOHKVQ=S$'O<H-]OWL=P4V&]TN3DKJUU9A4)*VG[/\D/.?2!PDR_6F=O`C:NJ
+MO(DAQU;IM;12Z:B2:9LHILZH'LPFV,2=YI5Z(:_Z0$2\)+:HQU*`C4]1-]5^
+MX?U,X+I8!&<9'V`]EEA#[AX<X4HDQM`S'.$,@1"'('&KCX+4OI\$"6L4=F0\
+MY7V<QC(+*Q'5]L0Z81)YEG4L391*8VJE)!7L$/<;M\F+909W!#YE5>7.B[M,
+M44E.#&)<)-:^7,$&70--9!2%X[CK%^(>D_\J+S+LS+`QZYH%WG?<PZSJ^R`2
+M5QGS6NA%BD7`GL@6BFHDQ%NR)1(5*7PBJF=:'4IQK&RZ/VI4AUK2<S[PIR6+
+MZDON:2?@:Q]KVU-]T&6DK#FGQ6,Z41&@EMN"'W,[OH\)$$=(#FWU6[G[M2I1
+MWOT]*V9N6'>!52=>F2)A/V$!V$2\L&VP'3SSZ+7B'0SD5%']K:XN"[B^;CL&
+MR_0K)$_I0-SZKO047INDRI[31&#QUB.D-V^)W:!7.RY8V"^8U+S";4O'VA[?
+M%]MS.F`F$V4&D4=(CB+?OH]%GJ5OMH5GU\!17J"D:VE.\F`@FC11^K0V288^
+MB?-$4U(S*IJ?R]KMUO!W`M_V#WGQLF+VP3&B"P36@6>'2FSZ#HY(+$0"+X(V
+MLL)'J&N"!6J-T3Q*!1_<*NT+#&J[N/&K%J/DN$O'WJ9M(E_CE-"CK;2RB;'Z
+MG"S`A69<+X]O!6^TFT*:!+7[[?3D";7R#,,$3[@-IS`6B<Q`,_Q_D+#[*;M_
+M%]E'A&G#C5=0W&/^Z%NLHL[KIH9R!8NL7L-#6>QKS]KPMJO*5=Y<U.NL\@VL
+M3^IZYT)E\-UW$6*SRY[\;:!&!CR4S1JRQ:+:NZ5?'3SS:-&4A8/#H4NWPG[-
+M+1-8[L.^S=I!MMMM\D7VL'&PRNL%GO#DLJJ[8EC39UR]7ZPA;H&+LB9\[38N
+M]$_>#_]^PIR4,&Z'W+E_%WM*O`MB@3F8B(CQ,<08D\'XKZ[Z8Y_7>>/J@`=Z
+MC$1\<(5#I&H$(U_"PU,P8E9N=UGQ!&C6@UMGF]5+U@F\(!X76`Q`V#B:&*>?
+MP]BLLP*R&NIU^>A/V)2/?CDRM+^#(L(E%&4#6^<B4'>7,WRB3*]++$FKLH(E
+MHKTI:^S82;R>4*S56,*4M.U9"Z0DZR65X+3"A^8@%59Q"2@V^(3*3;C![X`C
+M<%:AYMY-.*:$PN8F?&"]#G<CV)"1-(U*S)7!,1E6612);3\25Z5AE<2BK5!H
+MXU[&:WH[XE<I8<(JH7UG,3RQ&_&K1*O]@N$8!X6F<BK\HCB`737!KKBW"CGC
+MUQC1[<.[=[_BY\G_!!@`+"/1ZPUE;F1S=')E86T-96YD;V)J#30T(#`@;V)J
+M#3P\(`TO4')O8U-E="!;("]01$8@+U1E>'0@72`-+T9O;G0@/#P@+T8V(#0@
+M,"!2("]&."`U(#`@4B`^/B`-+T5X=$=3=&%T92`\/"`O1U,R(#@@,"!2(#X^
+M(`T^/B`-96YD;V)J#30U(#`@;V)J#3P\(`TO5'EP92`O4&%G92`-+U!A<F5N
+M="`T,2`P(%(@#2]297-O=7)C97,@-#<@,"!2(`TO0V]N=&5N=',@-#8@,"!2
+M(`T^/B`-96YD;V)J#30V(#`@;V)J#3P\("],96YG=&@@,C,X."`O1FEL=&5R
+M("]&;&%T941E8V]D92`^/B`-<W1R96%M#0I(B=Q7R7;;.!;]`OT#%EFX^M`,
+MP9E+QU%5N\YQ.6VKAT4VD`C)2%&DPL&._KXO1HJR9"=]4IL^-401(?#AOG<'
+M4+*9O?_M(22;;A:0-,[)UOQ9S=:SKS-*!)E=4GQ3D"0.R66:!*3E;NV_23T+
+M_"!2?TWB``OP`0OD@P^+V?M?<T+)8CVCE`3X!W^D^#>D?ISE9"%?IKXF?\XN
+ML0^6KF87GR^BS[^07Q9?9M2/L@3/%Q_E6S*R>)Y=7#=U)[J^(\V:L&TSU/BX
+M:GDI>EZ2OB&WK?IEC*K,3R]\M5G@QX7]YFK9LFWW.0H3^23RTS0V3]AJ)?<D
+MHB;](R?7S7;'ZKU=25%&D)JE'?G(U[S%N\FGMEF+_O+AD;6BWLB5EV'N`R_J
+M!P55]:OB/U6LEH6_HYF7I2EA=4E*T?)5W[0=67/>V:=I$/AJ'XW!N!'@B?_O
+MX4F\,,O^1W22D^A@['X`GL@O"H?.+0XA^GZ$(\FH.^.;@*1)_MV`T.*5B4F]
+M*#X[,:&7O`))>A*2)/P^2#J?_,90]@@!S?R4IC^`04B_&X,H.X]!2+T@B<YA
+M4'@Q,"#D'`K9210D;U;X0(/\QPB4NTFW!$K2S!*H+GG;-;7%(/;#L/A>O*@?
+M9M%9O-3IHL#/)\=SZJD1,Z`2B=PY./+3<*1*@^]06*L>AVAU;A_3H%#[7]7U
+MP"I5.:\[UHNF)JL#X#AK:[P?GVL'XJ[E3Z(9NFI/2GNF0>(D0=#M5Z\Z<:B+
+M(XB@7GGF2@XUM;MQV]5A73M@T.$=K"?/O.5DQT1)FJ$GY:`PDBU8BVZ%\^Q1
+M-^&HJ51'C^3DVDY<[5I1D2CP=`-B'R)P,*BH-%*EAH$<0H-<F([(:;9=5171
+MX)X%[_S4A8D?)Y&;NOMA*>I1EN+HS(3IBJF?T"-P@^0TNM0.*^H.#;CS[:YJ
+M]IS;58D?Q"^'='*HD;<>34/O'&\/Y+SP:5J<'&O(568`[!J<:U4-)7[_+LT]
+M`*Z:JE_P+HQ2]1506YIN+_?D=X:);?>$>@0=PO\=J``F38HIJ&0WM-W`ZMY"
+M)U=,9$E)!DU42=B*D0?^Q%M6K[BJ0JK(4/5ROA3'0K^(W"1M6LZW'.W!?URB
+M)FIL\2SZQT,],$*;Y-8_/,+7EK`6^C7`%$^<_#Z`5C3R;+UY$9\D$BV*0D$]
+M7\S^\5,"7FH"7JB37$CRPB_"C$1%]%K(N[Z[_33_X^%*CY)33BU?BYN[/PA6
+MW-XL%O,YN?O5^$CA1F[Q]SGY<'=U_]$\A"$5]MG'F_OY]4)S(J?6>>[N'[0S
+MA!&RDF2"^OI^_NGNWO"'VORST'J>9W8L4,[\/_/K?RYN_C4GAZ4C*41Y:'^&
+MLG\JMJ?"<Y1DK^!J#$UBB$EJEE_T?"BBG?*:T$^2T9CFW_AJ4/,T5="VV2`0
+M$@;UQ*#R^E'-N=QOITR)+44E^CU>HLT&"E(D$W6D1D>.YCOQPV(<;TF<_G'H
+M2`?[XH]-)<WAB54#]R2%624VTE6FQ3G:K$6-L@1D7"A:&36U^J=?-5'L7-/W
+MX&W'.!D_3M-T4B3K^Y:M)+L]LFT`&-.?6_[,VE*6*%<A,3&A"N9&.SO/*)<-
+M/&;O(U5.C;P88QN[<K?6H$6._F*%HCWR_-A("^E;L1QZU21YB*JI-Y>`8DNZ
+M8;7BW:G3A:G*QE;];FJR'EKI3ZK%>GWG'"0.CBW$3EV6JEHW#:M0SXE1D_$V
+M=)-V<K[634N.#TM3/W-I2!]W5/\EZSCI6`5A-PH1N;/(3JF0@M6\-C+C-$+'
+MJ!B2$D]GHC!S^H($LJ,CH&K3%XL4?JR$:^,O**!70)0(%Y@%N8G!_T.#,3%L
+M6?Q-91@=/C]:=_1(QRM\A#F\0"3TLRB?(K)E>SA=VXN5V#$,@$F6#[P6P/26
+MU6RC'4<;-5"1WBSG1JP>B>CT,.J-)W!$MK]YK`H$ZB"ASB0[`"%@8J"E6%9\
+MG'+Y4&4QV.*N:0].+MJSR"D-+F"T3H1M<-%?GAX[=ZT[Z!3^@KIZSHE,G/RY
+M4[W;LC]1&>#%4T0\M;2S3+$-(:X!6+DQ7#8*(ANE7C89B[.Z&L;)"5VU#,[R
+M*87U^7^:<=#@A'.$,CZ>=^0'R2.=6RFU%YG]7^MGR`HRU[U1F;M?!:$+_;$S
+MN3.]+[DDJJCE.&+5@50HG9'?';<%`D<C>B2M6FQTUYR`G94/69>.AGHP[07C
+M>G[GJ1IPY]DU]9%A@4FH::LD]_.%LX@C=\44OT?E&&I>#[S#]6VT-PSG(2WR
+MD1:82H)?=<.R$Z4P2EG@/CKJI$9H)1&20K+DVN5<H:(NQ9,H(:9NOG,_3L?K
+M1H62*ED-7'<G;S*Z8O.F@P#[%7L((,MTXBK2XBU`;6Z0;(6OB"T_'91QNW$%
+M>:,7*AT^@->&#'DQV.NZE2MV8BLP&PC1NZ93\HU.<<R'(D2!Q)V]52E8(2L=
+M=-X2M=(WUC(IC>IC+3AX/I>!YE`[@/J::<T1G>R3R6RZU+K!G'SCI0P7%5/#
+M^LS%YK'O1O-(-48RGK%NU&?5U!8WR%8P?<$LY6U#LXG"#4,Z2BVZOA&U2BN[
+M!@%*D<1RR$ZQX8]X02GM'WK+R37)1+YCIJ6PXNR0:%*8.9Z7UKIVK72N-:P3
+M_-ASK4PR6`8NK/SUBDG1^5>S=A&I(]XX3SL4HY];X`OMI%GH1T'QW47*)F_9
+MEZ;52=WX7CUT7!NDN<XD3N2NJHK<R2@XE=B62T]WG=)W*J1K7.%>E<*'8;N5
+MTS/9S,2V^.CFE;@O%'T^7_!O5A,G[BN']+8U\QP']D<^N1^6HK9JA3M:&CNQ
+M>@#I=;J5I[X&+X:JMX$<6&9I?"9LA)KA5YN6JS0%!7Z&>.Z8**6(FKP)'7TD
+M2PVL$E=D)M!P"<26O&J>E:(@`40'"HQ"=D/;#0S$,\Q]F2BB8KRI:6?06A3E
+MRK:F8C1>;12ED?94.-WP&H>O\$HT=PQL6\Y[!2YOY9T%X;-]`BW1ZZ\#$I$\
+M;*>N?R[LR?PW"9P'639VO#=E3LLPMA#'!^K#-AL9N'H^D>ZC=&6A.;&KDD[>
+MJQX8*T^+]$USR;1P5M!]7##/)$'C&+7$K%DQ.?K:R8T].DR.@Z$#".BY@!OG
+MU(48JB]-5WB'C;KR\?1"HMD+9\68>B?/;NI2@58V:5)=Q[:CP3"]P&DY',EB
+M["1:S2=H&^%>&L&]K90CB-'02=I_!1@`EQ?L8`UE;F1S=')E86T-96YD;V)J
+M#30W(#`@;V)J#3P\(`TO4')O8U-E="!;("]01$8@+U1E>'0@72`-+T9O;G0@
+M/#P@+T8V(#0@,"!2("]&."`U(#`@4B`O1C$P(#8@,"!2(#X^(`TO17AT1U-T
+M871E(#P\("]'4S(@."`P(%(@/CX@#3X^(`UE;F1O8FH--#@@,"!O8FH-/#P@
+M#2]4>7!E("]086=E(`TO4&%R96YT(#0Q(#`@4B`-+U)E<V]U<F-E<R`U,"`P
+M(%(@#2]#;VYT96YT<R`T.2`P(%(@#3X^(`UE;F1O8FH--#D@,"!O8FH-/#P@
+M+TQE;F=T:"`Q.3@P("]&:6QT97(@+T9L871E1&5C;V1E(#X^(`US=')E86T-
+M"DB)M%?'DAM'$OT"_$,==!AM8(KMS=YH-[@AB5P2$;KP4D`7@!+;@&UFB+_?
+MEV7:P(@Z2,%A`(TND_GRY<M,GQU6+_[S.6"';N6Q),I893_+U7[U;>4SQ5:/
+M/G[)61P%[#&)/=;*<>WOK%YYW`OU8QQY6(`O6$`O7FU6+]YES&>;_<KWF8=_
+M^`B2B,<L\'F8Q6Q#U^D7["N^;7:K!S_\>?/'ZC'PN!\F.)/'<<0V;U:/N,?7
+M*S[L:86/QQ0[\>IAKW:R[3BCWSV>^#E[Q.O<IY?8EF5L\[QZV!PE>]6(MF#-
+MGKU1K=SU3=O10X\WKYOJ).HS:UK]>'NA8-VP[52A1'MF.[.#+@T3G@;.FC43
+M'9VA_0@S'B;APAX_B+0].]%)5HDSV\HU*V0OVTK54F]EHFJ&NM=7UOBK!U$R
+MK#^R;5,/W9HI>J&O#E*>PV%W=2=/HA6]9/NVJ?11I[;9J_ZQ.XI6U0<#KMFS
+M,(K`A5&G4M1KM@<*@+07JG;XO/TN=T.OGB2S^$<\R1;XPZ("_M3B("L)XV5U
+M*INSE#8PV!`BE&8'8@'GM3/P6+3X#C0*-IR:VIB8@U;1,HZ)P8VLV:M:U#L%
+M5$ZRA;6X=B?9EP=5[\JA@)_6;;%5I>K/9-H+^-3*)UD/LOOR\XVP3Z'5(<UX
+MI%E[*Z3T9C*-J.GEQ,T[P25@R#-]HZH+]:0*1/1+&,0:F9C'X+JYJF,EC"S)
+MOE9VV-0IXP.MS'D41J--WW"&`O:B5UBV9KVJ)'M6_7'NF;X@X5X<N'W:B0C6
+M!^&%$[[QP0L-%W9-W;=J.]#QQHD9V!=>D:W($^+'5>IHFB*>L?/1.>[Q8.10
+MQ_X8BH,F#F'=&*S@PH[2P'$B#!:<&/DP@<JL0;<9LHRZ-BSD8>0,X^8>GZ>(
+M;\#]++#4B_-10AQCB@;,K1N86_=JITZ4=/U1].PSX0`K_"0`(ZN):^]KY'@-
+MBSX9&N*HPNXI5:7ZB6(^3T"()?E3XZSX#JTH!G/%/$_EF*`D3++N-"T8#O_)
+M7WN>1__!CK)D1X%%Y(*#UR#FMI$%D<=S1[1'0QC]RQ7V=,6I*0&`O)12S3P?
+M(8X6Z.8\";(9NCI[8I<](\Q(W1)'FH2&,JC:J=GW,^MZH&VX`A**G95BROM:
+MM-`_I3TL`%#3(T8XJ)7[$H&Y"_'$?VU"(7>JH[0"+$^RA0';LU'F+9Y9H;K=
+MT-$"*V[FM#EEPFCT!6&2AX:L:^6I:7M$H(,P2`1P:&O5':?C]TU9-L^TM)+5
+M5B[KTQA4/(`OO;S#%GVQW7==R/[-/HJA%.P7\=SCK%?R"=?UE.*_&&?`_SAT
+MU>QEW1\;<.57B($X:%#?R?*K;)F-;Q@ZE?S=Y'06.:EQ%3E*@HLE8R&`<6OV
+M7R,1/$S#.57>;E;_^UN:$-^[[$+\/.<Q/L/,YU&:+1N1J=5X\_[3V]<;70YX
+M%%@_#;P?/GUFKS_\^O'M;Y]?TH*4^Y'#;//^PV]_JP-7750"T^/TVG3*)6/Z
+MZZ%MD2"E*68\3:W0(LE\P\PUDV)W''G!5,=.0B&=<#4I"D(,VOR40#8@H:P"
+M`8XFW]A>:BF%L(3VK:.9)F2,`ADOY2L(;&W)0WWYU%954O;$=P$^U\AT#IUD
+MHBB4*3O3PN=CHSN%B\30_@4\<1K^$O6_GS*$F?KS:);<KG>>`>1VBJT9*N!X
+M.0G^92L4!!`Y?]D+74MAQI-X:B=PE`7;84DX[YVQ$-M%B_&@0V64)D_3.1&O
+M_;VC%==(_\-)!DR"_#9)H]SDEVJ-3PX9$VK7'Z`TIRZL;^1>6IF(`R<3K=47
+MSZ4FZF2B48&B+E#XB+[VGTW)($9[$F8_<GF<4IQ:3#;/NXL*"4A)B.9X2H&Q
+M84RQQY\#@P)EB),"LO@>S?-KFA,NZ%*(JS@]<(==@X>W(5J9`<1ID0T*=+Q(
+MQ.M*0R9M_J6GBWQ>DR8GSTR:JMR@J\'5]`4I,?0#$J2@E@I'274RHQ!Z%[";
+M=F+(Z>V]JKUH>*9KO32Y$!L[!XAN;KR@`USVS'SA[!W6GH;VU'13=W,3HNE*
+M#*56Z,S4^5$/5(3MW$I"$R:(NK/=LQ5<B(&=HVRNZA].XDS=$('3#3/)[FS7
+M8&]?M/"3I.E.KW90";1\D%:ZIIL/MY>@.&D-(IZ-,X?1FOL*8_:9)MKLN^Q*
+MKDG"[_1/8T_HC\EQGYU4O$11*313_;Q;FZ3ZTLAEQ;K;#4[<,8D;<2\;*XW)
+MY#P82^LT.4V:2XAJIE/I(-ZZ80$QT7.$[31!@E+HF-L7S]B#B!]5-QMO;'WU
+M_&MH6W4X]CJ2S;94!S,54E3%="TZ9I/!=YFLX;P;DVNATA-%);Y2/3M32Z[9
+M4[BCEZD)8M/%4J#KK0\=31Z:T//E6O@AI=X/Y@^-`5DSG?]77*.!B%;TJI*,
+M9E:U5X8ONL3.D:(XL'*H3C"R6MLD>VALT4E=LTHZ$]N.RA[>-:69$9#8=+&E
+MW.SP-9U>-^BJ6CT"8A0@ELIO-,**NJ8/J'\/S=.@&BVB0\Y`3R-B3%@@8CFK
+MJ[O)7IYZP67C]_+4JI*%WIH%-!>BZQA:&K0&4!5N_U#642_,6$9D;>I9EIG,
+MUW?>RB73+OE:)&<=C&Z9=(=%65QVS:SFH>3,<F8<`_^$NFPL\_\78``]7`Q*
+M#65N9'-T<F5A;0UE;F1O8FH--3`@,"!O8FH-/#P@#2]0<F]C4V5T(%L@+U!$
+M1B`O5&5X="!=(`TO1F]N="`\/"`O1C@@-2`P(%(@+T8Q,"`V(#`@4B`^/B`-
+M+T5X=$=3=&%T92`\/"`O1U,R(#@@,"!2(#X^(`T^/B`-96YD;V)J#34Q(#`@
+M;V)J#3P\(`TO5'EP92`O4&%G92`-+U!A<F5N="`T,2`P(%(@#2]297-O=7)C
+M97,@-3,@,"!2(`TO0V]N=&5N=',@-3(@,"!2(`T^/B`-96YD;V)J#34R(#`@
+M;V)J#3P\("],96YG=&@@,S0X.2`O1FEL=&5R("]&;&%T941E8V]D92`^/B`-
+M<W1R96%M#0I(B:Q7V7(;MQ+]@OD'/.1!=DEC[!@\TA+M*SNB;D3*J52<!YH<
+M272&I,)%BO[^GL8R'&JQ?2NIN*(!V.CE].E&0[#KXLW[H637ZX(SJRLV3W^;
+MXJKXJQ!LQHHC@1W/C);LR!K.5G4K^RM;%+SD*BR-YA#`!P3"#XS^$^PCOC[@
+MZROCI6'W3'!VQG[_@[-IX44IF7"BY`+:M.>EMGG=%,/BEW_JP]M1\>:=@`TV
+MNBH<C)%+%9.:ET)ZF-*EM(J-YJVW?^)K-"D.N'ZC^!MO7HV^%A;^>/PZ.FGW
+M+>V;LJKVMUW<]D[N[U=I7]K]?1_52Z[3?MCFG+;[HQ^'T/A]"..:(`0"N[B]
+M*I523%B9PSX"=$)0Q+!_7QSTOJS&\S4[74RWZ\UJ5J\/\3TIR9\J@Z=\J8%'
+M1\O!3R0`WTR*+V(H.+2'6'1969%"#+)(L<DQ5[I424IKVY7J:#P0PI4^B3GG
+M7A0SIG1)S'J];U.(G!<O2Y&DN#&/I%2UD](Y%Q%H[?:!CNL7@3;\*=`'@][P
+MI/<+&VZ6DS_9V7CU9[UAGP\NA^QX.;\=+P#ZYU?/`K[3]O\#OH>1EJ5-8E[K
+MEZ'D/X*XE*;5]@CQKICB'CQ/8N*Q;U5.C'8\Y:_%7)E]S./Z1<Q5]3+F%_5F
+M/&O8B/2[THB<Z-5X6L>$K)]%?J?S'R*O7,OU;R$O94OB;W&]JA(_OXF\:&G\
+M3>2%UBF$#J82O<PQ(6T;_\GRGGU8+NHUNRR')?M//;Y[`',7:!?;R6:V7%#S
+MJ/]^_2R.'3U/W?Q1"+'RWX<0[8*[[T,(5CK[?0C)-_M]"*4HXY4!\E8>WTR@
+MNWG/-!>P0Y<72$JWDZX$HC0M)'/062JJ),!4X6;!H?EN1T`9=HCTTCE$I)(4
+M78'MCN20KH*4HA.X+DG*<PFI=D<2SC)*68VFZ)(N1U)Y)UAT04IS^.A\QV*[
+M`UTR6=0:2493CQ8U2>6=8%'_BU>ZC3=ZR`0N2(%_.%#A!#*@`=3>C1[Z0"C3
+MX_.S_U)Z0&O=EB]=>Q>GP_,!.W\7[VF;B?#N]%/_Z+=^[X(=7YY=_MP+%P11
+M(8\#(PBPJ-'*S+)1Y(556>I\%&\693)U>C_''=/>@A?]T>4%7!@$=4?45"T(
+M@XO2B\@VD)"=#C[UAZ.S_B!HK(A:2>'9^>`]2S>:RWVM]_:B=S;$J9/+X>CB
+MM#_$=3XX+@]9ZH?!E,"]Z[J6ALE=9#('</R1G?4N/O93YQ0ZV\7%16T@`VM*
+MJ=L8!S#X^55K["*>!GX8';+,:0+"BVQK=-$[Z;/H`SJ!Z_@P/(S8V#!)=3SN
+M#4[8R?FOT0-N<_@?S@?]8>I3_5YT7?G\ZZ??HNE=XH[/!X#I\GATBC1$#\!@
+M)SH>I.SPLL(LT?5@.+P\.T4*+OK[.1(*A9_#C01#VML!\>3TT^E)?W`R3%WC
+MWZF/ZG%]H)\:JL872P-_D3BJA2'&D:OE:G/#OM0-FOULS<:LF2UJ=KT:W]ZP
+M"4TIJ]GB^I#$V.:F9E>SN_KHH1ZOV&V]FBVGK%Y,(1`+PY>J'7M[MRM<OXH?
+M,LDY_D^')]OY-B+M6]X>!90QI:-,=R##1U,%'YOQ!B;99KD9-VQ],U[5-\MF
+M6J\`PF:[6F"<6H?I"N8F-9LM)JMZO*[9;;-=L^GL;C:%@QAMX^>4?7E`K->S
+MQ8*<[IS\_(HM%^3*Z#49YRX8)Z?CJ/;P64D326?:&->$T!SW8%1T/P.2FYOQ
+MABVOX-<,.L=-$TDYR0,?^VN[W,`1G(K%<DBB6785IY8-32D!F&AN#YB<12%T
+M</)EU6R\F`;M6?U.=+8(&?GN%9\@(?)P&QIKN//+U`DKE6<CO+(BJ490VTT)
+M>`+RS,<+?*]OEO<+\H]L1XZUS%LL-VQ13^KU&I1K'N#A=#:)R0><5UMD.T(2
+MK>X@V1$[V']B-3QI4,:"3F$>IKM^-\WI7.4<`Z<ME74AM:]C8]=5ZGX!`)^`
+ME[J--+&#W8Q1.U-BV!B!W("?,\()O&5;T)'*)U93C.AVN[I=K@'[CHPI(U>S
+M]01,IQ(++CP7Z`$X#4LQ!<::G`*.#A+NN+W:B[E":+R]RCJ.`_]9?0=/?H@.
+M<>*C=$T:^-\\!/0J]&[]R-$=2VWP:56CDN$T`)EMJ'!6-?NR7:/9K%&>$]A`
+M?5*OB15$WLS'7Y>KV>:!\O],)6(Z=#EVE.(2*0>X4+!"/(LM@A@GQB3)%RE#
+MAN_@V]5J.4_>=4(>X\_=;(.J*5/GCDV5HZD"<.WPJ,78!U8=26?I&_U98BC5
+M(!S>J%K0M'7U&@U_UXWSUT=\?<#75X;I$JW[GBD,BYJ=L=__X&Q:O'D_5.QZ
+M'2\*O(H@0K.6Q)6@O,?@@.M<"A/>0S#[MN-;Y8*T`464PUC*'TF&ZP,])-P?
+M/AS")41#E<$I#+%<[=\@L6)^,NWT3AJ#"V%HT2;OHV%@R?>6:O]7M?^KW/]5
+M[O\J]G_=/1_BX-YUHI6D-)6F@V>!)Q05B):NK"I*B09"W1T:6FF`-:AO:6PI
+M,+%A_N#4%SQH3*B]+MK\2"99R!'Z`49DAS.^#(KIM18V\,(E[)M"&GK"*.RH
+MD+LFS.A(C^(RB:B8+\5-DB`\XYF@-@SQ>]R0!E,ACL@*;TC@,`]F*CJ"%TD5
+ME!"P3IE6IGERJBF^("@\0VG,40)_G0]OB"H\D\);0IK@L<8#R+8RS9-3014*
+MH31X`8+]J`52113$JPC$5:76I$IK`.15*],\.1542;#04C@6DU5EGTN&!T\]
+M4SB-ER>Y32ABY%(X(JO@=J5"C\PRS>-#P10R)O!2TCP^#B,YNCL-O?(P7JF*
+MERU[*@Z]>-[1W=$*&+`J//,T*=UM!'KAC5A)H@H/83Z-2'BD!6!)%XD1V60J
+M'7A@*M)#6C3>F%FF>7(JQ"1DA6*.7+;&D"HP5=%!`A3B3>"[Q!LGRS1/3D5^
+M`$0K:!.U!EB?^DTI]8"!*&B,^T;AP(*,Y6%Y)\1802I2G;1$$9>JH;M#G4G)
+M5!U>!R4/N8`D6NZC<@E16B%"A5+\\\X.W@D81H-/.IYV80USJEU.<`!LX55'
+M`.F7553@N^MH@DZD'4O/0<-:#19O4FM:$VDY*5H?6H'D(REPG75K@I(,+GA*
+ME_6HD8!EW@!0E6"B0AZ#'72T2C+"VJ)H\QIV<:\8+W82(),404$%DK3+8&!2
+MY+5#%1G/VM-H;0KOL59_6N-`]J"52!Z2!A3BHQ`FN?3Q$QWQ@&2^VQ`Q[6"*
+M%CZT6*5U2(LF<--Z4H3$5*XCX<,,&S18U5E'$W0B[QBTO,2-H,&!8AT384GR
+MV8?T>_+0E*%\]@((02EA,12XT/2]<Z'+YAT>WD34=3GN,NDIQ3ZPG(,[>3T)
+M/9<KW9%`9<)ZT``>[M;1!IW(.X`9#3]K4-S&QIALY/6DR%ZT$JV7T.`L>QQ'
+M#`[WB:$02,CJT(OSC@P["GF6G(Z!SZ06O!#>_H_PJNEM*@:"OZ#_X1U;1%-_
+M/MO'2H@#$DB0<FHYA-!3B9#2\O^9\7K]G-<`MWC?[MI9KV=G^AH;$S%3'#S0
+M$1Q"S)#'M>S!"+4`:C#+EPP`S6B'/63-"#V%>N@ID6%VT_I_U#\7PES3$H,]
+MQLMAL!!`,,H"7TNHUY_`ALG24O%]O;^HG"K9Q0/MXZ5[/&>A+F4'^HLA$S[L
+MU,,SJ[GDER7<]0#ZO9V/X6E:_P&Y,J43>.3_I3+SFLIDM2B5L<I<>`ET\0"N
+M"L5D`#2$8,]3&794!O0X4EQOSTR/A==:[`,4#(U<V8)[G*YQ8\)_03$*:!_<
+MZO0-<VIN;F/)EC$A5Q0X"@7.-3_@*<2*VZP_(]<<F`+K^W%W>*88^@V=`&7P
+M%K_WF\Z)+0@3Z>BGV^V[V\_3]N77_FGZN#L^/;Y,#Y=?MTW*(/#AJM':>W7^
+M\OBR@WJ[NRKN\KC[\2C1SU??[CY4^CMJM.D?(NW-"0O&S98-QG/`XR?!/RP&
+M5`S]8CUH#-1N0-ER0;V\WQ@45=>`<1^!$VGP`*PGR1#M/*QE"T:HA7P%2D,S
+M8!(:,)F^1ULSHIU"/?20H7*2U9^0`8A-8N.21MB$QV?T.OFF$<($3N-Q^>KS
+M\U54(TQ05N"9;->4SW$8CN@JJF9E+L'5+HOZ&+87HS#@P,,>14\&[[P8JO?P
+M]GS-[3KQP_GM8J`W&E:5FC6@@^1R>`X%2@5M>AENO+DID3</WH2"&21PJGBI
+MY_;J-(L3CL=/8(#L5_F46GR6;WBWR[>L81&YC7/#I]+"\/P8YH>P+LGNVS]U
+MPH)]P*E<;<9F<7$381&849]<$;=;T!N$,.H/4R6,8U_5/-T"'\E#`#O-TRU+
+M'A(44!GF":7F40M\2K$-PMA42YYNZ7FV?&RXPD%T=E*J#:-0Z(:.>2U4";D>
+M;X%XBAB@HH$"4`ND!D"-)-A`I"1U\7[N%K@`46%P8.Y9!`U0FDQ?##6'519N
+M9MVF\DVQG,`T&=UTTMD9Y#)@:((VMF;U@Z5U*^`U";PB0051\$LG?Q":$",L
+MULY]SP:YYN7EZ=HZ;5NQXU8">YGDMQO93<-Y_CJWS'IN@9&U,=7FEM'WU2[+
+M&QUD(3:1D8K.K5>%.+-Q#>G*I2N5N6^,NQ$MT^>CNLSC4U]*1KUHDZ@+=-!2
+M,BD-WQLZ>BA8C/)X<=,G99Q11LSRDS+^$6``)X_?*@UE;F1S=')E86T-96YD
+M;V)J#34S(#`@;V)J#3P\(`TO4')O8U-E="!;("]01$8@+U1E>'0@72`-+T9O
+M;G0@/#P@+T8V(#0@,"!2("]&."`U(#`@4B`O1C$R(#4T(#`@4B`O1C$T(#4U
+M(#`@4B`O1C$U(#4V(#`@4B`O1C$W(#4W(#`@4B`^/B`-+T5X=$=3=&%T92`\
+M/"`O1U,R(#@@,"!2("]'4S,@-3@@,"!2(#X^(`T^/B`-96YD;V)J#34T(#`@
+M;V)J#3P\(`TO5'EP92`O1F]N="`-+U-U8G1Y<&4@+U1Y<&4Q(`TO3F%M92`O
+M1C$R(`TO1FER<W1#:&%R(#D@#2],87-T0VAA<B`R-34@#2]7:61T:',@6R`R
+M-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W
+M."`R-S@@,C<X(#(W."`R-S@@,C<X(`TR-S@@,C<X(#(W."`R-S@@,C<X(#(W
+M."`R-S@@,C4Y(#0R-B`U-38@-34V(#$P,#`@-C,P(#(W."`R-3D@,C4Y(`TS
+M-3(@-C`P(#(W."`S.#D@,C<X(#,S,R`U-38@-34V(#4U-B`U-38@-34V(#4U
+M-B`U-38@-34V(#4U-B`U-38@#3(W."`R-S@@-C`P(#8P,"`V,#`@-34V(#@P
+M,"`V-#@@-C@U(#<R,B`W,#0@-C$Q(#4W-"`W-3D@-S(R(#(U.2`--3$Y(#8V
+M-R`U-38@.#<Q(#<R,B`W-C`@-C0X(#<V,"`V.#4@-C0X(#4W-"`W,C(@-C$Q
+M(#DR-B`V,3$@-C0X(`TV,3$@,C4Y(#,S,R`R-3D@-C`P(#4P,"`R,C(@-3,W
+M(#4Y,R`U,S<@-3DS(#4S-R`R.38@-3<T(#4U-B`R,C(@#3(R,B`U,3D@,C(R
+M(#@U,R`U-38@-3<T(#4Y,R`U.3,@,S,S(#4P,"`S,34@-34V(#4P,"`W-3@@
+M-3$X(#4P,"`--#@P(#,S,R`R,C(@,S,S(#8P,"`R-S@@-C0X(#8T."`W,C(@
+M-C$Q(#<R,B`W-C`@-S(R(#4S-R`U,S<@-3,W(`TU,S<@-3,W(#4S-R`U,S<@
+M-3,W(#4S-R`U,S<@-3,W(#(R,B`R,C(@,C(R(#(R,B`U-38@-3<T(#4W-"`U
+M-S0@#34W-"`U-S0@-34V(#4U-B`U-38@-34V(#4U-B`T,#`@-34V(#4U-B`U
+M-38@-3`P(#8P,"`U-38@.#`P(#@P,"`-.3DP(#(R,B`R,C(@,"`Y,C8@-S8P
+M(#`@-C`P(#`@,"`U-38@-34V(#`@,"`P(#`@,"`S-S@@,S@T(#`@.#<P(`TU
+M-S0@-34V(#(U.2`V,#`@,"`U-38@,"`P(#0V,R`T-C,@,3`P,"`R-S@@-C0X
+M(#8T."`W-C`@,3`W-"`X.3$@#34P,"`Q,#`P(#0R-B`T,C8@,C<X(#(W."`V
+M,#`@,"`U,#`@-C0X(#$V-R`P(#(U.2`R-3D@-3$X(#4Q."`U-38@#3(W."`R
+M-S@@-#(V(#$Q-#@@-C0X(#8Q,2`V-#@@-C$Q(#8Q,2`R-3D@,C4Y(#(U.2`R
+M-3D@-S8P(#<V,"`P(#<V,"`--S(R(#<R,B`W,C(@,C(R(#(R,B`R,C(@,C(R
+M(#(R,B`R,C(@,C(R(#(R,B`R,C(@,C(R(#(R,B!=(`TO16YC;V1I;F<@-S4@
+M,"!2(`TO0F%S949O;G0@+TAE;'9E=&EC84YE=64M4F]M86X@#2]&;VYT1&5S
+M8W)I<'1O<B`W,R`P(%(@#3X^(`UE;F1O8FH--34@,"!O8FH-/#P@#2]4>7!E
+M("]&;VYT(`TO4W5B='EP92`O5'EP93$@#2].86UE("]&,30@#2]&:7)S=$-H
+M87(@,S(@#2],87-T0VAA<B`R-34@#2]7:61T:',@6R`R-S@@,C<X(#0V,R`U
+M-38@-34V(#$P,#`@-C@U(#(W."`R.38@,CDV(#0P-R`V,#`@,C<X(#0P-R`R
+M-S@@,S<Q(`TU-38@-34V(#4U-B`U-38@-34V(#4U-B`U-38@-34V(#4U-B`U
+M-38@,C<X(#(W."`V,#`@-C`P(#8P,"`U-38@#3@P,"`V.#4@-S`T(#<T,2`W
+M-#$@-C0X(#4Y,R`W-3D@-S0Q(#(Y-2`U-38@-S(R(#4Y,R`Y,#<@-S0Q(#<W
+M."`--C8W(#<W."`W,C(@-C0Y(#8Q,2`W-#$@-C,P(#DT-"`V-C<@-C8W(#8T
+M."`S,S,@,S<Q(#,S,R`V,#`@-3`P(`TR-3D@-3<T(#8Q,2`U-S0@-C$Q(#4W
+M-"`S,S,@-C$Q(#4Y,R`R-3@@,C<X(#4W-"`R-3@@.3`V(#4Y,R`V,3$@#38Q
+M,2`V,3$@,S@Y(#4S-R`S-3(@-3DS(#4R,"`X,30@-3,W(#4Q.2`U,3D@,S,S
+M(#(R,R`S,S,@-C`P(#`@-C@U(`TV.#4@-S0Q(#8T."`W-#$@-S<X(#<T,2`U
+M-S0@-3<T(#4W-"`U-S0@-3<T(#4W-"`U-S0@-3<T(#4W-"`U-S0@#34W-"`R
+M-3@@,C4X(#(U."`R-3@@-3DS(#8Q,2`V,3$@-C$Q(#8Q,2`V,3$@-3DS(#4Y
+M,R`U.3,@-3DS(#4U-B`--#`P(#4U-B`U-38@-34V(#4P,2`V,C`@-C$Q(#@P
+M,"`X,#`@,3`P,"`R-3D@,C4Y(#`@.3@Q(#<W."`P(#8P,"`-,"`P(#4U-B`U
+M.3,@,"`P(#`@,"`P(#,T-"`S-C<@,"`Y,#<@-C$Q(#4U-B`R-S@@-C`P(#`@
+M-34V(#`@,"`T-#0@#30T-"`Q,#`P(#`@-C@U(#8X-2`W-S@@,3`Y,R`Y,C8@
+M-3`P(#$P,#`@-#8S(#0V,R`R-S@@,C<X(#8P,"`P(#4Q.2`--C8W(#$V-R`U
+M-38@,C0Q(#(T,2`V,3$@-C$Q(#4U-B`R-S@@,C<X(#0V,R`Q,30W(#8X-2`V
+M-#@@-C@U(#8T."`--C0X(#(Y-2`R.34@,CDU(#(Y-2`W-S@@-S<X(#`@-S<X
+M(#<T,2`W-#$@-S0Q(#(U."`R-3D@,C4Y(#(U.2`R-3D@#3(U.2`R-3D@,C4Y
+M(#(U.2`R-3D@,C4Y(%T@#2]%;F-O9&EN9R`W-B`P(%(@#2]"87-E1F]N="`O
+M2&5L=F5T:6-A3F5U92U";VQD(`TO1F]N=$1E<V-R:7!T;W(@-S0@,"!2(`T^
+M/B`-96YD;V)J#34V(#`@;V)J#3P\(`TO5'EP92`O1F]N="`-+U-U8G1Y<&4@
+M+U1Y<&4Q(`TO3F%M92`O1C$U(`TO1FER<W1#:&%R(#,R(`TO3&%S=$-H87(@
+M,C4U(`TO5VED=&AS(%L@,C<X(#(U.2`T,C8@-34V(#4U-B`Q,#`P(#8S,"`R
+M-S@@,C4Y(#(U.2`S-3(@-C`P(#(W."`S.#D@,C<X(#,S,R`--34V(#4U-B`U
+M-38@-34V(#4U-B`U-38@-34V(#4U-B`U-38@-34V(#(W."`R-S@@-C`P(#8P
+M,"`V,#`@-34V(`TX,#`@-C0X(#8X-2`W,C(@-S`T(#8Q,2`U-S0@-S4Y(#<R
+M,B`R-3D@-3$Y(#8V-R`U-38@.#<Q(#<R,B`W-C`@#38T."`W-C`@-C@U(#8T
+M."`U-S0@-S(R(#8Q,2`Y,C8@-C$Q(#8T."`V,3$@,C4Y(#,S,R`R-3D@-C`P
+M(#4P,"`-,C(R(#4S-R`U.3,@-3,W(#4Y,R`U,S<@,CDV(#4W-"`U-38@,C(R
+M(#(R,B`U,3D@,C(R(#@U,R`U-38@-3<T(`TU.3,@-3DS(#,S,R`U,#`@,S$U
+M(#4U-B`U,#`@-S4X(#4Q."`U,#`@-#@P(#,S,R`R,C(@,S,S(#8P,"`P(#8T
+M."`--C0X(#<R,B`V,3$@-S(R(#<V,"`W,C(@-3,W(#4S-R`U,S<@-3,W(#4S
+M-R`U,S<@-3,W(#4S-R`U,S<@-3,W(`TU,S<@,C(R(#(R,B`R,C(@,C(R(#4U
+M-B`U-S0@-3<T(#4W-"`U-S0@-3<T(#4U-B`U-38@-34V(#4U-B`U-38@#30P
+M,"`U-38@-34V(#4U-B`U,#`@-C`P(#4U-B`X,#`@.#`P(#DY,"`R,C(@,C(R
+M(#`@.3(V(#<V,"`P(#8P,"`-,"`P(#4U-B`U-38@,"`P(#`@,"`P(#,W."`S
+M.#0@,"`X-S`@-3<T(#4U-B`R-3D@-C`P(#`@-34V(#`@,"`T-C,@#30V,R`Q
+M,#`P(#`@-C0X(#8T."`W-C`@,3`W-"`X.3$@-3`P(#$P,#`@-#(V(#0R-B`R
+M-S@@,C<X(#8P,"`P(#4P,"`--C0X(#$V-R`P(#(U.2`R-3D@-3$X(#4Q."`U
+M-38@,C<X(#(W."`T,C8@,3$T."`V-#@@-C$Q(#8T."`V,3$@-C$Q(`TR-3D@
+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
+M;F-T:6]N("]2;W5N9"`-/CX@#65N9&]B:@TV-2`P(&]B:@T\/"`-+U1Y<&4@
+M+TAA;&9T;VYE(`TO2&%L9G1O;F54>7!E(#$@#2]&<F5Q=65N8WD@-#<N-#,T
+M,#$@#2]!;F=L92`Q."XT,S4@#2]3<&]T1G5N8W1I;VX@+U)O=6YD(`T^/B`-
+M96YD;V)J#38V(#`@;V)J#3P\(`TO5'EP92`O2&%L9G1O;F4@#2](86QF=&]N
+M951Y<&4@,2`-+T9R97%U96YC>2`U,"`-+T%N9VQE(#`@#2]3<&]T1G5N8W1I
+M;VX@+U)O=6YD(`T^/B`-96YD;V)J#38W(#`@;V)J#3P\(`TO5'EP92`O2&%L
+M9G1O;F4@#2](86QF=&]N951Y<&4@,2`-+T9R97%U96YC>2`U,RXP,S,@#2]!
+M;F=L92`T-2`-+U-P;W1&=6YC=&EO;B`O4F]U;F0@#3X^(`UE;F1O8FH--C@@
+M,"!O8FH-/#P@#2]4>7!E("](86QF=&]N92`-+TAA;&9T;VYE5'EP92`U(`TO
+M4F5D(#8Y(#`@4B`-+T=R965N(#<P(#`@4B`-+T)L=64@-S$@,"!2(`TO1W)A
+M>2`W,B`P(%(@#2]#>6%N(#8Y(#`@4B`-+TUA9V5N=&$@-S`@,"!2(`TO665L
+M;&]W(#<Q(#`@4B`-+T)L86-K(#<R(#`@4B`-+T1E9F%U;'0@-S(@,"!2(`T^
+M/B`-96YD;V)J#38Y(#`@;V)J#3P\(`TO5'EP92`O2&%L9G1O;F4@#2](86QF
+M=&]N951Y<&4@,2`-+T9R97%U96YC>2`T-RXT,S0P,2`-+T%N9VQE(#<Q+C4V
+M-2`-+U-P;W1&=6YC=&EO;B`O4F]U;F0@#3X^(`UE;F1O8FH--S`@,"!O8FH-
+M/#P@#2]4>7!E("](86QF=&]N92`-+TAA;&9T;VYE5'EP92`Q(`TO1G)E<75E
+M;F-Y(#0W+C0S-#`Q(`TO06YG;&4@,3@N-#,U(`TO4W!O=$9U;F-T:6]N("]2
+M;W5N9"`-/CX@#65N9&]B:@TW,2`P(&]B:@T\/"`-+U1Y<&4@+TAA;&9T;VYE
+M(`TO2&%L9G1O;F54>7!E(#$@#2]&<F5Q=65N8WD@-3`@#2]!;F=L92`P(`TO
+M4W!O=$9U;F-T:6]N("]2;W5N9"`-/CX@#65N9&]B:@TW,B`P(&]B:@T\/"`-
+M+U1Y<&4@+TAA;&9T;VYE(`TO2&%L9G1O;F54>7!E(#$@#2]&<F5Q=65N8WD@
+M-3,N,#,S(`TO06YG;&4@-#4@#2]3<&]T1G5N8W1I;VX@+U)O=6YD(`T^/B`-
+M96YD;V)J#3<S(#`@;V)J#3P\(`TO5'EP92`O1F]N=$1E<V-R:7!T;W(@#2]!
+M<V-E;G0@-S$T(`TO0V%P2&5I9VAT(#<Q-"`-+T1E<V-E;G0@+3$Y."`-+T9L
+M86=S(#,R(`TO1F]N=$)";W@@6R`M,38V("TR,30@,3`W-B`Y-3(@72`-+T9O
+M;G1.86UE("](96QV971I8V%.975E+5)O;6%N(`TO271A;&EC06YG;&4@,"`-
+M+U-T96U6(#@U(`TO6$AE:6=H="`U,3<@#3X^(`UE;F1O8FH--S0@,"!O8FH-
+M/#P@#2]4>7!E("]&;VYT1&5S8W)I<'1O<B`-+T%S8V5N="`W,30@#2]#87!(
+M96EG:'0@-S$T(`TO1&5S8V5N="`M,3@R(`TO1FQA9W,@,C8R,3<V(`TO1F]N
+M=$)";W@@6R`M,38V("TR,3@@,3`W."`Y-S4@72`-+T9O;G1.86UE("](96QV
+M971I8V%.975E+4)O;&0@#2])=&%L:6-!;F=L92`P(`TO4W1E;58@,30R(`TO
+M6$AE:6=H="`U,3<@#3X^(`UE;F1O8FH--S4@,"!O8FH-/#P@#2]4>7!E("]%
+M;F-O9&EN9R`-+T1I9F9E<F5N8V5S(%L@.2`O<W!A8V4@,SD@+W%U;W1E<VEN
+M9VQE(#DV("]G<F%V92`Q,C@@+T%D:65R97-I<R`O07)I;F<@+T-C961I;&QA
+M(`TO16%C=71E("].=&EL9&4@+T]D:65R97-I<R`O561I97)E<VES("]A86-U
+M=&4@+V%G<F%V92`O86-I<F-U;69L97@@#2]A9&EE<F5S:7,@+V%T:6QD92`O
+M87)I;F<@+V-C961I;&QA("]E86-U=&4@+V5G<F%V92`O96-I<F-U;69L97@@
+M#2]E9&EE<F5S:7,@+VEA8W5T92`O:6=R879E("]I8VER8W5M9FQE>"`O:61I
+M97)E<VES("]N=&EL9&4@+V]A8W5T92`-+V]G<F%V92`O;V-I<F-U;69L97@@
+M+V]D:65R97-I<R`O;W1I;&1E("]U86-U=&4@+W5G<F%V92`O=6-I<F-U;69L
+M97@@#2]U9&EE<F5S:7,@+V1A9V=E<B`O9&5G<F5E(#$V-"`O<V5C=&EO;B`O
+M8G5L;&5T("]P87)A9W)A<&@@+V=E<FUA;F1B;',@#2]R96=I<W1E<F5D("]C
+M;W!Y<FEG:'0@+W1R861E;6%R:R`O86-U=&4@+V1I97)E<VES("]N;W1E<75A
+M;"`O044@#2]/<VQA<V@@+VEN9FEN:71Y("]P;'5S;6EN=7,@+VQE<W-E<75A
+M;"`O9W)E871E<F5Q=6%L("]Y96X@+VUU("]P87)T:6%L9&EF9B`-+W-U;6UA
+M=&EO;B`O<')O9'5C="`O<&D@+VEN=&5G<F%L("]O<F1F96UI;FEN92`O;W)D
+M;6%S8W5L:6YE("]/;65G82`-+V%E("]O<VQA<V@@+W%U97-T:6]N9&]W;B`O
+M97AC;&%M9&]W;B`O;&]G:6-A;&YO="`O<F%D:6-A;"`O9FQO<FEN(`TO87!P
+M<F]X97%U86P@+T1E;'1A("]G=6EL;&5M;W1L969T("]G=6EL;&5M;W1R:6=H
+M="`O96QL:7!S:7,@+W-P86-E(`TO06=R879E("]!=&EL9&4@+T]T:6QD92`O
+M3T4@+V]E("]E;F1A<V@@+V5M9&%S:"`O<75O=&5D8FQL969T("]Q=6]T961B
+M;')I9VAT(`TO<75O=&5L969T("]Q=6]T97)I9VAT("]D:79I9&4@+VQO>F5N
+M9V4@+WED:65R97-I<R`O661I97)E<VES("]F<F%C=&EO;B`-+T5U<F\@+V=U
+M:6QS:6YG;&QE9G0@+V=U:6QS:6YG;')I9VAT("]F:2`O9FP@+V1A9V=E<F1B
+M;"`O<&5R:6]D8V5N=&5R960@#2]Q=6]T97-I;F=L8F%S92`O<75O=&5D8FQB
+M87-E("]P97)T:&]U<V%N9"`O06-I<F-U;69L97@@+T5C:7)C=6UF;&5X(`TO
+M06%C=71E("]%9&EE<F5S:7,@+T5G<F%V92`O26%C=71E("])8VER8W5M9FQE
+M>"`O261I97)E<VES("])9W)A=F4@#2]/86-U=&4@+T]C:7)C=6UF;&5X("]A
+M<'!L92`O3V=R879E("]586-U=&4@+U5C:7)C=6UF;&5X("]59W)A=F4@#3(T
+M-B`O8VER8W5M9FQE>"`O=&EL9&4@+VUA8W)O;B`O8G)E=F4@+V1O=&%C8V5N
+M="`O<FEN9R`O8V5D:6QL82`-+VAU;F=A<G5M;&%U="`O;V=O;F5K("]C87)O
+M;B!=(`T^/B`-96YD;V)J#3<V(#`@;V)J#3P\(`TO5'EP92`O16YC;V1I;F<@
+M#2]$:69F97)E;F-E<R!;(#`@+TY53"`O4T](("]35%@@+T546"`O14]4("]%
+M3E$@+T%#2R`O0D5,("]"4R`O2%0@+TQ&("]65"`O1D8@+T-2(`TO4T\@+U-)
+M("]$3$4@+T1#,2`O1$,R("]$0S,@+T1#-"`O3D%+("]364X@+T540B`O0T%.
+M("]%32`O4U5"("]%4T,@#2]&4R`O1U,@+U)3("]54R`S.2`O<75O=&5S:6YG
+M;&4@.38@+V=R879E(#$R-R`O1$5,("]!9&EE<F5S:7,@+T%R:6YG(`TO0V-E
+M9&EL;&$@+T5A8W5T92`O3G1I;&1E("]/9&EE<F5S:7,@+U5D:65R97-I<R`O
+M86%C=71E("]A9W)A=F4@#2]A8VER8W5M9FQE>"`O861I97)E<VES("]A=&EL
+M9&4@+V%R:6YG("]C8V5D:6QL82`O96%C=71E("]E9W)A=F4@#2]E8VER8W5M
+M9FQE>"`O961I97)E<VES("]I86-U=&4@+VEG<F%V92`O:6-I<F-U;69L97@@
+M+VED:65R97-I<R`-+VYT:6QD92`O;V%C=71E("]O9W)A=F4@+V]C:7)C=6UF
+M;&5X("]O9&EE<F5S:7,@+V]T:6QD92`O=6%C=71E(`TO=6=R879E("]U8VER
+M8W5M9FQE>"`O=61I97)E<VES("]D86=G97(@+V1E9W)E92`Q-C0@+W-E8W1I
+M;VX@+V)U;&QE="`-+W!A<F%G<F%P:"`O9V5R;6%N9&)L<R`O<F5G:7-T97)E
+M9"`O8V]P>7)I9VAT("]T<F%D96UA<FL@+V%C=71E(`TO9&EE<F5S:7,@+VYO
+M=&5Q=6%L("]!12`O3W-L87-H("]I;F9I;FET>2`O<&QU<VUI;G5S("]L97-S
+M97%U86P@#2]G<F5A=&5R97%U86P@+WEE;B`O;74@+W!A<G1I86QD:69F("]S
+M=6UM871I;VX@+W!R;V1U8W0@+W!I("]I;G1E9W)A;"`-+V]R9&9E;6EN:6YE
+M("]O<F1M87-C=6QI;F4@+T]M96=A("]A92`O;W-L87-H("]Q=65S=&EO;F1O
+M=VX@+V5X8VQA;61O=VX@#2]L;V=I8V%L;F]T("]R861I8V%L("]F;&]R:6X@
+M+V%P<')O>&5Q=6%L("]$96QT82`O9W5I;&QE;6]T;&5F="`-+V=U:6QL96UO
+M=')I9VAT("]E;&QI<'-I<R`O;F)S<&%C92`O06=R879E("]!=&EL9&4@+T]T
+M:6QD92`O3T4@+V]E(`TO96YD87-H("]E;61A<V@@+W%U;W1E9&)L;&5F="`O
+M<75O=&5D8FQR:6=H="`O<75O=&5L969T("]Q=6]T97)I9VAT(`TO9&EV:61E
+M("]L;WIE;F=E("]Y9&EE<F5S:7,@+UED:65R97-I<R`O9G)A8W1I;VX@+V-U
+M<G)E;F-Y("]G=6EL<VEN9VQL969T(`TO9W5I;'-I;F=L<FEG:'0@+V9I("]F
+M;"`O9&%G9V5R9&)L("]P97)I;V1C96YT97)E9"`O<75O=&5S:6YG;&)A<V4@
+M#2]Q=6]T961B;&)A<V4@+W!E<G1H;W5S86YD("]!8VER8W5M9FQE>"`O16-I
+M<F-U;69L97@@+T%A8W5T92`O161I97)E<VES(`TO16=R879E("])86-U=&4@
+M+TEC:7)C=6UF;&5X("])9&EE<F5S:7,@+TEG<F%V92`O3V%C=71E("]/8VER
+M8W5M9FQE>"`-+V%P<&QE("]/9W)A=F4@+U5A8W5T92`O56-I<F-U;69L97@@
+M+U5G<F%V92`R-#8@+V-I<F-U;69L97@@+W1I;&1E(`TO;6%C<F]N("]B<F5V
+M92`O9&]T86-C96YT("]R:6YG("]C961I;&QA("]H=6YG87)U;6QA=70@+V]G
+M;VYE:R`O8V%R;VX@#5T@#3X^(`UE;F1O8FH--S<@,"!O8FH-/#P@#2]4>7!E
+M("]%;F-O9&EN9R`-+T1I9F9E<F5N8V5S(%L@,3(X("]A.#D@+V$Y,"`O83DS
+M("]A.30@+V$Y,2`O83DR("]A,C`U("]A.#4@+V$R,#8@+V$X-B`O83@W("]A
+M.#@@#2]A.34@+V$Y-B!=(`T^/B`-96YD;V)J#3<X(#`@;V)J#3P\(`TO5'EP
+M92`O0V%T86QO9R`-+U!A9V5S(#0P(#`@4B`-/CX@#65N9&]B:@TW.2`P(&]B
+M:@T\/"`-+T-R96%T:6]N1&%T92`H1#HR,#`P,#<R-3$Q,3@Q,2D-+U!R;V1U
+M8V5R("A!8W)O8F%T($1I<W1I;&QE<B`S+C`@9F]R(%!O=V5R($UA8VEN=&]S
+M:"D-+TUO9$1A=&4@*$0Z,C`P,#`W,C4Q-3`U,S(M,#0G,#`G*0T^/B`-96YD
+M;V)J#3@P(#`@;V)J#3P\(`TO5'EP92`O4&%G92`-+U!A<F5N="`T,2`P(%(@
+M#2]297-O=7)C97,@/#P@+T9O;G0@/#P@+T8R(#@T(#`@4B`^/B`O4')O8U-E
+M="`X,R`P(%(@/CX@#2]#;VYT96YT<R`X,2`P(%(@#2]-961I84)O>"!;(#`@
+M,"`V,3(@,C4R(%T@#3X^(`UE;F1O8FH-.#$@,"!O8FH-/#P@+TQE;F=T:"`X
+M,B`P(%(@+T9I;'1E<B`O1FQA=&5$96-O9&4@/CX@#7-T<F5A;0T*2(FU4\MN
+MVS`0_`+_PQX=P&9%RK*DWN(Z*5"@K0'K&*!@I+7%6"8%DHKM?GV7E)T4*-!3
+MJX,`OG9F9V83)C(XP61533X\"EBR#*K=9%&P-,]`<`[5&A*H:D@8+P54)YA6
+M+<*@&[1.[34VT*+%YPO(^J#-J<-FCPXLUJAZ#V8'GJY_,U[5&%;W6@^R@Z^(
+M7NE]V-FVTF)KNE`0&NFIXI>ANX#(9R"2))F!U$VLLK'F?(&MISM'U!YV@]7*
+MM1A/+9Z4;]E=]3(1><Z6(H5Y>J-/K'_\PR^`S$51LFR1PYP7$86EM`A(Z]A#
+M(#T*]/=:8Y.1-A5,DR+P_6^D.1,E42Y'QKS@$>9INB6FT@\6P;5FZ(C^WB)"
+MD!2T/&(TV6@&#V>L!V^L(UN:HR+]O97CVMO!>40WBT@)2S)Q19KN!VD;);6+
+MLDA/#S1>W`W,&5"Z434)!Z<6=12.XL'@T5AX,8K,EG5M!NT)!V7=7B$XOS4S
+M-2>-]JT@O6?PR=C>$#MEM/O]A(+3=5!?3W%LD!+<A-C)P;?&JI_8!`SJ8IG>
+M](I:F=V.HFS9T]V8@CQC1;Y\3\%-TZI5[II8%>;AU=3RN4-J'J@G^DM]`:\(
+MN;>*=KR)&3^.@\%@TZ%T./(-HEDD>S3=>2M++[:#KB+-`)DFG"T*,>9G:L,^
+M9R6_KLD;6$E]F,&]]_HCC9&I#U!9,F5'PJVQE]:'L9K!AGUGL#)GX$FV7)3A
+M12>UEZ.Q*<]8QL4?(?J,QNZ5)!KIHIB7I4AGY&IL*GAW[*GA,/*])2C5`.I7
+M[$R/<60?JLDO)%QS)`UE;F1S=')E86T-96YD;V)J#3@R(#`@;V)J#38P-"`-
+M96YD;V)J#3@S(#`@;V)J#5L@#2]01$8@+U1E>'0@#5T-96YD;V)J#3@T(#`@
+M;V)J#3P\(`TO5'EP92`O1F]N="`-+U-U8G1Y<&4@+U1Y<&4Q(`TO3F%M92`O
+M1C(@#2]"87-E1F]N="`O2DE(14U#*TAE;'9E=&EC84YE=64M4F]M86X@#2]&
+M:7)S=$-H87(@,"`-+TQA<W1#:&%R(#(U-2`-+U=I9'1H<R!;(#(W."`R-S@@
+M,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R
+M-S@@,C<X(#(W."`R-S@@#3(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R
+M-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`-,C4Y(#0R-B`U
+M-38@-34V(#$P,#`@-C,P(#(W."`R-3D@,C4Y(#,U,B`V,#`@,C<X(#,X.2`R
+M-S@@,S,S(#4U-B`--34V(#4U-B`U-38@-34V(#4U-B`U-38@-34V(#4U-B`U
+M-38@,C<X(#(W."`V,#`@-C`P(#8P,"`U-38@.#`P(`TV-#@@-C@U(#<R,B`W
+M,#0@-C$Q(#4W-"`W-3D@-S(R(#(U.2`U,3D@-C8W(#4U-B`X-S$@-S(R(#<V
+M,"`V-#@@#3<V,"`V.#4@-C0X(#4W-"`W,C(@-C$Q(#DR-B`V,3$@-C0X(#8Q
+M,2`R-3D@,S,S(#(U.2`V,#`@-3`P(#(R,B`--3,W(#4Y,R`U,S<@-3DS(#4S
+M-R`R.38@-3<T(#4U-B`R,C(@,C(R(#4Q.2`R,C(@.#4S(#4U-B`U-S0@-3DS
+M(`TU.3,@,S,S(#4P,"`S,34@-34V(#4P,"`W-3@@-3$X(#4P,"`T.#`@,S,S
+M(#(R,B`S,S,@-C`P(#(W."`V-#@@#38T."`W,C(@-C$Q(#<R,B`W-C`@-S(R
+M(#4S-R`U,S<@-3,W(#4S-R`U,S<@-3,W(#4S-R`U,S<@-3,W(#4S-R`--3,W
+M(#(R,B`R,C(@,C(R(#(R,B`U-38@-3<T(#4W-"`U-S0@-3<T(#4W-"`U-38@
+M-34V(#4U-B`U-38@-34V(`TT,#`@-34V(#4U-B`U-38@-3`P(#8P,"`U-38@
+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
+M(#DP-B`U.3,@-C$Q(#8Q,2`--C$Q(#,X.2`U,S<@,S4R(#4Y,R`U,C`@.#$T
+M(#4S-R`U,3D@-3$Y(#,S,R`R,C,@,S,S(#8P,"`R-S@@-C@U(`TV.#4@-S0Q
+M(#8T."`W-#$@-S<X(#<T,2`U-S0@-3<T(#4W-"`U-S0@-3<T(#4W-"`U-S0@
+M-3<T(#4W-"`U-S0@#34W-"`R-3@@,C4X(#(U."`R-3@@-3DS(#8Q,2`V,3$@
+M-C$Q(#8Q,2`V,3$@-3DS(#4Y,R`U.3,@-3DS(#4U-B`--#`P(#4U-B`U-38@
+M-34V(#4P,2`V,C`@-C$Q(#@P,"`X,#`@,3`P,"`R-3D@,C4Y(#4T.2`Y.#$@
+M-S<X(#<Q,R`--C`P(#4T.2`U-#D@-34V(#4Y,R`T.30@-S$S(#@R,R`U-#D@
+M,C<T(#,T-"`S-C<@-S8X(#DP-R`V,3$@-34V(`TR-S@@-C`P(#4T.2`U-38@
+M-30Y(#8Q,B`T-#0@-#0T(#$P,#`@,C<X(#8X-2`V.#4@-S<X(#$P.3,@.3(V
+M(#4P,"`-,3`P,"`T-C,@-#8S(#(W."`R-S@@-C`P(#0Y-"`U,3D@-C8W(#$V
+M-R`U-38@,C0Q(#(T,2`V,3$@-C$Q(#4U-B`-,C<X(#(W."`T-C,@,3$T-R`V
+M.#4@-C0X(#8X-2`V-#@@-C0X(#(Y-2`R.34@,CDU(#(Y-2`W-S@@-S<X(#<Y
+M,"`--S<X(#<T,2`W-#$@-S0Q(#(U."`R-3D@,C4Y(#(U.2`R-3D@,C4Y(#(U
+M.2`R-3D@,C4Y(#(U.2`R-3D@72`-+T5N8V]D:6YG("]-86-2;VUA;D5N8V]D
+M:6YG(`TO1F]N=$1E<V-R:7!T;W(@.3(@,"!2(`T^/B`-96YD;V)J#3DR(#`@
+M;V)J#3P\(`TO5'EP92`O1F]N=$1E<V-R:7!T;W(@#2]&;VYT3F%M92`O2&5L
+M=F5T:6-A3F5U92U";VQD271A;&EC(`TO1FQA9W,@-#@@#2]&;VYT0D)O>"!;
+M("TQ-C8@+3(Q."`Q,#<X(#DW-2!=(`TO36ES<VEN9U=I9'1H(#(W."`-+U-T
+M96U6(#$U-R`-+U-T96U((#$U-R`-+TET86QI8T%N9VQE(#`@#2]#87!(96EG
+M:'0@-S$T(`TO6$AE:6=H="`U,3<@#2]!<V-E;G0@-S$T(`TO1&5S8V5N="`M
+M,3@R(`TO3&5A9&EN9R`X,R`-+TUA>%=I9'1H(#$Q-#<@#2]!=F=7:61T:"`U
+M,30@#3X^(`UE;F1O8FH-.3,@,"!O8FH-/#P@#2]4>7!E("]&;VYT(`TO4W5B
+M='EP92`O5'EP93$@#2].86UE("]&,2`-+T)A<V5&;VYT("](96QV971I8V%.
+M975E+4)O;&0@#2]&:7)S=$-H87(@,"`-+TQA<W1#:&%R(#(U-2`-+U=I9'1H
+M<R!;(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R
+M-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@#3(W."`R-S@@,C<X(#(W."`R
+M-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W."`R-S@@,C<X(#(W
+M."`-,C<X(#0V,R`U-38@-34V(#$P,#`@-C@U(#(W."`R.38@,CDV(#0P-R`V
+M,#`@,C<X(#0P-R`R-S@@,S<Q(#4U-B`--34V(#4U-B`U-38@-34V(#4U-B`U
+M-38@-34V(#4U-B`U-38@,C<X(#(W."`V,#`@-C`P(#8P,"`U-38@.#`P(`TV
+M.#4@-S`T(#<T,2`W-#$@-C0X(#4Y,R`W-3D@-S0Q(#(Y-2`U-38@-S(R(#4Y
+M,R`Y,#<@-S0Q(#<W."`V-C<@#3<W."`W,C(@-C0Y(#8Q,2`W-#$@-C,P(#DT
+M-"`V-C<@-C8W(#8T."`S,S,@,S<Q(#,S,R`V,#`@-3`P(#(U.2`--3<T(#8Q
+M,2`U-S0@-C$Q(#4W-"`S,S,@-C$Q(#4Y,R`R-3@@,C<X(#4W-"`R-3@@.3`V
+M(#4Y,R`V,3$@-C$Q(`TV,3$@,S@Y(#4S-R`S-3(@-3DS(#4R,"`X,30@-3,W
+M(#4Q.2`U,3D@,S,S(#(R,R`S,S,@-C`P(#(W."`V.#4@#38X-2`W-#$@-C0X
+M(#<T,2`W-S@@-S0Q(#4W-"`U-S0@-3<T(#4W-"`U-S0@-3<T(#4W-"`U-S0@
+M-3<T(#4W-"`--3<T(#(U."`R-3@@,C4X(#(U."`U.3,@-C$Q(#8Q,2`V,3$@
+M-C$Q(#8Q,2`U.3,@-3DS(#4Y,R`U.3,@-34V(`TT,#`@-34V(#4U-B`U-38@
+M-3`Q(#8R,"`V,3$@.#`P(#@P,"`Q,#`P(#(U.2`R-3D@-30Y(#DX,2`W-S@@
+M-S$S(`TV,#`@-30Y(#4T.2`U-38@-3DS(#0Y-"`W,3,@.#(S(#4T.2`R-S0@
+M,S0T(#,V-R`W-C@@.3`W(#8Q,2`U-38@#3(W."`V,#`@-30Y(#4U-B`U-#D@
+M-C$R(#0T-"`T-#0@,3`P,"`R-S@@-C@U(#8X-2`W-S@@,3`Y,R`Y,C8@-3`P
+M(`TQ,#`P(#0V,R`T-C,@,C<X(#(W."`V,#`@-#DT(#4Q.2`V-C<@,38W(#4U
+M-B`R-#$@,C0Q(#8Q,2`V,3$@-34V(`TR-S@@,C<X(#0V,R`Q,30W(#8X-2`V
+M-#@@-C@U(#8T."`V-#@@,CDU(#(Y-2`R.34@,CDU(#<W."`W-S@@-SDP(`TW
+M-S@@-S0Q(#<T,2`W-#$@,C4X(#(U.2`R-3D@,C4Y(#(U.2`R-3D@,C4Y(#(U
+M.2`R-3D@,C4Y(#(U.2!=(`TO16YC;V1I;F<@+TUA8U)O;6%N16YC;V1I;F<@
+M#2]&;VYT1&5S8W)I<'1O<B`W-"`P(%(@#3X^(`UE;F1O8FH->')E9@TP(#DT
+M(`TP,#`P,#`P,#8R(#8U-3,U(&8-"C`P,#`P,#`P,38@,#`P,#`@;@T*,#`P
+M,#`P,#$P,B`P,#`P,"!N#0HP,#`P,#`Q-#`T(#`P,#`P(&X-"C`P,#`P,#$U
+M,S8@,#`P,#`@;@T*,#`P,#`P,38T,2`P,#`P,"!N#0HP,#`P,#`Q-S0W(#`P
+M,#`P(&X-"C`P,#`P,#$X-34@,#`P,#`@;@T*,#`P,#`P,3DS,B`P,#`P,"!N
+M#0HP,#`P,#`R,#`W(#`P,#`P(&X-"C`P,#`P,#(Q-3(@,#`P,#`@;@T*,#`P
+M,#`P,C(T,2`P,#`P,"!N#0HP,#`P,#`T-38Q(#`P,#`P(&X-"C`P,#`P,#0V
+M-S(@,#`P,#`@;@T*,#`P,#`P-#<V,2`P,#`P,"!N#0HP,#`P,#`W,38Y(#`P
+M,#`P(&X-"C`P,#`P,#<R.#`@,#`P,#`@;@T*,#`P,#`P-S,V.2`P,#`P,"!N
+M#0HP,#`P,#`Y,C`T(#`P,#`P(&X-"C`P,#`P,#DS,#4@,#`P,#`@;@T*,#`P
+M,#`P.3,Y-"`P,#`P,"!N#0HP,#`P,#$Q.34T(#`P,#`P(&X-"C`P,#`P,3(P
+M-C4@,#`P,#`@;@T*,#`P,#`Q,C$U-"`P,#`P,"!N#0HP,#`P,#$S-C,V(#`P
+M,#`P(&X-"C`P,#`P,3,W-#<@,#`P,#`@;@T*,#`P,#`Q,S@S-B`P,#`P,"!N
+M#0HP,#`P,#$U-C4V(#`P,#`P(&X-"C`P,#`P,34W-C<@,#`P,#`@;@T*,#`P
+M,#`Q-3@U-B`P,#`P,"!N#0HP,#`P,#$X-#`S(#`P,#`P(&X-"C`P,#`P,3@U
+M,C4@,#`P,#`@;@T*,#`P,#`Q.#8Q-"`P,#`P,"!N#0HP,#`P,#(P.3`P(#`P
+M,#`P(&X-"C`P,#`P,C$P,3(@,#`P,#`@;@T*,#`P,#`R,3$P,2`P,#`P,"!N
+M#0HP,#`P,#(S-#<V(#`P,#`P(&X-"C`P,#`P,C,U.#@@,#`P,#`@;@T*,#`P
+M,#`R,S8W."`P,#`P,"!N#0HP,#`P,#(T.#DQ(#`P,#`P(&X-"C`P,#`P,C4P
+M,#,@,#`P,#`@;@T*,#`P,#`R-3$P,R`P,#`P,"!N#0HP,#`P,#(U,C,T(#`P
+M,#`P(&X-"C`P,#`P,C4S,C0@,#`P,#`@;@T*,#`P,#`R-S8R,B`P,#`P,"!N
+M#0HP,#`P,#(W-S,S(#`P,#`P(&X-"C`P,#`P,C<X,C,@,#`P,#`@;@T*,#`P
+M,#`S,#(X-B`P,#`P,"!N#0HP,#`P,#,P-#`X(#`P,#`P(&X-"C`P,#`P,S`T
+M.3@@,#`P,#`@;@T*,#`P,#`S,C4U,R`P,#`P,"!N#0HP,#`P,#,R-C8U(#`P
+M,#`P(&X-"C`P,#`P,S(W-34@,#`P,#`@;@T*,#`P,#`S-C,Q.2`P,#`P,"!N
+M#0HP,#`P,#,V-#DP(#`P,#`P(&X-"C`P,#`P,S<V-#<@,#`P,#`@;@T*,#`P
+M,#`S.#<Q,"`P,#`P,"!N#0HP,#`P,#,Y-S<Q(#`P,#`P(&X-"C`P,#`P,SDX
+M.#`@,#`P,#`@;@T*,#`P,#`S.3DU-2`P,#`P,"!N#0HP,#`P,#0P,#0U(#`P
+M,#`P(&X-"C`P,#`P-#$X.34@,#`P,#`@;@T*,#`P,#`P,#`P,"`P,#`P,2!F
+M#0HP,#`P,#0R,#$W(#`P,#`P(&X-"C`P,#`P-#(R,3`@,#`P,#`@;@T*,#`P
+M,#`T,C,R-B`P,#`P,"!N#0HP,#`P,#0R-#0R(#`P,#`P(&X-"C`P,#`P-#(U
+M-#<@,#`P,#`@;@T*,#`P,#`T,C8U-R`P,#`P,"!N#0HP,#`P,#0R.#4P(#`P
+M,#`P(&X-"C`P,#`P-#(Y-C8@,#`P,#`@;@T*,#`P,#`T,S`X,B`P,#`P,"!N
+M#0HP,#`P,#0S,3@W(#`P,#`P(&X-"C`P,#`P-#,R.3<@,#`P,#`@;@T*,#`P
+M,#`T,S4P-B`P,#`P,"!N#0HP,#`P,#0S-S$Y(#`P,#`P(&X-"C`P,#`P-#4P
+M-C$@,#`P,#`@;@T*,#`P,#`T-C4U-R`P,#`P,"!N#0HP,#`P,#0V-CDS(#`P
+M,#`P(&X-"C`P,#`P-#8W-#@@,#`P,#`@;@T*,#`P,#`T-C@Y-"`P,#`P,"!N
+M#0HP,#`P,#0W,#0Y(#`P,#`P(&X-"C`P,#`P-#<W,S$@,#`P,#`@;@T*,#`P
+M,#`T-S<U,B`P,#`P,"!N#0HP,#`P,#0W-S@U(#`P,#`P(&X-"C`P,#`P-#DP
+M,C@@,#`P,#`@;@T*,#`P,#`T.3,T,B`P,#`P,"!N#0HP,#`P,#4S-#@T(#`P
+M,#`P(&X-"C`P,#`P-3,U,#8@,#`P,#`@;@T*,#`P,#`U,S8Y-"`P,#`P,"!N
+M#0HP,#`P,#4U,C`V(#`P,#`P(&X-"C`P,#`P-34R,C@@,#`P,#`@;@T*,#`P
+M,#`U-C0W,"`P,#`P,"!N#0HP,#`P,#4V-S8P(#`P,#`P(&X-"G1R86EL97(-
+M/#P-+U-I>F4@.30-+TEN9F\@-SD@,"!2(`TO4F]O="`W."`P(%(@#2])1%L\
+M8V(R-&$X864U9&(V-C)C8SDY9C@U-S,R-&1D-6)D,&,^/#(U9&$P-&4P8F$V
+M,#5A9F)A,#9F8F$P-CAC.30W-C8Q/ET-/CX-<W1A<G1X<F5F#34W.3DV#24E
+M14]&#3D@,"!O8FH-/#P@#2]4>7!E("]086=E<R`-+TMI9',@6R`V,B`Q(%(@
+M,2`P(%(@,3`@,"!2(#$S(#`@4B`Q-B`P(%(@,3D@,"!2(%T@#2]#;W5N="`V
+M(`TO4&%R96YT(#0P(#`@4B`-/CX@#65N9&]B:@TR,B`P(&]B:@T\/"`-+U1Y
+M<&4@+U!A9V4@#2]087)E;G0@,3$W(#`@4B`-+U)E<V]U<F-E<R`R-"`P(%(@
+M#2]#;VYT96YT<R`R,R`P(%(@#3X^(`UE;F1O8FH-,C4@,"!O8FH-/#P@#2]4
+M>7!E("]086=E(`TO4&%R96YT(#$Q-R`P(%(@#2]297-O=7)C97,@,C<@,"!2
+M(`TO0V]N=&5N=',@,C8@,"!2(`T^/B`-96YD;V)J#3(X(#`@;V)J#3P\(`TO
+M5'EP92`O4&%G92`-+U!A<F5N="`Q,3<@,"!2(`TO4F5S;W5R8V5S(#,P(#`@
+M4B`-+T-O;G1E;G1S(#(Y(#`@4B`-/CX@#65N9&]B:@TS,2`P(&]B:@T\/"`-
+M+U1Y<&4@+U!A9V4@#2]087)E;G0@,3$W(#`@4B`-+U)E<V]U<F-E<R`S,R`P
+M(%(@#2]#;VYT96YT<R`S,B`P(%(@#3X^(`UE;F1O8FH-,S0@,"!O8FH-/#P@
+M#2]4>7!E("]086=E(`TO4&%R96YT(#$Q-R`P(%(@#2]297-O=7)C97,@,S8@
+M,"!2(`TO0V]N=&5N=',@,S4@,"!2(`T^/B`-96YD;V)J#30P(#`@;V)J#3P\
+M(`TO5'EP92`O4&%G97,@#2]+:61S(%L@.2`P(%(@,3$W(#`@4B`T,2`P(%(@
+M72`-+T-O=6YT(#$Y(`TO365D:6%";W@@6R`P(#`@-30P(#8T."!=(`T^/B`-
+M96YD;V)J#38R(#$@;V)J#3P\(`TO5'EP92`O4&%G92`-+U!A<F5N="`Y(#`@
+M4B`-+U)E<V]U<F-E<R`Q,3`@,"!2(`TO0V]N=&5N=',@6R`Q,#@@,"!2(#$P
+M-B`P(%(@,3`T(#`@4B`Q,#(@,"!2(#$P,"`P(%(@.3@@,"!2(#DV(#`@4B`Y
+M-"`P(%(@72`-+TUE9&EA0F]X(%L@,"`P(#8Q,B`W.3(@72`-+T-R;W!";W@@
+M6R`P(#`@-C$R(#<Y,B!=(`TO4F]T871E(#`@#3X^(`UE;F1O8FH--SD@,"!O
+M8FH-/#P@#2]#<F5A=&EO;D1A=&4@*$0Z,C`P,#`W,C4Q,3$X,3$I#2]0<F]D
+M=6-E<B`H06-R;V)A="!$:7-T:6QL97(@,RXP(&9O<B!0;W=E<B!-86-I;G1O
+M<V@I#2]-;V1$871E("A$.C(P,#`P-S(W,3,Q-#0R+3`T)S`P)RD-/CX@#65N
+M9&]B:@TY-"`P(&]B:@T\/"`O1FEL=&5R("]&;&%T941E8V]D92`O3&5N9W1H
+M(#DU(#`@4B`^/B`-<W1R96%M#0I(B:20,4_#0`R%=_\*C_80<^<SSH6M56%@
+M8+J-,"":2JWH4E7*WZ^;A6P@\;P\6_8GZ[57*+V85\.$;0=)4BJ*[0NBG8$0
+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
+M-S(R(#<R,B`U-38@,"`V-C<@-34V(#8Q,2`W,C(@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#0T-"`--3`P(#0T-"`U,#`@-#0T(#,S,R`U,#`@-3`P(#(W."`P
+M(#4P,"`R-S@@-S<X(#4P,"`U,#`@-3`P(#4P,"`S,S,@#3,X.2`R-S@@-3`P
+M(#4P,"`W,C(@-3`P(#4P,"!=(`TO16YC;V1I;F<@+U=I;D%N<VE%;F-O9&EN
+M9R`-+T)A<V5&;VYT("]4:6UE<TYE=U)O;6%N(`TO1F]N=$1E<V-R:7!T;W(@
+M,3$T(#`@4B`-/CX@#65N9&]B:@TQ,30@,"!O8FH-/#P@#2]4>7!E("]&;VYT
+M1&5S8W)I<'1O<B`-+T%S8V5N="`X.3$@#2]#87!(96EG:'0@,"`-+T1E<V-E
+M;G0@+3(Q-B`-+T9L86=S(#,T(`TO1F]N=$)";W@@6R`M-38X("TS,#<@,C`R
+M."`Q,#`W(%T@#2]&;VYT3F%M92`O5&EM97-.97=2;VUA;B`-+TET86QI8T%N
+M9VQE(#`@#2]3=&5M5B`P(`T^/B`-96YD;V)J#3$Q-2`P(&]B:@T\/"`-+U1Y
+M<&4@+T9O;G0@#2]3=6)T>7!E("]4<G5E5'EP92`-+T9I<G-T0VAA<B`S,B`-
+M+TQA<W1#:&%R(#@U(`TO5VED=&AS(%L@,C4P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`R-3`@,"`R-3`@,C<X(#`@-3`P(#`@,"`U,#`@,"`P(#`@,"`P(#`@
+M#3`@,"`P(#`@,"`P(#<R,B`V-C<@-S(R(#<R,B`V-C<@-C$Q(#`@-S<X(#,X
+M.2`P(#`@-C8W(#DT-"`W,C(@-S<X(`TP(#`@-S(R(#4U-B`V-C<@-S(R(%T@
+M#2]%;F-O9&EN9R`O5VEN06YS:45N8V]D:6YG(`TO0F%S949O;G0@+U1I;65S
+M3F5W4F]M86XL0F]L9"`-+T9O;G1$97-C<FEP=&]R(#$Q-B`P(%(@#3X^(`UE
+M;F1O8FH-,3$V(#`@;V)J#3P\(`TO5'EP92`O1F]N=$1E<V-R:7!T;W(@#2]!
+M<V-E;G0@.#DQ(`TO0V%P2&5I9VAT(#`@#2]$97-C96YT("TR,38@#2]&;&%G
+M<R`S-"`-+T9O;G1"0F]X(%L@+34U."`M,S`W(#(P,S0@,3`R-B!=(`TO1F]N
+M=$YA;64@+U1I;65S3F5W4F]M86XL0F]L9"`-+TET86QI8T%N9VQE(#`@#2]3
+M=&5M5B`Q,S,@#3X^(`UE;F1O8FH-,3$W(#`@;V)J#3P\(`TO5'EP92`O4&%G
+M97,@#2]+:61S(%L@,C(@,"!2(#(U(#`@4B`R."`P(%(@,S$@,"!2(#,T(#`@
+M4B!=(`TO0V]U;G0@-2`-+U!A<F5N="`T,"`P(%(@#3X^(`UE;F1O8FH->')E
+M9@TP(#$@#3`P,#`P,#`P,#`@-C4U,S4@9@T*.2`Q(`TP,#`P,#8P,#,T(#`P
+M,#`P(&X-"C(R(#$@#3`P,#`P-C`Q-#D@,#`P,#`@;@T*,C4@,2`-,#`P,#`V
+M,#(T,"`P,#`P,"!N#0HR."`Q(`TP,#`P,#8P,S,Q(#`P,#`P(&X-"C,Q(#$@
+M#3`P,#`P-C`T,C(@,#`P,#`@;@T*,S0@,2`-,#`P,#`V,#4Q,R`P,#`P,"!N
+M#0HT,"`Q(`TP,#`P,#8P-C`T(#`P,#`P(&X-"C8R(#$@#3`P,#`P-C`W,3(@
+M,#`P,#$@;@T*-SD@,2`-,#`P,#`V,#DR-"`P,#`P,"!N#0HY-"`R-"`-,#`P
+M,#`V,3`W,"`P,#`P,"!N#0HP,#`P,#8Q,S0R(#`P,#`P(&X-"C`P,#`P-C$S
+M-C,@,#`P,#`@;@T*,#`P,#`V,3DT-"`P,#`P,"!N#0HP,#`P,#8Q.38U(#`P
+M,#`P(&X-"C`P,#`P-C(V,#,@,#`P,#`@;@T*,#`P,#`V,C8R-"`P,#`P,"!N
+M#0HP,#`P,#8S,CDT(#`P,#`P(&X-"C`P,#`P-C,S,38@,#`P,#`@;@T*,#`P
+M,#`V,SDR-"`P,#`P,"!N#0HP,#`P,#8S.30V(#`P,#`P(&X-"C`P,#`P-C0U
+M.#0@,#`P,#`@;@T*,#`P,#`V-#8P-B`P,#`P,"!N#0HP,#`P,#8U,C(U(#`P
+M,#`P(&X-"C`P,#`P-C4R-#<@,#`P,#`@;@T*,#`P,#`V-3DS.2`P,#`P,"!N
+M#0HP,#`P,#8U.38Q(#`P,#`P(&X-"C`P,#`P-C8Q,3,@,#`P,#`@;@T*,#`P
+M,#`V-C(Y-"`P,#`P,"!N#0HP,#`P,#8V,S<S(#`P,#`P(&X-"C`P,#`P-C8X
+M-#4@,#`P,#`@;@T*,#`P,#`V-S`S,R`P,#`P,"!N#0HP,#`P,#8W,S<Q(#`P
+M,#`P(&X-"C`P,#`P-C<U-C8@,#`P,#`@;@T*=')A:6QE<@T\/`TO4VEZ92`Q
+M,3@-+TEN9F\@-SD@,"!2(`TO4F]O="`W."`P(%(@#2]0<F5V(#4W.3DV(`TO
+M241;/&-B,C1A.&%E-61B-C8R8V,Y.68X-3<S,C1D9#5B9#!C/CPR-V,R,V5A
+M,CDX-#0X9C,U-S,V83)A.#`Q-3%B,S4Q,3Y=#3X^#7-T87)T>')E9@TV-S8W
+(-PTE)45/1@T_
+`
+end
+</PDF>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

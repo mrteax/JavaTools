@@ -1,0 +1,549 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EnT2sCfjwtIp6ipEHnpmhb0mecCzx0mEgupmuMDdJ3n/JeioVpqsUmfXGZTIS4rR
+ aXJcQjkSwwZO2NRD+Bb/8A==
+
+<SEC-DOCUMENT>0000002024-98-000013.txt : 19980508
+<SEC-HEADER>0000002024-98-000013.hdr.sgml : 19980508
+ACCESSION NUMBER:		0000002024-98-000013
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980601
+FILED AS OF DATE:		19980507
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACE HARDWARE CORP
+		CENTRAL INDEX KEY:			0000002024
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-HARDWARE & PLUMBING & HEATING EQUIPMENT & SUPPLIES [5070]
+		IRS NUMBER:				360700810
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	002-55860
+		FILM NUMBER:		98612095
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 KENSINGTON COURT
+		CITY:			OAK BROOK
+		STATE:			IL
+		ZIP:			60521
+		BUSINESS PHONE:		7089906600
+
+	MAIL ADDRESS:	
+		STREET 1:		1300 KENSINGTON RD
+		CITY:			OAKBROOK
+		STATE:			IL
+		ZIP:			60521
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<TEXT>
+
+
+  
+  
+April 3, 1998
+
+
+TO:  Our Dealer/Stockholders
+
+Enclosed is a formal notice of the Ace annual stockholders meeting that will 
+be held on Monday, June 1, 1998. As of this date, the matters that will be 
+acted upon at the meeting will be the election of five directors.
+
+The enclosed notice contains an Explanatory Summary giving the names and 
+background information of each of the five persons recommended by the Board 
+of Directors for election as directors.
+
+At this meeting, the five directors to be chosen are to be elected to 
+positions in the third director class for three-year terms with one director 
+being a dealer director at-large, two being non-dealer directors, and one 
+director being elected from each of Regions 5 and 7.  As provided for in the
+By-laws, regional dealer-directors are elected from designated geographic 
+regions of the United States.
+
+Please review the enclosed materials carefully and then complete, sign, date 
+and mail the enclosed proxy card in the envelope provided for your convenience.
+The prompt return of sufficient proxies to enable the business of the meeting 
+to proceed will save your Company additional expenses of solicitation which
+would ultimately be borne by its stockholders.
+
+Of course, if you find it convenient to attend the meeting, you may rescind 
+your proxy vote and vote in person if you so desire.
+
+Sincerely,
+
+
+
+DAVID F. HODNIK                          RICHARD E. LASKOWSKI
+David F. Hodnik                          Richard E. Laskowski
+President and CEO                        Chairman of the Board
+                  
+
+
+                ACE HARDWARE CORPORATION
+          NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+                        June 1, 1998
+
+
+Notice is hereby given that the annual meeting of the stockholders of Ace 
+Hardware Corporation will be held on Monday, June 1, 1998, in Krausman Hall 
+at the general office of the Corporation, 2200 Kensington Court, Oak Brook,
+Illinois at 9:00 A.M., Central Daylight Saving Time, for the following 
+purposes:
+
+(1)  to elect five members of the Board of Directors of the third class to 
+     serve for 3-year terms, of which one shall be a dealer director at-large,
+     two shall be a non-dealer directors, and one shall be elected from each of
+     the following director regions:
+
+                   Region 5 and Region 7;
+
+and
+
+(2)  to transact such other business as may properly be brought before the 
+     meeting.
+
+Only those holders of record of shares of Class "A" stock on the books of the 
+Corporation at the close of business on April 3, 1998 are entitled to notice 
+of, and to vote at, the meeting.
+
+The names of the five persons selected to be nominees for election as 
+directors in accordance with the provisions of Article IV of the By-laws of 
+the Corporation, together with background information concerning each of them, 
+are set forth in the attached Explanatory Summary.
+
+
+                                By order of the Board of Directors
+
+                                          DAVID W. LEAGUE
+
+April 3, 1998                                Secretary
+
+
+         IMPORTANT - PLEASE MAIL YOUR PROXY PROMPTLY
+
+In order that there may be proper representation at the meeting, you are 
+urged to sign and return the enclosed proxy in the envelope provided.  Your
+cooperation in promptly returning your signed proxy will reduce expenses 
+incident to following up this solicitation of proxies.  Submission of a signed
+proxy will not preclude you from voting in person at the meeting if you so 
+desire.
+                          
+
+
+
+                  ACE HARDWARE CORPORATION
+                    2200 Kensington Court
+                  Oak Brook, Illinois 60523
+                              
+                              
+      EXPLANATORY SUMMARY FURNISHED IN CONNECTION WITH
+        SOLICITATION OF PROXIES BY BOARD OF DIRECTORS
+
+
+Proxies in the form enclosed herewith are solicited by the Board of Directors 
+of Ace Hardware Corporation (the "Company") for use at the annual meeting of 
+stockholders to be held in Krausman Hall at the general office of the 
+Company, 2200 Kensington Court, Oak Brook, Illinois, on Monday, June 1, 1998,
+and at any adjournment thereof.  Unless authorization to do so is withheld by 
+the giver of the proxy, the persons named as proxies in the enclosed proxy 
+card, or such of them as may act, will vote for the election as directors of 
+all of the persons recommended by the Board of Directors.
+
+Only the holders of record of shares of Class A stock on the books of the 
+Company at the close of business on April 3, 1998 will be entitled to vote at 
+the meeting. Even if you expect to attend the meeting in person, you are 
+requested to return your executed proxy in the enclosed envelope in order to 
+assure that a quorum of the Class A stock is represented at the meeting and 
+to enable the business of the meeting to be conducted as expeditiously as 
+possible. Any stockholder giving a proxy will have the right to revoke it at 
+any time prior to the voting thereof.
+
+The exact number of outstanding shares of Class A stock on the record date of 
+April 3, 1998 will be reported at the meeting.  Each such outstanding share 
+entitles the holder to one vote.  There will not be cumulative voting for the
+election of directors.
+
+The cost of soliciting proxies in the form enclosed herewith is being borne 
+by the Company. In addition to solicitation by mail, directors, officers and 
+regular employees of the Company may solicit proxies personally or by 
+telephone, telegraph or facsimile.
+
+
+
+The Company's 1997 Annual Report, including financial statements, has been 
+mailed to each stockholder.
+
+
+ELECTION OF DIRECTORS
+                         [Item (1) on proxy card]
+
+In accordance with authority vested in it by Article IV of the By-laws of the 
+Company, the Board of Directors has determined that the Board shall be 
+comprised of 12 persons.  The Board has determined that one director shall be 
+a dealer director at-large, two shall be non-dealer directors, and that all 9 
+remaining members of the Board as to be constituted following the 1998 annual 
+stockholders meeting, shall be "regional dealer directors".
+
+Each dealer director must be either the owner of a retail business 
+organization owning stock of the Company or an executive officer, general 
+partner, or general manager of such a retail business organization.
+
+As also provided for by the Company's By-laws, the Board of Directors has 
+established 9 geographic regions of the United States from which regional 
+dealer directors are to be chosen.  The Board has authority from time to time 
+to make revisions in the geographic composition of such regions, as well as to
+change the number of regions.  Determinations are to be made by the Board each
+year as to the regions from which regional dealer directors to be elected at 
+the next annual meeting shall be chosen. In the discretion of the Board, two 
+or more dealer directors from the same region may serve on the Board at the 
+same time.
+
+The current geographic composition of each of the regions established by the 
+Board of Directors for the election of regional dealer directors pursuant to 
+the applicable By-law provisions is as follows:
+
+Region 1 -     Maine, New Hampshire, Vermont, Massachusetts, Connecticut,  
+               Rhode Island, New York, Pennsylvania, New Jersey;
+
+Region 2 -     Delaware, Maryland, Virginia, West Virginia, Kentucky,  
+               Tennessee, North Carolina, South Carolina, 
+               District of Columbia;
+
+Region 3 -     Alabama, Mississippi, Georgia, Florida;
+
+Region 4 -     Ohio, Indiana, Illinois;
+
+Region 5 -     Iowa, Missouri, Nebraska, Kansas, Colorado;
+
+Region 6 -     Arkansas, Louisiana, Oklahoma, Texas;
+
+Region 7 -     Alaska, Washington, Oregon, Idaho, Montana, Wyoming, Utah;
+
+Region 8 -     Arizona, New Mexico, Nevada, California, Hawaii;
+
+Region 9 -     Michigan, Minnesota, North Dakota, South Dakota, Wisconsin.
+
+The present directors, their respective director regions and classes, and the 
+years of expiration of their current terms of office are as follows:
+
+                                                  Year of Expiration
+     Director             Region         Class     of Current Term
+    ---------------------------------------------------------------- 
+     Eric R. Bibbens, II    1            First           2000
+
+     D. William Hagan       3            First           2000
+
+     Jennifer C. Anderson   8            First           2000
+
+     Mark Jeronimus         9            First           2000
+
+     J. Thomas Glenn        2            Second          1999
+
+     Jon R. Weiss           4            Second          1999
+
+     John E. Kingrey        6            Second          1999
+
+     Richard E. Laskowski   4            Third           1998
+
+     James R. Williams      5            Third           1998
+
+     Lawrence R. Bowman     7            Third           1998
+
+     Roger E. Peterson      -            Third           1998
+
+
+As required by the By-laws, the Board of Directors determined that the four  
+positions on the Board currently held by directors of the class whose terms 
+expire in 1998 and that the additional position of the same class shall be 
+filled at the forthcoming 1998 annual stockholders meeting by persons to be  
+elected for 3-year terms as follows:  one dealer director at-large, two 
+non-dealer directors, one director from Region 5 and one director from Region 7.
+
+Under the By-laws, Mr. Laskowski and Mr. Williams are not eligible for 
+re-election upon expiration of each of their respective terms as a director 
+in 1998, but Mr. Bowman and Mr. Peterson are eligible for re-election. As 
+authorized by a provision in the By-laws under which the Board of Directors
+can propose the nomination for re-election of any eligible incumbent director 
+or election of a non-dealer director, the Board determined that Mr. Bowman and 
+Mr. Peterson should each be nominated for re-election at the 1998 annual 
+meeting for additional terms of three years.  In addition, the Board has also 
+determined that Mr. Mario R. Nathusius should be nominated for election as a 
+dealer director at-large and Mr. Howard J. Jung should be nominated for 
+election as a non-dealer director at the 1998 annual meeting each for a term 
+of three years.
+
+The Board established a 1998 Candidate Selection Committee comprised primarily 
+of 5 dealer stockholders from Region 5 plus 2 directors to select a nominee 
+for election as director for a 3-year term.  The nominee selected by such 
+Candidate Selection Committee is Mr. Daniel L. Gust in Region 5.  
+
+The Board of Directors recommends the election as directors of each of the 
+five nominees referred to above.  The director regions, classes and terms for 
+which they are being nominated, together with background information 
+concerning each nominee, is set forth below.
+
+
+Region 5, Third and 3 years    Daniel  L. Gust, 48, is the President and 
+                               owner of Garden Acres Ace Hardware and Hometown
+                               Ace Hardware & Rental, both in Longmont, CO. He
+(Picture of Daniel L. Gust)    previously worked from 1972 to 1979 for Winnebago
+                               Industries, Inc., as a manufacturing engineer
+                               and engineering manager.  From 1979 to 1984, he
+                               worked for Texas Instruments Consumer Products
+                               Group as a quality assurance manager, and from 
+                               1984 to 1990 for MiniScribe Corp. as director 
+                               of Asia-Pacific Sales, as well as Vice 
+                               President of Quality and Reliability.  Mr. Gust
+                               graduated from South Dakota State University  
+                               in 1972 with a bachelor of science degree in
+                               mechanical engineering.  He also earned a 
+                               masters of business administration degree, with 
+                               an emphasis on organizational behavior, in 1983
+                               from Texas Tech University. Mr. Gust has been 
+                               nominated for a three-year term to represent 
+                               dealers in Region 5 - Iowa, Nebraska, Kansas, 
+                               Missouri and Colorado, replacing Jim Williams, 
+                               who has served three full terms.
+
+
+
+Region 7, Third and 3 years    Lawrence R. Bowman, 51, is President of 
+                               Owenhouse Ace Hardware, Inc., Bozeman, MT., one
+                               of the oldest existing stores in Montana. The
+(Picture of Lawrence R.        store has operated continuously since 1879 and 
+ Bowman)                       became affiliated with Ace in 1964. Mr. Bowman 
+                               began working at the store part-time in 1971, 
+                               became a full-time employee two years later,
+                               and began buying into the store in 1975.  
+                               Initially elected to the Ace Board of Directors
+                               in 1991, he represents dealers in Region 7  -
+                               Montana, Idaho, Wyoming, Alaska, Utah, 
+                               Washington and Oregon.  He currently serves as 
+                               chairman of the nominating committee.  He is a
+                               graduate of Montana State University with  
+                               degrees in business and mechanical engineering 
+                               technology.  He also served for two years in 
+                               the U.S. Army.
+
+Region -, Third and 3 years    Howard J. Jung, 50, and his wife, Brug, 
+                               currently own and operate an 11,500 sq. ft. 
+                               Ace Hardware store in Raleigh, N.C.  The store 
+(Picture of Howard J. Jung)    achieved PHD status in 1996 and 1997.  Mr. Jung
+                               graduated from the University of Illinois in  
+                               1970 with a bachelor of science degree.  He
+                               worked for IBM in Springfield, IL., until 1975
+                               when he moved to Raleigh to open an Ace Hardware
+                               store.  Mr. Jung served three three-year terms
+                               on the Ace Board of Directors from 1987 to 1996,
+                               representing dealers in Region 2 - South 
+                               Carolina, North Carolina, West Virginia, 
+                               Maryland, Virginia, Delaware,District of 
+                               Columbia, Kentucky and Tennessee.  During that
+                               time, he worked on numerous Board committees,
+                               including Technology, Merchandising/Advertising,
+                               Market Development/Retail Support, International
+                               and Compensation, Audit and Executive. Mr. Jung
+                               has been nominated for a non-dealer director
+                               position for a term of three years.
+
+
+
+Region -. Third and 3 years    Mario R. Nathusius, 54, owns six Ace stores 
+                               ranging in size from 20,000 sq. ft. to 80,000 
+                               sq. ft. in Guatemala and is the 1997 
+(Picture of Mario R.           International Dealer of the Year Award winner.
+ Nathusius)                    He is one of the first international dealer 
+                               members, having affiliated with Ace in 1978. 
+                               Mr. Nathusius has worked as general manager of
+                               an investment firm and a textile manufacturer, 
+                               both in Guatemala.  From 1973 to 1976, he 
+                               served as Consul of Guatemala to Canada.  In
+                               1978, he established CEMACO Co. Mr. Nathusius 
+                               has served on the Board of the Guatemala
+                               Educational Foundation and was a founding  
+                               member and Vice President of the Stock 
+                               Exchange in Guatemala.  Currently, he serves 
+                               on a number of boards, including Grupo PRO,  
+                               Banco Empresarial, and Industrious Rio Dulce.
+                               He is fluent in Spanish, English and German. 
+                               Mr. Nathusius has been nominated for a dealer
+                               director at-large position for a term of three
+                               years.
+
+Region -, Third and 3 years    Roger E. Peterson, 60, has served as non-dealer 
+                               director for the Board of Directors since 1995,
+                               following his retirement as Ace's chief 
+(Picture of Roger E.           executive officer.  He currently is chairman
+ Peterson)                     of the Wholesale Success committee.  Mr. 
+                               Peterson held the position of chief executive
+                               officer of Ace from 1990 to May 1995, and 
+                               President from 1986 through December 1994.  
+                               Other positions he held at Ace include 
+                               Executive Vice President, Vice President of 
+                               Operations and National Distribution Manager.
+                               Prior to joining Ace, he was Executive Vice
+                               President and General Manager of C/P Products
+                               Corp., Elkhart, Ind.  He also held other 
+                               management positions with companies such as 
+                               Montgomery Ward, J.C. Penney and Ben Franklin.
+                               He  is  a graduate of the University of Miami 
+                               where he earned a degree in business 
+                               administration and was elected to the 
+                               University's Board of Trustees in 1995.
+
+
+The principal occupation of Mr. Daniel L. Gust, Mr. Lawerence R. Bowman,  
+Mr. Howard J. Jung and Mr. Mario R. Nathusius during the past 5 years or 
+more consisted of being an owner, officer or manager of a retail hardware  
+business.  The principal occupation of Mr. Roger E. Peterson during the past
+five  years consisted of being President and CEO and director of Ace Hardware
+Corporation.
+
+If any nominee named above shall refuse or be unable to serve as a director, 
+an event not now anticipated by the Board of Directors, it is intended that 
+the persons named in the proxy will vote for the election in his/her stead of
+such substitute nominee as shall be designated by the Board.
+
+
+                        OTHER MATTERS
+
+As of the date of the notice of the annual meeting of stockholders, the Board
+of Directors knows of no matters to be brought before the meeting other than
+those described above.  If, however, any additional matters are presented by
+others, the proxy holders have been vested by the Board of Directors with 
+discretionary powers to vote the shares represented by the proxies held by 
+them in accordance with their own best judgment with respect to all such 
+matters.
+
+                                        By Order of the Board of Directors
+
+                                                 DAVID W. LEAGUE
+
+April 3, 1998                                       Secretary
+
+
+
+
+
+
+                 ANNUAL STOCKHOLDERS MEETING
+
+                    MONDAY, JUNE 1, 1998
+
+
+The Annual Stockholders' Meeting of ACEHARDWARE CORPORATION will be held on 
+MONDAY, JUNE 1, 1998 in the ACE CORPORATE OFFICES, 2200 Kensington Court, 
+KRAUSMAN HALL - 3rd Floor, Oak Brook, Illinois.
+
+You are invited to join the Ace Staff for a Continental Breakfast at 8:30  
+A.M.  The business meeting will begin promptly at 9:00 A.M.
+
+IF YOU PLAN TO ATTEND, please return the Reservation Form so that proper
+arrangements can be made for the breakfast and meeting.
+
+Please Note:  Ace Hardware has adopted a "Tobacco Free Policy," which became 
+effective several years ago.  There is NO SMOKING PERMITTED ANYWHERE WITHIN 
+OUR CORPORATE OFFICE FACILITIES.
+Your efforts in maintaining a healthier, smoke-free work environment are 
+appreciated by the Company and employees.
+
+
+
+
+
+
+                 ANNUAL STOCKHOLDERS MEETING
+                    MONDAY, JUNE 1, 1998
+
+Please  reserve  _____ places for the following persons who plan to 
+attend the Continental Breakfast and Annual Meeting.
+
+______________________________
+______________________________
+
+
+______________________________
+______________________________
+
+Return form to:
+Ace Hardware Corporation
+2200 Kensington Court
+Oak Brook, Illinois  60523
+Attn: Chairman's Office
+
+
+
+
+
+ACE HARDWARE CORPORATION PROXY
+
+
+         This proxy is solicited on behalf of the Board of Directors
+           for the annual meeting of stockholders on June 1, 1998.
+
+As the holder, or the authorized agent of the holder, of 1 share of Class A 
+stock of Ace Hardware Corporation issued as of the record date of April 3, 
+1998 for the Ace store designated by the number shown on the reverse side 
+hereof, the undersigned does hereby constitute and appoint Jennifer C. 
+Anderson, Mark Jeronimus and D. William Hagan and each of them, with each to
+have full power of substitution, as Proxies to vote said share of stock at 
+the annual meeting of stockholders of Ace Hardware Corporation to be held at
+9:00 A.M. on Monday, June 1, 1998, and at any adjournment thereof, on all 
+matters coming before said meeting.  If no directions are given on the other 
+side of this card, the Proxies will vote for the election of all director 
+nominees recommended by the Board of Directors and in their discretion on any 
+other business that may properly come before the meeting.  The Proxies
+appointed herein may act by a majority of such of said Proxies as shall be 
+present at the meeting (or if only one is present then by that one).  Any 
+prior Proxies given by the undersigned with respect to said meeting are hereby
+revoked.
+
+             (Continued and to be signed on the reverse side)
+       
+                       (Continued from the other side)
+
+Election of Directors:
+
+__ FOR all nominees listed below   
+   (except as marked to the contrary below)
+
+__ WITHHOLD AUTHORITY to vote for all nominees listed below
+
+
+ (To withhold authority to vote for any individual nominee,
+ strike a line through the nominee's name in the list below.)
+
+ Daniel L. Gust, Lawrence R. Bowman, Mario R. Nathusius, 
+ Howard J. Jung, Roger E. Peterson
+
+
+Dated:________________
+                               (Legal corporate, partnership or business name)
+
+Ace Store #_________
+                               By
+                               (In the case of a corporate or partnership
+                                stockholder, an appropriate officer or 
+                                partner should sign and his title should be
+                                inserted.  If the stock is held in joint 
+                                tenancy, each holder should sign.)
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

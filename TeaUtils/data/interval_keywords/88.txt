@@ -1,0 +1,1885 @@
+<SEC-DOCUMENT>0001133884-01-500683.txt : 20011030
+<SEC-HEADER>0001133884-01-500683.hdr.sgml : 20011030
+ACCESSION NUMBER:		0001133884-01-500683
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20011206
+FILED AS OF DATE:		20011026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACETO CORP
+		CENTRAL INDEX KEY:			0000002034
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-CHEMICALS & ALLIED PRODUCTS [5160]
+		IRS NUMBER:				111720520
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04217
+		FILM NUMBER:		1767552
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5166276000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACETO CHEMICAL CO INC
+		DATE OF NAME CHANGE:	19851203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>gdef14a-26086.txt
+<TEXT>
+<PAGE>
+
+                                  SCHEDULE 14A
+                                 (RULE 14A-101)
+
+                     INFORMATION REQUIRED IN PROXY STATEMENT
+
+                            SCHEDULE 14A INFORMATION
+           PROXY STATEMENT PURSUANT TO SECTION 14(A) OF THE SECURITIES
+                      EXCHANGE ACT OF 1934 (AMENDMENT NO. )
+
+Filed by the Registrant     |X|
+
+Filed by a Party other than the Registrant     |_|
+
+Check the appropriate box:
+
+|_|      Preliminary Proxy Statement
+|X|      Definitive Proxy Statement
+|_|      Definitive Additional Materials
+|_|      Soliciting Material Pursuant to Rule 14a-11(c) or Rule 14a-12
+|_|      Confidential, for Use of the Commission
+         Only (as permitted by Rule 14a-6(e)(2))
+
+                                ACETO CORPORATION
+                (Name of Registrant as Specified In Its Charter)
+
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+Payment of Filing Fee (Check the appropriate box):
+
+|X|      No fee required.
+
+|_| Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+
+    (1)  Title of each class of securities to which transaction applies:
+         Common Stock, par value $.01 per share
+
+    (2)  Aggregate number of securities to which transaction applies:
+
+    (3)  Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+         filing fee is calculated and state how it was determined):
+
+    (4)  Proposed maximum aggregate value of transaction:
+
+    (5)  Total fee paid:
+
+                                       1
+<PAGE>
+
+         Fee paid previously with preliminary materials.
+
+         Check box if any part of the fee is offset as provided by Exchange Act
+         Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+         was paid previously. Identify the previous filing by registration
+         statement number, or the Form or Schedule and the date of its filing.
+
+    (1)  Amount Previously Paid:
+    (2)  Form, Schedule or Registration Statement No.:
+    (3)  Filing Party:
+    (4)  Date Filed:
+
+
+
+                                       2
+<PAGE>
+
+                                ACETO CORPORATION
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+                                 (516) 627-6000
+
+
+                                October 25, 2001
+
+
+Dear Fellow Shareholder:
+
+        You are cordially invited to attend the Annual Meeting of Shareholders
+of Aceto Corporation (the "Company"), to be held at 10:00 a.m., Eastern Standard
+Time, on December 6, 2001, at the Company's offices, One Hollow Lane, Suite 201,
+Lake Success, New York 11042.
+
+        At this meeting, you will be asked to consider and vote, in person or by
+proxy, on the following matters:
+
+     1. To elect seven directors to the Board of Directors to hold office until
+        the next Annual Meeting of Shareholders or until their successors are
+        duly elected and qualified;
+
+     2. To approve an amendment to the Company's 1998 Omnibus Equity Award Plan
+        to increase the number of awards authorized to be granted thereunder
+        from 500,000 to 1,000,000 and to permit the grant of incentive stock
+        options thereunder;
+
+     3. To ratify the appointment of KPMG LLP as the Company's independent
+        auditors for the current fiscal year; and
+
+     4. To transact such other business as may properly come before the meeting
+        or any adjournments thereof.
+
+        The official Notice of Meeting, Proxy Statement and form of proxy are
+included with this letter. The matters listed in the Notice of Meeting are
+described in detail in the accompanying Proxy Statement.
+
+        Regardless of your plans for attending in person, it is important that
+your shares be represented and voted at the Meeting. Accordingly, you are urged
+to complete, sign and mail the enclosed proxy card as soon as possible.
+
+                                                   Very truly yours,
+
+
+                                                   /s/ Leonard S. Schwartz
+                                                   -----------------------
+                                                   Leonard S. Schwartz
+                                                   Chairman of the Board
+
+                                        3
+<PAGE>
+
+
+
+                                ACETO CORPORATION
+                ONE HOLLOW LANELAKE SUCCESS, NEW YORK 11042-1215
+                                 (516) 627-6000
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+
+To the Shareholders of Aceto Corporation:
+
+          Notice is hereby given that the Annual Meeting of Shareholders of
+Aceto Corporation (the "Company") will be held on December 6, 2001, at 10:00
+a.m., Eastern Standard Time, at the Company's offices, One Hollow Lane, Suite
+201, Lake Success, New York 11042 for the following purposes:
+
+     1.   To elect seven directors to the Board of Directors to hold office
+          until the next Annual Meeting of Stockholders or until their
+          successors are duly elected and qualified;
+
+     2.   To approve an amendment to the Company's 1998 Omnibus Equity Award
+          Plan to increase the number of awards authorized to be granted
+          thereunder from 500,000 to 1,000,000 and to permit the grant of
+          incentive stock options thereunder;
+
+     3.   To ratify the appointment of KPMG LLP as the Company's independent
+          auditors for the current fiscal year; and
+
+     4.   To transact such other business as may properly come before the
+          meeting or any adjournments thereof.
+
+          The official Notice of Meeting, Proxy Statement and form of proxy are
+included with this letter. The matters listed in the Notice of Meeting are
+described in detail in the accompanying Proxy Statement.
+
+          The Board of Directors has fixed the close of business on
+September 14, 2001, as the record date for determination of those shareholders
+who will be entitled to notice of and to vote at the meeting and any adjournment
+thereof.
+
+          WHETHER OR NOT YOU EXPECT TO ATTEND, SHAREHOLDERS ARE REQUESTED TO
+SIGN, DATE AND RETURN THE ENCLOSED FORM OF PROXY IN THE ENVELOPE PROVIDED. No
+postage is required if mailed in the United States.
+
+                                            By Order of the Board of Directors
+
+
+                                            /s/ Douglas Roth
+                                            ----------------------------------
+                                            Douglas Roth
+                                            Secretary
+
+Lake Success, New York
+October 25, 2001
+
+
+                                       4
+<PAGE>
+
+                                ACETO CORPORATION
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+
+                               ------------------
+                                 PROXY STATEMENT
+                               ------------------
+
+                               GENERAL INFORMATION
+
+
+INFORMATION ABOUT PROXY SOLICITATION
+
+     This Proxy Statement is furnished to the holders of the common stock, $.01
+par value per share (the "Common Stock"), of Aceto Corporation, a New York
+corporation (the "Company") in connection with the solicitation of proxies on
+behalf of the Board of Directors of the Company for use at the Annual Meeting of
+Shareholders to be held on December 6, 2001 at 10:00 a.m. (Eastern Standard
+Time), at the Company's offices, One Hollow Lane, Suite 201, Lake Success, New
+York 11042, and at any adjournment thereof. The purposes of the meeting and the
+matters to be acted upon are set forth in the accompanying Notice of Annual
+Meeting of Shareholders. At present, the Board of Directors knows of no other
+business which will come before the meeting.
+
+     The Notice of Annual Meeting, Proxy Statement, and form of proxy will be
+mailed to Shareholders on or about October 25, 2001. The Company will bear the
+cost of its solicitation of proxies. The original solicitation of proxies by
+mail may be supplemented by personal interview, telephone, telegram, and telefax
+by the directors, officers and employees of the Company. Arrangements will also
+be made with brokerage houses and other custodians, nominees and fiduciaries for
+the forwarding of solicitation material to the beneficial owners of stock held
+by such persons, and the Company may reimburse such custodians, nominees and
+fiduciaries for reasonable out-of-pocket expenses incurred by them in connection
+therewith.
+
+REVOCABILITY AND VOTING OF PROXY
+
+     A form of proxy for use at the meeting and a return envelope for the proxy
+are enclosed. Shareholders may revoke their proxies at any time before being
+voted. Shares of Common Stock represented by executed and unrevoked proxies will
+be voted in accordance with the instructions specified thereon. If no
+instructions are given, the proxies will be voted FOR the election of
+management's seven nominees for election as directors; FOR the amendment to the
+Company's 1998 Omnibus Equity Award Plan; and FOR ratification of the
+appointment of KPMG LLP as the Company's independent auditors for the fiscal
+year ending June 30, 2002.
+
+                                       1
+<PAGE>
+
+
+
+RECORD DATE AND VOTING RIGHTS
+
+     Only stockholders of record at the close of business on September 14, 2001
+are entitled to notice of and to vote at the meeting or any adjournment thereof.
+On September 14, 2001, the Company had outstanding 6,514,507 shares of Common
+Stock, each of which is entitled to one vote upon matters presented at the
+meeting.
+
+     Votes cast at the meeting will be tabulated by persons appointed as
+inspectors of election of the meeting. The inspectors of election will treat
+shares of Common Stock represented by a properly signed and returned proxy as
+"present" at the meeting for purposes of determining a quorum, without regard to
+whether the proxy is marked as casting a vote or abstaining. Likewise, the
+inspectors of election will treat shares of Common Stock represented by "broker
+non-votes" as present for purposes of determining a quorum.
+
+     The nominees for election to the Board of Directors receiving the greatest
+number of affirmative votes cast by the holders of Common Stock, up to the
+number of directors to be elected, will be elected as directors. Accordingly,
+abstentions or broker non-votes as to the election of directors will have no
+effect on the election of directors.
+
+     The affirmative vote of the holders of a majority of the shares of Common
+Stock represented at the meeting in person or by proxy and entitled to vote at
+the meeting will be required to approve the amendment to the Company's 1998
+Omnibus Equity Award Plan, and to ratify the selection of independent public
+auditors. In determining whether such proposals have received the requisite
+number of affirmative votes, abstentions and broker non-votes will have the same
+effect as votes against the proposal.
+
+     A list of shareholders entitled to vote at the Annual Meeting will be
+available at the Company's office, One Hollow Lane, Lake Success, New York
+11042, during business hours, for a period of 10 days prior to the Annual
+Meeting for examination by any shareholder. Such list will also be available at
+the Annual Meeting.
+
+QUORUM
+
+     The presence, either in person or by proxy, of the holders of a majority of
+the shares of common stock outstanding on September 14, 2001 is necessary to
+constitute a quorum at the Annual Meeting.
+
+
+                                       2
+<PAGE>
+
+
+                    ACTIONS TO BE TAKEN AT THE ANNUAL MEETING
+
+                                  PROPOSAL ONE
+
+                              ELECTION OF DIRECTORS
+NOMINEES
+
+     The Company's Board of Directors consists of seven Directors, each to serve
+until the next Annual Meeting of Shareholders, or until their successors are
+duly elected and qualified. All of the Company's Directors are standing for
+re-election. It is intended that the accompanying form of Proxy will be voted
+for the election of the nominees named in the Proxy Statement.
+
+     The following table sets forth information concerning the nominees.
+
+<TABLE>
+<CAPTION>
+
+               NAME               AGE                POSITION                             DIRECTOR SINCE
+          --------------        ------        ------------------------------          ----------------------
+<S>                               <C>         <C>                                              <C>
+Leonard S. Schwartz (1)           55          Chairman, President and CEO                      1991
+Samuel I. Hendler (1)             79          Director                                         1990
+Robert A. Wiesen (1)(2)           50          Director                                         1994
+Stanley H. Fischer (1)            58          Director                                         2000
+Albert L. Eilender (2)            58          Director                                         2000
+John H. Schlesinger (2)           53          Director                                         2000
+Hans-Peter Schaer                 70          Director                                         2001
+</TABLE>
+
+--------------------------------------------------------------------------------
+(1)      Member of the Executive Compensation Committee
+(2)      Member of the Audit Committee
+
+BIOGRAPHICAL INFORMATION ABOUT NOMINEES
+
+     LEONARD S. SCHWARTZ. Mr. Schwartz has served as Chairman and Chief
+Executive Officer of the Company since July 1, 1997 and President since July 1,
+1996. After joining the Company in 1969, Mr. Schwartz, a chemist by training,
+developed the Company's industrial chemicals business and had a key role in the
+management of the Company's subsidiaries.
+
+     SAMUEL I. HENDLER. Mr. Hendler has been engaged in the private practice of
+law in New York since 1949 and has been retained as counsel to the Company for
+more than 50 years. Mr. Hendler is Secretary, a director and counsel to
+Pneumercator Company, Inc., a privately held company based in Farmingdale, New
+York. Mr. Hendler is a member of the Corporation Law Committee and the
+Securities Banking Law Committee of the Nassau County Bar Association.
+
+     ROBERT A. WIESEN. Mr. Wiesen is an attorney and partner in the law firm of
+Clifton Budd & DeMaria. He joined this law firm in 1979 subsequent to his
+employment with the National Labor Relations Board. He has handled matters for
+the Company relating to labor and employment law for over ten years and he has
+written and lectured on labor law.
+
+     STANLEY H. FISCHER. Mr. Fischer is President of Fischer and Burstein P.C.,
+a law firm. Mr. Fischer received a J.D. degree from New York University School
+of Law. He has been a practicing attorney for more
+
+
+                                       3
+<PAGE>
+
+than 30 years and has advised and represented corporate entities in matters
+relative to internal matters, mergers, acquisitions, real estate and litigation.
+He is a member of the American Bar Association, the New York Bar Association,
+the Association of the Bar of the City of New York, the Association of Trial
+Lawyers of America, New York State Trial Lawyers and the Nassau County Bar. He
+is a member of various professional committees including the International Law
+Section of the New York State Bar.
+
+     ALBERT L. EILENDER. Mr. Eilender is the sole owner of Waterways Advisory
+Services, a firm specializing in advising companies on developing and evaluating
+options relative to mergers, acquisitions and strategic partnerships in the
+Chemical Industry. He has more than 30 years of diverse Senior Level experience
+in the Specialty Chemicals and Pharmaceutical industry and has had direct P&L
+responsibility for running businesses up to $300 million, with significant
+experience in mergers, acquisitions and joint ventures, both domestically and
+internationally. He has also served on the boards of numerous industry trade
+associations during his career.
+
+     JOHN H. SCHLESINGER. Mr. Schlesinger is Managing Director of Soundview
+Technology Group Inc., an investment banking concern. He has been in this
+position for the past year. Prior to that, Mr. Schlesinger was Managing Director
+of Young and Partners, LLC an investment bank specializing in mergers and
+acquisitions in the chemical and pharmaceutical industries. He is a corporate
+finance executive with more than 15 years of experience specializing in chemical
+mergers & acquisitions. He holds an MBA in Finance from the Wharton School. He
+was with Salomon Brothers for 14 years ending up as the Managing Director and
+worldwide head of Chemical Industry Mergers & Acquisitions and has extensive
+international experience in South America and Asia.
+
+     HANS-PETER SCHAER. Dr. Schaer is Chairman of Schweizerhall Holding AG., a
+public company based in Basel, Switzerland. Dr. Schaer received a Ph.D from the
+University of Basel and has been employed in the pharmaceutical industry for
+more than 40 years, including 20 years as a member of the Executive Committee of
+Ciba-Geigy Ltd. in Basel. For the past 10 years, he has been Chairman of the
+Board of Schweizerhall Holding Ltd. in Basel. Dr. Schaer is also a member of the
+Board of Directors of the Swiss National Insurance Company. Dr. Schaer also
+serves on the Board of the Swiss Institute for Art Research and is a Vice
+President of the UBS Cultural Foundation.
+
+INFORMATION ABOUT THE BOARD OF DIRECTORS, COMMITTEES OF THE BOARD AND SENIOR
+EXECUTIVES.
+
+     During the Company's fiscal year ended June 30, 2001, the Board of
+Directors held five meetings. Each Director attended more than seventy-five
+percent (75%) of the Board meetings and meetings of the Board committees on
+which he served. The Company does not have a standing nominating committee, the
+functions of which are performed by the entire Board.
+
+     During the Company's fiscal year ended June 30, 2001, the Executive
+Compensation Committee of the Board met twice. The Executive Compensation
+Committee has the power to establish base salaries and annual incentives, and to
+recommend grants of stock options and other long-term incentives.
+
+     During the Company's fiscal year ended June 30, 2001, the Audit Committee
+of the Board met five times. The Audit Committee has the responsibility of
+recommending the engagement of independent auditors and reviewing and
+considering actions of management in matters relating to audit functions. The
+Committee reviews, with independent auditors, the scope and results of its audit
+engagement, the system of internal
+
+                                       4
+<PAGE>
+
+controls and procedures and reviews the effectiveness of procedures intended to
+prevent violations of laws. The Board of Directors has adopted a written charter
+for the Audit Committee. The Audit Committee has recommended the selection of
+KPMG LLP as independent auditors for the year ended June 30, 2002.
+
+     No director or senior executive of the Company is related to any other
+director or senior executive. None of the Company's officers or directors hold
+any directorships in any other public company except Dr. Schaer, who is Chairman
+of Schweizerhall Holding AG. The Company's Executive Compensation committee is
+comprised of Messrs. Schwartz (Chairman), Fischer, Hendler and Wiesen. The
+Company's Audit Committee is comprised of Messrs. Schlesinger (Chairman),
+Eilender and Wiesen.
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+     Pursuant to Section 16 of the Exchange Act, the Company's Directors and
+executive officers and beneficial owners of more than 10% of the Company's
+Common Stock are required to file certain reports, within specified time
+periods, indicating their holdings of and transactions in the Common Stock and
+derivative securities. Based solely on a review of such reports provided to the
+Company and written representations from such persons regarding the necessity to
+file such reports, the Company is not aware of any failures to file reports or
+report transactions in a timely manner during the Company's fiscal year ended
+June 30, 2001.
+
+
+
+
+
+
+
+                                       5
+<PAGE>
+
+
+EXECUTIVE COMPENSATION
+
+     The following table sets forth the annual compensation paid or accrued for
+the three fiscal years ended June 30, 2001, 2000 and 1999 to the Chief Executive
+Officer and the four other most highly compensated senior executives of the
+Company as of June 30, 2001 - the end of the last completed fiscal year.
+
+<TABLE>
+<CAPTION>
+                                                         SUMMARY COMPENSATION TABLE
+
+                                      ANNUAL COMPENSATION                                        LONG-TERM COMPENSATION
+                           --------------------------------------------             ------------------------------------------------
+
+
+   NAME AND PRINCIPAL                                                                RESTRICTED        OPTIONS/       ALL OTHER
+        POSITION             YEAR          SALARY             BONUS                  STOCK AWARDS       SARS        COMPENSATION (1)
+   -----------------       --------     ------------        -----------             -----------------------------  -----------------
+<S>                          <C>          <C>                <C>                       <C>           <C>               <C>
+Leonard S. Schwartz,         2001         $340,704           $495,000                  $ 90,000            -            $64,865
+President, Chairman &        2000          339,715            519,246                    65,754            -             63,515
+CEO                          1999          314,711            432,000                   108,000            -             58,223
+
+Donald Horowitz,             2001          244,608            144,000                         -        2,500             38,010
+Former Secretary,            2000          226,477            137,750                     6,250            -             35,804
+Treasurer & CFO (2)          1999          209,808            116,312                     8,688       15,000             32,228
+
+Richard Amitrano,            2001          213,946            120,466                    18,134        2,500             36,207
+Former Senior Vice           2000          213,325            149,160                         -            -             35,529
+President (3)                1999          198,624            111,822                     1,566       15,000             31,001
+
+Vincent Miata,               2001          172,908            170,000                         -        2,500             35,725
+Vice President               2000          172,407            170,000                         -            -             34,400
+                             1999          157,429            130,712                         -       12,000             28,947
+
+Frank DeBenedittis,          2001          186,520            160,613                     9,387        2,500             36,406
+Vice President               2000          184,896            147,334                    11,250            -             34,595
+                             1999          169,452            103,524                    20,060       12,000             29,120
+</TABLE>
+---------------
+(1)  Represents payments on behalf of each person to the Company's qualified and
+     non-qualified retirement plans.
+(2)  Mr. Horowitz retired from the Company in all capacities effective June 30,
+     2001.
+(3)  Mr. Amitrano retired from the Company in all capacities effective August 31
+     2001.
+
+
+
+
+
+                                       6
+<PAGE>
+
+
+                     STOCK OPTION GRANTS IN LAST FISCAL YEAR
+
+         The following table contains information regarding the grant of stock
+options in the fiscal year ended June 30, 2001 to the named executives.
+
+<TABLE>
+<CAPTION>
+                               NUMBER OF           % OF TOTAL                                          POTENTIAL REALIZABLE VALUE AT
+                               SECURITIES           OPTIONS                                            ASSUMED ANNUAL RATES OF STOCK
+                               UNDERLYING          GRANTED TO         EXERCISE OR                      PRICE APPRECIATION FOR OPTION
+                            OPTIONS GRANTED        EMPLOYEES          BASE PRICE                                   TERM (1)
+          NAME               (# OF SHARES)       IN FISCAL YEAR         ($/SH)        EXPIRATION DATE  -----------------------------
+       -----------         ------------------   ----------------   -----------------  ----------------        5%             10%
+                                                                                                            ------          -----
+<S>                        <C>                  <C>                <C>                <C>              <C>              <C>
+Leonard S. Schwartz                0                   -                   -                 -                -                -
+Donald Horowitz                 2,500(2)               4%                $9.75           10/25/10          $15,329          $38,847
+Richard Amitrano                2,500(2)               4%                $9.75           10/25/10          $15,329          $38,847
+Vincent Miata                   2,500(2)               4%                $9.75           10/25/10          $15,329          $38,847
+Frank DeBenedittis              2,500(2)               4%                $9.75           10/25/10          $15,329          $38,847
+--------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1)  The dollar amounts illustrate value that might be realized upon exercise of
+     the options immediately prior to the expiration of their term, covering the
+     specific compounded rates of appreciation set by the Securities and
+     Exchange Commission (5% and 10%) and are not, therefore, intended to be
+     forecasts by Aceto of possible future appreciation of the stock price of
+     Aceto.
+(2)  On October 25, 2000, the Company granted non-qualified stock options to
+     Messrs. Horowitz, Amitrano, Miata and DeBenedittis to purchase common stock
+     of the Company under the Company's 1998 Omnibus Equity Award Plan. All of
+     these options vest one year from the date of grant.
+
+
+
+
+
+
+                                       7
+<PAGE>
+
+
+                 AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR
+                        AND FISCAL YEAR END OPTION VALUES
+
+         The following table contains information regarding the exercise of
+stock options by the named executives in the fiscal year ended June 30, 2001 and
+the value of unexercised options held by such persons on June 30, 2001.
+
+<TABLE>
+<CAPTION>
+                                                               NUMBER OF SECURITIES               VALUE OF UNEXERCISED IN-
+                                                              UNDERLYING  UNEXERCISED             THE-MONEY OPTIONS AT FY
+                                                               OPTIONS AT FY-END (#)                        -END (1)
+                            SHARES                      -----------------------------------     ------------------------------
+                         ACQUIRED ON                                EXERCISABLE/                        EXERCISABLE/
+         NAME              EXERCISE     VALUE REALIZED             UNEXERCISABLE                       UNEXERCISABLE
+ --------------------   --------------  --------------------------------------------------------------------------------------
+<S>                         <C>             <C>             <C>          <C>                     <C>            <C>
+Leonard S. Schwartz         7,500           $8,681          142,500       150,000                 $181,950      $153,000
+Donald Horowitz             4,500            4,927            -0-            -0-                    -0-           -0-
+Richard Amitrano            4,500            4,646           28,000         7,500                   40,320           675
+Vincent Miata               3,000            3,285           20,000         6,500                   26,880           675
+Frank DeBenedittis          3,000            3,285           20,000         6,500                   26,800           675
+------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+(1)  The dollar value of each exercisable and unexercisable option was
+     calculated by multiplying the number of shares of common stock underlying
+     the option by the difference between the exercise price of the option and
+     the closing price of the Company's common stock on June 29, 2001 ($10.02).
+
+COMPENSATION OF DIRECTORS
+
+         Directors of the Company who are not also employees receive $15,000 per
+year for serving on the Board of Directors plus $500 for each committee meeting
+attended. Directors of the Company who are also employees are not compensated
+for their services as Directors.
+
+         On October 25, 2000, the Company granted each of Messrs. Hendler,
+Wiesen, and Fischer 1,000 non-qualified stock options pursuant to the 1998
+Omnibus Equity Award Plan. Each option vests one year from the date of grant, is
+exercisable at $9.75 and expires 10 years from the date of grant.
+
+         In recognition of their election as directors of the Company, on
+December 7, 2000, Messrs. Eilender and Schlesinger were also awarded 1,000
+non-qualified stock options each. These options vest one year from the date of
+grant, are exercisable at $9.125 and expire 10 years from the date of grant.
+
+EMPLOYMENT AGREEMENTS
+
+The Company has no employment agreements with any of its senior executives.
+
+LIMITS ON LIABILITY AND INDEMNIFICATION
+
+         The Company's Articles of Incorporation eliminate the personal
+liability of its directors to the Company and its shareholders for monetary
+damages for breach of the directors' fiduciary duties in certain circumstances.
+The Articles of Incorporation further provide that the Company will indemnify
+its officers and directors to the fullest extent permitted by law. The Company
+believes that such indemnification covers at least negligence and gross
+negligence on the part of the indemnified parties. Insofar as indemnification
+for liabilities under the Securities Act may be permitted to directors,
+officers, and controlling persons of the Company pursuant to the
+
+                                       8
+<PAGE>
+
+foregoing provisions or otherwise, the Company has been advised that in the
+opinion of the Securities and Exchange Commission such indemnification is
+against public policy as expressed in the Securities Act and is, therefore,
+unenforceable.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION.
+
+         Members of the Executive Compensation Committee, with the exception of
+Leonard S. Schwartz, have never served as officers or employees of the Company
+or any of our subsidiaries. During the last fiscal year, none of our senior
+executives served on the Board of Directors or Compensation Committee of any
+other entity whose officers served either on our Board of Directors or
+Compensation Committee.
+
+                 REPORT OF THE EXECUTIVE COMPENSATION COMMITTEE
+
+         The Executive Committee of the Board of Directors, whose members are
+Leonard S. Schwartz (Chairman), Stanley H. Fischer, Samuel I. Hendler and Robert
+A. Wiesen, functions as the Executive Compensation Committee, and makes
+recommendations to the Board with respect to the remuneration of the Company's
+executive officers.
+
+         The Company's compensation policy has been designed to enable the
+Company to attract, retain and motivate executives whose enthusiasm and
+abilities will contribute to the growth of its business and result in maximum
+profitability to the Company and its stockholders, by providing salaries and
+benefits competitive with those offered by other companies in the chemical
+industry. The executive compensation program includes base salary, annual
+incentive compensation (cash bonuses), and long term incentive compensation
+(awards under the Company's 1998 Omnibus Equity Award Plan).
+
+         Base salaries are set at levels competitive with the chemical industry.
+Because of the way the Company operates its business, the contributions of it
+executives significantly affect corporate profitability. Bonuses (which can
+exceed base salary) are paid to reflect the extent of such contributions. The
+Chief Executive Officer (CEO) also is the Chairman of the Board, President and
+Chief Operating Officer of the Company. The bonuses paid to the CEO and to the
+Secretary/Treasurer, who is the Chief Financial Officer (CFO), reflect the
+Company's overall performance (excluding extraordinary events).
+
+         The three highest paid executives, other than the CEO and CFO, are each
+responsible for the performance of one of the Company's principal profit
+centers. Internally generated performance records are kept on a monthly and
+yearly basis for these profit centers, and each center's profitability is
+compared in the current year to the previous year. Other factors considered in
+determining the bonuses of individual executives are the individuals own
+performance and the overall performance of the Company. The Executive
+Compensation Committee determines each bonus primarily based on this data, also
+taking into account the long term contributions of each individual.
+
+         The CEO's compensation was determined on the basis of the same factors
+utilized to compensate other executives, taking into consideration total
+compensation comparisons of top executives of corporations considered to be in
+the Company's peer group.
+
+
+         Submitted October 15, 2001 by members of the Executive Compensation
+Committee
+
+                                       9
+<PAGE>
+
+Leonard S. Schwartz, Chairman
+Stanley H. Fischer
+Samuel I. Hendler
+Robert A. Wiesen
+
+
+                          REPORT OF THE AUDIT COMMITTEE
+
+         We operate in accordance with a written charter adopted by the Board of
+Directors, a copy of which was disseminated to stockholders as Appendix 1 to the
+Proxy Statement for the December 7, 2000, annual meeting of stockholders. We met
+with KPMG LLP ("KPMG"), the independent auditors and with management, to review
+the scope and results of the audit engagement, the system of internal controls
+and procedures, and the effectiveness of procedures intended to prevent
+violations of laws and regulations. We reviewed all services performed by KPMG
+for the Company in the fiscal year ended June 30, 2001, within and outside the
+scope of the quarterly reviews and annual auditing functions.
+
+         We received the following information concerning the fees of the
+independent auditors for the fiscal year ended June 30, 2001, and considered
+whether the provision of these services is compatible with maintaining the
+independence of the independent auditors:
+
+<TABLE>
+<CAPTION>
+<S>                                                                                <C>
+         (a)  AUDIT FEES (including review of 10-Qs) . . . . . . . . . . . . . . . $251,000;
+
+         (b)  FINANCIAL INFORMATION DESIGN AND IMPLEMENTATION FEES . . . . . . . . $    -0-;
+
+         (c)  ALL OTHER FEES . . . . . . . . . . . . . . . . . . . . . . . . . . . $860,000
+              for advisory services related principally to tax consultation
+              services, business consulting services and transaction support
+              services.
+</TABLE>
+
+         We reviewed and discussed the audited financial statements for the
+fiscal year ending June 30, 2001, with management, and discussed with KPMG the
+matters required to be discussed by SAS 61(Codification of Statements on
+Auditing Standards, AU Sec. 380) as amended. We also received the written
+disclosures and letter from KPMG required by Independence Standards Board
+Standard No. 1, which letter states that they are independent accountants with
+respect to the Company. We discussed with KPMG their independence. Based on our
+review and discussions, we recommended to the Board of Directors that the
+audited financial statements be included in the Company's Annual Report on Form
+10-K for the fiscal year ending June 30, 2001, for filing with the Securities
+and Exchange Commission.
+
+         We have reviewed our charter and determined that it continues to state
+appropriate guiding principles for us.
+
+         Our committee is composed solely of members who are independent and
+have the expertise to serve on the Audit Committee pursuant to all relevant
+criteria including Rule 4200(a)(15) of the NASD listing standards.
+
+                                       10
+<PAGE>
+
+          SUBMITTED OCTOBER 15, 2001 BY MEMBERS OF THE Audit Committee
+
+
+John H. Schlesinger, Chairman
+Albert L. Eilender
+Robert A. Wiesen
+
+
+
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The following table sets forth, as of September 14, 2001, the number
+and percentage of shares of outstanding Common Stock owned by each named senior
+executive, and director and each person that to the best of the Company's
+knowledge owns more than 5% of the Company's issued and outstanding Common
+Stock, and all officers and directors as a group:
+
+<TABLE>
+<CAPTION>
+
+     NAME AND ADDRESS OF           NUMBER OF SHARES         EXERCISABLE STOCK          TOTAL BENEFICIAL              PERCENT (4)
+     BENEFICIAL OWNER (1)         BENEFICIALLY OWNED           OPTIONS (3)                 OWNERSHIP
+                                   (EXCLUDING STOCK
+                                     OPTIONS) (2)
+-----------------------------   -----------------------  ------------------------  --------------------------     ------------------
+<S>                                 <C>                      <C>                        <C>                         <C>
+Leonard S. Schwartz                     47,088                   142,500                    189,588                     2.6%
+
+Donald Horowitz                          1,694                      --                        1,694                        *
+
+Richard Amitrano                         4,341                    28,000                     32,341                        *
+
+Vincent Miata                           12,704                    22,500                     35,204                        *
+
+Frank DeBenedittis                       5,571                    22,500                     28,071                        *
+
+Samuel I. Hendler                        5,622                     4,000                      9,622                        *
+
+Robert A. Wiesen                           301                     4,000                      4,301                        *
+
+Stanley H. Fischer                        --                       2,000                      2,000                        *
+
+Albert L. Eilender                       2,000                     1,000                      3,000                        *
+
+John H. Schlesinger                       --                       1,000                      1,000                        *
+
+Hans-Peter Schaer                     600,000(5)                   --                       600,000                     9.2%
+
+Private Capital Management            768,825(6)                                            768,825                    11.8%
+3003 Tamiami Trail
+North Naples, FL  34103
+</TABLE>
+
+                                       11
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+<S>                                   <C>                                                   <C>                         <C>
+T. Rowe Price Associates, Inc.        682,900(7)                                            682,900                     10.5%
+100 East Pratt Street
+Baltimore, MD  21202
+
+
+Schweizerhall Holding AG              600,000(5)                                            600,000                     9.2%
+229-245/P.O Box CH-4013
+Basel, Switzerland
+
+Eubel Brady & Suttman Asset           543,734(8)                                            543,734                     8.4%
+Management, Inc.
+Mark E. Brady
+Robert J. Suttman
+Ronald L. Eubel
+William Hazel
+Bernie Holtgrieve
+777 Washington
+Village Drive
+Dayton, OH 45459
+
+Dimensional Fund Advisors Inc.        428,208(9)                                            428,208                     6.6%
+1299 Ocean Avenue
+11th Floor
+Santa Monica, CA  90401
+
+All officers and directors as          679,321                   227,500                    906,821                     13.5%
+a group (11 persons)
+
+-------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+* Less than 1%.
+(1)      Unless otherwise indicated, the business address of each person is in
+         care of the Company, One Hollow Lane, Lake Success, New York 11042.
+(2)      Unless otherwise indicated, each person has sole voting and dispositive
+         power over the shares shown as owned by him.
+(3)      For purposes of the table, a person is deemed to have "beneficial
+         ownership" of any shares which such person has the right to acquire
+         within 60 days after the record date. Any share which such person has
+         the right to acquire within 60 days after such date is deemed to be
+         outstanding for the purpose of computing the percentage ownership of
+         such person, but it is not deemed to be outstanding for the purpose of
+         computing the percentage ownership of any other person.
+(4)      Based on 6,514,507 shares issued and outstanding as of the record date.
+(5)      Includes 400,000 shares issued to Schweizerhall Holding AG, a
+         corporation organized under the laws of Switzerland, in connection with
+         the Company's March 26, 2001 acquisition of the Schweizerhall Pharma
+         distribution division of Schweizerhall Holding AG, and 200,000 shares
+         issued to Schweizerhall, Inc., a New Jersey corporation and wholly
+         owned subsidiary of Schweizerhall Holding AG, in connection with the
+         Company's March 26, 2001 acquisition of certain assets relating to the
+         pharmaceutical ingredients business of Schweizerhall, Inc.
+(6)      Based on information provided by Private Capital Management, a
+         registered investment adviser which furnishes investment advice to
+         investment companies and individual and institutional clients, in its
+         Schedule 13F filed on June 30, 2001. Private Capital Management has
+         shared voting and dispositive power with respect to all these shares.
+
+                                       12
+<PAGE>
+
+(7)      Based on information provided by T. Rowe Price Associates, Inc., a
+         registered investment adviser which furnishes investment advice to
+         investment companies and individual and institutional clients. T. Rowe
+         Price Associates has the sole dispositive power for the entire holding
+         of 682,900 shares and sole voting power for 107,900 shares. The total
+         shares held of 682,900 shares are owned by various individual and
+         institutional investors, including the T. Rowe Price Small-Cap Value
+         Fund, Inc. (which owns 575,000 shares representing 8.8% of the shares
+         outstanding), which T. Rowe Price Associates (Price Associates) serves
+         as investment advisor with power to direct investments and/or power to
+         vote the securities. For purposes of the reporting requirements of the
+         Securities Exchange Act of 1934, Price Associates is deemed to be a
+         beneficial owner of such securities; however Price Associates expressly
+         disclaims that it is, in fact, the beneficial owner of such securities.
+(8)      Based on information provided by Eubel Brady & Suttman Asset
+         Management, Inc., a registered investment adviser, as of September 30,
+         2001.
+(9)      Based on information provided by Dimensional Fund Advisors Inc., a
+         registered investment adviser which furnishes investment advice to
+         investment companies and serves as an investment manager to certain
+         other commingled group trusts and separate accounts, in its Schedule
+         13F filed as of June 30, 2001. Dimensional Fund Advisers Inc. has sole
+         voting and  dispositive power with respect to all these shares.
+         Dimensional Fund Advisers Inc. has disclaimed beneficial ownership of
+         these shares on the basis that it is merely an agent for its respective
+         clients.
+
+
+                                PERFORMANCE GRAPH
+
+         The following graph compares on a cumulative basis the yearly
+percentage change, assuming dividend reinvestment, over the last five fiscal
+years in (a) the total shareholder return on our common stock with (b) the total
+return on the Standard & Poors 500 Index and (c) the total return on a published
+line-of-business index - the Dow Jones Chemicals Index.
+
+         The following graph assumes that $100 had been invested in each of the
+Company, the Standard & Poors 500 Index and the Peer Group on June 30, 1996.
+
+<TABLE>
+<CAPTION>
+
+                   5-YEAR CUMULATIVE TOTAL RETURN COMPARISION
+                            AMONG ACETO CORPORATION,
+               THE S&P 500 INDEX AND THE DOW JONES CHEMICALS INDEX
+
+                              ACETO CORPORATION        S&P INDEX        DOW JONES CHEMICALS
+                              -----------------        ---------        -------------------
+<S>                                <C>                  <C>                   <C>
+          June 30, 1996              100                  100                   100
+          June 30, 1997              95                   135                   129
+          June 30, 1998              162                  175                   142
+          June 30, 1999              117                  215                  1146
+          June 30, 2000              115                  231                   109
+          June 30, 2001              108                  197                   124
+</TABLE>
+
+
+                                       13
+<PAGE>
+
+
+
+                     ASSUMES $100 INVESTED ON JUNE 30, 1996
+                          ASSUMES DIVIDED REINVESTMENT
+                        FISCAL YEAR ENDING JUNE 30, 2001
+
+     The preceding sections entitled "Executive Compensation" and "Performance
+Graph" do not constitute soliciting material for purposes of SEC Rule 14a-9,
+will not be deemed to have been filed with the SEC for purposes of Section 18 of
+the Securities Exchange Act of 1934, and are not to be incorporated by reference
+into any other filing that we make with the SEC.
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     At June 30, 2001, the Company incurred a $994,000 charge in connection with
+the separation agreements relating to the retirements of both Donald Horowitz,
+the Chief Financial Officer of the Company, and Richard Amitrano, then Senior
+Vice President and a Director.
+
+     Stanley H. Fischer, a director of the Company, is President of Fischer and
+Burstein, P.C., a law firm which serves as counsel to the Company on various
+corporate matters. During fiscal 2001, the Company paid $635,000 to Fischer and
+Burstein, P.C. for legal services rendered to the Company.
+
+
+THE BOARD RECOMMENDS THAT YOU VOTE FOR THE ELECTION OF EACH OF THE SEVEN
+DIRECTORS.
+
+
+                                       14
+<PAGE>
+
+
+                                  PROPOSAL TWO
+
+
+
+APPROVE AN AMENDMENT TO THE COMPANY'S 1998 OMNIBUS EQUITY AWARD PLAN TO INCREASE
+THE NUMBER OF AWARDS AUTHORIZED TO BE GRANTED THEREUNDER FROM 500,000 TO
+1,000,000 AND TO PERMIT THE GRANT OF INCENTIVE STOCK OPTIONS THEREUNDER.
+
+         We are asking for your approval of an amendment to SECTION 4(a) of the
+Aceto Corporation 1998 Omnibus Equity Award Plan (the "Plan") to provide that
+the number of shares of our common stock with respect to which options,
+restricted stock awards, or other stock based awards ("Awards") may be granted
+under the Plan be increased from 500,000 to 1,000,000 and that SECTION 6 be
+amended to permit the issuance of incentive stock options. The Board adopted
+this amendment to the Plan, subject to your approval at the Annual Meeting.
+
+         The Company's shareholders approved the Plan on December 10, 1998,
+under which a total of 500,000 shares of common stock (subject to adjustment for
+changes in our capitalization) were authorized for issuance. Of the 500,000
+shares authorized only 180,000 shares are presently available for grants.
+
+
+SUMMARY OF THE PLAN, AS AMENDED
+
+         We summarize below certain key provisions of the Plan, as amended.
+Because it is a summary, it may not contain all the information that is
+important to you. Before you decide how to vote, you should review the full text
+of the Plan, as amended, which we have included as Exhibit A.
+
+          DESCRIPTION OF THE 1998 OMNIBUS EQUITY AWARD PLAN, AS AMENDED
+
+PURPOSES AND ELIGIBILITY
+
+         The purposes of the Omnibus Equity Award Plan are to attract, retain
+and motivate eligible participants to compensate them for their contributions to
+our growth and profits and to encourage them to own Aceto common stock. The
+Omnibus Equity Award Plan authorizes the issuance of certain awards to such
+individuals. Eligible participants are employees (including officers and
+directors of the company or its affiliates), non-employee directors, advisors,
+consultants or independent contractors to the Company or its affiliates.
+
+SHARES AVAILABLE, OVERALL LIMIT
+
+         A total of 1,000,000 shares of common stock will be authorized for
+issuance under the Plan, as amended. (Prior to the amendment a total of 500,000
+shares was authorized). We will adjust the number of shares available for
+issuance under the Plan if there are changes in our capitalization, including
+(but not limited to) stock dividends, stock splits, a merger, reorganization or
+similar transactions. We may issue new shares or treasury shares or both.
+Treasury shares are shares that we previously issued and subsequently
+repurchased and are holding in our treasury.
+
+                                       15
+<PAGE>
+
+ADMINISTRATION
+
+         The Plan is administered by the Board. The Executive Committee of the
+Board ("Committee") makes recommendations to the Board as to which participants
+from among the eligible participants shall receive awards and determines the
+form, terms and conditions of awards. The Board makes all awards under the Plan,
+and has sole discretion with regard to any award.
+
+AWARDS GENERALLY
+
+         The Plan authorizes the following awards based upon Aceto common stock:
+stock options; restricted stock; or other stock-based awards the Committee
+determines to be consistent with the purposes of the Plan and the interests of
+Aceto. The Board determines vesting, exercisability, payment and other
+restrictions that apply to an award. Vesting means the individual has the right
+to the award.
+
+CHANGE IN CONTROL
+
+         A change in control of Aceto (generally a merger or consolidation into
+another company or a "person" becoming beneficial owner of 20% or more of
+Aceto's voting stock without concurrence of the Board) will cause all
+outstanding awards to vest, become immediately exercisable, and have all
+restrictions lifted. (The change in control provision could be viewed as having
+an anti-takeover consequence, in that it could have a deterrent effect against a
+hostile takeover).
+
+STOCK OPTIONS
+
+         All stock options issued will be either incentive stock options or
+non-qualified stock options. The exercise price per share shall be not less than
+the fair market value of Aceto common stock on the date of grant and may not be
+exercisable less than six months from the date it is granted. The exercise price
+of a stock option may be paid in cash or previously owned stock or both.
+
+          Under the Plan, options to purchase the Company's Common Stock may
+take the form of incentive stock options ("ISOs") under Section 422 of the
+Internal Revenue Code of 1986, as amended (the "Code") or non-qualified stock
+options ("NQSOs"). As required by Section 422 of the Code, the aggregate fair
+market value (as defined in the Plan) of shares of Common Stock (determined as
+of the date of grant of the ISO) with respect to which ISOs granted to an
+employee may not exceed $100,000 in any calendar year. The foregoing limitation
+does not apply to NQSOs.
+
+         Initially, each option will be exercisable over a period, determined by
+the Board of Directors in its discretion, of up to ten years from the date of
+grant. Options may be exercisable during the option period at such time, in such
+amounts, and in accordance with such terms and conditions and subject to such
+restrictions as are determined by the Board and set forth in option agreements
+evidencing the grant of such options.
+
+
+
+         The exercise price of options granted pursuant to the Plan is
+determined by the Board, in its discretion; provided that the exercise price of
+an ISO may not be less than 100% of the fair market value (as defined in the
+Plan) of the shares of the Company's Common Stock on the date of grant. The
+exercise price of options granted pursuant to the Plan is subject to adjustment
+as provided in the Plan to reflect stock dividends, splits, other
+
+                                       16
+<PAGE>
+
+recapitalizations or reclassifications or changes in the market value of the
+Company Common Stock. In addition, the Plan provides that, in the event of a
+proposed change in control of the Company (as defined in the Plan), the Board is
+to take such actions as it deems appropriate to effectuate the purposes of the
+Plan and to protect the grantees of options, which action may include (i)
+acceleration or change of the exercise dates of any option; (ii) arrangements
+with grantees for the payment of appropriate consideration to them for the
+cancellation and surrender of any option; and (iii) in any case where equity
+securities other than Common Stock are proposed to be delivered in exchange for
+or with respect to Common Stock, arrangements providing that any option shall
+become one or more options with respect to such other equity securities.
+Further, in the event the Company dissolves and liquidates (other than pursuant
+to a plan of merger or reorganization), then notwithstanding any restrictions on
+exercise set forth in the Plan or any grant agreement pursuant thereto (i) each
+grantee shall have the right to exercise his option at any time up to ten days
+prior to the effective date of such liquidation and dissolution; and (ii) the
+Board may make arrangements with the grantees for the payment of appropriate
+consideration to them for the cancellation and surrender of any option that is
+so canceled or surrendered at any time up to ten days prior to the effective
+date of such liquidation and dissolution. The Board also may establish a
+different period (and different conditions) for such exercise, cancellation, or
+surrender to avoid subjecting the grantee to liability under Section 16(b) of
+the Exchange Act.
+
+         The shares purchased upon the exercise of an option are to be paid for
+by the optionee in cash (or cash equivalents acceptable to the Committee) or by
+such other means as the Committee may prescribe.
+
+         Except as permitted pursuant to Rule 16b-3 under the Exchange Act, and
+in any event in the case of an ISO, an option is not transferable except by will
+or the laws of descent and distribution. In no case may the options be exercised
+later than the expiration date specified in the option agreement.
+
+RESTRICTED STOCK AWARDS
+
+         Restricted Stock awards may be awarded to an eligible participant in
+lieu of a portion of cash bonus earned by the participant. These restricted
+shares will vest over a period of years as determined by the Board at the time
+of grant and will not be transferable until vested. In addition, awards of
+Restricted Stock may have a premium paid in additional shares when fully vested.
+There may be other restrictions as the Board may determine.
+
+OTHER OMNIBUS EQUITY AWARDS
+
+         The Board upon recommendation of the Committee has the authority to
+specify the terms and provisions of other forms of equity-based awards or
+equity-related awards not described above which the Committee determines to be
+consistent with the purposes of the Plan and the interests of Aceto.
+
+STOCK OWNERSHIP GUIDELINES
+
+         One of the objectives of the Plan is that certain designated employees
+be stockholders. The Plan contains guidelines for stock ownership, to be
+attained in five years, relative to the positions and base salaries of the
+employees involved. Restricted Stock awards can be used to satisfy these
+requirements.
+
+                                       17
+<PAGE>
+
+TERMINATION
+
+         No awards shall be made after ten years from the December 10, 1998,
+date that the Plan was first approved by the Company's stockholders.
+
+AMENDMENT
+
+         We may amend or terminate the Plan at any time. However, we must obtain
+stockholder approval to increase the maximum number of shares issuable or reduce
+the exercise price of a stock option.
+
+         Also, we may not amend or terminate the 1998 Omnibus Equity Award Plan
+without an employee's consent if it would adversely affect an employee's rights
+to previously-granted awards.
+
+
+FEDERAL INCOME TAX CONSEQUENCES
+
+         The following is a brief summary of certain Federal income tax aspects
+of awards under the Plan based upon the Federal income tax laws in effect on the
+date hereof. This summary is not intended to be exhaustive and does not describe
+state or local tax consequences.
+
+         INCENTIVE STOCK OPTIONS. An optionee will not realize taxable income
+upon the grant of an ISO. In addition, an optionee will not realize taxable
+income upon the exercise of an ISO, provided that such exercise occurs no later
+than three months after the optionee's termination of employment with the
+Company (one year in the event of a termination on account of disability).
+However, an optionee's alternative minimum taxable income will be increased by
+the amount that the fair market value of the shares acquired upon exercise of an
+ISO, generally determined as of the date of exercise, exceeds the exercise price
+of the option. If an optionee sells the shares of Common Stock acquired upon
+exercise of an ISO, the tax consequences of the disposition depend upon whether
+the disposition is qualifying or disqualifying. The disposition of the shares is
+qualifying if made more than two years after the date the ISO was granted and
+more than one year after the date the ISO was exercised. If the disposition of
+the shares is qualifying, any excess of the sale price of the shares over the
+exercise price of the ISO would be treated as long-term capital gain taxable to
+the option holder at the time of the sale. If the disposition is not qualifying,
+i.e., a disqualifying disposition, the excess of the fair market value of the
+shares on the date the ISO was exercised over the exercise price would be
+compensation income taxable to the optionee at the time of the disposition, and
+any excess of the sale price of the shares over the fair market value of the
+shares on the date the ISO was exercised would be capital gain.
+
+         Unless an optionee engages in a disqualifying disposition, the Company
+will not be entitled to a deduction with respect to an ISO. However, if an
+optionee engages in a disqualifying disposition, the Company generally will be
+entitled to a deduction equal to the amount of compensation income taxable to
+the optionee.
+
+         NON-QUALIFIED STOCK OPTIONS. An optionee will not realize taxable
+income upon the grant of an NQSO. However, when the optionee exercises the NQSO,
+the difference between the exercise price of the NQSO and the fair market value
+of the shares acquired upon exercise of the NQSO on the date of exercise is
+compensation income taxable to the optionee. The Company generally will be
+entitled to a deduction equal to the amount of compensation income taxable to
+the optionee.
+
+                                       18
+<PAGE>
+
+THE BOARD RECOMMENDS THAT YOU VOTE "FOR" THE APPROVAL OF THE AMENDMENT TO THE
+1998 OMNIBUS EQUITY AWARD PLAN.
+
+
+
+
+
+
+
+
+                                       19
+<PAGE>
+
+
+
+                                 PROPOSAL THREE
+
+               RATIFICATION OF APPOINTMENT OF INDEPENDENT AUDITORS
+
+         The Company has engaged KPMG LLP as its principal independent public
+accountants to perform the audit of the Company's financial statements for the
+fiscal year ending June 30, 2002. KPMG LLP has audited the Company's financial
+statements since 1971. Management recommends that KPMG LLP be ratified as the
+principal accounting firm to be utilized by the Company throughout the year
+ending June 30, 2002.
+
+         The Company anticipates that representatives of KPMG LLP will attend
+the Annual Meeting for the purpose of responding to appropriate questions. At
+the Annual Meeting, the representatives of KPMG LLP will be afforded an
+opportunity to make a statement if they so desire.
+
+THE BOARD RECOMMENDS THAT YOU VOTE FOR THE RATIFICATION OF THE SELECTION OF KPMG
+LLP AS THE COMPANY'S AUDITORS FOR THE 2002 FISCAL YEAR.
+
+SHAREHOLDER PROPOSALS
+
+         All shareholder proposals which are intended to be presented at the
+2002 Annual Meeting of Shareholders of the Company must be received by the
+Company no later than June 20, 2002, for inclusion in the Board of Directors'
+proxy statement and form of proxy relating to the meeting.
+
+OTHER BUSINESS
+
+         The Board of Directors knows of no other business to be acted upon at
+the meeting. However, if any other business properly comes before the meeting,
+it is the intention of the persons named in the enclosed proxy to vote on such
+matters in accordance with their best judgment.
+
+         The prompt return of the proxy will be appreciated and helpful in
+obtaining the necessary vote. Therefore, whether or not you expect to attend the
+meeting, please sign the proxy and return it in the enclosed envelope.
+
+                                     BY ORDER OF THE BOARD OF DIRECTORS
+
+                                     /s/ Douglas Roth
+                                     ----------------------------------
+                                     Douglas Roth
+                                     Secretary
+
+Dated: October 25, 2001
+
+
+                                       20
+<PAGE>
+
+
+
+
+                                                                      APPENDIX A
+            TEXT OF ACETO CORPORATION 1998 OMNIBUS EQUITY AWARD PLAN,
+                                   AS AMENDED
+
+SECTION 1.
+PURPOSE.
+
+The purposes of the ACETO CORPORATION 1998 Omnibus Equity Award Plan, as amended
+(the "Plan"), are to attract, retain and motivate Eligible Participants, as
+defined below, to compensate them for their contributions to the Company's
+growth and profit and to encourage them to own the Company's Common stock,
+thereby promoting the interests of the Company and its stockholders.
+
+SECTION 2.
+DEFINITIONS.
+
+As used in the Plan, the following terms shall have the meanings set forth
+below:
+
+"Affiliate" shall mean (i) any entity that, directly or indirectly, is
+controlled by the Company; (ii) a subsidiary of the Company and (iii) any entity
+in which the Company has a significant equity or business interest, in any case
+as determined by the Board.
+
+"Award" shall mean any Option, Restricted Stock Award, or other stock-based
+Award.
+
+"Award Agreement" shall mean any written instrument or document evidencing any
+Award, which may, but need not be, executed by an Eligible Participant.
+
+"Board" shall mean the Board of Directors of the Company.
+
+"Change in Control" shall be deemed to have occurred if: (i) any "person" as
+such term is used in Sections 13(d) and 14(d) of the Exchange Act (other than
+the Company, any trustee or other fiduciary holding securities under any
+employee benefit plan of the Company,) is or becomes the "beneficial owner" (as
+defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of
+securities of the Company representing 20% or more of the voting power of the
+Company's then outstanding securities; (ii) during any period of two consecutive
+years, individuals who at the beginning of such period constitute the Board of
+Directors, and any new director (other than a director designated by a person
+who has entered into an agreement with the Company to effect a transaction
+described in clause (i), (iii), or (iv) of this paragraph) whose election by the
+Board of Directors or nomination for election by the Company's stockholders was
+approved by a vote of at least two-thirds of the directors then still in office
+who either were directors at the beginning of the two year period or whose
+election or nomination for election was previously so approved, cease for any
+reason to constitute at least a majority of the Board of Directors; (iii) the
+stockholders of the Company approve a merger or consolidation of the Company
+with any other corporation, other than a merger or consolidation that would
+result in the voting securities of the Company outstanding immediately prior
+thereto continuing to represent (either by remaining outstanding or by being
+converted into voting securities of the surviving entity) more than 50% of the
+combined voting power of the voting securities of the Company or such surviving
+entity outstanding immediately after such merger or consolidation; provided,
+however, that a merger or consolidation effected to implement a recapitalization
+of the Company (or similar transaction) in which no person acquires more than
+20% of the
+
+<PAGE>
+
+combined voting power of the Company's then outstanding securities shall not
+constitute a change in Control of the Company; or (iv) the stockholders of the
+Company approve a plan of complete liquidation of the Company or an agreement
+for the sale or disposition by the Company of all or substantially all of the
+Company's assets. If any of the events enumerated in clauses (i) through (iv)
+occur the Board shall determine the effective date of the Change in Control
+resulting therefrom, for purposes of the Plan.
+
+"Code" shall mean the Internal Revenue Code of 1986, as amended from time to
+time, and the rules and regulations promulgated thereunder.
+
+"Committee" shall mean a committee of the Board designated by the Board to make
+recommendations to the Board with regard to Awards. Until otherwise determined
+by the Board, the Executive Committee of the Board (which serves as the
+Executive Compensation Committee) shall be the Committee under the Plan.
+
+"Company" shall mean ACETO CORPORATION.
+
+"Eligible Participant" shall mean an employee (including an officer, Executive
+Officer or director) of the Company or any Affiliate. Such term shall also mean
+any non-employee director, adviser, consultant or independent contractor to the
+Company or any Affiliate, and any reference to employment or termination of
+employment under the Plan shall be deemed to apply to such director, adviser,
+consultant or independent contractor, for the purpose of the Plan only, as if
+the services of such person constitute employment services.
+
+"Exchange Act" shall mean the Securities Exchange Act of 1934, as amended.
+
+"Executive Officer" shall mean, at any time, an individual who is an executive
+officer of the Company within the meaning of Exchange Act Rule 3b-7 promulgated
+and interpreted by the SEC under the Exchange Act, or any successor rule or
+regulation thereto as in effect from time to time, or who is an officer of the
+Company within the meaning of Exchange Act Rule 16a-1(f) as promulgated and
+interpreted by the SEC under the Exchange Act, or any successor rule or
+regulation thereto as in effect from time to time.
+
+"Fair Market Value" Shall mean with respect to any given day, the average of the
+mean between the highest and lowest reported sales prices on the principal
+national stock exchange on which the Common Stock is traded, or if such exchange
+was closed on such day or, if it was open but the Common Stock was not traded on
+such day, then on the preceding day that the Common Stock was traded on such
+exchange.
+
+"Incentive Stock Option" shall mean an Option which meets the requirements of
+Section 422 of the Code.
+
+"Non-Qualified Stock Option" shall mean an Option which does not meet the
+requirements of Section 422 of the Code.
+
+"Option" shall mean an Incentive Stock Option or Non-Qualified Stock Option.
+
+"Participant" shall mean any Eligible Participant selected by the Board to
+receive an Award under the Plan.
+
+"Person" shall mean any individual, corporation, partnership, association,
+joint-stock company, trust, unincorporated organization, government or political
+subdivision thereof or other entity.
+
+<PAGE>
+
+"QDRO" shall mean a domestic relations order meeting such requirements as the
+Committee shall determine, in its sole discretion.
+
+"Restricted Stock" Shall mean any Share granted under Section 7 of the Plan.
+
+"SEC" shall mean the Securities and Exchange Commission or any successor thereto
+and shall include the staff thereof.
+
+"Shares" shall mean shares of the Common Stock, $ .01 par value, of the Company.
+
+SECTION 3.
+ADMINISTRATION.
+
+(A) AUTHORITY OF COMMITTEE. The Committee shall, subject to the terms of the
+Plan and applicable law, make recommendations to the Board with regard to (i)
+designation of Participants; (ii) the type or types of Awards to be granted to
+an Eligible Participant; (iii) the number of Shares to be covered by Awards;
+(iv) terms and conditions of Awards; and (v) unless otherwise expressly provided
+in the Plan, designations, determination, interpretations, and suggested
+decisions with respect to the Plan or any Award.
+
+(B) AUTHORITY OF BOARD. All Awards under the Plan shall be made by the Board,
+which shall have full authority to accept, reject or modify any recommendations
+of the Committee. All designations, determinations, interpretations, and other
+decisions under or with respect to the Plan or any Award shall be within the
+sole discretion of the Board, may be made at any time and shall be final,
+conclusive, and binding upon all Persons, including the Company, any Affiliate,
+any Participant, any holder or beneficiary of any Award, and any stockholder.
+
+SECTION 4.
+SHARES AVAILABLE FOR AWARDS.
+
+(A) SHARES AVAILABLE. Subject to adjustment as provided in Section 4(b), the
+number of Shares with respect to which Awards may be granted under the Plan
+shall be one million (1,000,000). If, after the effective date of the Plan, any
+Shares covered by an Award granted under the Plan are forfeited, or if such an
+Award terminates or is canceled without the delivery of shares, then the Shares
+covered by such Award, or the number of Shares otherwise counted against the
+aggregate number of Shares with respect to which Awards may be granted, to the
+extent of any such, forfeiture, termination or cancellation, shall again become
+Shares with respect to which Awards may be granted. In the event that any Option
+or other Award granted hereunder is exercised through the delivery of Shares or
+in the event that withholding tax liabilities arising from such Award are
+satisfied by the withholding of Shares by the Company, the number of Shares
+available for Awards under the Plan shall be increased by the number of Shares
+so surrendered or withheld.
+
+(B) ADJUSTMENTS. In the event that any dividend (other than regular dividends)
+or other distribution (whether in the form of cash, Shares, other securities, or
+other property), recapitalization, stock split, reverse stock split,
+reorganization, merger, consolidation, split-up, spin-off, combination,
+repurchase, or exchange of Shares, or other similar corporate transaction or
+event affects the Shares such that an adjustment is appropriate in order to
+prevent dilution or enlargement of the benefits or potential benefits intended
+to be made available under the Plan, then adjustment shall be made, in such
+manner as shall be equitable, of (i) the number of Shares with
+
+<PAGE>
+
+respect to which Awards may be granted, (ii) the number of Shares subject to
+outstanding Awards, and (iii) the grant or exercise price with respect to any
+Award, provided, that with respect to any Award no such adjustment shall be made
+to the extent that such adjustment would be inconsistent with the Plan's meeting
+the requirements of Section 162(m) of the Code, as from time to time amended.
+
+(C) SOURCES OF SHARES DELIVERABLE UNDER AWARDS. Any Shares delivered pursuant to
+an Award may consist, in whole or in part, of authorized and unissued Shares or
+of treasury Shares.
+
+SECTION 5.
+ELIGIBILITY.
+
+Any employee (including an officer, Executive Officer or director) of the
+Company or any Affiliate, including any non-employee director, advisor,
+consultant or independent contractor to the Company or any Affiliate, shall be
+an Eligible Participant. To the extent the Board deems it necessary, appropriate
+or desirable to comply with foreign law or practice and to further the purpose
+of this Plan, the Board may, without amending this Plan, (i) establish rules
+applicable to Awards granted to Participants who are foreign nationals, are
+employed outside the United States, or both, including rules that differ from
+those set forth in this Plan, and (ii) grant Awards to such Participants in
+accordance with those rules.
+
+SECTION 6.
+STOCK OPTIONS - TERMS AND CONDITIONS.
+
+All Options granted under the Plan shall be either Incentive Stock Options or
+Non-qualified Stock Options and shall be evidenced by Award Agreements which
+shall be subject to applicable provisions of the Plan and such other provisions
+as they may contain including:
+
+(A) PRICE. The exercise price per Share shall not be less than 100% of the Fair
+Market Value of a Share on the date of Award.
+
+(B) PERIOD. The Board, upon recommendation of the Committee may establish the
+term of any Option award under the Plan, provided, however, that an Option shall
+expire no later than 10 years from the date of Award, and may not be exercisable
+less than six months from the date it is granted.
+
+(C) TIME OF EXERCISE. The Board, upon recommendation of the Committee, may
+establish installment exercise terms in Awards to Participants based on the
+passage of time or otherwise, such that the Option becomes fully exercisable in
+a series of cumulating portions, and may also establish other conditions of
+exercise as it shall determine and may accelerate the exercisability of any
+Option granted to a Participant under the Plan.
+
+(D) PAYMENT. No Shares shall be delivered pursuant to any exercise of an Option
+until payment in full of the option price in cash, or its equivalent, or by
+exchanging Shares owned by the optionee (which are not the subject of any pledge
+or other security interest), or by a combination of the foregoing, provided that
+the combined value of all cash and cash equivalents and the Fair Market Value of
+any such Shares so tendered to the Company as of the date of such tender is at
+least equal to such option price.
+
+(E) EXERCISE. An Option, or portion thereof, shall be exercised by delivery of a
+written notice of exercise to the Company, and payment of the full price of the
+Shares being exercised. A Participant shall not have any of the
+
+<PAGE>
+
+rights or privileges of the holder of Common Stock until such time as Shares of
+Common Stock are issued or transferred to the Participant.
+
+(F) RESTRICTIONS ON INCENTIVE STOCK OPTIONS. The aggregate Fair Market Value
+(determined as of the Grant Date) of shares of Common Stock with respect to
+which all Incentive Stock Options first become exercisable by any grantee in any
+calendar year under this or another plan of the Company and its Affiliates may
+not exceed $100,000 or such other amount as may be permitted from time to time
+under Section 422 of the Code. To the extent that such aggregate Fair Market
+Value shall exceed $100,000, or other applicable amount, such Options (taking
+Options into account in the order in which they were granted) shall be treated
+as non-qualified stock options. In such case, the corporation may designate the
+shares of Common Stock that are to be treated as stock acquired pursuant to the
+exercise of any Incentive Stock Option by issuing a separate certificate for
+such shares and identifying the certificate as Incentive Stock Option shares in
+the stock transfer records of the Company.
+
+The exercise price of any Incentive Stock Option granted to a grantee who owns
+(within the meaning of Section 422(b)(6) of the Code, after the application of
+the attribution rules in Section 424(d) of the Code) more than 10% of the total
+combined voting power of all classes of shares of the Corporation or its Parent
+or Subsidiary corporations (within the meaning of Sections 422 and 424 of the
+Code) shall be not less than 110% of the Fair Market Value of the Common Stock
+on the grant date and the term of such Option shall not exceed five years.
+
+(G) OTHER TERMS AND CONDITIONS. Options may contain such other provisions, not
+inconsistent with the provisions of the Plan, as the Committee shall determine
+appropriate from time to time. No Option shall be an Incentive Stock Option
+unless so designated by the Committee at the time of grant or in the Grant
+Agreement evidencing such Option.
+
+SECTION 7.
+RESTRICTED STOCK
+
+(A) GRANT. Subject to the provisions of the Plan, the Board, upon recommendation
+of the Committee, shall have authority to determine the Participants to whom
+Shares of Restricted Stock shall be granted, the number of Shares of Restricted
+Stock to be granted to each Participant, and the other terms and conditions of
+such Awards. Restricted Stock may be awarded to an Eligible Participant in lieu
+of a portion, as determined by the Board, of any annual cash bonus earned by
+such Participant, which will vest ratably over a period of years determined by
+the Board on each anniversary of the date of Award. Such Restricted Stock so
+awarded, as set forth in the Award Agreement may have a premium in Shares
+greater than the portion of the bonus to be paid in Restricted Shares, which
+Premium shares shall be delivered to the Participant when the Award is fully
+vested, provided that the Participant is in the employ of the Company when
+vesting occurs.
+
+(B) TRANSFER RESTRICTIONS. Upon the lapse of the restrictions applicable to
+Shares of Restricted Stock, the Company shall deliver certificates for same to
+the Participant or the Participant's legal representative.
+
+(C) PAYMENT. Each share of Restricted Stock shall be paid in Shares, upon the
+lapse of the restrictions applicable thereto, or otherwise in accordance with
+the applicable Award Agreement.
+
+(D) DIVIDENDS AND DISTRIBUTIONS. Dividends and other distributions paid on or in
+respect of any Shares of Restricted Stock shall be paid to the Participant.
+
+<PAGE>
+
+SECTION 8.
+TERMINATION OF EMPLOYMENT.
+
+The following provisions shall apply in the event of the Participant's
+termination of employment unless otherwise provided in the Award Agreement:
+
+(A) NON-QUALIFIED STOCK OPTIONS.
+
+(I) TERMINATION OF EMPLOYMENT. If the Participant's employment with the Company
+or its Affiliates is terminated for any reason other than death, permanent and
+total disability, or retirement, the Participant's right to exercise any Option
+shall terminate, and such Option shall expire, on the earlier of (A) the first
+anniversary of such termination of employment or (B) the date of such Option
+would have expired had it not been for the termination of employment. The
+Participant shall have the right to exercise such option prior to such
+expiration to the extent it was exercisable at the date of such termination of
+employment and shall not have been exercised.
+
+(II) DEATH, DISABILITY OR RETIREMENT. If the Participant's employment with the
+Company or its Affiliates is terminated by death, permanent and total
+disability, or retirement, the Participant or his or her estate representative
+(if employment is terminated by death) shall have the right, within three (3)
+months from the date of determination of permanent and total disability,
+retirement, or the appointment of an estate representative, to exercise any
+Option to the extent it was exercisable at the date of such termination of
+employment and shall not have been exercised, but in no event shall such option
+be exercisable later than the date the Option would have expired had it not been
+for the termination of such employment.
+
+(B) RESTRICTED STOCK. In the event of a Participant's retirement, permanent and
+total disability, or death, or in cases of special circumstances, the Board may,
+when it finds that a waiver would be in the best interest of the Company, waive
+in whole or in part, any or all remaining restrictions with respect to such
+Participant's entitlement to shares of Restricted Stock. In the event of a
+Participant's death while in the employ of the Company, any or all remaining
+restrictions with respect to such Participant's entitlement to shares of
+Restricted Stock shall be deemed waived by the Board.
+
+SECTION 9.
+CHANGE IN CONTROL.
+
+Notwithstanding any other provision of the Plan to the contrary, upon a Change
+in Control all outstanding Awards shall vest, become immediately exercisable or
+payable and have all restrictions lifted as may apply to the type of Award.
+
+SECTION 10.
+AMENDMENT AND TERMINATION.
+
+(A) AMENDMENTS TO THE PLAN. The Board may amend, alter, suspend, discontinue, or
+terminate the Plan or any portion thereof at any time; provided that no such
+amendment, alteration, suspension discontinuation or termination shall be made
+without stockholder approval to: increase the number of shares issuable; reduce
+the exercise price of Options or extend the termination period of the Plan. The
+Board, however, may not amend or terminate the Plan without a Participant's
+consent insofar as it would adversely affect a Participant's rights to
+previously granted Awards.
+
+<PAGE>
+
+(B) CANCELLATION. Any Award granted hereunder may be canceled with the approval
+and agreement of the Participant in consideration of a cash payment or
+alternative Award made to the holder of such canceled Award equal in value to
+the Fair Market Value of such canceled Award.
+
+SECTION 11.
+GENERAL PROVISIONS
+
+(A) NONTRANSFERABILITY. No Award shall be assigned, alienated, pledged,
+attached, sold or otherwise transferred or encumbered by a Participant, except
+by will or the laws of descent and distribution or pursuant to a QDRO.
+
+(B) NO RIGHTS TO AWARDS. No Participant or other Person shall have any claim to
+be granted any Award, and there is no obligation for uniformity of treatment of
+Participants, or holders or beneficiaries of Awards. The terms and conditions of
+Awards need not be the same with respect to each recipient.
+
+(C) SHARE CERTIFICATES. All certificates for Shares or other securities of the
+Company delivered under the Plan pursuant to any Award or the exercise thereof
+shall be subject to such stop transfer orders and other restrictions as the
+Board may deem advisable under the Plan or the rules, regulations, and other
+requirements of the Securities and Exchange Commission, any stock exchange upon
+which such Shares or other securities are then listed, and any applicable
+Federal or state laws, and a legend or legends may be put on any such
+certificates to make appropriate reference to such restrictions.
+
+(D) WITHHOLDING. A Participant may be required to pay to the Company and the
+Company shall have the right and is hereby authorized to withhold from any
+Award, from any payment due or transfer made under any Award or under the Plan
+or from any compensation or other amount owing to a Participant the amount (in
+cash, or Shares), of any applicable withholding taxes in respect of an Award,
+its exercise, or any payment or transfer under an Award or under the Plan and to
+take such other action as may be necessary in the opinion of the Company to
+satisfy all obligations for the payment of such taxes.
+
+(E) AWARD AGREEMENTS. Each Award hereunder shall be evidenced by an Award
+Agreement that shall be delivered to the Participant and shall specify the terms
+and conditions of the Award and any rules applicable thereto.
+
+(F) NO RIGHT TO EMPLOYMENT. The grant of an Award shall not be construed as
+giving a Participant the right to be retained in the employ of the Company or
+any Affiliate. Further, the Company or an Affiliate may at any time dismiss a
+Participant from employment, free from any liability or any claim under the
+Plan, unless otherwise expressly provided in the Plan or in any Award Agreement.
+
+(G) RIGHTS AS STOCKHOLDER. No holder of an Award of stock options or beneficiary
+of any such Award shall have any rights as a stockholder with respect to such
+options until he or she has exercised such option and become the holder of
+Shares. In connection with each grant of Restricted Stock hereunder, the
+applicable Award shall be entitled to the rights of a stockholder in respect of
+such Restricted Stock, except for such transfer restrictions as may be
+applicable thereto.
+
+(H) GOVERNING LAW. The validity, construction, and effect of the Plan and any
+rules and regulations relating to the Plan and any Award Agreement shall be
+determined in accordance with the laws of the State of New York.
+
+<PAGE>
+
+(I) SEVERABILITY. If any provision of the Plan or any Award is or becomes or is
+deemed to be invalid, illegal, or unenforceable in any jurisdiction or as to any
+Person or Award, or would disqualify the Plan or any Award under any applicable
+law, such provision shall be construed or deemed amended to conform to the
+applicable laws, or if it cannot be construed or deemed amended without, in the
+determination of the Board, materially altering the intent of the Plan or the
+Award, such provision shall be stricken as to such jurisdiction, Person or Award
+and the remainder of the Plan and any such Award shall remain in full force and
+effect.
+
+(J) OTHER LAWS. The Company may refuse to issue or transfer any Shares or other
+consideration under an Award if, it determines that the issuance or transfer of
+such shares might violate any applicable law or regulation or entitle the
+Company to recover the same under Section 16(b) of the Exchange Act, and any
+payment tendered to the Company by a Participant, other holder or beneficiary in
+connection with the exercise of such Award shall be promptly refunded to the
+relevant Participant, holder, or beneficiary. Without limiting the generality of
+the foregoing, no Award granted hereunder shall be construed as an offer to sell
+securities of the Company, and no such offer shall be outstanding, unless the
+Board has determined that any such offer, if made, would be in compliance with
+all applicable requirements of the U.S. federal securities laws any other laws
+to which such offer, if made, would be subject.
+
+(K) NO TRUST FUND CREATED. Neither the Plan nor any Award shall create or be
+construed to create a trust or separate fund of any kind or a fiduciary
+relationship between the Company and a Participant or any other Person. To the
+extent that any Person acquires rights pursuant to an Award, such rights shall
+be no greater than the rights of any unsecured general creditor of the Company.
+
+(L) NO OBLIGATION TO EXERCISE OPTIONS. The granting of an Option shall impose no
+obligation upon the Participant to exercise such Option.
+
+(M) PLAN EXPENSES. Any expenses of administering this Plan shall be borne by the
+Company.
+
+(N) NO WARRANTY OF TAX EFFECT. Except as may be contained in any Award
+Agreement, no opinion shall be deemed to be expressed or warranties made as to
+the effect of foreign, federal, state, or local tax on any Awards.
+
+SECTION 12.
+SHARE OWNERSHIP GUIDELINES.
+
+It is an objective of this Plan that designated Eligible Participants be owners
+of Shares.
+
+(A) APPLICABILITY. Share ownership guidelines are applicable to the Chief
+Executive Officer ("CEO") and to managerial Participants designated by the Board
+("Designated Participants").
+
+(B) BASIS. Share ownership guidelines are in terms of Fair Market Value of
+Shares to be owned relative to the positions held and base salaries of
+Designated Participants. Ownership levels and guidelines will be reviewed (and
+if advisable modified) by the Board (upon recommendation of the Committee)
+periodically, based on internal reports and overall operations of the Company.
+
+(C) TARGETED GUIDELINE LEVELS. Designated Participants will either from
+inception of the Plan or commencement of employment have five (5) years to reach
+the targeted guideline levels of Share ownership
+
+<PAGE>
+
+(except, that if a Designated Participant's Base Salary is increased from under
+$100,000.00 to $100,000.00 or more, such Participant will have three (3) years
+from the date of the increase in Base Salary to reach the targeted guideline
+level of share ownership), which levels can be changed, modified, or suspended
+due to individual or group circumstances. Restricted Stock awarded to a
+Participant shall be included in calculating Shares owned.
+
+(D) GUIDELINES.
+
+Position/Base Salary Guidelines, as a Multiple ("X") of Salary
+CEO 2X
+Base Salary of $100,000.00 or more 1X
+Base Salary of under $100,000.00 1/2X
+
+SECTION 13.
+EFFECTIVE DATE; TERMINATION DATE
+
+The Plan, as herein amended, is effective as of September 25, 2001, the date on
+which the amended Plan was adopted by the Board, subject to approval of the
+stockholders within twelve months of such date. Unless previously terminated,
+the Plan shall terminate on the close of business on December 10, 2008, ten
+years from its original effective date. Subject to other applicable provisions
+of the Plan, all Options granted under the Plan prior to termination of the Plan
+shall remain in effect until such Options have been satisfied or terminated in
+accordance with the Plan and the terms of such Options.
+
+
+                                ACETO CORPORATION
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+
+
+
+<PAGE>
+
+
+                                ACETO CORPORATION
+                         ANNUAL MEETING OF STOCKHOLDERS
+                THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS
+
+The undersigned, revoking all previous proxies, hereby constitutes and appoints
+Leonard S. Schwartz and Douglas Roth, and each of them, proxies with full power
+of substitution to vote for the undersigned all shares of Common Stock of Aceto
+Corporation which the undersigned would be entitled to vote if personally
+present at the Annual Meeting of the Stockholders to be held on December 6,2001
+at the Company 's offices, One Hollow Lane, Suite 201,Lake Success, New York
+11042,at 10:00 a.m., Eastern Standard Time, and at any adjournment thereof, upon
+the matters described in the accompanying Proxy Statement and upon any other
+business that may properly come before the meeting or any adjournment thereof.
+Said proxies are directed to vote or refrain from voting as checked on the
+reverse side upon the matters listed on the reverse side, and otherwise in their
+discretion.
+
+PLEASE INDICATE HOW YOUR STOCK IS TO BE VOTED.IF NO SPECIFIC VOTING INSTRUCTIONS
+ARE GIVEN,THE SHARES REPRESENTED BY THIS PROXY WILL BE VOTED AS RECOMMENDED BY
+THE BOARD OF DIRECTORS. THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR ALL
+NOMINEES "IN ITEM 1 AND "FOR " ITEMS 2 AND 3.
+
+                                ACETO CORPORATION
+                                 P.O. BOX 11199
+                            NEW YORK, N.Y. 10203-0199
+
+(1) Election of Directors
+    FOR all nominees listed below   *EXCEPTIONS   WITHHOLD AUTHORITY to vote
+
+Nominees: Albert L. Eilender, Stanley H. Fischer, Samuel I. Hendler, Hans-Peter
+Schaer, John H. Schlesinger, Leonard S. Schwartz and Robert A. Wiesen
+
+(INSTRUCTIONS: TO WITHHOLD AUTHORITY TO VOTE FOR ANY INDIVIDUAL NOMINEE, MARK
+THE "EXCEPTIONS" BOX ABOVE AND WRITE THAT NOMINEE'S NAME IN THE SPACE PROVIDED
+BELOW.) *Exceptions
+
+--------------------------------------------------------------------------------
+
+
+(2) Approval of an amendment to the Company's 1998 Omnibus Equity Award Plan to
+increase the number of awards from 500,000 to 1,000,000 and to permit the grant
+of incentive stock options.
+
+FOR                        AGAINST                   ABSTAIN
+
+(3) Ratify the appointment of KPMG LLP as the Company's independent auditors for
+the current fiscal year.
+
+FOR                        AGAINST                   ABSTAIN
+
+(4) In their discretion with respect to such other business as may properly come
+before the meeting or any adjournment thereof.
+
+<PAGE>
+
+Change of Address Mark Here
+
+(PLEASE SIGN, DATE AND RETURN THIS PROXY IN THE ENCLOSED POSTAGE PREPAID
+ENVELOPE.)
+
+NOTE: Please sign exactly as your name appears on this proxy. If shares are held
+jointly, each joint owner should sign. When signing as attorney, executor,
+administrator, trustee or guardian, please give full title as such. Proxies
+executed by a corporation should be signed with the full corporate name by a
+duly authorized officer.
+Dated:                                            , 2001
+      --------------------------------------------
+
+--------------------------------------------------------
+(Signature of Stockholder)
+
+--------------------------------------------------------
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

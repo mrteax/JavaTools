@@ -1,0 +1,3778 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Kaxv8yIDUGb1EHV8WwtLFX/ih/j/TcBrupbJIo064TYC2BzCe2GGjBfqb5C9U9wB
+ ffBjWYdhuf00/5yJfSrSQA==
+
+<SEC-DOCUMENT>0000893220-96-000499.txt : 19960329
+<SEC-HEADER>0000893220-96-000499.hdr.sgml : 19960329
+ACCESSION NUMBER:		0000893220-96-000499
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960510
+FILED AS OF DATE:		19960328
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		96540401
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002-4607
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		1810 CHAPEL AVENUE WEST
+		STREET 2:		SUITE 130
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>K-TRON INTERNATIONAL DEFINITIVE PROXY STATEMENT
+<TEXT>
+
+<PAGE>   1
+                           SCHEDULE 14A INFORMATION
+PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+Filed by the Registrant /X/
+Filed by a Party other than the Registrant /  /
+
+Check the appropriate box:
+
+/ / Preliminary Proxy Statement
+/X/ Definitive Proxy Statement
+/X/ Definitive Additional Materials
+/ / Soliciting Material Pursuant to Section 240.14a-11(c) or Section 240.14a-12
+
+
+                         K-Tron International, Inc.
+- --------------------------------------------------------------------------------
+              (Name of Registrant as Specified in its Charter)
+
+                         K-Tron International, Inc.
+- --------------------------------------------------------------------------------
+                 (Name of Person(s) Filing Proxy Statement)
+
+
+Payment of Filing Fee (Check the appropriate box):
+
+/X/  $125 per Exchange Act Rules 0-11(c)(1)(ii), 14a-6(i)(1), or 14a-6(j)(2).
+
+/ /  $500 per each party to the controversy pursuant to Exchange Act Rule
+     14a-6(i)(3).
+
+/ /  Fee computed on table below per exchange Act Rules 14a-6(i)(4) and 0-11.
+
+     1)  Title of each class of securities to which transaction applies:
+
+         -----------------------------------------------------------------------
+
+     2)  Aggregate number of securities to which transaction applies:
+
+         -----------------------------------------------------------------------
+
+     3)  Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11: *
+
+         -----------------------------------------------------------------------
+
+     4)  Proposed maximum aggregate value of transaction:
+
+         -----------------------------------------------------------------------
+
+
+*    Set forth the amount on which the filing fee is calculated and state how
+it was determined.
+
+/  / Check box if any part of the fee is offset as provided by Exchange Act
+     Rule 0-11(a)(2) and identify the filing for which the offsetting fee was
+     paid previously.  Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+     1)  Amount Previously Paid: _______________________________________________
+     2)  Form, Schedule or Registration Statement No.: _________________________
+     3)  Filing Party: _________________________________________________________
+     4)  Date Filed: _______________________________
+<PAGE>   2
+                          K-TRON INTERNATIONAL, INC.
+                               Routes 55 and 553
+                                 P.O. Box 888
+                         Pitman, New Jersey 08071-0888
+
+
+                    ----------------------------------------
+
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+                            TO BE HELD MAY 10, 1996
+
+                    ----------------------------------------
+
+
+To Our Shareholders:
+
+     Notice is hereby given that the Annual Meeting of Shareholders of K-Tron
+International, Inc. (the "Company") will be held on May 10, 1996 at 11:00
+a.m., local time, at the Company's principal executive offices at Routes 55
+and 553, Pitman, New Jersey for the following purposes:
+
+     (1)  To elect two directors to Class III of the Board of Directors, each
+to serve for a four-year term and until the election and qualification of his
+successor;
+
+     (2)  To approve the extension of the Company's Employee Stock Purchase
+Plan;
+
+     (3)  To approve the adoption of the Company's 1996 Equity Compensation
+Plan; and
+
+     (4)  To transact such other business as may properly come before the
+meeting.
+
+     Only shareholders of record at the close of business on March 15, 1996
+are entitled to notice of the Annual Meeting and to vote at the Annual Meeting
+and any adjournments thereof.  The transfer books will not be closed.
+
+                              By Order of the Board of Directors,
+
+
+
+                              Edward B. Cloues, II
+                              Secretary
+
+
+
+March 29, 1996
+
+
+     YOUR PROXY VOTE IS IMPORTANT.  ACCORDINGLY, YOU ARE ASKED TO
+     COMPLETE, SIGN AND RETURN THE ACCOMPANYING PROXY CARD IN THE
+     ENVELOPE PROVIDED WHICH REQUIRES NO POSTAGE IF MAILED IN THE UNITED
+     STATES.
+<PAGE>   3
+
+                                    [LOGO]
+
+
+
+
+
+
+
+
+                    --------------------------------------
+
+                                PROXY STATEMENT
+
+                        ANNUAL MEETING OF SHAREHOLDERS
+                            TO BE HELD MAY 10, 1996
+
+                    --------------------------------------
+
+
+     This Proxy Statement is being furnished to the shareholders of K-Tron
+International, Inc. (the "Company") in connection with the Annual Meeting of
+Shareholders of the Company to be held on May 10, 1996 and any adjournments
+thereof (the "Annual Meeting").  This Proxy Statement and the enclosed Proxy
+Card are being mailed to shareholders on or about March 29, 1996.
+
+     Execution and return of the enclosed Proxy Card are being solicited by
+and on behalf of the Board of Directors of the Company for the purposes set
+forth in the foregoing notice of meeting.  The costs incidental to the
+solicitation and obtaining of proxies, including the cost of reimbursing banks
+and brokers for forwarding proxy materials to their principals, will be borne
+by the Company.  Proxies may be solicited, without extra compensation, by
+officers and employees of the Company by mail, telephone, telefax, personal
+interviews and other methods of communication.
+
+     The Annual Report to Shareholders for the fiscal year ended December 30,
+1995, including consolidated financial statements and other information with
+respect to the Company and its subsidiaries, is being mailed to shareholders
+with this Proxy Statement.  Such Annual Report is not part of this Proxy
+Statement.
+
+
+                             VOTING AT THE MEETING
+
+RECORD DATE; VOTE REQUIRED; PROXIES
+
+     Only shareholders of record at the close of business on March 15, 1996
+are entitled to notice of the Annual Meeting and to vote at the Annual Meeting
+and any adjournments thereof.  As of that date, the Company had outstanding
+3,112,635 shares of Common Stock.  The holders of a majority of the
+outstanding shares of Common Stock, represented in person or by proxy, shall
+constitute a quorum at the Annual Meeting. A quorum is necessary before
+business may be transacted at the Annual Meeting except that, even if a quorum
+is not present, the shareholders present in person or by proxy shall have the
+power to adjourn the meeting from time to time until a quorum is present.
+Each shareholder entitled to vote shall have the right to one vote for each
+share of Common Stock outstanding in such shareholder's name.
+<PAGE>   4
+     The shares of Common Stock represented by each properly executed Proxy
+Card will be voted at the Annual Meeting in the manner directed therein by the
+shareholder signing such Proxy Card.  The Proxy Card provides spaces for a
+shareholder to withhold authority to vote for either nominee for the Board of
+Directors and to vote for or against or to abstain from voting with respect to
+the proposals to approve the extension of the Company's Employee Stock
+Purchase Plan and the adoption of the Company's 1996 Equity Compensation Plan.
+
+     Except for the election of directors, for which a plurality of the votes
+cast is required, the affirmative vote of a majority of the shares represented
+in person or by proxy at the Annual Meeting and entitled to vote is required
+to extend the Company's Stock Purchase Plan, to adopt the Company's 1996
+Equity Compensation Plan or to take action with respect to any other matter
+that may properly be brought before the Annual Meeting.
+
+     With regard to the election of directors, votes may be cast in favor of
+or withheld from any or all nominees.  Votes that are withheld will be
+excluded entirely from the vote and will have no effect, other than for
+purposes of determining the presence of a quorum.  Abstentions (including
+failure by brokers to vote shares for which they submitted proxies) may be
+specified on the proposal to extend the Company's Stock Purchase Plan and to
+adopt the Company's 1996 Equity Compensation Plan (but not for the election of
+directors).  Abstentions will be considered present and entitled to vote at
+the Annual Meeting, but will not be counted as votes cast in the affirmative.
+Abstentions on the proposals to extend the Company's Stock Purchase Plan and
+to adopt the Company's 1996 Equity Compensation Plan will have the effect of a
+negative vote because these proposals require the affirmative vote of a
+majority of the shares present in person or represented by proxy at the Annual
+Meeting and entitled to vote.
+
+     Brokers who hold shares in street name for customers have the authority
+under the rules of the various stock exchanges to vote on certain items when
+they have not received instructions from beneficial owners.  The Company
+believes that brokers that do not receive instructions are entitled to vote
+those shares with respect to the election of directors; however, the Company
+believes that brokers are not entitled to vote such shares with respect to the
+proposals to extend the Company's Stock Purchase Plan and to adopt the
+Company's 1996 Equity Compensation Plan.
+
+     If a signed Proxy Card is returned and the shareholder has given no
+direction with respect to a voting matter, the shares will be voted with
+respect to that matter by the proxy agents as recommended by the Board of
+Directors or its Executive Committee.  Execution and return of the enclosed
+Proxy Card will not affect a shareholder's right to attend the Annual Meeting
+and vote in person.  Any shareholder giving a proxy has the right to revoke it
+by giving notice of revocation to the Secretary of the Company at any time
+before the proxy is voted.
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The following table sets forth certain information as of February 15,
+1996 (or as of such other date as may be noted below) with respect to shares
+of Common Stock of the Company beneficially owned by each person believed by
+the Company to be the beneficial owner of more than 5% of the outstanding
+shares of Common Stock, by each director of the Company, by each executive
+officer of the Company who was serving as such on December 30, 1995, by any
+other person who served as the Company's chief executive officer at any time
+during fiscal 1995 and by all current directors and executive officers of the
+Company as a group.  Except as indicated below, the Company understands that
+the shareholders listed in such table have sole voting and investment power
+with respect to the shares owned by them.  The number of shares indicated in
+the table below includes shares issuable upon the exercise of outstanding
+stock options held by the persons or the group to the extent that such options
+are exercisable on or within 60 days after February 15, 1996.  In the case of
+current directors and executive officers, the information below has been
+provided by them at the request of the Company.
+
+
+
+
+
+
+
+                                      -2-
+<PAGE>   5
+<TABLE>
+<CAPTION>
+        Name of Individual or Identity of Group             Number of Shares     Percent of Common
+        ---------------------------------------             of Common Stock     Stock Outstanding
+                                                            ---------------     -----------------
+ <S>                                                               <C>                  <C>
+ Estate of Dr. Mario Gallo(1)  . . . . . . . . . . . . .           457,400              14.7
+ David L. Babson & Company, Inc.(2)  . . . . . . . . . .           355,600              11.4
+ Johannes Wirth(3) . . . . . . . . . . . . . . . . . . .           277,400               8.9
+ T. Rowe Price Associates, Inc.(4) . . . . . . . . . . .           200,000               6.4
+ Dimensional Fund Advisors Inc.(5) . . . . . . . . . . .           162,400               5.2
+ Leo C. Beebe(6)(7)  . . . . . . . . . . . . . . . . . .            61,964               2.0
+ Edward B. Cloues, II(6).  . . . . . . . . . . . . . . .            37,000               1.2
+ Marcel O. Rohr(8) . . . . . . . . . . . . . . . . . . .            20,478                 *
+ Dr. Hans-Jurg Schurmann(6)  . . . . . . . . . . . . . .            18,500                 *
+ Robert L. Weinberg(6)(9)  . . . . . . . . . . . . . . .            17,098                 *
+ Norman Cohen(6) . . . . . . . . . . . . . . . . . . . .            12,219                 *
+ Jean Head Sisco(6)  . . . . . . . . . . . . . . . . . .             9,500                 *
+ Richard J. Pinola(6)  . . . . . . . . . . . . . . . . .             7,500                 *
+ All current directors and executive officers
+ as a group (8 persons)(10)  . . . . . . . . . . . . . .           441,181              13.9
+</TABLE>
+- ------------------
+*    Less than 1%.
+
+(1)  As reflected in a Schedule 13G dated January 27, 1982, except that Dr.
+     Gallo is deceased and the Company believes the shares are now held by Dr.
+     Gallo's estate.  The most recent address known to the Company for the
+     Estate of Dr. Gallo was c/o Burckhardt, Treuhand & Revisions AG,
+     Postfach, Scheideggstrasse 73, CH-8038, Zurich, Switzerland.
+
+(2)  As reflected in a Schedule 13G dated February 12, 1996.  According to
+     David L. Babson & Company, Inc. ("Babson"), it (i) is a registered
+     investment adviser under the Investment Advisers Act of 1940, (ii) has
+     the sole power to dispose or to direct the disposition of all of such
+     shares and (iii) has the sole power to vote or direct the vote as to
+     260,500 shares and shared power to vote or to direct the vote as to
+     95,100 shares.  The principal address of Babson is One Memorial Drive,
+     Cambridge, Massachusetts 02142-1300.
+
+(3)  The address of Mr. Wirth is Sonnenbergstrasse 55, CH-8032, Zurich,
+     Switzerland.
+
+(4)  As reflected in Amendment No. 2 to Schedule 13G dated February 14, 1996.
+     According to T. Rowe Price Associates, Inc. ("Price Associates"), these
+     shares are all owned by T. Rowe Price Small Cap Value Fund, Inc., a
+     registered investment company, for which Price Associates, a registered
+     investment adviser under the Investment Advisers Act of 1940, serves as
+     investment adviser with power to direct investments and/or sole power to
+     vote the shares.  For purposes of the reporting requirements of the
+     Securities Exchange Act of 1934, as amended, Price Associates is deemed
+     to be a beneficial owner of such shares; however, Price Associates
+     expressly disclaims that it is, in fact, the beneficial owner of such
+     shares.  The principal address of Price Associates is 100 East Pratt
+     Street, Baltimore, Maryland  21202.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -3-
+<PAGE>   6
+(5)  As reflected in Amendment No. 5 to Schedule 13G dated January 31, 1995.
+     According to Dimensional Fund Advisors Inc. ("Dimensional"), a registered
+     investment adviser under the Investment Advisers Act of 1940, it was
+     deemed to have beneficial ownership of 162,400 shares as of December 31,
+     1994, all of which shares were held in portfolios of DFA Investment
+     Dimensions Group Inc., a registered open-end investment company, or in a
+     series of the DFA Investment Trust Company, a Delaware business trust
+     company, or the DFA Group Trust and the DFA Participation Group Trust,
+     investment vehicles for qualified employee benefit plans, as to all of
+     which Dimensional serves as investment manager.  Dimensional disclaims
+     beneficial ownership of all such shares.  Dimensional has a principal
+     business address at 1299 Ocean Avenue, 11th Floor, Santa Monica,
+     California 90401.
+
+(6)  Includes with respect to Mr. Beebe 7,000 shares, Mr. Cloues 10,000
+     shares, Dr. Schurmann 7,500 shares, Mr. Weinberg 11,000 shares, Mr. Cohen
+     10,000 shares, Mrs. Sisco 7,500 shares and Mr. Pinola 7,500 shares, all
+     of which shares are subject to presently exercisable installments of
+     options.
+
+(7)  Includes 54,964 shares as to which Mr. Beebe shares investment and voting
+     power with his wife.
+
+(8)  Based on information provided to the Company as of August 21, 1995,
+     includes 20 shares owned of record by Mr. Rohr as custodian for his son.
+     Mr. Rohr disclaims beneficial ownership as to all such shares.
+
+(9)  Includes 2,000 shares owned by Mr. Weinberg's wife, as to which Mr.
+     Weinberg disclaims beneficial ownership.
+
+(10) Includes 60,500 shares subject to presently exercisable installments of
+     options.
+
+
+                         MATTERS CONCERNING DIRECTORS
+
+ELECTION OF DIRECTORS
+
+     The Board of Directors currently consists of seven directors and is
+classified with respect to terms of office into four classes.  Each Class III
+director elected at the Annual Meeting will serve until the 2000 annual
+meeting of shareholders and until such director's successor has been elected
+and qualified, except in the event of such director's earlier death,
+resignation or removal.  The terms of office of the Class I, Class II and
+Class IV directors will expire at the annual meetings to be held in 1998, 1999
+and 1997, respectively, upon the election and qualification of their
+successors.
+
+     The Board of Directors, acting on the recommendation of its Nominating
+Committee, has nominated Mr. Norman Cohen and Mr. Richard J. Pinola for
+election as the Class III directors.
+
+     The persons named as proxy agents in the enclosed Proxy Card intend
+(unless instructed otherwise by a shareholder) to vote for the election of Mr.
+Norman Cohen and Mr. Richard J. Pinola as the Class III directors.  In the
+event that a nominee should become unable to accept nomination or election (a
+circumstance which the Board of Directors does not expect), the proxy agents
+intend to vote for any alternate nominee designated by the Board of Directors
+or its Executive Committee or, in the discretion of the Board or its Executive
+Committee, the position may be left vacant.
+
+     THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE FOR EACH CLASS III
+NOMINEE.
+
+     Set forth below is certain information with respect to each nominee for
+director and each other person currently serving as a director of the Company
+whose term of office will continue after the Annual Meeting,
+
+
+
+
+
+
+                                      -4-
+<PAGE>   7
+
+including the class and term of office of each such person.  This information
+has been provided by each director at the request of the Company.
+
+     Class I--Directors with Terms Continuing until 1998
+
+     DR. HANS-JURG SCHURMANN.  Dr. Schurmann has been a director since
+November 1993 and was most recently reelected at the 1994 annual meeting of
+shareholders.  Dr. Schurmann is a senior partner in the law firm of Schurmann,
+Rausch & Rohrer in Zurich, Switzerland, and has been a partner in that firm
+since 1979.  Dr. Schurmann serves on the boards of numerous European
+companies, including Instinet AG (Switzerland), Bellaplast Holding AG
+(Switzerland) and Discorack-NCO AG (Switzerland).  Dr. Schurmann is 51 years
+of age.
+
+     JEAN HEAD SISCO.  Mrs. Sisco has been a director since September 1993 and
+was most recently reelected at the 1994 annual meeting of shareholders.  Since
+1979, Mrs. Sisco has been a partner in Sisco Associates, a management
+consulting firm based in Washington, D.C. which specializes in international
+risk and trade analysis.  Mrs. Sisco serves as a director of Textron, Inc.,
+Santa Fe Pacific Gold Corporation, Chiquita Brands International, The
+Neiman-Marcus Group, Washington Mutual Investors Fund and American Funds
+Tax-Exempt Series II.  She is also a past Chairman of the National 
+Association of Corporate Directors and was the first woman director of the 
+Metropolitan Washington Board of Trade.  Mrs. Sisco is 70 years of age.
+
+     Class II--Director with Term Continuing until 1999
+
+     JOHANNES WIRTH.  Mr. Wirth has been a director since May 1978 and was
+most recently reelected at  the 1995 annual meeting of shareholders.  Since
+November 1993, Mr. Wirth has been an employee of Digisens SA, a manufacturer
+of weighing systems, and from time to time has served as a consultant in
+measurement technology.  Since 1983, he has been an owner and Managing
+Director of Wirth Gallo Messtechnik AG, a Swiss research firm specializing in
+weighing and measuring techniques, which ceased active operations in late
+1993.  Mr. Wirth served as a consultant to the Company from April 1991 through
+December 1995. (see "Matters Concerning Directors - Other Compensation
+Arrangements").  Mr. Wirth is 64 years of age.
+
+     Class III--Nominees for Terms Continuing until 2000
+
+     NORMAN COHEN.  Mr. Cohen has been a director since 1974 and was most
+recently reelected at the 1992 annual meeting of shareholders.  He was
+Chairman of the Board of Edward Burton Limited, a clothing manufacturer, from
+1986 until 1991, a consultant in the clothing business from 1991 until 1993,
+and since 1993 has been Chairman and Chief Executive Officer of Creative
+Contracting Associates, Inc., a clothing manufacturer.  Mr. Cohen filed a
+petition under chapter 7 of the federal Bankruptcy Code in the United States
+Bankruptcy Court for the Middle District of Florida in September 1993, and was
+discharged in January 1994.  Mr. Cohen is 69 years of age.
+
+     RICHARD J. PINOLA.  Mr. Pinola has been a director since January 1994
+when he was appointed by the Board of Directors to fill a Board vacancy.
+Since January 1994, Mr. Pinola has served as Chairman and Chief Executive
+Officer of Right Management Consultants, Inc., a publicly-held human resource
+consulting and career management firm, and from June 1992 through December
+1993 he was President and Chief Executive Officer of that company.  Prior to
+joining Right Management Consultants, Mr. Pinola was President and Chief
+Operating Officer of Penn Mutual Life Insurance Company from March 1988
+through September 1991 and a consultant from September 1991 until June 1992.
+Mr. Pinola serves as a director of Right Management Consultants, Inc.  He is
+50 years of age.
+
+
+
+
+
+
+
+
+
+
+
+                                      -5-
+<PAGE>   8
+     Class IV--Directors with Terms Continuing until 1997
+
+     LEO C. BEEBE.  Mr. Beebe has been a director since June 1976 and Chairman
+of the Board of Directors and of the Executive Committee since January 1985,
+and he was most recently reelected as a director at the 1993 annual meeting of
+shareholders.  Mr. Beebe has been the Chief Executive Officer of the Company
+since June 30, 1995, and he also served as Chief Executive Officer from July
+1985 until August 1992.  Mr. Beebe was Dean of the School of Business
+Administration of Glassboro State College, Glassboro, New Jersey from July
+1977 to July 1985 and a Professor of Marketing at Glassboro State College from
+1972 to July 1985.  Prior to that time, he served at Ford Motor Company for 27
+years in various capacities in the United States and foreign countries,
+including as General Marketing Manager of Ford's Lincoln-Mercury Division,
+Vice President of Marketing and Planning and a director of Ford Motor Company
+of Canada, and Executive Vice President and General Manager of the Consumer
+Products Division and a director of Philco Ford Corporation.  Mr. Beebe is 78
+years of age.
+
+     EDWARD B. CLOUES, II.  Mr. Cloues has been a director since July 1985 and
+was most recently reelected at the 1993 annual meeting of shareholders.  He
+has served as Secretary of the Company since May 1985 and was Vice Chairman of
+the Board of Directors from August 1988 until November 1994.  Mr. Cloues is a
+senior partner in the law firm of Morgan, Lewis & Bockius LLP, which serves as
+the Company's general counsel, and has been a partner in that firm since 1979.
+Mr. Cloues is also a director and Chairman of the Board of AMREP Corporation
+and a member of the Advisory Board of American Manufacturing Corporation.  He
+is 48 years of age.
+
+COMMITTEES AND MEETINGS
+
+     The Board of Directors has an Executive Committee, an Audit and Finance
+Committee, a Compensation and Human Resources Committee, a Nominating
+Committee and a Stock Option Committee.  During fiscal year 1995, the Board of
+Directors held eleven meetings (including two by conference telephone), the
+Executive Committee held three meetings (all by conference telephone), the
+Audit and Finance Committee held three meetings, the Stock Option Committee
+held one meeting and the Compensation and Human Resources Committee and the
+Nominating Committee did not meet.  Each director attended at least 75% of the
+aggregate of the meetings of the Board of Directors held during 1995 and of
+the committee or committees on which he or she served during the year.  The
+Executive Committee is empowered to exercise all powers of the Board of
+Directors, except action on dividends and certain other matters which cannot
+by law be delegated by the Board, during the periods between regular Board
+meetings.  The Audit and Finance Committee is responsible for recommending to
+the Board the firm to be employed by the Company as its independent
+accountants and auditors, consulting with such firm as to the annual audit and
+the adequacy of internal controls, reviewing the accounting controls,
+practices and policies of the Company and reviewing budgets, cash and debt
+management and financial matters generally.  The Compensation and Human
+Resources Committee recommends to the Board the compensation of the Company's
+chief executive officer, reviews and takes action on the chief executive
+officer's recommendations as to the appropriate compensation of the Company's
+other officers and key personnel, approves the granting of any bonuses to
+officers, reviews other compensation and personnel development matters
+generally and recommends to the Board the compensation of non-management
+directors.  The Nominating Committee's duties are to evaluate Board
+performance and recommend to the Board nominees for election as directors, to
+recommend to the Board the membership of Board committees and to recommend to
+the Board a successor to the chief executive officer when a vacancy occurs.
+The Stock Option Committee is responsible for administering the Company's 1986
+Stock Option Plan.  The current members of the Executive Committee are Messrs.
+Beebe (Chairman), Cloues and Cohen; of the Audit and Finance Committee,
+Messrs. Cloues (Chairman) and Pinola, Dr. Schurmann and Mrs. Sisco; of the
+Compensation and Human Resources Committee, Messrs. Cohen (Chairman) and
+Pinola and Mrs. Sisco; of the Nominating Committee, Messrs. Cloues (Chairman)
+and Wirth; and of the Stock Option Committee, Messrs. Cohen and Pinola and
+Mrs. Sisco.
+
+
+
+
+
+
+                                      -6-
+<PAGE>   9
+STANDARD COMPENSATION ARRANGEMENTS
+
+     Directors who are not employees of the Company receive an annual retainer
+of $12,500, a $2,000 annual retainer for each membership on any of the Audit
+and Finance Committee, the Compensation and Human Resources Committee and the
+Nominating Committee, a $1,000 annual retainer for membership on the Executive
+Committee, $1,000 for each Board meeting attended and $750 for each Executive
+Committee meeting attended provided that, in the case of Executive Committee
+meetings, such meetings either require substantial preparation or last two
+hours or more.  All retainers are paid on a prorated bi-monthly basis.
+Directors generally do not receive compensation for their participation in
+telephone meetings or for attendance at other committee meetings.
+Non-employee directors are also eligible to receive a bonus in an amount which
+would be a percentage of each such director's compensation for the year in
+question and would be determined by the Compensation and Human Resources
+Committee at the same time that executive bonuses, if any, are determined by
+that Committee.  It is contemplated that any such director bonuses would thus
+be related to corporate performance on a basis similar to that used by the
+Compensation and Human Resources Committee to relate senior executive bonuses
+to corporate performance.  No bonuses were paid to non-employee directors for
+fiscal year 1995.  As of March 1, 1995, the Board agreed to forego all
+retainer fees until otherwise determined by the Board.  These retainer fees
+were resumed as of January 1, 1996.  Finally, under the Company's 1988
+Non-Employee Directors Stock Option Plan (the "1988 Plan"), each director of
+the Company who is neither an employee of the Company nor the beneficial owner
+of 3% or more of its outstanding Common Stock receives, upon the later of the
+adoption of the 1988 Plan or his or her election as a director, a single
+non-qualified stock option to purchase 10,000 shares of Common Stock during
+the ten-year term of the option at an exercise price equal to the fair market
+value of such stock as of the date of option grant.
+
+OTHER COMPENSATION ARRANGEMENTS
+
+     From April 1991 through December 1995, Mr. Wirth, who is also a principal
+shareholder of the Company, was retained as a consultant by the Company.
+Under this arrangement, he provided technical assistance and advice on such
+matters as were referred to him by the chief executive officer of the Company.
+From April 1991 through February 28, 1995, he devoted approximately 1,000
+hours per year to such work and was paid an annual consulting fee of 100,000
+Swiss francs ("Sfr.") plus Sfr. 10,000 for travel expenses.  Effective March
+1, 1995, Mr. Wirth's annual consulting fee was reduced to Sfr. 50,000 plus
+Sfr. 5,000 for travel expenses, with a commensurate reduction in his hourly
+consulting commitment to approximately 500 hours per year, and at the end of
+1995 Mr. Wirth's consulting arrangement with the Company terminated.  During
+1995, Mr. Wirth received a consulting fee for these services of Sfr. 58,355
+plus Sfr. 5,834 for travel expenses (an aggregate of $54,415 at an exchange
+rate of $.848 per Sfr., which was the average $/Sfr. exchange rate for 1995).
+Mr. Wirth may continue to provide consulting services to the Company in 1996
+if requested by the chief executive officer of the Company's Swiss subsidiary.
+
+REQUIREMENTS FOR ADVANCE NOTIFICATION OF NOMINATIONS
+
+     Article Ninth of the Restated Certificate of Incorporation of the Company
+provides that no person may be nominated for election as a director by a
+shareholder at an annual or special meeting unless written notice of such
+shareholder's intent to make such nomination has been given, either by
+personal delivery or by United States mail, postage prepaid, to the Secretary
+of the Company at the principal executive offices of the Company not later
+than (i) with respect to an election to be held at an annual meeting of
+shareholders, 90 days in advance of such meeting and (ii) with respect to an
+election to be held at a special meeting of shareholders for the election of
+directors, the close of business on the seventh day following the date on
+which notice of such meeting is first given to shareholders.  Each such notice
+shall set forth: (a) the name and address of the shareholder who intends to
+make the nomination and of the person or persons to be nominated; (b) a
+representation that the shareholder is a holder of record of stock of the
+Company entitled to vote at such meeting and intends to appear in person or by
+proxy at the meeting to nominate the person or persons specified in the
+notice; (c) a description of all arrangements or understandings between the
+shareholder and each nominee
+
+
+
+
+                                      -7-
+<PAGE>   10
+and any other person or persons (naming such person or persons) pursuant to
+which the nomination or nominations are to be made by the shareholder; (d)
+such other information regarding each nominee proposed by such shareholder as
+would be required to be included in a proxy statement filed pursuant to the
+proxy rules of the Securities and Exchange Commission had the nominee been
+nominated, or intended to be nominated, by the Board of Directors; and (e) the
+consent of each nominee to serve as a director of the Company if so elected.
+The chairman of the meeting may refuse to acknowledge the nomination of any
+person not made in compliance with the foregoing procedure.
+
+
+                           APPROVAL OF EXTENSION OF
+                          K-TRON INTERNATIONAL, INC.
+                         EMPLOYEE STOCK PURCHASE PLAN
+
+     At the Annual Meeting, there will be presented to the shareholders a
+proposal to approve the extension of the K-Tron International, Inc. Employee
+Stock Purchase Plan (the "Stock Purchase Plan").
+
+     The Stock Purchase Plan was adopted by the Board of Directors of the
+Company and approved by the shareholders in 1981.  On February 24, 1986, the
+Board of Directors voted to extend the Stock Purchase Plan until June 30,
+1996, which extension was approved by the shareholders on May 2, 1986.  On
+March 8, 1996, the Board of Directors voted to further extend the Stock
+Purchase Plan until June 30, 2001, subject to shareholder approval.
+
+     The Stock Purchase Plan is designed to encourage eligible employees of
+the Company and its participating subsidiaries to own stock in the Company by
+providing such employees with the opportunity to purchase Common Stock through
+payroll deductions at a discount from market value.  The principal terms of
+the Stock Purchase Plan are described below.
+
+DESCRIPTION OF THE STOCK PURCHASE PLAN
+
+     Shares Subject to the Stock Purchase Plan.  Subject to adjustment under
+the anti-dilution provisions discussed below, 250,000 shares of Common Stock
+were originally reserved under the Stock Purchase Plan in 1981, and in 1986
+the Board increased the number of shares reserved under the Stock Purchase
+Plan by 250,000 shares to a total of 500,000 shares.  Both the adoption of the
+Stock Purchase Plan in 1981 and the 1986 increase in the number of shares
+reserved thereunder were approved by the Company's shareholders.  As of
+December 31, 1995, 366,210 shares of Common Stock had been issued under the
+Stock Purchase Plan, leaving a balance of 133,790 shares available to be
+issued.
+
+     Plan Administration.  The Stock Purchase Plan is administered by an
+Administrative Committee (the "Administrative Committee") appointed by the
+Board.  The Administrative Committee has the authority and power to administer
+the Stock Purchase Plan and to make, adopt, construe and enforce rules and
+regulations not inconsistent with the provisions of the Stock Purchase Plan.
+The Administrative Committee also adopts and prescribes the contents of all
+forms used in connection with the administration of the Stock Purchase Plan.
+The Administrative Committee's interpretations and decisions with respect to
+the Stock Purchase Plan are final and conclusive.  The Administrative
+Committee is currently comprised of Messrs. Beebe, Weinberg and Alan Sukoneck
+(the Company's Vice President and Controller).  All costs and expenses
+incurred in connection with the administration of the Stock Purchase Plan are
+paid by the Company.
+
+     Eligibility.  Each employee of the Company and its participating
+subsidiaries (excluding part-time employees who are employed for less than 20
+hours per week or less than five months in any year and employees owning 5% or
+more of the Company's Common Stock) who has completed at least 12 months of
+continuous service (exclusive of certain excused absences) is eligible to
+participate in the Stock Purchase Plan.
+
+
+
+
+
+
+
+
+
+                                      -8-
+<PAGE>   11
+All of the Company's material subsidiaries currently participate in the Stock
+Purchase Plan.  As of December 31, 1995, 430 employees were eligible to
+participate in the Stock Purchase Plan.
+
+     The Stock Purchase Plan provides that an excused absence cannot exceed
+the greater of 90 days or the period during which the employee has a
+contractual or statutory right to reemployment.
+
+     Participation by eligible employees in the Stock Purchase Plan is
+voluntary; an eligible employee who elects to participate in the Stock
+Purchase Plan must execute a stock purchase agreement in the form approved by
+the Administrative Committee and thereafter may withdraw at any time, without
+penalty or loss of benefits, by filing an appropriate notice of withdrawal.
+
+     Stock Purchases.  Each participant directs the Company or applicable
+subsidiary to deduct from 2% to 10% of his or her total compensation
+(including wages, overtime payments, bonuses and commissions but excluding
+certain fringe benefits) for the purpose of purchasing Common Stock under the
+Stock Purchase Plan.  The level of this payroll deduction may be decreased by
+the participant at any time, but such level may not be increased within any
+six-month purchase period.
+
+     Each participant's payroll deduction is used to fund his or her
+non-interest bearing stock purchase account under the Stock Purchase Plan.  On
+June 30 and December 31 of each year (an "Exercise Date"), all amounts
+credited to each participant's stock purchase account as of the preceding
+tenth business day are automatically used to purchase Common Stock from the
+Company.
+
+     Limitations on Purchases.  Purchases for the account of any participant
+under the Stock Purchase Plan in any six-month purchase period are limited to
+the lesser of 5,000 shares or the maximum number of whole shares of Common
+Stock which can be purchased with the funds in such participant's stock
+purchase account.  In addition, purchases will not be made under the Stock
+Purchase Plan on behalf of any participant to the extent they will exceed
+$25,000 in aggregate market value (determined as described below) in any
+calendar year or will cause the participant to own 5% or more of the Company's
+Common Stock.  Any amounts in the participant's stock purchase account which
+cannot be applied to purchase stock by reason of any of the foregoing limits
+remain in such account until they can be applied to purchase Common Stock in a
+manner consistent with such limits or until withdrawn by the participant.
+
+     In the event that sufficient shares are not available under the Stock
+Purchase Plan to fill all purchases required as of an Exercise Date, each
+participant will purchase his or her pro rata amount of the available shares.
+
+     Purchase Price.  The purchase price per share of all Common Stock sold to
+participants under the Stock Purchase Plan is 85% of the market value of the
+shares as of the first or last date of each six-month purchase period,
+whichever market value is lower.  Under the Stock Purchase Plan, such market
+value is equal to the closing price (or the average of the closing bid and
+asked prices) of the Company's Common Stock as reported on the principal
+market, trading system or exchange (as determined by the Administrative
+Committee) on which the stock is traded as of the applicable date (or the next
+preceding date on which a sale took place).
+
+     Termination of Eligibility.  If a participant ceases to be an eligible
+employee under the Stock Purchase Plan for any reason, no further amounts are
+deducted from his or her compensation and deposited into his or her stock
+purchase account.  The amounts then outstanding in such participant's account
+are applied on the next Exercise Date for the purchase of Common Stock, with
+any balance remaining being refunded to the participant, provided that if a
+participant's continuous service terminates for any reason three months or
+more prior to the next Exercise Date, the entire amount then outstanding in
+such participant's stock purchase account is refunded.
+
+
+
+
+
+
+
+
+                                      -9-
+<PAGE>   12
+     Share Ownership; Issuance of Certificates.  The shares purchased by a
+participant on an Exercise Date are deemed to have been issued at the close of
+business on such Exercise Date.  Prior to that time, a participant does not
+possess any of the rights or privileges of a shareholder of the Company with
+respect to such shares.  Certificates for all shares of Common Stock purchased
+under the Stock Purchase Plan are delivered by the Company in the manner
+determined by the Administrative Committee, but certificates for shares
+acquired by participants during any plan year must be delivered not later than
+120 days following the last day of such year.
+
+     A participant's rights under the Stock Purchase Plan are not
+transferable, except by will and the laws of descent and distribution.
+
+     Anti-Dilution Provisions.  The aggregate number of shares of Common Stock
+reserved for purchase under the Stock Purchase Plan, and the calculation of
+the purchase price per share, may be appropriately adjusted to reflect any
+increase or decrease in the number of issued shares of Common Stock resulting
+from a subdivision or consolidation of shares or other capital adjustment, or
+the payment of a stock dividend, or other increase or decrease in such shares,
+if effected without receipt of consideration by the Company.  Any such
+adjustment will be made by the Administrative Committee acting with the
+consent of, and subject to the approval of, the Board of Directors.
+
+     Effect of Certain Transactions.  In the event of the dissolution or
+liquidation of the Company, or of a merger or consolidation in which the
+Company is not the surviving corporation, the Stock Purchase Plan shall
+terminate upon the effective date of such dissolution, liquidation, merger or
+consolidation, and the balance then standing to the credit of each participant
+in his or her stock purchase account will be returned to such participant.
+
+     Amendments.  The Board of Directors may, at any time and from time to
+time, amend the Stock Purchase Plan in any respect, except that no amendment
+may, without the approval of the shareholders:  (a) increase the number of
+shares reserved for purposes of the Stock Purchase Plan (except pursuant to
+the anti-dilution provisions described above); (b) reduce the purchase price
+per share (except pursuant to the anti-dilution provisions described above);
+or (c) allow any class of persons not included within the definition of
+eligible employees to participate.
+
+     Expiration and Termination.  The Board of Directors has extended the term
+of the Stock Purchase Plan through June 30, 2001, subject to shareholder
+approval.  The Board has the right to terminate the Stock Purchase Plan at any
+time prior thereto without prior notice to any participant.  Upon the
+expiration or termination of the Stock Purchase Plan, any balance then
+credited to a participant's stock purchase account will be refunded to the
+participant.
+
+     Governing Law.  The Stock Purchase Plan is governed by the laws of the
+State of New Jersey, to the extent not in conflict with or superseded by
+federal law.
+
+     Federal Income Tax Consequences.  The Stock Purchase Plan is intended to
+qualify as an "employee stock purchase plan" within the meaning of Section 423
+of the Internal Revenue Code of 1986, as amended (the "Code"), and to comply
+also with the provisions of Sections 421 and 424 of the Code and the rules and
+regulations issued thereunder.
+
+     Under the Code as currently in effect, a participant will not be deemed
+to have received income, nor will the Company be entitled to a deduction, upon
+the participant's acquisition of Common Stock pursuant to the Stock Purchase
+Plan.  A participant who acquires shares under the Stock Purchase Plan will,
+however, be taxable as of the earlier of the year in which he or she sells or
+otherwise disposes of such shares, or the year of the participant's death.
+
+
+
+
+
+
+
+
+
+
+                                     -10-
+<PAGE>   13
+     In the event that a participant sells shares acquired under the Stock
+Purchase Plan more than two years after the first day (the "Offering Date") of
+the six-month period in which such shares were acquired, the participant is
+taxed at ordinary income rates in the year of the sale on the lesser of:  (1)
+the excess of the market value on the applicable Offering Date over the price
+paid for such shares, or (2) the amount by which the proceeds of the sale
+exceed the participant's purchase price for such shares.  In addition, the
+participant will have a long-term capital gain or loss equal to the
+difference, if any, between the proceeds of sale and his or her basis in the
+shares sold (the purchase price plus any ordinary income realized).  The
+Company will not be entitled to any tax deduction with respect to a sale by a
+participant after the two-year period referred to above.
+
+     In the event that a participant sells shares within two years of the
+applicable Offering Date, the participant will be taxed at ordinary income
+rates in the year of the sale on the amount by which the market value of the
+shares on the applicable Exercise Date exceeded the purchase price paid by the
+participant and the Company will be entitled to a corresponding deduction.  In
+addition, the participant will also, generally, be taxable for the capital
+gain or loss (long-term or short-term depending upon the length of the holding
+period) equal to the difference between the proceeds of the sale and the
+participant's basis in the shares sold (the purchase price plus any ordinary
+income realized).
+
+     New Plan Benefits.  It is not possible to determine how many eligible
+employees will participate in the Stock Purchase Plan in the future.
+Therefore, it is not possible to determine with certainty the dollar value or
+number of shares of Common Stock that will be distributed under the Stock
+Purchase Plan.  However, assuming that each executive officer purchases in
+1996 the maximum number of shares of Common Stock which he can purchase under
+the Stock Purchase Plan and that the aggregate number of shares of Common
+Stock purchased by all participants, other than the executive officers, under
+the Stock Purchase Plan in 1996 is equal to two times the number of shares of
+Common Stock purchased by such group on the December 31, 1995 Exercise Date,
+then based on a per share price of $6.50 (the closing price of the Company's
+Common Stock on The Nasdaq Stock Market on March 8, 1996), the benefit of
+extending the Stock Purchase Plan during 1996 will be as follows:
+
+<TABLE>
+<CAPTION>
+                Name                   Dollar Value ($)     Number of Shares
+                ----                   ----------------     ----------------
+ <S>                                       <C>                   <C>
+ Leo C. Beebe  . . . . . . . . . .          20,000                3,616
+
+ Robert L. Weinberg  . . . . . . .          15,000                2,712
+
+ Executive Group . . . . . . . . .          35,000                6,328
+
+ Non-Executive Officer Employee
+ Group . . . . . . . . . . . . . .          79,251               14,331
+</TABLE>
+
+         THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE "FOR" APPROVAL OF
+THE EXTENSION OF THE EMPLOYEE STOCK PURCHASE PLAN TO JUNE 30, 2001.
+
+
+                    APPROVAL OF K-TRON INTERNATIONAL, INC.
+                         1996 EQUITY COMPENSATION PLAN
+
+     At the Annual Meeting, there will also be presented to the shareholders a
+proposal to approve the adoption of the K-Tron International, Inc. 1996 Equity
+Compensation Plan (the "Equity Compensation Plan").  On March 8, 1996, the
+Equity Compensation Plan was adopted by the Board of Directors of the Company,
+subject to shareholder approval.  The Equity Compensation Plan will replace
+the Company's 1986 Stock Option Plan which expired by its terms on January 5,
+1996.
+
+
+
+
+                                     -11-
+<PAGE>   14
+     The Equity Compensation Plan provides for grants of (i) stock options
+("Stock Options"), (ii) stock appreciation rights ("SARs") and (iii)
+restricted stock ("Restricted Stock Grants") to employees of the Company and
+its subsidiaries (collectively referred to as "Grants").  The Company believes
+that the Equity Compensation Plan will provide an incentive to the
+participants to contribute to the long-term growth of the Company, will align
+the economic interests of the participants with those of the shareholders and
+will aid the Company and its subsidiaries in attracting and retaining officers
+and employees of outstanding ability.  The principal terms of the Equity
+Compensation Plan are discussed below.
+
+DESCRIPTION OF THE EQUITY COMPENSATION PLAN
+
+     General.  The Equity Compensation Plan authorizes up to 450,000 shares of
+Common Stock for issuance pursuant to the terms of the Equity Compensation
+Plan, subject to adjustment in certain circumstances as discussed below.  If
+and to the extent Stock Options granted under the Equity Compensation Plan
+terminate, expire or are cancelled without being exercised, or if any shares
+of restricted stock are forfeited, the shares subject to such Stock Options or
+Restricted Stock Grants will become available again for purposes of the Equity
+Compensation Plan.  No grantee may receive Grants for more than an aggregate
+of 100,000 shares of Common Stock during any one year period.
+
+     Administration of the Equity Compensation Plan.  The Equity Compensation
+Plan provides that it is to be administered and interpreted by a committee
+(the "Committee") of two or more two persons appointed by the Board of
+Directors from among its members, each of whom must be a "disinterested
+person" as defined in Rule 16b-3 under the Securities Exchange Act of 1934, as
+amended (the "Exchange Act"), and an "outside director" as defined by section
+162(m) of the Code.  Upon its adoption of the Equity Compensation Plan, the
+Board designated a Committee meeting these tests, consisting of Messrs. Cohen
+and Pinola and Mrs. Sisco.  The Committee has the sole authority to determine
+(i) persons to whom Grants may be awarded under the Equity Compensation Plan
+(the "Grantees"), (ii) the type, size and other terms and conditions of each
+Grant, (iii) the time when the Grants will be made and the duration of any
+applicable exercise or restriction period, including the criteria for vesting
+and the acceleration of vesting, and (iv) any other matters arising under the
+Equity Compensation Plan.
+
+     The Committee also has full power and authority to administer and
+interpret the Equity Compensation Plan, to make factual determinations and to
+adopt or amend such rules, regulations, agreements and instruments for
+implementing the Equity Compensation Plan and for the conduct of its business
+as it deems necessary or advisable, in its sole discretion.
+
+     Grants.  All Grants are subject to the terms and conditions of the Equity
+Compensation Plan and to those other terms and conditions consistent with the
+Equity Compensation Plan as the Committee deems appropriate and as are
+specified in writing by the Committee to the designated Grantee (the "Grant
+Letter").  The Committee must approve the form and provisions of each Grant
+Letter.  Grants under the Equity Compensation Plan need not be uniform as
+among other recipients of the same type of Grant.
+
+     Eligibility for Participation.  All employees employed by the Company and
+its subsidiaries (including employees who are officers or members of the Board
+of Directors) are eligible to participate in the Equity Compensation Plan.  As
+of March 8, 1996, approximately 471 employees were eligible for Grants under
+the Equity Compensation Plan.  The Compensation Committee is authorized to
+select the persons to receive Grants from among those eligible and to
+determine the number of shares of Common Stock that is subject to each Grant.
+
+
+     Stock Options.  The Committee may grant Stock Options intended to qualify
+as incentive stock options ("ISOs") within the meaning of section 422 of the
+Code or so-called "nonqualified stock options" that are not intended to so
+qualify ("NQSOs") or any combination of ISOs and NQSOs.
+
+
+
+
+
+
+
+                                     -12-
+<PAGE>   15
+     The Committee fixes the option price per share at the date of Grant.  The
+option price per share of any NQSO granted under the Equity Compensation Plan
+may be equal to, greater than or less than the fair market value of an
+underlying share of Common Stock on the date of grant.  The option price per
+share of any ISO granted under the Equity Compensation Plan may not be less
+than the fair market value of an underlying share of Common Stock on the date
+of grant.  However, if the Grantee of an ISO is a person who holds more than
+10% of the combined voting power of all classes of outstanding stock of the
+Company, the option price per share of an ISO must be at least 110% of the
+fair market value of a share of Common Stock on the date of grant.  To the
+extent that the aggregate fair market value of shares of Common Stock,
+determined on the date of grant, with respect to which ISOs granted under the
+Equity Compensation Plan and any other plan become exercisable for the first
+time by a Grantee during any calendar year exceeds $100,000, such ISOs, to the
+extent of such excess, must be treated as NQSOs.  Currently, the measure of
+fair market value of a share of Company Common Stock on a particular date is
+the closing sale price of a share of Common Stock as reported on the National
+Market segment of The Nasdaq Stock Market on that date.  On March 8, 1996, the
+closing price of the Company's Common Stock as so reported was $6.50 per
+share.
+
+     The Committee determines the term of each Stock Option, which may not
+exceed ten years from the date of grant or, if the Grantee of an ISO is a
+person who holds more than 10% of the combined voting power of all classes of
+outstanding stock of the Company, five years from the date of grant.  The
+vesting period for Stock Options, if any, will be as determined by the
+Committee, in its sole discretion, and specified in the Grant Letter.  The
+Committee, in its sole discretion, may accelerate the exercisability of any
+Stock Option.  A Grantee may exercise a Stock Option by delivering notice of
+exercise to the Committee with accompanying payment of the option price.  The
+Grantee may pay the option price in cash or, with the approval of the
+Committee, by delivering shares of Company Common Stock owned by the Grantee
+(including Common Stock acquired in connection with the exercise of a Stock
+Option, subject to such restrictions as the Committee deems appropriate) and
+having a fair market value on the date of exercise equal to the option price,
+or with a combination of cash and shares of Common Stock.   Payment may be
+made through a broker in accordance with procedures permitted by Regulation T
+of the Federal Reserve Board.  The Grantee must pay, at the time of exercise,
+the option price and the amount of any federal, state or local withholding tax
+due in connection with such Stock Option exercise.
+
+     Termination of Stock Options as a Result of Termination of Employment,
+Disability or Death.  If a Grantee ceases to be an employee of the Company or
+its subsidiaries  for any reason other than disability, death or termination
+for cause, such person's Stock Options will terminate 30 days following the
+date on which he or she ceases to be an employee.  If a Grantee's employment
+ceases due to a disability within the meaning of Section 22(e)(3) of the Code,
+the Grantee's Stock Options will terminate one year following the date on
+which he or she ceases to be an employee.  In the event of the death of a
+Grantee, while providing such service or within 30 days after he or she ceases
+to be an employee, such Stock Options will terminate one year from the date of
+death.  If a Grantee's service ceases due to termination by the Company for
+cause (as defined in the Equity Compensation Plan), the Grantee's Stock
+Options will terminate immediately.  However, in each case described above,
+the Committee may specify a different termination date, but in any event no
+later than the date of expiration of the option term.
+
+     Restrictions on Transferability of Stock Options.  Subject to the
+exceptions set forth in the following sentence, no Stock Option granted under
+the Equity Compensation Plan may be transferred, except by will or the laws of
+descent and distribution.  However, (i) an NQSO may be transferred pursuant to
+a "qualified domestic relations order," within the meaning of the Code or of
+Title I of the Employee Retirement Income Security Act of 1974, as amended and
+(ii) the Committee may provide, in a Grant Letter, that a Grantee may transfer
+NQSOs to his or her children, grandchildren or spouse or to one or more trusts
+for the benefit of such family members or to partnerships in which such family
+members are the only partners, provided that the Grantee receives no
+consideration for the transfer and the Grant Letters relating to the
+transferred NQSOs continue to be subject to the same terms and conditions that
+were applicable immediately prior to such transfer.
+
+
+
+                                     -13-
+<PAGE>   16
+     Restricted Stock Grants.  The Committee may issue shares of Common Stock
+to a Grantee under a Restricted Stock Grant for consideration or no
+consideration, at the sole discretion of the Committee.  The Grant Letter
+relating to a Restricted Stock Grant will provide for a period (the
+"Restriction Period") during which the Grant will remain subject to certain
+restrictions as determined by the Committee, including restrictions on
+transferability or restrictions related to performance.  During the
+Restriction Period, a Grantee may not sell, assign, transfer, pledge or
+otherwise dispose of the shares of Common Stock to which such Restriction
+Period applies, except as permitted by the Committee.  If a Grantee's
+employment terminates during the Restriction Period, the Restricted Stock
+Grant terminates with respect to all shares of Common Stock covered by the
+Grant as to which the restriction has not lapsed, and those shares of Common
+Stock will be forfeited by the Grantee.  All restrictions imposed under the
+Restricted Stock Grant lapse upon the expiration of the applicable Restriction
+Period in the case of restrictions on transferability and upon the
+satisfaction of any restrictions in the case of restrictions related to
+performance.  In addition, the Committee may determine as to any Restricted
+Stock Grant that any or all restrictions will lapse under such other
+circumstances as it deems appropriate.
+
+     Stock Appreciation Rights.  The Committee may grant SARs in tandem with
+any Stock Option.  The exercise price of an SAR will be the greater of (i) the
+exercise price of the related Stock Option or (ii) the fair market value of a
+share of Common Stock on the date of grant of the SAR, unless the Committee
+determines otherwise.  When the Grantee exercises an SAR, the Grantee will
+receive the amount by which the fair market value of the Common Stock on the
+date of exercise exceeds the exercise price of the SAR.  The Grantee may elect
+to have such appreciation paid in cash or in shares of Common Stock, subject
+to Committee approval.  To the extent a Grantee exercises an SAR, the related
+Stock Option shall terminate.  Similarly, upon exercise of the related Stock
+Option, the SAR shall terminate.
+
+     Amendment and Termination of the Equity Compensation Plan.  The Board of
+Directors may amend or terminate the Equity Compensation Plan at any time.
+Nevertheless, the Board of Directors may not, without obtaining shareholder
+approval, increase the aggregate number (or individual limit for any single
+Grantee) of shares of Common Stock that may be issued under the Equity
+Compensation Plan, modify the requirements as to eligibility for participation
+in the Equity Compensation Plan or make any change that requires shareholder
+approval under Rule 16b-3 of the Exchange Act or section 162(m) of the Code.
+
+     The Equity Compensation Plan will terminate on May 9, 2006 unless
+terminated earlier by the Board of Directors or extended by the Board of
+Directors with approval of the shareholders.  The Equity Compensation Plan
+will become effective on May 10, 1996, subject to the approval of the
+Company's shareholders.
+
+     Amendment and Termination of Outstanding Grants.  A termination or
+amendment of the Equity Compensation Plan that occurs after a Grant is made
+will not result in the termination or amendment of the Grant unless the
+Grantee consents; provided, however, that the Committee may revoke any Grant
+if it is contrary to applicable law, or modify a Grant to bring it into
+compliance with valid and mandatory government regulation.  The termination of
+the Equity Compensation Plan will not impair the power and authority of the
+Committee with respect to outstanding Grants.
+
+     Adjustment Provisions.  If there is any change in the number or kind of
+shares of Common Stock outstanding by reason of a stock dividend, a
+recapitalization, a stock split or combination or exchange of shares, a
+merger, reorganization or consolidation in which the Company is the surviving
+corporation, a reclassification or change in par value or any other
+extraordinary or unusual event affecting the outstanding Common Stock as a
+class without the Company's receipt of consideration, or if the value of
+outstanding shares of Common Stock is substantially reduced due to the
+Company's payment of an extraordinary dividend or distribution, the maximum
+number of shares of Common Stock available for Grants, the maximum number of
+shares of Common Stock which any one individual participating in the Equity
+Compensation Plan may be granted during the term of the Equity Compensation
+Plan, the number of shares covered by outstanding Grants and the price per
+share or the
+
+
+                                     -14-
+<PAGE>   17
+applicable market value of such Grants shall be proportionately adjusted by
+the Committee to reflect any increase or decrease in the number or kind of
+issued shares of Common Stock to preclude the enlargement or dilution of
+rights and benefits under such Grants.
+
+     Change of Control of the Company.  A change of control is defined as (i)
+a liquidation or dissolution of the Company or the sale (excluding transfers
+to subsidiaries) of all or substantially all of the Company's assets, (ii) a
+tender offer, stock purchase, other stock acquisition, merger, consolidation,
+recapitalization, reverse split or sale or transfer of assets as a result of
+which any person or group becomes the owner of more than 20% of the Common
+Stock or the combined voting power of the Company's then outstanding
+securities, or (iii) a change in Board composition such that during any period
+of two consecutive years individuals who constitute the Board cease to
+constitute a majority of the Board, except in certain circumstances.
+
+     In the event of a change of control, unless the Committee determines
+otherwise with respect to a change of control described in (ii) above where
+the Company is the surviving corporation, all Stock Options and Restricted
+Stock Grants shall be fully vested and each Grantee may within a specified
+period of time, either exercise his or her Stock Options or surrender his or
+her Stock Options in exchange for a cash payment equal to the excess over the
+purchase price of the then fair market value of the shares of Common Stock
+subject to such options; provided, however, that if cash payment would make
+the applicable change of control ineligible for pooling of interest accounting
+or otherwise ineligible for desired tax treatment, the Grantee will receive
+shares of Common Stock with a fair market value equal to the cash that would
+otherwise be payable under the Equity Compensation Plan.
+
+     Federal Tax Consequences.  There are no federal income tax consequences
+to Grantees or to the Company upon the grant of an NQSO under the Equity
+Compensation Plan.  Upon the exercise of NQSOs, a Grantee will recognize
+ordinary compensation income in an amount equal to the excess of the fair
+market value of the shares of Common Stock at the time of exercise over the
+option price of the NQSO, and the Company generally will be entitled to a
+corresponding federal income tax deduction.  Upon the sale of shares of Common
+Stock acquired by exercise of an NQSO, a Grantee will have a capital gain or
+loss (long-term or short-term depending upon the length of time the shares of
+Common Stock were held) in an amount equal to the difference between the
+amount realized upon the sale and the Grantee's adjusted tax basis in the
+shares of Common Stock (the exercise price plus the amount of ordinary income
+recognized by the Grantee at the time of exercise of the NQSO).
+
+     A Grantee of an ISO will not recognize taxable income for purposes of the
+regular federal income tax upon either the grant or exercise of the ISO.  A
+Grantee who disposes of the shares of Common Stock acquired upon exercise of
+an ISO after two years from the date the ISO was granted and after one year
+from the date such shares were transferred to him or her will recognize
+long-term capital gain or loss in the amount of the difference between the
+amount realized on the sale and the option price (or the Grantee's other tax
+basis in the shares), and the Company will not be entitled to any tax
+deduction by reason of the grant or exercise of the ISO.  As a general rule,
+if a Grantee disposes of the shares of Common Stock acquired upon exercise of
+an ISO before satisfying both holding period requirements (a "disqualifying
+disposition"), his or her gain recognized on such a disposition will be taxed
+as ordinary income to the extent of the difference between the fair market
+value of such shares on the date of exercise and the option price, and the
+Company will be entitled to a deduction in that amount.  The gain, if any, in
+excess of the amount recognized as ordinary income on such a disqualifying
+disposition will be long-term or short-term capital gain, depending upon the
+length of time the Grantee held his or her shares of Common Stock prior to the
+disposition.
+
+     A Grantee normally will not recognize taxable income upon receiving a
+Restricted Stock Grant, and the Company will not be entitled to a deduction,
+until such Common Stock is transferable by the Grantee or no longer subject to
+a substantial risk of forfeiture for federal tax purposes, whichever occurs
+earlier.  When the Common Stock is either transferable by the Grantee or no
+longer subject to a substantial risk of forfeiture, the
+
+
+
+
+                                     -15-
+<PAGE>   18
+Grantee will recognize ordinary compensation income in an amount equal to the
+fair market value of the Common Stock subject to the Restricted Stock Grant
+(less any amount paid for such shares) at that time, and the Company will be
+entitled to a deduction in the same amount.  A Grantee may, however, elect to
+recognize ordinary compensation income in the year the Restricted Stock Grant
+is awarded in an amount equal to the fair market value of the Common Stock
+(less any amount paid for such shares) at that time, determined without regard
+to the restrictions.  In such event, the Company will be entitled to a
+deduction in the same year, provided the Company complies with the applicable
+withholding requirements for federal tax purposes.  Any gain or loss
+recognized by the Grantee upon subsequent disposition of the Common Stock will
+be capital gain or loss (long-term or short-term depending upon the length of
+time the shares were held).  If, after making the election, any Common Stock
+subject to a Restricted Stock Grant is forfeited, or if the market value
+declines during the Restriction Period, the Grantee is not entitled to any tax
+deduction or tax refund.
+
+     A Grantee will not recognize any income upon the grant of an SAR.  Upon
+the exercise of an SAR, a Grantee will recognize ordinary compensation income
+in the amount of both the cash and the fair market value of the shares of
+Common Stock received upon such exercise, and the Company is entitled to a
+corresponding deduction, provided the Company complies with the applicable
+withholding requirements for federal tax purposes.
+
+     Section 162(m).  Under Section 162(m) of the Code, the Company may be
+precluded from claiming a federal income tax deduction for total remuneration
+in excess of $1,000,000 paid to the chief executive officer or to any of the
+other four most highly compensated officers in any one year.  Total
+remuneration would include amounts received upon the exercise of Stock Options
+granted under the Equity Compensation Plan and the value of shares received
+when shares of Restricted Stock become transferable (or such other time when
+income is recognized).  An exception does exist, however, for
+"performance-based compensation," including amounts received upon the exercise
+of stock options and SARs, the option or exercise price for which is at or
+above the fair market value of the underlying shares at the date of grant, and
+which options or SARs are granted pursuant to a plan that has been approved by
+shareholders and meets certain requirements.  The Equity Compensation Plan
+must be approved by shareholders to become effective, and it is anticipated
+that Stock Options and SARs granted thereunder will meet the requirements of
+"performance-based compensation."  Grants of restricted stock generally will
+not qualify as "performance-based compensation."
+
+     New Plan Benefits.  No Grants will be received by or allocated to
+eligible participants as a result of the adoption of the Equity Compensation
+Plan by shareholders.  Future benefits to be received by or allocated to
+eligible participants pursuant to the Equity Compensation Plan are not
+currently determinable.  During the term of the Equity Compensation Plan, the
+Committee may, in its discretion, select Grantees from among the eligible
+participants and determine the number of shares of Common Stock subject to a
+particular Grant.
+
+     THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE "FOR" APPROVAL OF
+THE 1996 EQUITY COMPENSATION PLAN.
+
+
+                            EXECUTIVE COMPENSATION
+
+COMPENSATION
+
+     The following table provides information concerning the annual and
+long-term compensation during fiscal years 1995, 1994 and 1993 of those
+persons who were at any time during the last completed fiscal year the chief
+executive officer and who were at December 30, 1995 the other executive
+officers of the Company, for services rendered by them to the Company and its
+subsidiaries in all capacities.
+
+
+
+
+
+
+
+
+                                     -16-
+<PAGE>   19
+                          SUMMARY COMPENSATION TABLE
+
+<TABLE>
+<CAPTION>
+                                                                                     Long-Term
+                                                 Annual Compensation              Compensation(1)
+                                      ----------------------------------------    ---------------
+                                                                                     Securities
+          Name and                                               Other Annual        Underlying           All Other
+     Principal Position       Year      Salary       Bonus     Compensation(2)    Options Granted      Compensation(3)
+ --------------------------   ----    ----------   --------    ---------------    ---------------      ---------------
+ <S>                          <C>      <C>           <C>         <C>                  <C>                <C>
+ Marcel O. Rohr(4) . . . .    1995     $138,301       $0               0                -0-                $12,788
+  Chief Executive Officer     1994     $250,000       $0          $  502(5)            15,000              $19,970
+  through June 30, 1995       1993     $250,000       $0          $  671(5)             -0-                $ 8,236
+
+ Leo C. Beebe(6) . . . . .    1995     $ 33,333       $0          $4,866                -0-                $11,081
+  Chief Executive Officer     1994     $200,000       $0          $1,956(5)             -0-                $18,163
+  since June 30, 1995 and     1993     $200,000       $0          $3,513(5)             -0-                $11,671
+  Chairman of the
+  Board of Directors
+
+ Robert L. Weinberg  . . .    1995     $129,962       $0          $1,010(5)            8,500               $25,247
+  Senior Executive Vice       1994     $135,000       $0          $1,010(5)            7,500               $14,189
+  President, Chief            1993     $121,500       $0          $2,046(5)            3,000               $16,564
+  Financial
+  Officer and Treasurer
+</TABLE>
+  ----------------
+
+  (1)     The Company has never made any restricted stock awards and its 1986
+          Stock Option Plan was its only long-term incentive plan during
+          fiscal years 1995, 1994 and 1993.  The 1986 Stock Option Plan
+          expired on January 5, 1996.
+
+  (2)     In fiscal years 1995, 1994 and 1993, no executive officer, other
+          than Mr. Beebe with respect to fiscal 1995, received perquisites or
+          other personal benefits, securities or property which exceeded the
+          lesser of $50,000 or 10% of such executive officer's salary and
+          bonus.  In fiscal 1995, Mr. Beebe received reimbursement of $1,750
+          in connection with the preparation of annual tax returns and was
+          paid $3,116 as an automobile allowance.
+
+  (3)     The amounts disclosed in this column include:
+
+          (a)  Company contributions under the Company's 401(k) Profit-Sharing
+          and Thrift Plan on behalf of the following executive officers of the
+          Company:  For fiscal year 1995 - Mr. Rohr $0, Mr. Beebe $2,000 and
+          Mr. Weinberg $7,798.  For fiscal year 1994 - Mr. Rohr $9,000, Mr.
+          Beebe $9,000 and Mr. Weinberg $8,100.  For fiscal year 1993 - Mr.
+          Rohr $4,497, Mr. Beebe $4,497 and Mr. Weinberg $4,155.
+
+          (b)  Company payments for supplemental health insurance on behalf of
+          the following executive officers of the Company:  For fiscal year
+          1995 - Mr. Rohr $5,411, Mr. Beebe $4,384 and Mr. Weinberg $9,846.
+          For fiscal year 1994 - Mr. Rohr $9,950, Mr. Beebe $4,675 and Mr.
+          Weinberg $3,839.  For fiscal year 1993 - Mr. Rohr $2,719, Mr. Beebe
+          $2,819 and Mr. Weinberg $10,159.
+
+
+
+
+
+
+
+                                     -17-
+<PAGE>   20
+          (c)  Company payments of premiums for additional group term life
+          insurance on behalf of the following executive officers of the
+          Company:  For fiscal year 1995 - Mr. Rohr $510, Mr. Beebe $4,697 and
+          Mr. Weinberg $2,250.  For fiscal year 1994 - Mr. Rohr $1,020, Mr.
+          Beebe $4,488 and Mr. Weinberg $2,250.  For fiscal year 1993 - Mr.
+          Rohr $1,020, Mr. Beebe $4,355 and Mr. Weinberg $2,250.
+
+          (d)  Company payments in fiscal year 1995 of premiums for additional
+          term life insurance on behalf of Mr. Rohr $2,379 and Mr. Weinberg
+          $2,168.
+
+          (e)  Company payments in fiscal year 1995 of premiums for additional
+          disability insurance on behalf of Mr. Rohr $4,488 and Mr. Weinberg
+          $3,185.
+
+  (4)     Mr. Rohr resigned as President and Chief Executive Officer and also
+          as a director of the Company on June 30, 1995.  The table does not
+          reflect payments to the K-Tron Soder Pension Plan on behalf of Mr.
+          Rohr made in accordance with applicable Swiss law.
+
+  (5)     Represents amounts reimbursed to executive officer for income taxes
+          incurred with respect to additional group term life insurance
+          purchased on behalf of such executive.
+
+  (6)     Mr. Beebe became Chief Executive Officer of the Company on June 30,
+          1995 when Mr. Rohr resigned as Chief Executive Officer, a position
+          which Mr. Beebe had previously held from July 1985 until August
+          1992.  From August 1992 until June 30, 1995, Mr. Beebe served as the
+          Company's full-time Chairman of the Board of Directors and he
+          continues as its Chairman.  While not an executive officer under the
+          Company's By-Laws from August 1992 until June 30, 1995, the Company
+          believes that Mr. Beebe would have been considered an executive
+          officer of the Company under the applicable regulations adopted by
+          the Securities and Exchange Commission.  On February 3, 1995, Mr.
+          Beebe assumed active responsibility for the Company's operations
+          other than a German subsidiary which was sold in June 1995, and he
+          voluntarily reduced his salary from $200,000 to $1 per year,
+          effective March 1, 1995.  While serving for this nominal salary, Mr.
+          Beebe continued to receive his health and life insurance and other
+          benefits.  Effective January 1, 1996, Mr. Beebe's salary was
+          restored to $200,000 per year.
+
+CERTAIN EMPLOYMENT AND CHANGE-OF-CONTROL ARRANGEMENTS
+
+     Messrs. Rohr and Weinberg were employed by the Company during fiscal year
+1995 under employment agreements with the Company effective January 1, 1992,
+as amended (collectively, the "Employment Agreements").  Under these
+Employment Agreements, Messrs. Rohr and Weinberg are entitled to receive a
+base salary, which may be increased from time to time by the Board of
+Directors, and such additional compensation and bonus payments as may be
+awarded to them by the Board.  These base salaries for Messrs. Rohr and
+Weinberg were $250,000 and $135,000, respectively, as of January 1, 1995.  The
+Company's obligation to pay such base salaries is subject to the Company's
+right to reduce them in the event reductions are generally being made for
+other officers of the Company or its subsidiaries holding comparable
+positions.  As of March 1, 1995, the base salaries for Messrs. Rohr and
+Weinberg were reduced to $225,000 and $121,500, respectively.  On June 30,
+1995, Mr. Rohr resigned from all of his positions with the Company.  As a
+result of such resignation, the Company's obligations to Mr. Rohr under his
+Employment Agreement terminated.  On July 17, 1995, Mr. Weinberg's base salary
+was restored to $135,000.
+
+     Each of the Employment Agreements provides or provided that either the
+Company or the employee may terminate the employment term thereunder, in the
+case of Mr. Weinberg, upon not less than one year's prior notice and, in the
+case of Mr. Rohr, upon not less than two years' prior notice.  Such employment
+terms are or were also subject to termination by reason of the employee's
+death or disability or by the Board of Directors at any time for "cause" as
+specified in such Employment Agreements.  In addition, in the case of the
+Employment Agreement with Mr. Weinberg, the Company has the right to terminate
+him at any time without
+
+
+                                     -18-
+<PAGE>   21
+cause by paying him a lump sum amount equal to 100% of his then-annual base
+salary or, if the previously described one-year notice of termination has
+already been given by the Company to him, the portion thereof relating to the
+balance of the employment term.
+
+     The Employment Agreement with Mr. Rohr included provisions relating to a
+termination of employment upon a change of control.  For purposes of this
+Employment Agreement, a change of control was defined to mean either (i) an
+acquisition by any person (including affiliates and associates) of beneficial
+ownership of more than 20% of the Company's outstanding Common Stock (unless
+the Board of Directors within 30 days after learning thereof determines that
+this should not be considered a change of control) or (ii) a change in the
+composition of the Board of Directors during any two-year period such that the
+directors in office at the beginning of the period no longer constitute a
+majority of the directors in office (unless the election or nomination of at
+least two-thirds of the new directors was approved by at least two-thirds of
+the directors in office at the time of such election or nomination who were
+directors at the beginning of such period).  The Rohr Employment Agreement
+applied to a termination of employment upon or within two years after a change
+of control which, if such termination was initiated by the Company, was for
+any reason other than death, disability or "cause" (as specified in the
+Employment Agreement) or which, if such termination was initiated by Mr. Rohr,
+was upon (i) a significant reduction in his authority, duties or
+responsibilities, (ii) a significant breach by the Company of its obligations
+under his Employment Agreement, (iii) any removal from or failure to reelect
+Mr. Rohr to the director and executive officer positions held by him, except
+in connection with promotion to higher office, (iv) a reduction in Mr. Rohr's
+base salary, (v) a transfer of Mr. Rohr without his consent to a location
+which is outside the general metropolitan area in which his principal place of
+business immediately preceding such transfer was located or which is otherwise
+an unreasonable commuting distance from his principal residence or (vi) the
+Company's requirement that Mr. Rohr undertake business travel to an extent
+that is substantially greater than is reasonable and customary for the
+position he holds.
+
+     In the event of the termination of employment of Mr. Rohr upon a change
+of control, his Employment Agreement provided that, subject to certain
+limitations, the Company would pay him (i) an amount equal to two times his
+base salary in effect either immediately prior to the termination of
+employment or immediately prior to the change of control, whichever was higher
+and (ii) an amount equal to the spread (the excess of market value over
+exercise price) on any stock options held by him, whether or not such options
+were exercisable at the date of termination.
+
+     Under the Rohr Employment Agreement, if the employment of Mr. Rohr had
+been terminated on June 30, 1995 upon or following a change of control, the
+Company would have been obligated to pay him $450,000.
+
+     In May 1994, the Company and Mr. Rohr entered into an agreement providing
+for the reimbursement by the Company of certain tax liabilities, if any,
+incurred by Mr. Rohr upon a future Forced Sale (as hereinafter defined) of
+15,839 shares of Company Common Stock acquired by him while a resident of
+Switzerland (the "Swiss Shares").  The agreement arose out of Mr. Rohr's
+promotion to Chief Executive Officer of the Company in 1992 and the
+requirement that Mr. Rohr move from Switzerland to the United States.  As a
+U.S. resident, Mr. Rohr may be subject to certain U.S. federal, state and
+local income taxes in respect of a sale or other disposition of the Swiss
+Shares.  Had Mr. Rohr remained in Switzerland, he would not have been subject
+to such taxes.  The agreement provided that in the event that the Swiss Shares
+were sold, transferred, exchanged or otherwise disposed of through a Forced
+Sale during any taxable year in which Mr. Rohr was employed by the Company at
+the time of the Forced Sale and was subject to any U.S. federal, state or
+local income tax with respect to the disposition of the Swiss Shares, the
+Company would pay Mr. Rohr an amount which would, on an after-tax basis, leave
+him in the same financial position after payment of all taxes as if such taxes
+with respect to the aggregate Offshore Gain (as hereinafter defined) had never
+been imposed.  The agreement defined a "Forced Sale" as any transaction with a
+third party not initiated or caused by Mr. Rohr in his capacity as a
+shareholder of the Company in which the Swiss Shares were sold, exchanged,
+transferred, converted or otherwise disposed of in a situation where there
+would be a change in control of the Company.  Examples of a Forced Sale would
+include a share exchange, merger, consolidation, other transaction having a
+similar effect or
+
+
+
+
+                                     -19-
+<PAGE>   22
+tender offer, in each case where there would be a change in control.
+"Offshore Gain" was defined as that amount of capital gain realized by Mr.
+Rohr which was attributable to that portion of the appreciation of the Swiss
+Shares, if any, up to an amount which did not exceed the difference between
+Mr. Rohr's tax basis in such shares for U.S. federal income tax purposes and
+$13.50 per share (which was approximately the per share price of the Company's
+Common Stock when Mr. Rohr moved to the United States).  Under this agreement,
+had Mr. Rohr disposed of the Swiss Shares in a Forced Sale on March 1, 1995,
+the Company would have been obligated to reimburse Mr. Rohr $5,248.  As of
+June 30, 1995, the Company was no longer obligated to reimburse Mr. Rohr under
+this agreement since he resigned as an employee of the Company on that date.
+
+OPTION GRANTS
+
+     The following table provides additional information concerning grants of
+stock options during fiscal year 1995 under the Company's 1986 Stock Option
+Plan, which during that fiscal year was the only stock option plan of the
+Company under which executive officers could receive stock option grants.  No
+stock appreciation rights have been granted by the Company nor was the grant
+of such rights provided for in the Company's 1986 Stock Option Plan.   The
+Company's 1986 Stock Option Plan expired on January 5, 1996.
+
+                       OPTION GRANTS IN LAST FISCAL YEAR
+
+<TABLE>
+<CAPTION>
+                                                                                   Potential Realizable Value
+                                        Percentage of                              at Assumed Annual Rates of
+                          Number of     Total Options                               Stock Price Appreciation
+                          Securities     Granted to                                            for
+                          Underlying    Employees in                                     Option Term (2)(3)
+                           Options       Fiscal Year   Exercise Price  Expiration   -------------------------
+          Name            Granted(1)        1995         (per share)      Date            5%         10%
+ ---------------------    ----------      --------       -----------   ----------         --         ---
+ <S>                        <C>             <C>             <C>         <C>              <C>        <C>
+
+ Marcel O. Rohr  . . .       -0-             -0-             -0-           -0-             $0         $0
+
+ Leo C. Beebe  . . . .       -0-             -0-             -0-           -0-             $0         $0
+
+ Robert L. Weinberg  .      8,500           11.6%           $6.25       7/15/2005        $33,410    $84,668
+</TABLE>
+- ----------------
+
+ (1) Under the Company's 1986 Stock Option Plan, the Board of Directors
+     retained discretion, subject to plan limits, to alter, amend, discontinue
+     or terminate the plan, provided that no such action may adversely affect
+     previously granted options.
+
+ (2) The potential realizable values shown in these columns illustrate the
+     results of hypothetical annual rates of appreciation compounded annually
+     from the date of grant until the end of the option term, assuming an
+     initial investment equal to the aggregate exercise price shown for the
+     option grant.  These amounts are reported net of the option exercise
+     price (which may be paid by delivery of already-owned shares of Common
+     Stock), but before any taxes associated with the exercise or subsequent
+     sale of the underlying stock.
+
+ (3) The dollar amounts in these columns are based on the hypothetical annual
+     rates of appreciation noted and are therefore not intended to forecast
+     possible future appreciation, if any, of the price of the Company's
+     Common Stock.  Alternative formulas for determining potential realizable
+     value have not been utilized because the Company is not aware of any
+     formula which will determine with reasonable accuracy a present value
+     based on future unknown or volatile factors.  There can be no assurance
+     that the dollar amounts reflected in these columns will be achieved.
+     Actual gains, if any, on stock option
+
+
+
+
+
+                                     -20-
+<PAGE>   23
+     exercises are dependent on the future performance of the Common Stock and
+     overall market conditions, as well as the executive officer's continued
+     employment through the vesting period.
+
+OPTION EXERCISES AND FISCAL YEAR-END VALUES
+
+     The following table provides information concerning unexercised stock
+options granted in fiscal year 1995 and prior years under the Company's 1986
+Stock Option Plan.  None of the executive officers exercised any stock options
+during fiscal year 1995.  No stock appreciation rights have been granted by
+the Company nor was the grant of such rights provided for in the Company's
+1986 Stock Option Plan.
+
+                         FISCAL YEAR-END OPTION VALUES
+
+<TABLE>
+<CAPTION>
+                                               Number of Securities           Value of Unexercised
+                                              Underlying Unexercised         In-the-Money Options at
+                                           Options at December 30, 1995       December 30, 1995(1)
+                                           -----------------------------   ---------------------------
+                  Name                      Exercisable  Unexercisable     Exercisable  Unexercisable
+ --------------------------------------    ------------  ---------------   -----------  --------------
+ <S>                                          <C>              <C>            <C>            <C>
+ Marcel O. Rohr  . . . . . . . . . . .          -0-             -0-            $0              $0
+
+ Leo C. Beebe  . . . . . . . . . . . .         7,000            -0-            $0              $0
+
+ Robert L. Weinberg  . . . . . . . . .        11,000           16,000          $0              $0
+</TABLE>
+- ----------------
+
+ (1) Based on the closing price of the Company's Common Stock as reported on
+     the National Market segment of The Nasdaq Stock Market on December 29,
+     1995 ($6.25), net of the option exercise price.
+
+     NOTWITHSTANDING ANYTHING TO THE CONTRARY, THE FOLLOWING REPORT OF
+     THE COMPENSATION AND HUMAN RESOURCES COMMITTEE AND THE PERFORMANCE
+     GRAPH ON PAGE 23 SHALL NOT BE DEEMED INCORPORATED BY REFERENCE BY
+     ANY GENERAL STATEMENT INCORPORATING BY REFERENCE THIS PROXY
+     STATEMENT INTO ANY FILING UNDER THE SECURITIES ACT OF 1933, AS
+     AMENDED, OR UNDER THE EXCHANGE ACT, EXCEPT TO THE EXTENT THAT THE
+     COMPANY SPECIFICALLY INCORPORATES THIS INFORMATION BY REFERENCE, AND
+     SHALL NOT OTHERWISE BE DEEMED FILED UNDER SUCH ACTS.
+
+
+                          REPORT OF THE COMPENSATION
+                         AND HUMAN RESOURCES COMMITTEE
+
+     As members of the Compensation and Human Resources Committee (the
+"Compensation Committee"), it is our duty to review the compensation of all
+executive officers of the Company, to recommend to the Board the base salary
+of the Company's chief executive officer, to approve the base salaries of all
+other executive officers and to approve all bonuses and other compensation
+granted to executive officers.  These duties and the other responsibilities of
+the Compensation Committee are more fully described on page 6 of this Proxy
+Statement under the caption "Matters Concerning Directors - Committees and
+Meetings."  In fulfilling these duties and responsibilities, it is the
+Compensation Committee's goal to have a policy that will enable the Company to
+attract, retain and reward executive officers who contribute to both its
+short-term and long-term success.
+
+     The Company's compensation policy for executives is to pay competitively
+and to be fair in the administration of pay.  This is the same policy
+applicable to all employees of the Company.  The Company seeks to balance the
+compensation paid to a particular individual with the compensation paid to
+other executives holding comparable positions both inside the Company and at
+other similar companies.  Prior to 1996, an
+
+
+
+
+                                     -21-
+<PAGE>   24
+informal bonus program was used to align the total annual compensation of
+executives with Company performance, individual performance and the
+achievement of financial and other business objectives, and the payment of
+bonuses was entirely at the discretion of the Compensation Committee.  No
+bonuses were paid to executive officers for fiscal years 1995 or 1994.  In
+January 1996, the Compensation Committee recommended and the Board of
+Directors approved, subject in the case of European employees to the approval
+of the Board of Directors of K-Tron (Switzerland) Ltd., an employee incentive
+compensation plan for 1996.  As part of this plan, approximately 30 corporate
+executives, including the Company's executive officers, will share up to 10%
+of 1996 pre-tax profits if the Company achieves its budget for the year.  It
+is anticipated that if this happens, individual payments to such executives
+would range from 15% to 50% of their base salaries.  With respect to salaries,
+bonuses and other compensation, the decisions of the Compensation Committee
+are subjective and are not based on any list of specific criteria.
+
+     We believe that the compensation received by each of the executive
+officers for 1995 was reasonable in view of their contributions to the Company
+in 1995.
+
+     The Company's former President and Chief Executive Officer, Marcel Rohr,
+had a 1995 base salary of $250,000, which was unchanged from 1994.  Mr. Rohr's
+salary was reduced by 10% to $225,000 on March 1, 1995, which was part of a
+general executive salary reduction in response to the Company's poor
+performance in the fourth quarter of 1994.  Salaries of other executive
+officers were similarly reduced.  Mr. Beebe, the Company's full-time Chairman
+who replaced Mr. Rohr as Chief Executive Officer on June 30, 1995, voluntarily
+reduced his salary from $200,000 to $1 per year, effective March 1, 1995.
+This salary was restored on a prospective basis, effective January 1, 1996.
+
+     The Company also had a stock option plan in 1995 which was administered
+by a committee selected by the Board.  The members of the Compensation
+Committee served as the members of the Stock Option Committee at the time all
+stock option grants were made in 1995.  The purpose of stock option grants is
+to provide an additional incentive to key employees to work to maximize
+shareholder value, and vesting periods are utilized to encourage such
+employees to remain with the Company.  During 1995, stock options were granted
+by the Stock Option Committee to one executive officer, Mr. Weinberg (8,500
+shares).  During 1995, the Company did not use restricted stock or stock
+appreciation rights as a compensation vehicle, nor did it have any long-term
+incentive compensation plans.  Stock option grants are entirely at the
+discretion of the Stock Option Committee, including their timing, the
+recipients thereof and the number of shares underlying any particular grant.
+The Company's stock option plan expired on January 5, 1996, and a new 1996
+Equity Compensation Plan has been approved by the Board of Directors, subject
+to shareholder approval at the 1996 annual meeting of shareholders.  This new
+plan provides for grants of stock options, stock appreciation rights and
+restricted shares and is explained in detail on pages 11 through 16 of this
+Proxy Statement under the caption "Approval of K-Tron International, Inc. 1996
+Equity Compensation Plan."
+
+     Payments during 1995 to the Company's executives as discussed above were
+made with regard to the provisions of section 162(m) of the Code.  Section
+162(m) limits the deduction that may be claimed by a "public company" for
+compensation paid to certain individuals to $1 million except to the extent
+that any excess compensation is "performance-based compensation."  It is the
+Committee's intention that no compensation will be limited as to its
+deductibility under Section 162(m).
+
+
+                                    COMPENSATION AND HUMAN RESOURCES COMMITTEE
+
+                                    Norman Cohen, Chairman
+                                    Richard J. Pinola
+                                    Jean Head Sisco
+
+March 8, 1996
+
+
+
+
+
+
+                                     -22-
+<PAGE>   25
+                               PERFORMANCE GRAPH
+
+     The following line graph compares the yearly percentage change in the
+cumulative total shareholder return on the Company's Common Stock for the past
+five fiscal years with the cumulative total return of the Standard & Poor's
+500 Stock Index (the "S&P 500") and the Dow Jones Factory Equipment Industry
+Group, described more fully below (the "Factory Equipment Group").  Dividend
+reinvestment has been assumed and, with respect to companies in the Factory
+Equipment Group, the returns of each such company have been weighted at each
+measurement point to reflect relative stock market capitalization.
+
+
+
+
+
+
+
+
+                              [PERFORMANCE GRAPH]
+
+
+
+
+
+
+<TABLE>
+<CAPTION>
+
+           INDEX             FY END        FY END      FY END     FY END      FY END      FY END
+                              1990          1991        1992       1993        1994        1995
+     <S>                      <C>          <C>         <C>        <C>         <C>         <C>
+     K-Tron International     $100         $110.34     $175.86    $141.38     $148.28     $ 86.21
+
+     S&P 500 Index            $100         $130.48     $140.46    $154.62     $156.66     $215.54
+
+     Factory Equipment        $100         $126.58     $141.93    $161.54     $149.44     $178.77
+</TABLE>
+
+         The Dow Jones Factory Equipment Industry Group is not a "published
+industry or line-of-business index" as that term is defined by SEC
+regulations.  Accordingly, the Factory Equipment Group is considered a "peer
+index" and the identity of the issuers used in the index is as follows:
+Acme-Cleveland Corp., Acuity Imaging Inc., American Vanguard Corporation,
+Baldwin Technology Inc. Class A, Bethlehem Corp., Binks Manufacturing Co.,
+Brown & Sharpe Manufacturing Co., C.E.C. Industries Corp., Calnetics Corp.,
+Chicago Rivet & Machine Co., Cincinnati Milacron Inc., Data Measurement Corp.,
+Denovo Corp., Devlieg-Bullard Inc., Exx Inc. Class A, Exx Inc. Class B, Farrel
+Corp.,  Flow International Corp., Gardner Denver Machinery, Inc., Giddings &
+Lewis, Inc., Gleason Corporation, Gorman-Rupp Co., Hirsch International Corp.
+Class A, Hurco Companies Inc., IMO Industries Inc., Impact Systems, Inc.,
+Innovex Inc., Interlake Corporation, K-Tron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -23-
+<PAGE>   26
+International, Inc., Katy Industries, Inc., Key Technology Inc., Keystone
+International Inc., Kulicke & Soffa Industries, Inc., Lynch Corp., McClain
+Industries, Inc., Medical Tech Systems, Inc., Met-Coil Systems Corp., Mid-West
+Spring Manufacturing Co., Middleby Corporation, Monarch Machine Tool Co.,
+Moore Products Co., Paul Mueller Co., Nordson Corp., Noxso Corp., Oilgear Co.,
+Orbotech Limited., Quipp Inc., Regal-Beloit Corporation, Safetytek Corp.,
+Salem Corporation, Secom General Corp., Selas Corporation of America, Shelter
+Components Corp., S I Handling Systems, Inc., Speizman Industries Inc., L.S.
+Starrett Co., Summa Industries Inc., Tapistron International, Inc., Taylor
+Devices, Inc., Thermo Terratech, Inc., Twin Disc Inc., Unit Instruments Inc.
+(CA), Utilix Corporation, Wedco Technology Inc. and Weldotron Corp.
+
+
+                CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     From April 1991 through December 1995, Johannes Wirth, a director and
+principal shareholder of the Company, was retained as a consultant by the
+Company.  See "Matters Concerning Directors -- Other Compensation
+Arrangements."
+
+
+                        INDEPENDENT PUBLIC ACCOUNTANTS
+
+     On July 29, 1994, the Board of Directors of the Company appointed the
+accounting firm of Arthur Andersen LLP as the Company's independent public
+accountants and auditors.  Arthur Andersen LLP has been selected to continue
+in such capacity for the current year.  A representative of that firm is
+expected to be present at the Annual Meeting with the opportunity to make a
+statement if he or she desires to do so and to be available to respond to
+appropriate questions.
+
+     On July 29, 1994, the Company dismissed Deloitte & Touche LLP as the
+Company's independent public accountants and auditors, a capacity in which
+that firm had served for many years.  The decision to change the Company's
+accountants and auditors was recommended by the Audit and Finance Committee of
+the Board of Directors and approved by the full Board.
+
+     At its meeting on May 12, 1994, the Board of Directors determined that it
+would be appropriate to investigate whether the normal auditing and tax
+services required by the Company could be obtained on a more cost effective
+basis by means of a fixed fee arrangement for a three-year period.
+Accordingly, the Board directed management to solicit requests for proposals
+from several major accounting firms, including Deloitte & Touche LLP, for
+audit and tax services.  Management did so and then gave careful consideration
+to proposals received from five major accounting firms.  After discussions
+with management and a meeting with representatives of Arthur Andersen LLP, the
+Audit and Finance Committee recommended to the Board of Directors that the
+Board appoint Arthur Andersen LLP to serve as the Company's independent public
+accountants to audit the consolidated financial statements of the Company and
+its subsidiaries for 1994.  On July 29, 1994, the Board of Directors made such
+appointment.
+
+     During the fiscal year ended January 1, 1994 and the subsequent period
+through July 29, 1994, the date on which Deloitte & Touche LLP was dismissed
+as the Company's independent public accountants and auditors, there were no
+disagreements between the Company and Deloitte & Touche LLP on any matter
+relating to accounting principles or practices, financial statement
+disclosure, or auditing scope or procedures which disagreements, if not
+resolved to Deloitte & Touche LLP's satisfaction, would have caused them to
+make reference in connection with their reports to the subject matter of the
+disagreement.  In addition, Deloitte & Touche LLP's reports on the Company's
+financial statements for the fiscal year ended January 1, 1994 contained no
+adverse opinions or disclaimers of opinion nor were such reports qualified as
+to uncertainty, audit scope or accounting principles.  As discussed in Note 2
+to the consolidated financial statements previously filed by the Company with
+its Annual Report on Form 10-K for the fiscal year ended January 1, 1994, in
+the fiscal
+
+
+
+
+
+
+                                     -24-
+<PAGE>   27
+year ended January 1, 1994, the Company changed its method of accounting for
+certain costs of inventory and for income taxes.
+
+     With respect to Item 304(a)(v)(A) of Regulation S-K, by letter dated
+March 11, 1994, Deloitte & Touche LLP advised the Company of a material
+weakness in its internal control structure.  In response, the Company has
+taken corrective actions.
+
+
+                  SHAREHOLDER PROPOSALS--1997 ANNUAL MEETING
+
+     Shareholders may submit proposals on matters appropriate for shareholder
+action at annual meetings in accordance with regulations adopted by the
+Securities and Exchange Commission.  Any proposal which an eligible
+shareholder desires to have presented at the 1997 annual meeting of
+shareholders (which is expected to be held on or about May 9, 1997) concerning
+a proper subject for inclusion in the proxy statement and for consideration at
+the annual meeting, will be included in the Company's proxy statement and
+related proxy card if it is received by the Company no later than November 30,
+1996.
+
+                                 OTHER MATTERS
+
+     Section 16(a) of the Exchange Act requires that directors and certain
+officers of the Company, and persons who own more than ten percent of the
+Company's Common Stock, file with the Securities and Exchange Commission
+initial reports of ownership and reports of changes in ownership of such
+Common Stock.  Such directors, officers and more than ten percent shareholders
+are required by regulation to furnish the Company with copies of all Section
+16(a) forms which they file.
+
+     To the Company's knowledge, based solely on a review of the copies of
+such reports furnished to the Company and written representations that no
+other reports were required, all fiscal year 1995 Section 16(a) filing
+requirements applicable to its directors, officers and more than ten percent
+shareholders were complied with; however, in fiscal year 1994 Mr. Cohen failed
+and to file timely a Form 4 for the month of October 1994 in connection with a
+sale of the Company's Common Stock.  In addition, while an annual statement on
+Form 5 under Section 16(a) is not required to be filed if there are no
+previously unreported transactions or holdings to report, nevertheless the
+Company is obligated to disclose the names of directors, covered officers and
+more than ten percent shareholders who did not file an annual statement on
+Form 5 unless the Company received a written statement that no such filing was
+required.  As of March 25, 1996, the Company had not received either an annual
+statement on Form 5 for fiscal year 1995 or such a written statement from the
+Estate of Dr. Mario Gallo, a more than ten percent shareholder.
+
+     The Board of Directors of the Company does not intend to bring any other
+matters before the Annual Meeting and has no reason to believe any other
+matters will be presented.  If, however, other matters properly do come before
+the meeting, it is the intention of the persons named as proxy agents in the
+enclosed Proxy Card to vote upon such matters in accordance with their
+judgment.
+
+                                         By Order of the Board of Directors,
+
+
+
+                                         Edward B. Cloues, II
+                                         Secretary
+March 29, 1996
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -25-
+<PAGE>   28
+                          K-TRON INTERNATIONAL, INC.
+                         1996 EQUITY COMPENSATION PLAN
+
+
+     The purpose of the K-Tron International, Inc. 1996 Equity Compensation
+Plan (the "Plan") is to provide designated officers (including officers who
+are also directors) and other employees of K-Tron International, Inc. (the
+"Company") and its subsidiaries with the opportunity to receive grants of
+incentive stock options, nonqualified stock options, stock appreciation rights
+and restricted stock.  The Company believes that the Plan will provide an
+incentive to the participants to contribute materially to the long-term growth
+of the Company, will align the economic interests of the participants with
+those of the Company's shareholders and will aid the Company and its
+subsidiaries in attracting and retaining officers and employees of outstanding
+ability.
+
+1.   Administration
+
+     The Plan shall be administered and interpreted by a committee (the
+"Committee"), which shall consist of two or more persons appointed by the
+Company's Board of Directors (the "Board"), all of whom shall be
+"disinterested persons" as defined in Rule 16b-3 under the Securities Exchange
+Act of 1934 (the "Exchange Act") and "outside directors" as defined in Section
+162(m) of the Internal Revenue Code of 1986, as amended (the "Code") and
+related Treasury regulations.
+
+     The Committee shall have the sole authority to (i) determine the
+individuals to whom grants shall be made under the Plan, (ii) determine the
+type, size and terms of the grants to be made to each such individual, (iii)
+determine the time when the grants will be made and the duration of any
+applicable exercise or restriction period, including the criteria for vesting
+and the acceleration of vesting and (iv) deal with any other matters arising
+under the Plan.
+
+     The Committee shall have full power and authority to administer and
+interpret the Plan, to make factual determinations and to adopt or amend such
+rules, regulations, agreements and instruments for implementing the Plan and
+for the conduct of its business as it deems necessary or advisable, in its
+sole discretion.  The Committee's interpretations of the Plan and all
+determinations made by the Committee pursuant to the powers vested in it
+hereunder shall be conclusive and binding on all persons having any interests
+in the Plan or in any awards granted hereunder.  All powers of the Committee
+shall be executed in its sole discretion, in the best interest of the Company
+and in keeping with the objectives of the Plan and need not be uniform as to
+similarly situated individuals.
+
+2.   Grants
+
+     Incentives under the Plan shall consist of incentive stock options,
+nonqualified stock options, stock appreciation rights and restricted stock
+(hereinafter collectively referred to as "Grants").  All Grants shall be
+subject to the terms and conditions set forth herein and to those other terms
+and conditions consistent with this Plan as the Committee deems appropriate
+<PAGE>   29
+and as are specified in writing by the Committee to the individual (the "Grant
+Letter").  The Committee shall approve the form and provisions of each Grant
+Letter to an individual.  Grants under a particular Section of the Plan need
+not be uniform as among the grantees.
+
+3.   Shares Subject to the Plan
+
+     (a)  Subject to the adjustments specified in Section 3(b), the aggregate
+number of shares of common stock of the Company (the "Company Stock") that may
+be issued or transferred under the Plan is 450,000 shares, in the aggregate.
+Notwithstanding anything in the Plan to the contrary, the maximum aggregate
+number of shares of Company Stock that shall be subject to Grants made under
+the Plan to any single employee during any one year period shall be 100,000
+shares.  The shares may be authorized but unissued shares of Company Stock or
+reacquired shares of Company Stock, including shares purchased by the Company
+on the open market for purposes of the Plan.  If and to the extent options
+granted under the Plan terminate, expire, or are cancelled, forfeited,
+exchanged or surrendered without having been exercised or if any shares of
+restricted stock are forfeited, the shares subject to such Grants shall again
+be available for purposes of the Plan.
+
+     (b)  If there is any change in the number or kind of shares of Company
+Stock outstanding by reason of (i) a stock dividend, (ii) recapitalization,
+(iii) stock split, combination or exchange of shares, (iv) merger,
+reorganization or consolidation in which the Company is the surviving
+corporation, (v) reclassification or change in par value or (vi) any other
+extraordinary or unusual event affecting the outstanding Company Stock as a
+class without in any of such cases the Company's receipt of consideration, or
+if the value of outstanding shares of Company Stock is substantially reduced
+due to the Company's payment of an extraordinary dividend or distribution, the
+maximum number of shares of Company Stock available for Grants, the maximum
+number of shares of Company Stock which any one individual participating in
+the Plan may be granted during the term of the Plan, the number of shares
+covered by outstanding Grants and the price per share or the applicable market
+value of such Grants shall be proportionately adjusted by the Committee to
+reflect any increase or decrease in the number or kind of issued shares of
+Company Stock to preclude the enlargement or dilution of rights and benefits
+under such Grants; provided, however, that any fractional shares resulting
+from such adjustment shall be eliminated.  The adjustments determined by the
+Committee shall be final, binding and conclusive.  Notwithstanding the
+foregoing, no adjustment shall be authorized or made pursuant to this Section
+to the extent that such authority or adjustment would cause any Incentive
+Stock Option to fail to comply with Section 422 of the Code.
+
+4.   Eligibility for Participation
+
+     All employees employed by the Company and its subsidiaries ("Employees")
+(including Employees who are officers or members of the Board) shall be
+eligible to participate in the Plan.  The Committee shall select the Employees
+to receive Grants and determine the number of shares of Company Stock subject
+to a particular Grant in such
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -2-
+<PAGE>   30
+manner as the Committee determines.  (Employees who receive Grants under this
+Plan shall hereinafter be referred to as "Grantees".)  The term "Company" as
+used hereafter when referring to Employees shall include the Company's
+subsidiaries.
+
+     Nothing contained in this Plan shall be construed to limit the right of
+the Company to make Grants in connection with the acquisition, by purchase,
+lease, merger, consolidation or otherwise, of the business or assets of any
+corporation, firm or association, including options granted to employees
+thereof who become Employees of the Company, or for other proper corporate
+purpose.
+
+5.   Granting of Options
+
+     (a)  Number of Shares.  The Committee, in its sole discretion, shall
+determine the number of shares of Company Stock that will be subject to each
+Grant of stock options.
+
+     (b)  Type of Option and Price.  The Committee may grant options intended
+to qualify as incentive stock options ("Incentive Stock Options") within the
+meaning of Section 422 of the Code or options which are not intended so to
+qualify ("Nonqualified Stock Options") (hereinafter collectively the "Stock
+Options") or any combination of Incentive Stock Options and Nonqualified Stock
+Options, all in accordance with the terms and conditions set forth herein.
+
+     The purchase price of Company Stock subject to a Stock Option shall be
+determined by the Committee and may be equal to, greater than, or less than
+the Fair Market Value (as defined in the next paragraph) of a share of such
+Stock on the date such Stock Option is granted; provided, however, that the
+purchase price of Company Stock subject to an Incentive Stock Option shall be
+equal to, or greater than, the Fair Market Value of a share of such Stock on
+the date such Stock Option is granted.
+
+     If the Company Stock is traded in a public market, then the Fair Market
+Value per share shall be, if the principal trading market for the Company
+Stock is a national securities exchange or the National Market segment of The
+Nasdaq Stock Market, the last reported sale price thereof on the relevant date
+or (if there were no trades on that date) the latest preceding date upon which
+a sale was reported, or, if the Company Stock is not principally traded on
+such exchange or market, the mean between the last reported "bid" and "asked"
+prices thereof on the relevant date, as reported on Nasdaq or, if not so
+reported, as reported by the National Daily Quotation Bureau, Inc. or as
+reported in a customary financial reporting service, as applicable and as the
+Committee determines.  If the Company Stock is not traded in a public market
+or subject to reported transactions or "bid" or "asked" quotations as set
+forth above, the Fair Market Value per share shall be as determined by the
+Committee.
+
+     (c)  Exercise Period.  The Committee shall determine the option exercise
+period of each Stock Option.  The exercise period shall not exceed ten (10)
+years from the date of grant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -3-
+<PAGE>   31
+     (d)  Vesting and Exercisability of Options.  Stock Options shall become
+vested and exercisable in accordance with the terms and conditions determined
+by the Committee, in its sole discretion and as specified in the Grant Letter.
+The Committee, in its sole discretion, may accelerate the exercisability of
+any or all outstanding Stock Options at any time for any reason.  In addition,
+all outstanding Stock Options shall vest upon a Change of Control (as defined
+in Section 9) in accordance with the provisions of Section 10, unless, in
+cases not covered by Section 10(f), the Committee in its sole discretion
+determines not to accelerate such Stock Options upon a Change of Control.  The
+Committee may make such determination prior to the Change of Control or, if
+the Committee making such determination following a Change of Control is
+comprised of the same members as served on the Committee immediately prior to
+such Change of Control, within five (5) days following such Change of Control.
+
+     (e)  Manner of Exercise.  A Grantee may exercise a Stock Option which has
+become exercisable, in whole or in part, by delivering a written notice of
+exercise to the Committee with accompanying payment of the option price in
+accordance with Subsection (g) below.  Such notice may instruct the Company to
+deliver shares of Company Stock due upon the exercise of the Stock Option to
+any registered broker or dealer designated by the Committee ("Designated
+Broker") in lieu of delivery to the Grantee.  Such instructions must designate
+the account into which the shares are to be deposited.
+
+     (f)  Termination of Employment, Disability or Death.
+
+          (1)  In the event that a Grantee ceases to be an employee of the
+Company for any reason other than "disability", death, or "termination for
+cause", any Stock Option which is otherwise vested and exercisable by the
+Grantee shall terminate unless exercised within thirty (30) days of the date
+on which the Grantee ceases to be an employee of the Company (or within such
+other period of time as may be specified in the Grant Letter), but in any
+event no later than the date of expiration of the option exercise period.  Any
+of the Grantee's Stock Options which are not otherwise vested and exercisable
+as of the date on which the Grantee ceases to be an employee of the Company
+shall terminate as of such date.
+
+          (2)  In the event that a Grantee ceases to be an employee of the
+Company on account of a "termination for cause" by the Company, any Stock
+Option held by the Grantee shall terminate as of the date the Grantee ceases
+to be an employee of the Company.
+
+          (3)  In the event that a Grantee ceases to be an employee of the
+Company because the Grantee is "disabled", any Stock Option which is otherwise
+vested and exercisable by the Grantee shall terminate unless exercised within
+one year of the date on which the Grantee ceases to be an employee of the
+Company (or within such other period of time as may be specified in the Grant
+Letter), but in any event no later than the date of expiration of the option
+exercise period.  Any of the Grantee's Stock Options which are not otherwise
+vested and exercisable as of the date on which the Grantee ceases to be an
+employee shall terminate as of such date.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -4-
+<PAGE>   32
+          (4)  In the event of the death of a Grantee while the Grantee is an
+employee of the Company or within not more than 30 days of the date on which
+the Grantee ceases to be an employee of the Company on account of a
+termination of employment specified in Section 5(f)(1) of the Plan (or within
+such other period of time as may be specified in the Grant Letter), any Stock
+Option which is otherwise vested and exercisable by the Grantee shall
+terminate unless exercised within one year of the date on which the Grantee
+ceases to be an employee of the Company (or within such other period of time
+as may be specified in the Grant Letter), but in any event no later than the
+date of expiration of the option exercise period.  Any of the Grantee's Stock
+Options which are not otherwise vested and exercisable as of the date on which
+the Grantee ceases to be an employee shall terminate as of such date.
+
+          (5) For purposes of this Section 5(f), the following terms shall be
+defined as follows: (A) "disability" shall mean a Grantee's becoming disabled
+within the meaning of section 22(e)(3) of the Code and (B) "termination for
+cause" shall mean, except to the extent otherwise provided in a Grantee's
+Grant Letter, a finding by the Committee, after full consideration of the
+facts presented on behalf of both the Company and the Grantee, that the
+Grantee has breached his or her employment or service contract with the
+Company, or has been engaged in disloyalty to the Company, including, without
+limitation, fraud, embezzlement, theft, commission of a felony or proven
+dishonesty in the course of his or her employment or service, or has disclosed
+trade secrets or confidential information of the Company to persons not
+entitled to receive the same.  In such event, in addition to the immediate
+termination of the Stock Option, the Grantee shall automatically forfeit all
+option shares for any exercised portion of a Stock Option for which the
+Company has not yet delivered the share certificates upon refund by the
+Company of the option price paid by the Grantee for such option shares.
+
+     (g)  Satisfaction of Option Price.  The Grantee shall pay the option
+price specified in the Grant Letter in (i) cash, (ii) with the approval of the
+Committee, by delivering shares of Company Stock owned by the Grantee
+(including Company Stock acquired in connection with the exercise of a Stock
+Option, subject to such restrictions as the Committee deems appropriate) and
+having a Fair Market Value on the date of exercise equal to the option price
+or (iii) through any combination of (i) and (ii).  The Grantee shall pay the
+option price and the amount of withholding tax due, if any, at the time of
+exercise.  Shares of Company Stock shall not be issued or transferred upon
+exercise of a Stock Option until the option price is fully paid and any
+required withholding is made.
+
+     (h)  Rule 16b-3 Restrictions.  Unless a Grantee who is an "insider," as
+defined under Section 16 of the Exchange Act, could otherwise transfer Company
+Stock issued pursuant to a Stock Option without incurring liability under
+Section 16(b) of the Exchange Act, at least six months must elapse from the
+date of acquisition of a Stock Option by such a Grantee to the date of
+disposition of the Company Stock issued upon exercise of such option.
+
+     (i)  Limits on Incentive Stock Options.  Each Incentive Stock Option
+shall provide that, to the extent that the aggregate Fair Market Value of the
+Company Stock on the date of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -5-
+<PAGE>   33
+the grant with respect to which Incentive Stock Options are exercisable for
+the first time by a Grantee during any calendar year under the Plan or any
+other stock option plan of the Company exceeds $100,000, then such option as
+to the excess shall be treated as a Nonqualified Stock Option.  An Incentive
+Stock Option shall not be granted to any Employee who, at the time of grant,
+owns stock possessing more than 10 percent of the total combined voting power
+of all classes of stock of the Company or any parent of the Company, unless
+the option price per share is not less than 110% of the Fair Market Value of
+the Company Stock on the date of grant and the option exercise period is not
+more than five years from the date of grant.
+
+6.   Restricted Stock Grants
+
+     The Committee may issue or transfer shares of Company Stock to an
+Employee under a Grant (a "Restricted Stock Grant"), upon such terms as the
+Committee deems appropriate.  The following provisions are applicable to
+Restricted Stock Grants:
+
+     (a)  General Requirements.  Shares of Company Stock issued pursuant to
+Restricted Stock Grants may be issued for consideration or for no
+consideration, at the sole discretion of the Committee.  The Committee shall
+establish conditions under which restrictions on the transfer of shares of
+Company Stock shall lapse over a period of time or according to such other
+criteria as the Committee deems appropriate.  The period of years during which
+the Restricted Stock Grant will remain subject to restrictions will be
+designated in the Grant Letter as the "Restriction Period."
+
+     (b)  Number of Shares.  The Committee shall grant to each Grantee a
+number of shares of Company Stock pursuant to a Restricted Stock Grant in such
+manner as the Committee determines.
+
+     (c)  Requirement of Employment.  If a Grantee's employment terminates
+during a period designated in the Grant Letter as the Restriction Period, or
+if other specified conditions are not met, the Restricted Stock Grant shall
+terminate as to all shares covered by the Grant as to which restrictions on
+transfer have not lapsed and those shares of Company Stock must be immediately
+returned to the Company.  The Committee may, however, provide for complete or
+partial exceptions to this requirement as it deems equitable.
+
+     (d)  Restrictions on Transfer and Legend on Share Certificate.  During
+the Restriction Period, a Grantee may not sell, assign, transfer, pledge or
+otherwise dispose of the shares of Company Stock to which such Restriction
+Period applies except to a Successor Grantee under Section 8.  Each
+certificate for a share issued or transferred under a Restricted Stock Grant
+shall contain a legend giving appropriate notice of the restrictions in the
+Grant.  The Grantee shall be entitled to have the legend removed from the
+share certificate or certificates covering any of the shares subject to
+restrictions when all restrictions on such shares have lapsed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -6-
+<PAGE>   34
+     (e)  Right to Vote and to Receive Cash Dividends.  During the Restriction
+Period, unless the Committee determines otherwise, the Grantee shall have the
+right to vote shares subject to the Restricted Stock Grant and to receive any
+regular cash dividends paid on such shares.
+
+     (f)  Lapse of Restrictions.  All restrictions imposed under the
+Restricted Stock Grant shall lapse upon the expiration of the applicable
+Restriction Period and the satisfaction of any conditions imposed by the
+Committee.  The Committee may determine, as to any or all Restricted Stock
+Grants, that all the restrictions shall lapse without regard to any
+Restriction Period.  All outstanding Restricted Stock Grants shall vest upon a
+Change of Control, unless the Committee determines otherwise.
+
+7.   Stock Appreciation Rights
+
+     (a)  The Committee may grant stock appreciation rights ("SARs") to any
+Grantee in tandem with any Stock Option, for all or a portion of the
+applicable Stock Option, either at the time the Stock Option is granted or at
+any time thereafter while the Stock Option remains outstanding; provided,
+however, that in the case of an Incentive Stock Option, such rights may be
+granted only at the time of the Grant of such Stock Option.  Unless the
+Committee determines otherwise, the base price of each SAR shall be equal to
+the greater of (i) the exercise price of the related Stock Option or (ii) the
+Fair Market Value of a share of Company Stock as of the date of Grant of such
+SAR.
+
+     (b)  The number of SARs granted to a Grantee which shall be exercisable
+during any given period of time shall not exceed the number of shares of
+Company Stock which the Grantee may purchase upon the exercise of the related
+Stock Option during such period of time.  Upon the exercise of a Stock Option,
+the SARs relating to the Company Stock covered by such Stock Option shall
+terminate.  Upon the exercise of SARs, the related Stock Option shall
+terminate to the extent of an equal number of shares of Company Stock.
+
+     (c)  Upon a Grantee's exercise of some or all of the Grantee's SARs, the
+Grantee shall receive in settlement of such SARs an amount equal to the value
+of the stock appreciation for the number of SARs exercised, payable in cash,
+Company Stock or a combination thereof.  The stock appreciation for an SAR is
+the difference between the base price of the SAR as described in Subsection
+(a) and the Fair Market Value of the underlying Company Stock on the date of
+exercise of such SAR.
+
+     (d)  At the time of such exercise, the Grantee shall have the right to
+elect the portion of the amount to be received that shall consist of cash and
+the portion that shall consist of Common Stock, which for purposes of
+calculating the number of shares of Company Stock to be received, shall be
+valued at their Fair Market Value on the date of exercise of such SARs.  The
+Committee shall have the right to disapprove a Grantee's election to receive
+cash in full or partial settlement of the SARs exercised and to require that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -7-
+<PAGE>   35
+shares of Company Stock be delivered in lieu of cash.  If shares of Company
+Stock are to be received upon exercise of an SAR, cash shall be delivered in
+lieu of any fractional share.
+
+     (e)  An SAR is exercisable only during the period when the Stock Option
+to which it is related is also exercisable.  No SAR may be exercised for cash
+by an officer or director of the Company subject to Section 16 of the Exchange
+Act, in whole or in part, except in accordance with Rule 16b-3 under the
+Exchange Act.
+
+8.   Transferability of Grants
+
+     Only the Grantee or his or her authorized representative may exercise
+rights under a Grant.  Such persons may not transfer those rights except by
+will or by the laws of descent and distribution or, with respect to Grants
+other than Incentive Stock Options, if permitted under Rule 16b-3 of the
+Exchange Act and if permitted in any specific case by the Committee in its
+sole discretion, pursuant to a qualified domestic relations order as defined
+under the Code or Title I of the Employee Retirement Income Security Act of
+1974, as amended or the regulations thereunder .  When a Grantee dies, the
+representative or other person entitled to succeed to the rights of the
+Grantee ("Successor Grantee") may exercise such rights.  A Successor Grantee
+must furnish proof satisfactory to the Company of his or her right to receive
+the Grant under the Grantee's will or under the applicable laws of descent and
+distribution.   Notwithstanding the foregoing, the Committee may provide, in a
+Grant Letter, that a Grantee may transfer Nonqualified Stock Options to his or
+her children, grandchildren or spouse or to one or more trusts for the benefit
+of such family members or to partnerships in which such family members are the
+only partners (a "Family Transfer"), provided that the Grantee receives no
+consideration for a Family Transfer and the Grant Letters relating to
+Nonqualified Stock Options transferred in a Family Transfer continue to be
+subject to the same terms and conditions that were applicable to such
+Nonqualified Stock Options immediately prior to the Family Transfer.
+
+9.   Change of Control of the Company
+
+     As used herein, a "Change of Control" shall be deemed to have occurred
+if:
+
+          (a)  A liquidation or dissolution of the Company or the sale
+(excluding transfers to subsidiaries) of all or substantially all of the
+Company's assets occurs;
+
+          (b)  As a result of a tender offer, stock purchase, other stock
+acquisition, merger, consolidation, recapitalization, reverse split or sale or
+transfer of assets, any person or group (as such terms are used in and under
+Section 13(d) of the Exchange Act) becomes the beneficial owner (as defined in
+Rule 13-d under the Exchange Act), directly or indirectly, of securities of
+the Company representing more than 20% of the common stock of the Company or
+the combined voting power of the Company's then outstanding securities; or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -8-
+<PAGE>   36
+          (c)  During any period of two consecutive years, individuals who, at
+the beginning of such period, constitute the Board cease for any reason to
+constitute at least a majority thereof, unless the election, or the nomination
+for election by the Company's shareholders, of at least two-thirds of the
+directors who were not directors at the beginning of such period was approved
+by a vote of at least two-thirds of the directors then still in office who
+were either directors at the beginning of the period or who, in connection
+with their election or nomination, received the foregoing two-thirds approval.
+
+10.  Consequences of a Change of Control
+
+     (a)  Notice.  Unless the Committee determines otherwise:
+
+          (i)  If a Change of Control described in Section 9(a) or (b) will
+occur, then, not later than ten (10) days after the approval by the
+shareholders of the Company (or approval by the Board, if shareholder action
+is not required) of such Change of Control, the Company shall give each
+Optionee with any outstanding Stock Options written notice of such proposed
+Change of Control.
+
+          (ii) If a Change of Control described in Section 9(b) may occur
+without approval by the shareholders (or approval by the Board) and does so
+occur, or if a Change of Control described in Section 9(c) occurs, then, not
+later than ten (10) days after such Change of Control becomes known to the
+Company, the Company shall give each Optionee with any outstanding Stock
+Options written notice of the Change of Control.
+
+     (b)  Election Period.  In connection with the Change of Control and
+effective only upon such Change of Control, unless the Committee determines to
+have an earlier effective date, each Grantee shall thereupon have the right,
+within twenty (20) days after such written notice is sent by the Company (the
+"Election Period"), to make an election as described in Subsection (c) with
+respect to all of his or her outstanding Stock Options (whether the right to
+exercise such Stock Options has then accrued or the right to exercise such
+Stock Options will occur or has occurred upon the Change of Control).
+
+     (c)  Election Right.  During the Election Period, unless the Committee
+determines otherwise, each Grantee shall have the right to elect:
+
+          (i) To exercise in full any installments of such Stock Options not
+previously exercised, or
+
+          (ii) To surrender all or part of such outstanding Stock Options, in
+exchange for a payment by the Company, in cash or Company Stock as determined
+by the Committee, in an amount equal to the excess over the purchase price of
+the then Fair Market Value of the shares of Company Stock subject to the
+Grantee's outstanding Stock Options; provided, however, that in the case of a
+Stock Option held by a Grantee who is subject to Section 16(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -9-
+<PAGE>   37
+of the Exchange Act, any such surrender or payment shall be made on such date
+as the Committee shall determine consistent with Rule 16b-3 under the Exchange
+Act.
+
+     (d)  Termination of Stock Options.  If a Grantee does not make a timely
+election in accordance with Subsection (c) in connection with a Change of
+Control where the Company is not the surviving corporation (or survives only
+as a subsidiary of another corporation), the Grantee's Stock Options shall
+terminate as of the Change of Control.  Notwithstanding the foregoing, a Stock
+Option will not terminate if assumed by the surviving or acquiring
+corporation, or its parent, upon a merger or consolidation and, with respect
+to an Incentive Stock Option, the assumption of the Option occurs under
+circumstances which are not deemed a modification of the Option within the
+meaning of Sections 424(a) and 424(h)(3)(A) of the Code.
+
+     (e)  Accounting and Tax Limitations.
+
+          (i) Notwithstanding the foregoing, if the right described in
+Subsection (c)(ii) would make the applicable Change of Control ineligible for
+pooling of interest accounting treatment under APB No. 16 or make such Change
+of Control ineligible for desired tax treatment with respect to such Change of
+Control and, but for those provisions, the Change of Control would otherwise
+qualify for such treatment, the Grantee shall receive shares of Company Stock
+with a Fair Market Value equal to the cash that would otherwise be payable
+pursuant to Subsection (c)(ii) in substitution for the cash.
+
+          (ii) Notwithstanding the foregoing, if the termination of the Stock
+Options described in Subsection (d) would make the applicable Change of
+Control ineligible for pooling of interest accounting treatment under APB No.
+16 and, but for such provision, the Change of Control would otherwise qualify
+for such treatment, each affected Grantee shall receive a replacement or
+substitute stock option issued by the surviving or acquiring corporation.
+
+     (f)  Other Limitations.  Notwithstanding any other provision of this
+Section 10, if a Change of Control described in Section 9(a) will occur, or if
+a Change of Control described in Section 9(b) will occur and the Company will
+not be the surviving corporation, then the Committee notice required by
+Subsection (a) shall be mandatory and the Grantee shall have the right to make
+the election called for in Subsection (c), subject to the provisions of
+Subsections (d) and (e) and further subject to the Committee's right to permit
+only the election under Subsection (c)(i).
+
+11.  Amendment and Termination of the Plan
+
+     (a)  Amendment.  The Board may amend or terminate the Plan at any time;
+provided, however, that any amendment that increases the aggregate number (or
+individual limit for any single Grantee) of shares of Company Stock that may
+be issued or transferred under the Plan (other than by operation of Section
+3(b)), or modifies the requirements as to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -10-
+<PAGE>   38
+eligibility for participation in the Plan, shall be subject to approval by the
+shareholders of the Company and provided, further, that the Board shall not
+amend the Plan without shareholder approval if such approval is required by
+Rule 16b-3 under the Exchange Act or Section 162(m) of the Code.
+
+     (b)  Termination of Plan.  The Plan shall terminate on the day
+immediately preceding the tenth anniversary of its effective date unless
+terminated earlier by the Board or unless extended by the Board with the
+approval of the shareholders.
+
+     (c)  Termination and Amendment of Outstanding Grants.  A termination or
+amendment of the Plan that occurs after a Grant is made shall not materially
+impair the rights of a Grantee unless the Grantee consents or unless the
+Committee acts under Section 19(b).  The termination of the Plan shall not
+impair the power and authority of the Committee with respect to an outstanding
+Grant.  Whether or not the Plan has terminated, an outstanding Grant may be
+terminated or amended under Section 19(b) or may be amended by agreement of
+the Company and the Grantee consistent with the Plan.
+
+     (d)  Governing Document.  The Plan shall be the controlling document.  No
+other statements, representations, explanatory materials or examples, oral or
+written, may amend the Plan in any manner.  The Plan shall be binding upon and
+enforceable against the Company and its successors and assigns.
+
+12.  Funding of the Plan
+
+     The Plan shall be unfunded.  The Company shall not be required to
+establish any special or separate fund or to make any other segregation of
+assets to assure the payment of any Grants under the Plan.  In no event shall
+interest be paid or accrued on any Grant, including unpaid installments of
+Grants.
+
+13.  Rights of Participants
+
+     Nothing in the Plan shall entitle any Employee or other person to any
+claim or right to be granted a Grant under the Plan.  Neither the Plan nor any
+action taken hereunder shall be construed as giving any individual any rights
+to be retained by or in the employ of the Company or any other employment
+rights.
+
+14.  No Fractional Shares
+
+     No fractional shares of Company Stock shall be issued or delivered
+pursuant to the Plan or any Grant.  The Committee shall determine whether
+cash, other awards or other property shall be issued or paid in lieu of such
+fractional shares or whether such fractional shares or any rights thereto
+shall be forfeited or otherwise eliminated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -11-
+<PAGE>   39
+15.  Withholding of Taxes
+
+     The Company shall have the right to deduct from all Grants paid in cash,
+or from other wages paid to an officer or other employee of the Company, any
+federal, state or local taxes required by law to be withheld with respect to
+such cash awards and, in the case of Grants paid in Company Stock, the Grantee
+or other person receiving such shares shall be required to pay to the Company
+the amount of any such taxes which the Company is required to withhold with
+respect to such Grants or the Company shall have the right to deduct from
+other wages paid to the employee by the Company the amount of any withholding
+due with respect to such Grants.
+
+16.  Requirements for Issuance of Shares
+
+     No Company Stock shall be issued or transferred in connection with any
+Grant hereunder unless and until all legal requirements applicable to the
+issuance or transfer of such Company Stock have been complied with to the
+satisfaction of the Committee.  The Committee shall have the right to
+condition any Grant made to any Grantee hereunder on such Grantee's
+undertaking in writing to comply with such restrictions on his or her
+subsequent disposition of such shares of Company Stock as the Committee shall
+deem necessary or advisable as a result of any applicable law, regulation or
+official interpretation thereof and certificates representing such shares may
+be legended to reflect any such restrictions.  Certificates representing
+shares of Company Stock issued under the Plan will be subject to such
+stop-transfer orders and other restrictions as may be applicable under such
+laws, regulations and other obligations of the Company, including any
+requirement that a legend or legends be placed thereon.
+
+17.  Headings
+
+     Section headings are for reference only.  In the event of a conflict
+between a title and the content of a Section, the content of the Section shall
+control.  References herein to a Section or a Subsection are references to
+Sections or Subsections of the Plan unless otherwise noted.
+
+18.  Effective Date of the Plan
+
+     Subject to the approval of the Company's shareholders, this Plan shall be
+effective on May 10, 1996.
+
+19.  Miscellaneous
+
+     (a)  Substitute Grants.  The Committee may make a Grant to an employee of
+another corporation who becomes an Employee by reason of a corporate merger,
+consolidation, acquisition of stock or property, reorganization or liquidation
+involving the Company or any of its subsidiaries in substitution for a stock
+option or restricted stock grant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -12-
+<PAGE>   40
+made by such corporation ("Substituted Stock Incentives").  The terms and
+conditions of the substitute grant may vary from the terms and conditions
+required by the Plan and from those of the Substituted Stock Incentives.  The
+Committee shall prescribe the provisions of the substitute grants.
+
+     (b)  Compliance with Law.  The Plan, the exercise of Stock Options and
+the obligations of the Company to issue or transfer shares of Company Stock
+under Grants shall be subject to all applicable laws and to approvals by any
+governmental or regulatory agency as may be required.  With respect to persons
+subject to Section 16 of the Exchange Act, it is the intent of the Company
+that the Plan and all transactions under the Plan comply with all applicable
+provisions of Rule 16b-3 or its successors under the Exchange Act.  The
+Committee may revoke any Grant if it is contrary to law or modify a Grant to
+bring it into compliance with any valid and mandatory government regulation.
+The Committee may also adopt rules regarding the withholding of taxes on
+payments to Grantees.  The Committee may, in its sole discretion, agree to
+limit its authority under this Subsection.
+
+     (c)  Ownership of Stock.  A Grantee or Successor Grantee shall have no
+rights as a shareholder with respect to any shares of Company Stock covered by
+a Grant until the shares are issued or transferred to the Grantee or Successor
+Grantee on the stock transfer records of the Company.
+
+     (d)  Governing Law.  The validity, construction, interpretation and
+effect of the Plan and Grant Letters issued under the Plan shall exclusively
+be governed by and determined in accordance with the law of the State of New
+Jersey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -13-
+<PAGE>   41
+                                                     Amended February 24, 1986
+                                                         Amended March 8, 1996
+
+
+
+
+                          K-TRON INTERNATIONAL, INC.
+                         EMPLOYEE STOCK PURCHASE PLAN
+
+
+                                  ARTICLE I.
+
+                                 INTRODUCTION
+
+          Sec. 1.01  Statement of Purpose.   The purpose of the K-Tron
+International, Inc. Amended and Restated Employee Stock Purchase Plan is to
+provide eligible employees of K-Tron International, Inc. (the Company) who
+wish to become shareholders an opportunity to purchase common stock of the
+Company.  The Board of Directors of the Company believes that employee
+participation in ownership will be to the mutual benefit of both the employees
+and the Company.
+
+          Sec. 1.02  Internal Revenue Code Considerations.  This Plan is
+intended to quality as an "employee stock purchase plan" within the meaning of
+Section 423 of the Internal Revenue Code of 1954, as amended.
+
+
+                                  ARTICLE II.
+
+                                  DEFINITIONS
+
+          Sec. 2.01  "Administrative Committee" shall mean the committee
+appointed by the Board of Directors to administer this Plan, as provided in
+Section 6.03 hereof.
+
+          Sec. 2.02  "Board of Directors" shall mean the Board of Directors of
+the Company.
+
+          Sec. 2.03  "Company" shall mean K-Tron International, Inc., a New
+Jersey corporation.
+
+          Sec. 2.04  "Compensation" shall mean the total remuneration paid,
+during the period of reference, to an Employee by Employer, including regular
+salary or wages, overtime payments, bonuses and commissions, but excluding
+expense reimbursements of all types, payments in lieu of expenses, Employer
+contributions to any qualified retirement plan or other program of deferred
+compensation, Employer contributions to Social Security, the costs paid by
+Employer in connection with fringe benefits (whether or not the Employee could
+have elected to receive cash in lieu of such benefits), and any amounts
+accrued for the benefit of Employee but not paid during the period of
+reference.
+<PAGE>   42
+          Sec. 2.05  "Continuous Service" shall mean the period of time,
+immediately preceding the Offering Date of reference, during which the
+Employee has been employed by Employer and during which there has been no
+interruption of Employee's employment by Employer.  For this purpose, periods
+of Excused Absence shall not be considered to be interruptions of Continuous
+Service.
+
+          Sec. 2.06  "Effective Date" shall mean July 1, 1981.
+
+          Sec. 2.07  "Eligible Employee" shall mean each person who, on an
+Offering Date, meets all of the following requirements:
+
+               (a)  He/she is an Employee of Employer;
+
+               (b)  He/she has completed at least twelve (12) months of
+                    Continuous Service; and
+
+               (c)  He/she is not deemed for purposes of Section 423(b)(3) of
+                    the Internal Revenue Code to  own  stock possessing five
+                    percent (5%) or more of the total combined voting power or
+                    value of all classes  of Stock of the Company or his/her
+                    Employer.
+
+          Sec. 2.08  "Employee" shall mean each person employed by Employer
+whose customary employment is for more than twenty (20) hours per week and for
+more than five (5) months per year.
+
+          Sec. 2.09  "Employer" shall mean the Company and each subsidiary of
+Company designated by the Board of Directors as an Employer under the Plan.  A
+"subsidiary" of the Company shall be any corporation in which the Company
+holds, directly or indirectly, fifty percent (50%) or more of the total
+combined voting power of all classes of stock of such subsidiary, as described
+in Section 425(f) of the Internal Revenue Code.
+
+          Sec. 2.10  "Excused Absence" shall mean absence pursuant to a leave
+of absence granted by the Company or any other entity constituting Employer,
+absence due to disability or illness, or absence by reason of a layoff.  An
+Excused Absence shall not exceed the greater of (a) ninety (90) days, or (b)
+the period during which, an Employee on such Excused Absence has a contractual
+or statutory right to reemployment (the greater of (a) or (b) being the
+"Excused Period").  Any absence shall cease to be an Excused Absence upon the
+earlier of (a) the last day of the Excused Period, or (1)) the last day of the
+calendar month in which the leave expires by its terms, the layoff ends by
+recall or permanent separation from service, or recovery from illness or
+disability occurs.
+
+          Sec. 2.11  "Exercise Date" shall mean the last day of each Purchase
+Period.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -2-
+<PAGE>   43
+          Sec. 2.12  "Internal Revenue Code" shall mean the United States
+Internal Revenue Code of 1954, as the same is presently constituted and as it
+may hereafter be amended, and successor statutes of similar purpose.
+
+          Sec. 2.13  "Market Value" shall mean the closing price (or the
+average of the closing bid and asked prices) of the Stock as reported on the
+principal market, trading system or exchange on which the Stock is traded (as
+determined by the Administrative Committee) as of the date of reference.  If
+there is no such price reported for the date of reference, "Market Value"
+shall mean the "Market Value," computed as aforesaid, as of the date next
+preceding the date of reference on which such price is reported.  If the Stock
+is not publicly-traded, the "Market Value" shall mean the fair market value of
+the Stock determined by the Administrative Committee, whose determination
+shall be final and binding, subject to the approval of the Board of Directors.
+
+          Sec. 2.14  "Offering" shall mean the offering of shares of Stock
+under this Plan,.
+
+          Sec. 2.15  "Offering Date" shall mean the first business day of
+January and the first business day of July of each Plan Year, commencing with
+July 1981.
+
+          Sec. 2.16  "Participant" shall mean each Employee who elects to
+participate in this Plan.
+
+          Sec. 2.17  "Plan" shall mean the K-Tron International, Inc. Amended
+and Restated Employee Stock Purchase Plan, as the same is set forth herein and
+as the same may hereafter be amended.
+
+          Sec. 2.18  "Plan Year" shall mean the calendar year.
+
+          Sec. 2.19  "Purchase Agreement" shall mean the document prescribed
+by the Administrative Committee pursuant to which an Eligible Employee has
+enrolled to be a Participant in this Plan.
+
+          Sec. 2.20  "Purchase Period" shall mean the period beginning on an
+Offering Date and ending on the last business day of the fifth calendar month
+following the calendar month in which such Offering Date occurred.
+
+          Sec. 2.21  "Stock" shall mean the common stock of the Company.  Such
+Stock may be authorized but previously unissued shares or shares reacquired
+and held by the Company as treasury shares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -3-
+<PAGE>   44
+          Sec. 2.22  "Stock Purchase Account" shall mean with respect to any
+Employee a non-interest bearing account consisting of all amounts withheld
+from such Employee's Compensation (or otherwise paid into the Plan) for the
+purpose of purchasing shares of Stock under this Plan, reduced by all amounts
+applied to the purchase of Stock under this Plan.
+
+
+                                 ARTICLE III.
+
+                          ADMISSION TO PARTICIPATION
+
+          Sec. 3.01  Initial Participation.  Any Eligible Employee may elect
+to be a Participant and may become a Participant by executing and filing with
+the Administrative Committee a Purchase Agreement on forms provided by the
+Administrative Committee.  The effective date of an Eligible Employee's
+participation shall be the Offering Date coincident with or next following the
+date on which the Administrative Committee receives from the Eligible Employee
+a properly executed Purchase Agreement.
+
+          Sec. 3.02  Discontinuance of Participation.  Any Participant may
+voluntarily withdraw from the Plan by filing a notice of withdrawal with the
+Administrative Committee prior to an Exercise Date.  Upon such withdrawal,
+there shall be paid to the Participant the amount, if any, standing to his/her
+credit in his/her Stock Purchase Account.  Amounts paid to a Participant or
+former Participant pursuant to this Section 3.02 shall not be eligible for
+redeposit in the Participant's Stock Purchase Account in the event of the
+person's readmission to participation.
+
+          Sec. 3.03  Involuntary Withdrawal; Termination of Eligible Employee
+Status.  If a Participant's Continuous Service terminates for any reason, or
+if a Participant ceases to be an Eligible Employee, no further amounts shall
+be deducted from such Participant's compensation and deposited into his/her
+Stock Purchase Account and the entire amount standing to the Participant's
+credit in his/her Stock Purchase Account on the effective date of such
+occurrence shall be used to purchase whole shares of Stock under this Plan as
+of the next succeeding Exercise Date, and any balance thereafter remaining to
+his/her credit in his/her Stock Purchase Account shall be refunded to him/her.
+Notwithstanding the foregoing, if a Participant's Continuous Service is
+terminated for any reason three (3) months or more prior to the next
+succeeding Exercise Date, the entire amount, if any, standing to his/her
+credit in that Stock Purchase Account shall be refunded to him/her.
+
+          Sec. 3.04  Readmission to Participation.  Any Eligible Employee who
+has previously been a Participant, who has discontinued participation (whether
+by interruption of Continuous Service or otherwise), and who wishes to be
+reinstated as a Participant may again become a Participant by executing and
+filing with the Administrative Committee a new
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -4-
+<PAGE>   45
+Purchase Agreement on forms provided by the Administrative Committee.
+Reinstatement to Participant status shall be effective as of the Offering Date
+coincident with or next following the date on which the Administrative
+Committee receives from the Eligible Employee the Properly executed Purchase
+Agreement.
+
+
+                                  ARTICLE IV.
+
+                                STOCK PURCHASE
+
+          Sec. 4.01  Reservation of Shares.  There shall be 500,000 shares of
+Stock reserved for the Plan, subject to adjustment in accordance with the
+anti-dilution provisions hereinafter set forth.  Except as provided in Section
+5.02 hereof, the aggregate number of shares that may be purchased under the
+Plan shall not exceed the number of shares reserved for the Plan.
+
+          Sec. 4.02  Limitation on Shares Available.  Subject to the
+limitations described in Sections 4.04 (a) and (b), the maximum number of
+shares of Stock that may be purchased for each Participant on an Exercise Date
+is the lowest of (a) the number of whole shares of Stock that can be purchased
+by applying the full balance of his/her Stock Purchase Account to such
+purchase of shares at the Purchase Price (as hereinafter determined), (b) the
+Participant's proportionate part of the maximum number of shares of Stock
+available within the limitation established by the maximum aggregate number of
+such shares reserved for this Plan, as stated in Section 4.01 hereof, or (c)
+5,000 shares.  Notwithstanding the foregoing, if any person entitled to
+purchase shares pursuant to any offering hereunder would, upon such purchase,
+be deemed for the purposes of Section 423(b)(3) of the Internal Revenue Code
+to own stock (including any number of shares that such person would be
+entitled to purchase hereunder) possessing five percent (5%) or more of the
+total combined voting power or value of all classes of stock of the Company,
+the maximum number of shares that such person shall be entitled to purchase
+pursuant to this Plan shall be reduced to that number which, when added to the
+number of shares of Stock that such person is so deemed to own (excluding any
+number of shares that such person would be entitled to purchase hereunder), is
+one less than such five percent (5%).  Any portion of a Participant's Stock
+Purchase Account that cannot be applied by reason of the foregoing limitation,
+or by reason of the fact that no fractional shares are purchased or issued
+under this Plan, shall remain in the Participant's Stock Purchase Account for
+application to purchase of Stock on the next Offering Date (unless withdrawn
+before that Offering Date).
+
+          Sec. 4.03  Purchase Price of Shares.  The Purchase Price per share
+of the Stock sold to Participants pursuant to any Offering shall be
+eighty-five percent (85%) of the Market Value of such share on the Offering
+Date on which such Offering commences or on the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -5-
+<PAGE>   46
+Exercise Date on which such Offering expires, whichever is the lower.  If the
+Exercise Date with respect. to the purchase of Stock is a day on which the
+Stock is selling exdividend but is on or before the record date for such
+dividend, then for Plan purposes the Purchase Price per share will be
+increased by an amount equal to the dividend per share.  In no event shall the
+Purchase Price be less than this par value of the Stock.
+
+          Sec. 4.04  Exercise of Purchase Privilege.
+
+               (a)  Subject to the provisions of Section 4.02 above and of
+                    paragraph (b) of this Section 4.04, if on the tenth
+                    business day prior to any Exercise Date there is standing,
+                    to the credit of a Participant in his/her Stock Purchase
+                    Account an amount equal to, or greater than, the Purchase
+                    Price of one share of Stock for the Offering that expires
+                    on such Exercise Date, there shall be purchased for the
+                    Participant at such Purchase Price the largest number of
+                    whole shares of Stock as can be purchased with the amount
+                    then standing to the Participant's credit in his/her Stock
+                    Purchase Account.  Each such purchase shall be deemed to
+                    have occurred on the Exercise Date occurring at the close
+                    of the offering from which the purchase was made.
+
+               (b)  A Participant may not purchase shares of Stock having an
+                    aggregated Market Value of more than twenty-five thousand
+                    dollars ($25,000), determined at the time off the
+                    Offering(s), for each calendar year in which one or more
+                    such Offering(s) is/are outstanding at any time, and a
+                    Participant may not purchase a share of Stock under any
+                    Offering after the expiration of the Purchase Period for
+                    such Offering.
+
+          Sec. 4.05  Establishment of Stock Purchase Account.  Each
+Participant shall authorize payroll deductions from Compensation for the
+purposes of funding his/her Stock Purchase Account.  In the Purchase
+Agreement, each Participant shall authorize a deduction from each payment of
+his/her Compensation during a Purchase Period, which deduction shall be not
+less than two percent (2%) nor more than ten percent (10%) of the gross amount
+of such payment, rounded to the nearest whole dollar amount.  Any Participant
+who has elected payroll deductions which exceed two percent (2%) of his/her
+payments of Compensation may reduce his/her payroll deduction rate during any
+Purchase Period, provided no such reduction shall reduce the payroll deduction
+rate below two percent (2%).  The payroll deduction rate may not be increased
+during any Purchase Period.  However, a Participant may change the deduction
+to any permissible level for any subsequent Offering by filing notice thereof
+prior to the Offering Date on which such subsequent Offering commences.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -6-
+<PAGE>   47
+          Sec. 4.06  Payment for Stock.  The Purchase Price for all shares of
+Stock purchased by any Participant under this Plan shall be paid out of the
+Participant's Stock Purchase Account.  As of each Exercise Date, the amount
+standing to the credit of each Participant on the tenth (10th) business day
+prior to the Exercise Date in his/her Stock Purchase Account in the Offering
+that expires on such Exercise Date shall be charged with the aggregate
+Purchase Price of the shares of Stock purchased by such Participant on the
+Exercise Date.  The remaining balance standing to the Participant's credit in
+his/her Stock Purchase Account shall remain credited to such Stock Purchase
+Account for the next succeeding Offering under this Plan.  No interest shall
+be paid or payable with respect to any amount held in the Participant's Stock
+Purchase Account.
+
+          4.07  Share Ownership; Issuance of Certificates.
+
+               (a)  The shares purchased by a Participant on an Exercise Date
+shall, for all purposes, be deemed to have been issued and/or sold at the
+close of business on such Exercise Date.  Prior to that time, none of the
+rights or privileges of a shareholder of the Company shall inure to the
+Participant with respect to such shares.  All the shares of Stock purchased
+under this Plan shall be delivered by the Company in a manner as determined by
+the Administrative Committee, provided, however, that all shares acquired by
+Participants during any Plan Year shall be delivered not later than one
+hundred twenty (120) days following the last day of such Plan Year.
+
+               (b)  The Administrative Committee, in its sole discretion, may
+determine that the shares of Stock shall be delivered by the Company to the
+Participant by issuing and delivering to the Participant a certificate for the
+number of shares of Stock purchased by a Participant on an Exercise Date or
+during a Plan Year, or that the shares of Stock purchased by all Participants
+shall be delivered to a member firm of the New York Stock Exchange which is
+also a member of the National Association of Securities Dealers, as selected
+by the Administrative Committee from time to time, which shares shall be
+maintained by such member firm in separate brokerage accounts of each
+Participant.  Each certificate or brokerage account, as the case may be, may
+be in the name of the Participant or, if he/she designates on his/her Stock
+Purchase Agreement, in his/her name jointly with his/her spouse, with right of
+survivorship.  A Participant who is a resident of a jurisdiction that does not
+recognize such joint tenancy may have a certificate or brokerage account in
+his/her name as tenant in common with his/her spouse, without right of
+survivorship.  Such designation may be changed by filing notice thereof.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -7-
+<PAGE>   48
+                                  ARTICLE V.
+
+                              SPECIAL ADJUSTMENTS
+
+          Sec. 5.01  Shares Unavailable.  If, on any Exercise Date, the
+aggregate funds available for the purchase of Stock would purchase a number of
+shares in excess of the number of shares then available for purchase under the
+Plan, the following events shall occur:
+
+               (a)  The number of shares that would otherwise be purchased by
+                    each Participant shall be proportionately reduced on the
+                    Exercise Date in order to eliminate such excess;
+
+               (b)  The Plan shall automatically terminate immediately after
+                    the Exercise Date as of which the supply of available
+                    shares is exhausted; and
+
+               (c)  Any amount remaining in the Stock Purchase Account of any
+                    Participant shall be repaid to such Participant.
+
+          Sec. 5.02  Anti-Dilution Provisions.  The aggregate number of shares
+of Stock reserved for purchase under the Plan, as hereinabove provided, and
+the calculation of the Purchase Price per share may be appropriately adjusted
+to reflect any increase or decrease in the number of issued shares of Stock
+resulting from a subdivision or consolidation of shares or other capital
+adjustment, or the payment of a stock dividend, or other increase or decrease
+in such shares, if effected without receipt of consideration by the Company.
+Any such adjustment shall be made by the Administrative Committee acting with
+the consent of, and subject to the approval, of the Board of Directors.
+
+          Sec. 5.03  Effect of Certain Transactions.  Subject to any required
+action by the shareholders, it the Company shall be the surviving or resulting
+corporation in any merger or consolidation, any Offering hereunder shall
+pertain to and apply to the shares of stock of the Company.  However, in the
+event of a dissolution or liquidation of the Company, or of a merger or
+consolidation in which the Company is not the surviving or resulting
+corporation, this Plan and any offering hereunder shall terminate upon the
+effective date of such dissolution, liquidation, merger, or consolidation, and
+the balance then standing to the credit of each Participant in his/her Stock
+Purchase Account shall be returned to him/her.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -8-
+<PAGE>   49
+                                  ARTICLE VI.
+
+                                 MISCELLANEOUS
+
+          Sec. 6.01 Non-Alienation.  The right to purchase shares of Stock
+under this Plan is personal to the Participant, is exercisable only by the
+Participant during his/her lifetime except as hereinafter set forth, and may
+not be assigned or otherwise transferred by the Participant.  Notwithstanding
+the foregoing, there shall be delivered to the executor, administrator or
+other personal representative of a deceased Participant such shares of Stock
+and such residual balance as may remain in the Participant's Stock Purchase
+Account as of the Exercise Date occurring at the close of the Purchase Period
+in which the Participant's death occurs, including shares of Stock purchased
+as of that date or prior thereto with moneys deposited by the Participant
+and/or withheld from the Participant's compensation.
+
+          Sec. 6.02  Administrative Costs.  The Company shall pay all
+administrative expenses associated with the operation of this Plan.  No
+administrative charges shall be levied against the Stock Purchase Accounts of
+the Participants.
+
+          Sec. 6.03  Administrative Committee.  The Board of Directors shall
+designate a committee to be the Administrative Committee of the Plan.  The
+Administrative Committee shall have the authority and power to administer the
+Plan and to make, adopt, construe, and enforce rules and regulations not
+inconsistent with the provisions of the Plan.  The Administrative Committee
+shall adopt and prescribe the contents of all forms required in connection
+with the administration of this Plan, including, but not limited to, the
+Purchase Agreement, payroll withholding authorizations, withdrawal documents,
+and all other notices required hereunder.  The Administrative Committee's
+interpretations and decisions in respect of this Plan, the rules and
+regulations pursuant to which it is operated, and the rights of Participants
+hereunder shall be final and conclusive.
+
+          Sec. 6.04  Amendment of this Plan.  The Board of Directors may, at
+any time and from time to time, amend this Plan in any respect, except that no
+amendment may
+
+               (a)  increase the number of shares reserved for purposes of
+                    this Plan;
+
+               (b)  reduce the Purchase Price per share; or
+
+               (c)  allow any person who is not an Eligible Employee to become
+                    a Participant
+
+without the approval of the shareholders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -9-
+<PAGE>   50
+          Sec. 6.05  Expiration and Termination of this Plan.  Unless
+terminated prior thereto pursuant to Section 5.01 to this Plan, this Plan
+shall continue in effect until 11:59 p.m., Pitman, New Jersey time on June 30,
+2001, provided, however, that the Board of Directors shall have the right to
+terminate this Plan at any time prior thereto without notice to any
+Participant.  Upon the expiration or termination of this Plan, the balance, if
+any, then standing to the credit of each Participant in his/her Stock Purchase
+Account shall be refunded to him/her.
+
+          Sec. 6.06  Repurchase of Stock.  The Company shall not be required
+to purchase or repurchase from any Participant any of the shares of Stock that
+the Participant acquired under this Plan.
+
+          Sec. 6.07  Notice.  A Purchase Agreement and any notice that a
+Participant files pursuant to the Plan shall be on the form prescribed by the
+Administrative Committee and shall be effective only when received by the
+Administrative Committee.  Delivery of such forms may be made by hand or by
+certified mail, sent postage prepaid, to K-Tron International, Inc., Routes 55
+and 553, Pitman, New Jersey 08071, Attention: Stock Purchase Plan Committee.
+
+          Sec. 6.08  Government Regulation.  The Company's obligation to sell
+and to deliver the Stock under the Plan is.at all times subject to all
+approvals of any governmental authority required in connection with the
+authorization, issuance, sale, or delivery of such Stock.
+
+          Sec. 6.09  Headings, Captions, Gender.  The headings and captions
+herein are for convenience of reference only and shall not be considered as a
+part of the text.  The masculine shall include the feminine, and vice versa.
+
+         Sec. 6.10  Severability of Provisions; Prevailing Law.  The
+provisions of this Plan shall be deemed severable.  In the event any such
+provision is determined to be unlawful or unenforceable by a court of
+competent jurisdiction or by reason of a change in an applicable statute, this
+Plan shall continue to exist as though such provision had never been included
+therein.  This Plan shall be governed by the laws of the State of New Jersey,
+to the extent such laws are not in conflict with or superseded by federal law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     -10-
+<PAGE>   51
+                       K-TRON INTERNATIONAL, INC. PROXY
+
+                               ROUTES 55 AND 553
+                                 P.O. BOX 888
+                         PITMAN, NEW JERSEY 08071-0888
+
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS.  The undersigned
+hereby appoints LEO C. BEEBE and EDWARD B. CLOUES, II, or either of them
+acting singly in the absence of the other, each with the power to appoint his
+substitute, the Proxy Agents of the undersigned to attend the Annual Meeting
+of Shareholders of K-Tron International, Inc. (the "Company") to be held May
+10, 1996, and any adjournments thereof, and with all powers the undersigned
+would possess if personally present, to vote upon the following matters as
+indicated below.
+
+
+                  (CONTINUED AND TO BE SIGNED ON REVERSE SIDE.)
+
+
+
+                                                                SEE REVERSE
+                                                                   SIDE
+
+
+<PAGE>   52
+/ X /  PLEASE MARK YOUR
+       VOTES AS IN THIS
+       EXAMPLE
+
+
+
+ 1.     Election of Directors      FOR  / /   WITHHELD  / /
+        Class III             
+
+        NOMINEES: Norman Cohen, Richard J. Pinola
+
+        For, except vote withheld from the following nominee(s):
+
+        --------------------------------------------------------
+
+
+ 2.     Approval of Extension of the Company's Employee Stock Purchase Plan.
+
+                FOR  / /    AGAINST  / /    ABSTAIN  / /
+
+
+ 3.     Approval of the Company's 1996 Equity Compensation Plan.
+
+                FOR  / /    AGAINST  / /    ABSTAIN  / /
+
+
+ 4.     In their discretion, the Proxy Agents are authorized to vote upon such
+        other business as may properly come before the meeting.
+
+
+
+
+THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER DIRECTED HEREIN
+BY THE UNDERSIGNED SHAREHOLDER.  WITH RESPECT TO THE ELECTION OF DIRECTORS, IF
+NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED FOR ALL NOMINEES FOR ELECTION
+AS THE CLASS III DIRECTORS.  The undersigned hereby acknowledges receipt of
+the Notice of the Annual Meeting of Shareholders and the related Proxy
+Statement.
+
+
+
+PLEASE MARK, SIGN AND DATE THIS PROXY CARD AND PROMPTLY RETURN IT USING THE
+ENCLOSED ENVELOPE
+
+
+SIGNATURE ______________________________________________
+
+SIGNATURE IF HELD JOINTLY ______________________________ DATE ______, 1996
+
+
+Please sign exactly as name appears above.  When shares are held by joint
+tenants, both should sign.  When signing as attorney, executor, administrator,
+trustee or guardian, please give full title as such.  If a corporation, please
+sign in full corporate name by the President or other authorized officer.  If
+a partnership, please sign in the partnership name by an authorized person.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

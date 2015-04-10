@@ -1,0 +1,1533 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VJ43k3nQ5qXvyopu9GUcHhvFwUn67n/NJPsw6gVN5tYEwcvX797q63ihFwOir0c4
+ 6Tubnen3ruS09vvxmLZC1Q==
+
+<SEC-DOCUMENT>0001188112-05-001793.txt : 20051017
+<SEC-HEADER>0001188112-05-001793.hdr.sgml : 20051017
+<ACCEPTANCE-DATETIME>20051017160403
+ACCESSION NUMBER:		0001188112-05-001793
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051201
+FILED AS OF DATE:		20051017
+DATE AS OF CHANGE:		20051017
+EFFECTIVENESS DATE:		20051017
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACETO CORP
+		CENTRAL INDEX KEY:			0000002034
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-CHEMICALS & ALLIED PRODUCTS [5160]
+		IRS NUMBER:				111720520
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0205
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04217
+		FILM NUMBER:		051141004
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5166276000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACETO CHEMICAL CO INC
+		DATE OF NAME CHANGE:	19851203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>tdef14a-7903.txt
+<DESCRIPTION>DEF 14A
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                  SCHEDULE 14A
+
+           Proxy Statement Pursuant to Section 14(a) of the Securities
+                      Exchange Act of 1934 (Amendment No. )
+
+Filed by the Registrant   |X|
+Filed by a Party other than the Registrant   |_|
+
+Check the appropriate box:
+
+|_|     Preliminary Proxy Statement
+|_|     Confidential, for Use of the Commission Only (as permitted by
+        Rule 14a-6(e)(2))
+|X|     Definitive Proxy Statement
+|_|     Definitive Additional Materials
+|_|     Soliciting Material Pursuant to Rule 14a-11(c) or Rule 14a-12
+
+
+                                ACETO CORPORATION
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+- --------------------------------------------------------------------------------
+    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+Payment of Filing Fee (Check the appropriate box):
+
+|X|     No fee required.
+
+|_|     Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+
+        (1)     Title of each class of securities to which transaction applies:
+
+        (2)     Aggregate number of securities to which transaction applies:
+
+        (3)     Per unit price or other underlying value of transaction computed
+                pursuant to Exchange Act Rule 0-11 (set forth the amount on
+                which the filing fee is calculated and state how it was
+                determined):
+
+        (4)     Proposed maximum aggregate value of transaction:
+
+        (5)     Total fee paid:
+
+|_|     Fee paid previously with preliminary materials.
+
+|_|     Check box if any part of the fee is offset as provided by Exchange Act
+        Rule 0-11(a)(2) and identify the filing for which the offsetting fee was
+        paid previously. Identify the previous filing by registration statement
+        number, or the Form or Schedule and the date of its filing.
+
+        (1)     Amount Previously Paid:
+
+        (2)     Form, Schedule or Registration Statement No.:
+
+        (3)     Filing Party:
+
+        (4)     Date Filed:
+
+<PAGE>
+
+                                ACETO CORPORATION
+
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+                               TEL. (516) 627-6000
+
+
+
+
+                                                        October 20, 2005
+
+
+Dear Fellow Shareholder:
+
+        I take pleasure in inviting each of you to attend Aceto Corporation's
+annual meeting of shareholders to be held on Thursday, December 1, 2005 at 10:00
+a.m., Eastern Standard Time, at the Company's offices, One Hollow Lane, Lake
+Success, New York. I am pleased to provide you with your Company's annual report
+and the proxy statement attached to this letter.
+
+        Please use this opportunity to take part in our affairs by voting on the
+business to come before this meeting. You may vote your shares at the annual
+meeting by marking your votes on the enclosed proxy card, signing and dating it,
+and mailing it in the enclosed envelope.
+
+        I look forward to seeing you at the annual meeting and thank you for
+your continued support.
+
+                                        Sincerely,
+
+                                        /s/ Leonard S. Schwartz
+
+                                        Leonard S. Schwartz
+                                        Chairman of the Board, President and
+                                        Chief Executive Officer
+
+
+                                       2
+<PAGE>
+
+                                ACETO CORPORATION
+
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+                               TEL. (516) 627-6000
+
+
+
+
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+
+To the Shareholders of Aceto Corporation:
+
+We hereby notify you that the annual meeting of shareholders of Aceto
+Corporation, a New York corporation (the "Company"), will be held on Thursday,
+December 1, 2005, at 10:00 a.m., Eastern Standard Time, at the Company's offices
+indicated above for the following purposes:
+
+        o       to elect seven directors to the board of directors to hold
+                office for the following year and until their successors are
+                elected; and
+
+        o       to transact any other business that may properly come before the
+                meeting or any adjournment thereof.
+
+The matters listed in this notice of meeting are described in the accompanying
+proxy statement. The Company's board of directors has fixed the close of
+business on October 7, 2005 as the record date for this year's annual meeting.
+You must be a shareholder of record at that time to be entitled to notice of the
+annual meeting and to vote at the annual meeting.
+
+                             YOUR VOTE IS IMPORTANT
+
+Even if you plan to attend the meeting, please promptly complete, sign, date and
+return the enclosed proxy card in the envelope provided so that your vote will
+be counted if you later decide not to attend the meeting. No postage is required
+if the proxy card is mailed in the United States.
+
+
+                                        By order of the board of directors,
+
+                                        /s/ Douglas Roth
+
+                                        Douglas Roth
+                                        Chief Financial Officer and
+                                        Corporate Secretary
+
+Lake Success, New York
+October 20, 2005
+
+
+                                       3
+<PAGE>
+
+                                ACETO CORPORATION
+
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+                               TEL. (516) 627-6000
+
+                                   -----------
+                                 PROXY STATEMENT
+                                   -----------
+
+                               GENERAL INFORMATION
+
+INFORMATION ABOUT PROXY SOLICITATION
+
+This proxy statement is being furnished to holders of shares as of the record
+date of the common stock, $0.01 par value per share, of Aceto Corporation, a New
+York corporation (the "Company"), in connection with the Company's annual
+meeting to be held on Thursday, December 1, 2005 at 10:00 a.m. Eastern Standard
+Time, at the Company's offices. We sent you this proxy statement because our
+board of directors is soliciting your proxy to vote your shares at the annual
+meeting and at any adjournment. This proxy statement summarizes information that
+we are required to provide to you under the rules of the United States
+Securities and Exchange Commission and the Nasdaq Stock Market, Inc., which
+information is designed to assist you in voting your shares. The purposes of the
+meeting and the matters to be acted on are stated in the accompanying notice of
+annual meeting of shareholders. At present, the board of directors knows of no
+other business that will come before the meeting.
+
+We will begin mailing these proxy materials on or about October 20, 2005. The
+Company will bear the cost of its solicitation of proxies. The original
+solicitation of proxies by mail may be supplemented by personal interview,
+telephone, and facsimile by the directors, officers and employees of the
+Company. Arrangements will also be made with brokerage houses and other
+custodians, nominees and fiduciaries for the forwarding of solicitation material
+to the beneficial owners of stock held by such persons, and the Company may
+reimburse those custodians, nominees and fiduciaries for reasonable
+out-of-pocket expenses incurred by them in doing so.
+
+INFORMATION ABOUT VOTING
+
+Q:      WHY AM I RECEIVING THESE MATERIALS?
+
+A:      The board of directors is providing these proxy materials to you in
+        connection with the Company's annual meeting of shareholders, which will
+        take place on December 1, 2005. As a shareholder, you are invited to
+        attend the annual meeting and to vote on the items of business described
+        in this proxy statement.
+
+Q:      WHAT INFORMATION IS CONTAINED IN THESE MATERIALS?
+
+A:      The information included in this proxy statement relates to the
+        proposals to be voted on at the annual meeting, the voting process, the
+        compensation of directors and the most highly paid executive officers,
+        and certain other required information. A copy of our annual report is
+        also enclosed.
+
+Q:      WHAT ITEMS OF BUSINESS WILL BE VOTED ON AT THE ANNUAL MEETING?
+
+A:      The one item of business scheduled to be voted on at the annual meeting
+        is the election of directors. We will also consider any other business
+        that properly comes before the annual meeting.
+
+Q:      HOW DOES THE BOARD OF DIRECTORS RECOMMEND THAT I VOTE?
+
+A:      The board of directors recommends that you vote your shares FOR each of
+        the nominees to the board on the proxy card included with this proxy
+        statement.
+
+
+                                       4
+<PAGE>
+
+Q:      WHAT SHARES CAN I VOTE?
+
+A:      You may vote all shares owned by you as of the close of business on
+        October 7, 2005, the record date. These shares include: (1) shares held
+        directly in your name as a shareholder of record; and (2) shares held
+        for you, as the beneficial owner, through a broker or other nominee,
+        such as a bank.
+
+Q:      WHAT IS THE DIFFERENCE BETWEEN HOLDING SHARES AS A SHAREHOLDER OF RECORD
+        AND AS A BENEFICIAL OWNER?
+
+A:      Most shareholders of the Company hold their shares through a broker or
+        other nominee rather than directly in their own name. As summarized
+        below, there are some distinctions between shares held of record and
+        those owned beneficially.
+
+        If your shares are registered directly in your name with the Company's
+        transfer agent, The Bank of New York, you are considered, with respect
+        to those shares, the shareholder of record and these proxy materials are
+        being sent directly to you by the Company. As the shareholder of record,
+        you have the right to grant your proxy directly to the board of
+        directors or to vote in person at the meeting. The board of directors
+        has enclosed or sent a proxy card for you to use.
+
+        If your shares are held in a brokerage account or by another nominee,
+        you are considered the beneficial owner of shares held in "street name,"
+        and these proxy materials are being forwarded to you by your broker or
+        nominee together with a voting instruction card. As the beneficial
+        owner, you have the right to direct your broker or nominee how to vote
+        and are also invited to attend the annual meeting. However, since you
+        are not the shareholder of record, you may not vote these shares in
+        person at the meeting unless you obtain a "legal proxy" from the broker
+        or nominee that holds your shares, giving you the right to vote the
+        shares. Your broker or nominee has enclosed or provided voting
+        instructions for you to use in directing the broker or nominee how to
+        vote your shares.
+
+Q:      HOW CAN I ATTEND THE ANNUAL MEETING?
+
+A:      You are entitled to attend the annual meeting only if you were a
+        shareholder of the Company or joint holder as of the close of business
+        on October 7, 2005, or you hold a valid proxy for the annual meeting.
+        You should be prepared to present photo identification for admittance.
+        If you are not a record holder but hold shares through a broker or
+        nominee (that is, in "street name"), you should provide proof of
+        beneficial ownership on the record date, such as your most recent
+        account statement prior to October 7, 2005, a copy of the voting
+        instruction card provided by your broker or nominee, or other similar
+        evidence of ownership. If you do not provide photo identification or
+        comply with the other procedures outlined above upon request, you will
+        not be admitted to the annual meeting. The annual meeting will begin
+        promptly at 10:00 a.m. Eastern Standard Time. Check-in will begin at
+        9:00 a.m., and you should allow ample time for the check-in procedures.
+
+Q:      HOW CAN I VOTE MY SHARES IN PERSON AT THE ANNUAL MEETING?
+
+A:      You may vote in person at the annual meeting any shares that you hold as
+        the shareholder of record. You may only vote in person shares held in
+        street name if you obtain from the broker or nominee that holds your
+        shares a "legal proxy" giving you the right to vote the shares.
+
+Q:      HOW CAN I VOTE MY SHARES WITHOUT ATTENDING THE ANNUAL MEETING?
+
+A:      Whether you hold shares directly as the shareholder of record or
+        beneficially in street name, you may without attending the meeting
+        direct how your shares are to be voted. If you are a shareholder of
+        record, you may vote by granting a proxy. If you hold shares in street
+        name, you may vote by submitting voting instructions to your broker or
+        nominee. Each record holder of Company common stock may submit a proxy
+        by completing, signing, and dating a proxy card and mailing it in the
+        accompanying pre-addressed envelope. Each shareholder who holds shares
+        in street name may vote by mail by completing, signing, and dating a
+        voting instruction card provided by the broker or nominee and mailing it
+        in the accompanying pre-addressed envelope.
+
+
+                                       5
+<PAGE>
+
+Q:      CAN I CHANGE MY VOTE?
+
+A:      You may change your vote at any time prior to the vote at the annual
+        meeting. For shares held directly in your name, you may accomplish this
+        by granting a new proxy bearing a later date (which automatically
+        revokes the earlier proxy) or by attending the annual meeting and voting
+        in person. Attendance at the meeting will not cause your previously
+        granted proxy to be revoked unless you specifically so request. For
+        shares you hold beneficially, you may change your vote by submitting new
+        voting instructions to your broker or nominee or, if you have obtained a
+        "legal proxy" from your broker, or nominee giving you the right to vote
+        your shares, by attending the meeting and voting in person. You may also
+        change your vote by sending a written notice of revocation to Mr.
+        Douglas Roth, Chief Financial Officer and Corporate Secretary, Aceto
+        Corporation, One Hollow Lane, Lake Success, New York 11042.
+
+Q:      WHO CAN HELP ANSWER MY QUESTIONS?
+
+A:      If you have any questions about the annual meeting or how to vote or
+        revoke your proxy, you should contact Mr. Terry Steinberg, Vice
+        President, Administration and Assistant Corporate Secretary, by mail to
+        Aceto Corporation, One Hollow Lane, Lake Success, New York 11042 or by
+        phone at 516-627-6000. Also, if you need additional copies of this proxy
+        statement or voting materials, you should contact Mr. Steinberg.
+
+Q:      HOW ARE VOTES COUNTED?
+
+A:      In the election of directors, you may vote FOR all of the seven nominees
+        or you may direct your vote to be WITHHELD with respect to one or more
+        of the seven nominees. If you provide specific instructions, your shares
+        will be voted as you instruct. If you sign your proxy card or voting
+        instruction card with no further instructions, your shares will be voted
+        in accordance with the recommendations of the board of directors FOR all
+        of the Company's nominees and, in the discretion of the proxy holders,
+        on any other matters that properly come before the meeting. If any other
+        matters properly arise at the meeting, your proxy, together with the
+        other proxies received, will be voted at the discretion of the proxy
+        holders.
+
+Q:      WHAT IS A QUORUM AND WHY IS IT NECESSARY?
+
+A:      Conducting business at the meeting requires a quorum. The presence,
+        either in person or by proxy, of the holders of a majority of the
+        Company's shares of common stock outstanding on October 7, 2005 is
+        necessary to constitute a quorum. Under the New York Business
+        Corporation Law, and the Company's articles of incorporation and
+        by-laws, abstentions are treated as present for purposes of determining
+        whether a quorum exists.
+
+Q:      WHAT IS THE VOTING REQUIREMENT TO APPROVE EACH OF THE PROPOSALS?
+
+A:      In the election of directors, the seven persons receiving the highest
+        number of FOR votes at the annual meeting will be elected. Accordingly,
+        abstentions and broker non-votes do not have the effect of a vote for or
+        against the election of any nominee. You do not have the right to
+        cumulate your votes. Any other matters that might properly arise at the
+        meeting require the affirmative "FOR" vote of a majority of those shares
+        present in person or represented by proxy and entitled to vote on that
+        proposal at the annual meeting. Accordingly, abstentions on other
+        proposals will have the same effect as a vote against the proposal. In
+        addition, where brokers are prohibited from exercising discretionary
+        authority for beneficial owners who have not provided voting
+        instructions (commonly referred to as "broker non-votes"), those shares
+        will not be included in the vote totals. Broker non-votes will not have
+        the effect of a vote for or against other proposals. A list of
+        shareholders entitled to vote at the annual meeting will be available at
+        the annual meeting for examination by any shareholder.
+
+Q:      WHAT SHOULD I DO IF I RECEIVE MORE THAN ONE SET OF VOTING MATERIALS?
+
+A:      You may receive more than one set of voting materials, including
+        multiple copies of this proxy statement and multiple proxy cards or
+        voting instruction cards. For example, if you hold your shares in more
+        than one brokerage account, you will receive a separate voting
+        instruction card for each brokerage account in which you hold shares. If
+        you are a shareholder of record and your shares are registered in more
+        than one name,
+
+
+                                       6
+<PAGE>
+
+        you will receive more than one proxy card. Please complete, sign, date,
+        and return each proxy card and voting instruction card that you receive.
+
+Q:      WHERE CAN I FIND THE VOTING RESULTS OF THE ANNUAL MEETING?
+
+A:      We intend to announce preliminary voting results at the annual meeting
+        and publish final results in our Quarterly Report on Form 10-Q for the
+        fiscal quarter ending December 31, 2005.
+
+Q:      WHAT HAPPENS IF ADDITIONAL MATTERS ARE PRESENTED AT THE ANNUAL MEETING?
+
+A:      Other than the one item of business described in this proxy statement,
+        we are not aware of any other business to be acted upon at the annual
+        meeting. However, if you grant a proxy, the persons named as proxy
+        holders, Leonard S. Schwartz, the Company's Chairman, President and
+        Chief Executive Officer, and Douglas Roth, the Company's Chief Financial
+        Officer and Secretary, will have the discretion to vote your shares on
+        any additional matters properly presented for a vote at the meeting. If
+        for any unforeseen reason any of our nominees is not available as a
+        candidate for director, the persons named as proxy holders will vote
+        your proxy for any one or more other candidates nominated by the board
+        of directors.
+
+Q:      WHAT SHARES ARE ENTITLED TO BE VOTED?
+
+A:      Each share of the Company's common stock issued and outstanding as of
+        the close of business on October 7, 2005, the record date, is entitled
+        to be voted on all items being voted at the annual meeting, with each
+        share being entitled to one vote. On the record date, 24,299,374 shares
+        of the Company's common stock were issued and outstanding.
+
+Q:      WHO WILL COUNT THE VOTES?
+
+A:      One or more inspectors of election will tabulate the votes.
+
+Q:      IS MY VOTE CONFIDENTIAL?
+
+A:      Proxy instructions, ballots, and voting tabulations that identify
+        individual shareholders are handled in a manner that protects your
+        voting privacy. Your vote will not be disclosed, either within the
+        Company or to anyone else, except: (1) as necessary to meet applicable
+        legal requirements; (2) to allow for the tabulation of votes and
+        certification of the vote; or (3) to facilitate a successful proxy
+        solicitation.
+
+Q:      WHO WILL BEAR THE COST OF SOLICITING VOTES FOR THE ANNUAL MEETING?
+
+A:      The board of directors is making this solicitation and will pay the
+        entire cost of preparing, assembling, printing, mailing and distributing
+        these proxy materials. Certain of our directors, officers and employees,
+        without any additional compensation, may also solicit your vote in
+        person, by telephone or by electronic communication. On request, we will
+        also reimburse brokerage houses and other custodians, nominees and
+        fiduciaries for their reasonable out-of-pocket expenses for forwarding
+        proxy and solicitation materials to shareholders.
+
+Q:      MAY I PROPOSE ACTIONS FOR CONSIDERATION AT NEXT YEAR'S ANNUAL MEETING OF
+        SHAREHOLDERS?
+
+A:      You may submit proposals for consideration at future shareholder
+        meetings. However, in order for a shareholder proposal to be considered
+        for inclusion in the Company's proxy statement for the annual meeting
+        next year, the written proposal must be received by the corporate
+        secretary of the Company no later than June 18, 2006. Such proposals
+        also will need to comply with United States Securities and Exchange
+        Commission regulations under Proxy Rule 14a-8 regarding the inclusion of
+        shareholder proposals in company-sponsored proxy materials.
+
+
+                                       7
+<PAGE>
+
+                    ACTIONS TO BE TAKEN AT THE ANNUAL MEETING
+
+                                    PROPOSAL
+
+                              ELECTION OF DIRECTORS
+
+THE NOMINEES
+
+The Company's board of directors is proposing a slate of directors that consists
+of six incumbent directors and one new director nominee. Mr. Britton is being
+nominated to fill the vacancy created by the death of our former director,
+Samuel I. Hendler. The nominees are set forth in the table below.
+
+                                                                       DIRECTOR
+        NAME                 AGE               POSITION                 SINCE
+     ----------             ------    ---------------------------     ----------
+
+Leonard S. Schwartz          59       Chairman, President and CEO        1991
+Robert A. Wiesen (1)         54       Director                           1994
+Stanley H. Fischer           62       Director                           2000
+Albert L. Eilender (2)(3)    62       Director                           2000
+Ira S. Kallem (2)            57       Director                           2002
+Hans C. Noetzli (2)          64       Director                           2002
+William N. Britton           60       Director Nominee                     -
+
+- --------------------------------------------------------------------------------
+(1) This director is designated the lead compensation director.
+(2) This director is a member of the audit committee.
+(3) This director is designated the lead independent director.
+
+It is the intention of the persons named in the accompanying proxy card to vote
+all shares of common stock for which they have been granted a proxy for the
+election of the nominees, each to serve as a director until the next annual
+meeting of shareholders and until his or her successor shall have been duly
+elected and qualified. All the nominees have consented to being named in this
+proxy statement and to serve as a director if elected.
+
+At the time of the annual meeting, if any of the nominees named above is not
+available to serve as director (an event that the board of directors does not
+currently have any reason to anticipate), all proxies will be voted for any one
+or more other persons that the board of directors designates. The board of
+directors believes that it is in the best interests of the Company to elect the
+above-described slate of directors.
+
+INFORMATION ABOUT THE NOMINEES
+
+No director or executive officer of the Company is related to any other director
+or executive officer. None of the Company's officers or directors hold any
+directorships in any other public company. A majority of our board members are
+independent.
+
+Set forth below is the principal occupation of the nominees, the business
+experience of each for at least the past five years and certain other
+information relating to the nominees.
+
+LEONARD S. SCHWARTZ. Mr. Schwartz has served as Chairman and Chief Executive
+Officer of the Company since July 1, 1997 and President since July 1, 1996.
+After joining the Company in 1969, Mr. Schwartz, a chemist by training,
+developed the Company's industrial chemicals business and had a key role in the
+management of the Company's subsidiaries.
+
+ROBERT A. WIESEN. Mr. Wiesen is an attorney and partner in the law firm of
+Clifton Budd & DeMaria. He joined this law firm in 1979 subsequent to his
+employment with the National Labor Relations Board. He has handled matters for
+the Company relating to labor and employment law for over ten years and he has
+written and lectured on labor law.
+
+
+                                       8
+<PAGE>
+
+STANLEY H. FISCHER. Mr. Fischer is President of Fischer and Burstein P.C., a law
+firm. Mr. Fischer received a J.D. degree from New York University School of Law.
+He has been a practicing attorney for more than 30 years and has advised and
+represented corporate entities in matters relative to internal matters, mergers,
+acquisitions, real estate and litigation. He is a member of the American Bar
+Association, the New York Bar Association, the Association of the Bar of the
+City of New York, the Association of Trial Lawyers of America, New York State
+Trial Lawyers and the Nassau County Bar Association. He is a member of various
+professional committees including the International Law Section of the New York
+State Bar.
+
+ALBERT L. EILENDER. Mr. Eilender is the sole owner of Waterways Advisory
+Services, a firm specializing in advising companies on developing and evaluating
+options relative to mergers, acquisitions and strategic partnerships in the
+chemical industry. He has more than 30 years of diverse senior level experience
+in the specialty chemicals and pharmaceutical industry and has had direct
+financial responsibility for managing businesses up to $300 million in revenues,
+with significant experience in mergers, acquisitions and joint ventures, both
+domestically and internationally. He has also served on the boards of numerous
+industry trade associations during his career.
+
+IRA S. KALLEM. Mr. Kallem has been a practicing accountant, part-time, at
+Wiener, Frushtick & Straub, Certified Public Accountants, since September 2000.
+In June 1994, Mr. Kallem co-founded Mateo Express, Inc., an international money
+transfer company and served as Chief Financial Officer and Director until May
+2000. Previously, he was a Senior Partner at Shine & Company, Certified Public
+Accountants.
+
+HANS C. NOETZLI. Mr. Noetzli is the Chairman of Schweizerhall, Inc., a wholly
+owned subsidiary of Schweizerhall Holding AG, Basel, Switzerland. Mr. Noetzli
+holds a degree in Business Administration. He has more than 30 years experience
+in the fine chemicals industry. Prior to assuming his present position, he
+served in many executive functions of the Alusuisse-Lonza Group, among them as
+Chief Executive Officer of Lonza Inc. for 16 years and he was a member of the
+executive committee of the worldwide Alusuisse-Lonza Group located in Zurich,
+Switzerland. Mr. Noetzli also served on the board of directors of the Chemical
+Manufacturing Association, the Swiss-American Chamber of Commerce, New York, as
+well as other industry associations. Currently, he is a member of the board of
+directors of IRIX Pharmaceuticals, Inc., a privately owned developer and
+manufacturer of active pharmaceutical ingredients and he is a member of the
+board of directors of Synthetech, Inc., a fine chemicals company specializing in
+organic synthesis, biocatalysis and chiral technologies.
+
+WILLIAM N. BRITTON. Mr. Britton is the sole owner of TD AIM, LLC through which
+he is involved in a variety of activities surrounding financial consulting and
+private equity investing. Previously, Mr. Britton was a Senior Vice President
+with JP Morgan Chase. He has over 30 years of commercial lending experience
+ranging from large syndicated financings with Fortune 500 companies to privately
+owned businesses, with significant experience in private equity related
+transactions, asset based lending arrangements, leasing and many other forms of
+secured lending. He is a former Vice President-Finance for the Boy Scouts of
+America (Manhattan Council) and is on the board of the Rutgers Business School.
+
+INFORMATION ABOUT THE COMPANY'S COMMITTEES
+
+AUDIT COMMITTEE
+
+The audit committee is comprised of Albert L. Eilender (Chairman), Ira S. Kallem
+and Hans C. Noetzli. The audit committee is responsible for recommending the
+Company's independent auditor and reviewing management actions in matters
+relating to audit functions. The committee reviews with the Company's
+independent auditors the scope and results of its audit engagement and the
+Company's system of internal controls and procedures. The committee also reviews
+the effectiveness of procedures intended to prevent violations of laws. The
+Committee also reviews, prior to publication, our quarterly earnings releases
+and reports to the SEC on Form 10-K and Form 10-Q. The report of the audit
+committee for fiscal year 2005 can be found below.
+
+The audit committee, consistent with the Sarbanes-Oxley Act of 2002 and the
+rules adopted thereunder, also meets with management and the auditors prior to
+the filing of officers' certifications with the SEC to request information
+concerning, among other things, significant deficiencies in the design or
+operation of internal controls, if any.
+
+Our board has determined that all audit committee members are independent under
+applicable SEC regulations, and as defined by Rule 4200 (a)(14) of the Nasdaq
+Marketplace Rules. Our board of directors has determined that Mr. Kallem
+qualifies as an "audit committee financial expert" as that term is used in
+Section 407 of the Sarbanes-Oxley
+
+
+                                       9
+<PAGE>
+
+Act of 2002. The audit committee operates under a formal charter that governs
+its duties and conduct. The charter was attached as an appendix to the Company's
+2003 proxy statement, and is published on the Company's corporate website -
+WWW.ACETO.COM.
+
+The audit committee has adopted a Non-Retaliation Policy and a Complaint
+Monitoring Procedure to enable confidential and anonymous reporting regarding
+financial irregularities, if any.
+
+BOARD NOMINATIONS
+
+The Company's board of directors does not have a nominating committee. Instead,
+the Company's independent directors make recommendations to the full board,
+which nominates directors on an annual basis. The board believes this process is
+preferable because it wishes to involve all of its independent directors in the
+nomination process rather than a select number of committee members.
+
+The independent directors perform the following functions with respect to
+nomination decisions:
+
+        o       They consider and recommend to the board of directors,
+                individuals for election as directors.
+
+        o       They make recommendations to the board of directors regarding
+                any changes to the size of the board of directors or any
+                committee.
+
+        o       They report to the board of directors on a regular basis, not
+                less than once a year.
+
+The Company's independent directors and board of directors have determined that
+candidates for director should have certain minimum qualifications, including
+being able to understand basic financial statements, being over 21 years of age,
+having relevant business experience, and having high moral character. The board
+of directors retains the right to modify these minimum qualifications from time
+to time.
+
+In evaluating an incumbent director whose term of office is set to expire, the
+independent directors and the board of directors review that director's overall
+service to the Company during that director's term, including the number of
+meetings attended, level of participation, quality of performance, and any
+transactions with the Company engaged in by that director during his or her
+term.
+
+When selecting a new director nominee, the independent directors and the board
+of directors first determine whether the nominee must be independent for Nasdaq
+purposes or whether the candidate must qualify as an "Audit Committee Financial
+Expert," as that term is used in section 407 of the Sarbanes-Oxley Act of 2002.
+The board then uses its network of contacts to compile a list of potential
+candidates, but may also engage, if it deems appropriate, a professional search
+firm. Each director then has an opportunity to privately interview each nominee
+if he or she deems it necessary. The board then meets to consider the
+candidates' qualifications and chooses candidates by a unanimous vote.
+
+Shareholders wishing to directly recommend candidates for election to the board
+of directors at an annual meeting must do so by giving notice in writing to
+Leonard S. Schwartz, Chairman, Aceto Corporation, One Hollow Lane, Lake Success,
+New York 11042. Any such notice must, for any given annual meeting, be delivered
+to the Chairman not less than 120 days prior to the anniversary of the preceding
+year's annual meeting. The notice must state (1) the name and address of the
+shareholder making the recommendations, (2) the name, age, business address, and
+residential address of each person recommended, (3) the principal occupation or
+employment of each person recommended, (4) the class and number of shares of
+Aceto shares that are beneficially owned by each person recommended and by the
+recommending shareholder, (5) any other information concerning the persons
+recommended that must be disclosed in nominee and proxy solicitations in
+accordance with Regulation 14A of the Securities Exchange Act of 1934, and (6) a
+signed consent of each person recommended stating that he or she consents to
+serve as a director of the Company if elected.
+
+The board of directors will consider and vote on any recommendations so
+submitted. In considering any person recommended by a shareholder, the committee
+will look for the same qualifications that it looks for in any other person that
+it is considering for a position on the board of directors.
+
+
+                                       10
+<PAGE>
+
+Any shareholder nominee proposed by the board of directors for election at the
+next annual meeting of shareholders will be included in the company's proxy
+statement for that annual meeting.
+
+COMPENSATION DECISIONS
+
+Effective December 2004, the board of directors eliminated the executive
+compensation committee. Instead of that committee, all of the Company's
+independent directors recommend to the full board of directors all elements of
+compensation of the Company's executive officers. With respect to compensation
+matters, the independent directors make recommendations regarding salary, stock
+option plans, stock option grants and other grants under the Company's stock
+option plans. The board believes this process is preferable because it wishes to
+involve all of its independent directors in compensation decisions rather than a
+select number of committee members.
+
+BOARD AND COMMITTEE MEETINGS
+
+During the Company's fiscal year ended June 30, 2005, the board of directors
+held six meetings and acted by unanimous written consent twice. Each director
+attended more than 75% of the board meetings and meetings of the board
+committees on which he served.
+
+During the Company's fiscal year ended June 30, 2005, the executive compensation
+committee met once, before this committee was eliminated, and the audit
+committee met six times.
+
+At each scheduled meeting of the board of directors, the independent members of
+the board of directors meet separately in executive session without management
+being present. A lead director elected by the independent directors is
+responsible for chairing such executive sessions. Currently the lead director is
+Albert L. Eilender.
+
+DIRECTOR ATTENDANCE AT ANNUAL MEETINGS
+
+Our directors are encouraged, but not required, to attend the annual meeting of
+shareholders. All of our directors attended the 2004 annual meeting of
+shareholders.
+
+COMMUNICATIONS BY OUR SHAREHOLDERS TO THE BOARD OF DIRECTORS
+
+Our board of directors recommends that shareholders direct to the Company's
+corporate secretary any communications intended for the board of directors.
+Shareholders can send communications by e-mail to droth@aceto.com, by facsimile
+to (516) 627-6093, or by mail to Douglas Roth, Chief Financial Officer and
+Secretary, Aceto Corporation, One Hollow Lane, Lake Success, New York 11042.
+
+This centralized process will assist the board in reviewing and responding to
+shareholder communications in an appropriate manner. If a shareholder wishes to
+direct any communication to a specific board member, the name of that board
+member should be noted in the communication. The board of directors has
+instructed the corporate secretary to forward shareholder correspondence only to
+the intended recipients, but the board has also instructed the corporate
+secretary to review all shareholder correspondence and, in his discretion, not
+forward any items that he deems to be of a commercial or frivolous nature or
+otherwise inappropriate for the board's consideration. Any such items may be
+forwarded elsewhere in the Company for review and possible response.
+
+CORPORATE GOVERNANCE
+
+The Company operates within a comprehensive plan of corporate governance for the
+purpose of defining responsibilities, setting high standards of professional and
+personal conduct and assuring compliance with those responsibilities and
+standards. In July 2002, Congress passed the Sarbanes-Oxley Act of 2002 which,
+among other things, establishes, or provides the basis for, a number of new
+corporate governance standards and disclosure requirements. In addition, the
+Nasdaq Stock Market, Inc. has recently made changes to its corporate governance
+and listing requirements. The board of directors has initiated numerous actions
+consistent with these new rules and will continue to regularly monitor
+developments in the area of corporate governance.
+
+
+                                       11
+<PAGE>
+
+CODE OF ETHICS FOR WORLDWIDE FINANCIAL MANAGEMENT
+
+The Company has adopted a Code of Ethics for Worldwide Financial Management that
+sets forth standards of ethics for the Company's principal executive officer and
+senior financial officers, violations of which are reported to the audit
+committee. This Code of Ethics was attached as an appendix to the Company's 2003
+proxy statement, and is published on the Company's corporate website.
+
+CODE OF BUSINESS CONDUCT FOR ALL ACETO EMPLOYEES
+
+The Company has adopted a Code of Business Conduct for all Aceto Employees that
+includes provisions ranging from restrictions on gifts to conflicts of interest.
+All employees are required to affirm in writing their acceptance of the code.
+The Code of Business Conduct was attached as an appendix to the Company's 2003
+proxy statement, and is published on the Company's corporate website.
+
+NASDAQ CODE OF BUSINESS CONDUCT AND ETHICS
+
+The Company also adopted a Code of Business Conduct and Ethics for all Aceto
+directors and employees in accordance with Nasdaq Qualitative Listing
+Requirement 4350(n). This Code of Conduct is published on the Company's
+corporate website.
+
+DISCLOSURE COMMITTEE
+
+The Company has formed a disclosure committee, comprised of senior management,
+including senior financial personnel, to formalize processes to ensure accurate
+and timely disclosure in Aceto's periodic reports filed with the United States
+Securities and Exchange Commission and to implement certain disclosure controls
+and procedures. The disclosure committee operates under a formal charter that
+governs its duties and conduct. The charter was attached as an appendix to the
+Company's 2003 proxy statement, and is published on the Company's corporate
+website.
+
+PERSONAL LOANS TO EXECUTIVE OFFICERS AND DIRECTORS
+
+The Company's policy has always been to not extend personal loans or other terms
+of personal credit to its directors and officers, and is in compliance with the
+legislation prohibiting such personal loans and other forms of personal credit.
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+Pursuant to Section 16 of the Exchange Act, the Company's directors and
+executive officers and beneficial owners of more than 10% of the Company's
+Common Stock are required to file certain reports, within specified time
+periods, indicating their holdings of and transactions in the Common Stock and
+derivative securities. Based solely on a review of such reports provided to the
+Company and written representations from such persons regarding the necessity to
+file such reports, the Company is not aware of any failures to file reports or
+report transactions in a timely manner during the Company's fiscal year ended
+June 30, 2005.
+
+
+                                       12
+<PAGE>
+
+EXECUTIVE COMPENSATION
+
+The following table shows, for the last three fiscal years, compensation
+information for Leonard S. Schwartz, the Company's Chief Executive Officer, and
+the next four most highly compensated executives. Other tables that follow
+provide more detail about the specific type of compensation.
+
+<TABLE>
+<CAPTION>
+                           SUMMARY COMPENSATION TABLE
+                           --------------------------
+
+                                           ANNUAL COMPENSATION                  LONG TERM COMPENSATION
+                                   -------------------------------   --------------------------------------------------
+                                                                      RESTRICTED
+NAME AND                                                                 STOCK        OPTIONS/(1)        ALL OTHER
+PRINCIPAL POSITION                  YEAR      SALARY       BONUS        AWARDS           SARS         COMPENSATION (2)
+- -------------------------          ------    ---------   ---------   -------------   -------------   -----------------
+<S>                                 <C>       <C>         <C>          <C>               <C>              <C>
+Leonard S. Schwartz                 2005      $398,398    $605,000     $100,000          300,000          $271,257
+  President, Chairman               2004       383,245     715,900            -           18,000           571,034
+   and Chief Executive Officer      2003       368,505     703,135       12,765           81,000           321,155
+
+Frank DeBenedittis                  2005       231,118     206,000       10,000           30,000            46,286
+  Senior  Vice President            2004       222,263     240,000            -            6,000            50,395
+                                    2003       213,844     256,500       13,500           27,000            49,128
+
+Vincent Miata                       2005       232,517     220,000            -           30,000            41,029
+  Senior  Vice President            2004       223,673     220,000            -            6,000            40,473
+                                    2003       215,070     200,000            -           27,000            39,128
+
+Michael Feinman                     2005       185,305     135,000            -           30,000            45,926
+  President, Aceto                  2004       177,758     132,000            -            6,000            37,243
+  Agricultural Chemicals Corp.      2003       171,429      96,625       13,375           27,000            32,299
+
+Douglas Roth                        2005       203,566      61,980       13,620           30,000            34,925
+  Chief Financial Officer           2004       195,766      67,200       16,800            6,000            31,393
+                                    2003       188,352      56,000       14,000           27,000            28,397
+</TABLE>
+
+(1) All figures have been adjusted to reflect the 3-for-2 stock splits, effected
+    in the form of dividends, paid in January 2005, 2004 and 2003, as
+    appropriate.
+(2) Represents contributions to retirement plans and compensation recognized
+    from the issuance of premium shares on restricted stock.
+
+
+                                       13
+<PAGE>
+
+                     STOCK OPTION GRANTS IN LAST FISCAL YEAR
+                     ---------------------------------------
+
+The following table contains information regarding the grant of stock options in
+the fiscal year ended June 30, 2005 to the named executives.
+
+<TABLE>
+<CAPTION>
+                                              % OF TOTAL                                    POTENTIAL REALIZABLE VALUE
+                            NUMBER OF          OPTIONS                                      AT ASSUMED ANNUAL RATES OF
+                            SECURITIES        GRANTED TO                                   STOCK PRICE APPRECIATION FOR
+                            UNDERLYING        EMPLOYEES      EXERCISE OR                          OPTION TERM (1)
+                         OPTIONS GRANTED      IN FISCAL      BASE PRICE      EXPIRATION    -------------------------------
+           NAME           (# OF SHARES)          YEAR          ($/SH)           DATE            5%                10%
+       ------------     ------------------   ------------   -------------   ------------   --------------   --------------
+<S>                         <C>                   <C>         <C>             <C>            <C>              <C>
+Leonard S. Schwartz         300,000 (2)           22%         $ 10.95         9/9/2014       $ 2,065,290      $ 5,233,850
+Frank DeBenedittis           30,000 (2)            2%           10.95         9/9/2014           206,529          523,385
+Vincent Miata                30,000 (2)            2%           10.95         9/9/2014           206,529          523,385
+Michael Feinman              30,000 (2)            2%           10.95         9/9/2014           206,529          523,385
+Douglas Roth                 30,000 (2)            2%           10.95         9/9/2014           206,529          523,385
+</TABLE>
+- --------------------------------------------------------------------------------
+(1)     The dollar amounts illustrate value that might be realized upon exercise
+        of the options immediately prior to the expiration of their term, at the
+        specific compounded rates of appreciation set by the Securities and
+        Exchange Commission (5% and 10%) and are not, therefore, intended to be
+        forecasts by the Company of possible future appreciation of the stock
+        price of the Company.
+
+(2)     On September 9, 2004, the Company granted nonqualified stock options to
+        Messrs. Schwartz, DeBenedittis, Miata, Feinman and Roth to purchase
+        common stock of the Company under the Company's 1980 Stock Option Plan.
+        All of these options vested on their grant date. All share and per share
+        amounts have been adjusted to reflect the 3-for-2 stock split, effected
+        in the form of a dividend paid in January 2005.
+
+                 AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR
+                        AND FISCAL YEAR END OPTION VALUES
+                        ---------------------------------
+
+The following table contains information regarding the exercise of stock options
+by the named executives in the fiscal year ended June 30, 2005 and the value of
+unexercised options held by such persons on June 30, 2005.
+
+<TABLE>
+<CAPTION>
+                                                            NUMBER OF SECURITIES           VALUE OF UNEXERCISED IN-THE-
+                                                        UNDERLYING UNEXERCISED OPTIONS            MONEY OPTIONS AT
+                             SHARES                             AT FY-END (1)                        FY-END (1)
+                          ACQUIRED ON       VALUE      --------------------------------  --------------------------------
+           NAME           EXERCISE (1)     REALIZED        EXERCISABLE/UNEXERCISABLE         EXERCISABLE/UNEXERCISABLE
+       ------------      --------------   ----------   --------------------------------  --------------------------------
+<S>                           <C>            <C>           <C>              <C>             <C>              <C>
+Leonard S. Schwartz            -               -              887,250        -               $2,490,975        -
+Frank DeBenedittis             -               -               79,500        -                  129,600        -
+Vincent Miata                  -               -              101,438        -                  230,110        -
+Michael Feinman                -               -               79,500        -                  129,600        -
+Douglas Roth                   -               -               58,650        -                   62,880        -
+</TABLE>
+- --------------------------------------------------------------------------------
+(1)  The dollar value of each exercisable option was calculated by multiplying
+     the number of shares of common stock underlying the option by the
+     difference between the exercise price of the option and the closing price
+     of the Company's common stock on June 30, 2005 ($7.48). All share amounts
+     have been adjusted to reflect the 3-for-2 stock splits, effected in the
+     form of dividends, as appropriate.
+
+COMPENSATION OF DIRECTORS
+
+Directors of the Company who are not also employees currently receive $35,000
+per year for serving on the board of directors, plus fees ranging from $2,000 to
+$3,500 for each committee or special board meeting attended. The lead
+independent director and the lead compensation director each receive $5,000 per
+year for serving in such capacity. In addition, each independent director
+receives $2,500 per year for compensation related service. Directors of the
+Company who are also employees are not compensated for their services as
+Directors.
+
+
+                                       14
+<PAGE>
+
+On September 9, 2004, the Company granted each of Messrs. Eilender, Hendler,
+Wiesen, Fischer, Noetzli and Kallem 10,125 non-qualified stock options, adjusted
+to reflect the effect of the 3-for-2 stock split, effected in the form of a
+dividend, paid January 10, 2005, pursuant to the 1998 Stock Option Plan. Each
+option vested on the grant date, is exercisable at $10.95 (adjusted) and expires
+10 years from the date of grant.
+
+EMPLOYMENT AGREEMENTS
+
+The Company has no employment agreements with its senior executives.
+
+LIMITS ON LIABILITY AND INDEMNIFICATION
+
+The Company's Articles of Incorporation eliminate the personal liability of its
+directors to the Company and its shareholders for monetary damages for breach of
+the directors' fiduciary duties in certain circumstances. The articles of
+incorporation further provide that the Company will indemnify its officers and
+directors to the fullest extent permitted by law. The Company believes that such
+indemnification covers at least negligence and gross negligence on the part of
+the indemnified parties. Insofar as indemnification for liabilities under the
+Securities Act may be permitted to directors, officers, and controlling persons
+of the Company pursuant to the foregoing provisions or otherwise, the Company
+has been advised that in the opinion of the United States Securities and
+Exchange Commission such indemnification is against public policy as expressed
+in the Securities Act and is, therefore, unenforceable.
+
+EXECUTIVE COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+None of the independent directors (who are responsible for compensation matters)
+have ever served as officers or employees of the Company or any of our
+subsidiaries. During the last fiscal year, none of our senior executives served
+on the board of directors or committee of any other entity whose officers served
+either on our board of directors or executive compensation committee.
+
+
+                                       15
+<PAGE>
+
+REPORT OF THE INDEPENDENT DIRECTORS REGARDING COMPENSATION MATTERS
+
+The Company's independent directors, consisting of Albert L. Eilender, Ira S.
+Kallem, Hans C. Noetzli and Robert A. Wiesen (lead compensation director) make
+recommendations to the Board with respect to the remuneration of the Company's
+executive officers.
+
+The Company's compensation policy has been designed to enable the Company to
+attract, retain and motivate executives whose enthusiasm and abilities will
+contribute to the growth of its business and result in maximum profitability to
+the Company and its shareholders, by providing salaries and benefits competitive
+with those offered by other companies in the chemical industry. The executive
+compensation program includes base salary, annual incentive compensation (cash
+bonuses), and long term incentive compensation (awards under the Company's stock
+option plans).
+
+Base salaries are set at levels competitive within the chemical industry.
+Because of the way the Company operates its business, the contributions of its
+executives significantly affect corporate profitability. Bonuses (which can
+exceed base salary) are paid to reflect the extent of such contributions. The
+Company's Chief Executive Officer also is the Chairman of the Board, and
+President of the Company. The bonuses paid to the Chief Executive Officer and to
+the Secretary/Treasurer, who is the Chief Financial Officer, are intended to
+reflect the Company's overall performance.
+
+The three highest paid executives, other than the Chief Executive Officer, are
+each responsible for the performance of one of the Company's principal profit
+centers. Internally generated performance records are kept on a monthly and
+yearly basis for these profit centers, and each center's profitability is
+compared in the current year to the previous year.
+
+Other factors considered in determining the bonuses of individual executives are
+the individual's own performance and the overall performance of the Company. The
+compensation committee determines each bonus primarily based on this data, also
+taking into account the long term contributions of each individual.
+
+The Chief Executive Officer's compensation was determined on the basis of the
+same factors utilized to compensate other executives, taking into consideration
+total compensation comparisons of top executives of corporations in the chemical
+industry. The Chief Executive Officer is not present at the time that his
+compensation is evaluated and determined.
+
+Submitted October 7, 2005 by the Company's independent directors.
+
+Albert L. Eilender
+Ira S. Kallem
+Hans C. Noetzli
+Robert A. Wiesen (lead compensation director)
+
+
+                                       16
+<PAGE>
+
+REPORT OF THE AUDIT COMMITTEE
+
+The audit committee acts under a written charter adopted by the audit committee
+and approved by the board of directors. The audit committee charter is available
+on the Company's corporate website.
+
+The audit committee is comprised of Albert L. Eilender (Chairman), Ira S. Kallem
+and Hans C. Noetzli. Each of these directors meets the independence and
+expertise requirements of the SEC and the Nasdaq Stock Market, Inc. The audit
+committee recommends the Company's independent auditors, approves the scope of
+the audit plan, and reviews and approves the fees of the independent auditors.
+The audit committee met regularly with the Company's independent auditors during
+the past fiscal year, both with and without management present, to review the
+scope and results of the audit engagement, the Company's system of internal
+controls and procedures, the effectiveness of procedures intended to prevent
+violations of laws and regulations, and the implementation of internal financial
+controls required by the Sarbanes-Oxley Act of 2002. In compliance with the SEC
+rules regarding auditor independence, and in accordance with the Company's Audit
+Committee Charter, we reviewed all services performed by KPMG LLP for the
+Company within and outside the scope of the quarterly review and annual auditing
+functions.
+
+We also:
+
+        o       Met to discuss the quarterly unaudited and the annual audited
+                financial statements with management and KPMG LLP prior to the
+                statements being filed with the SEC;
+
+        o       Reviewed the Company's disclosures in the Management's
+                Discussion and Analysis sections of such filings;
+
+        o       Reviewed management's program, schedule, progress and
+                accomplishments for implementing financial controls and
+                procedures to assure compliance with Section 404 of the
+                Sarbanes-Oxley Act of 2002;
+
+        o       Reviewed quarterly earnings releases prior to their publication;
+
+        o       Reviewed and approved in advance in accordance with the
+                Company's Audit Committee Pre-Approval Policy all proposals and
+                fees for any work to be performed by KPMG LLP;
+
+        o       Reviewed and revised the committee's charter as necessary in
+                order to comply with newly enacted rules and regulations;
+
+        o       Monitored the Company's "whistleblower" program under which any
+                complaints are forwarded directly to the Committee, to be
+                reviewed in accordance with an established procedure for all
+                such matters;
+
+        o       Reviewed the audit, tax and audit-related services the Company
+                had received from KPMG LLP and determined that the providing of
+                such services by KPMG LLP was compatible with the preservation
+                of their independent status as our independent auditor.
+
+We have also reviewed and discussed the audited financial statements for the
+fiscal year ended June 30, 2005 with management and discussed with KPMG LLP the
+matters required to be discussed by Statement on Auditing Standards No. 61, as
+amended by Statement on Auditing Standards No. 90. We also received during the
+past fiscal year the written disclosures and the letter from KPMG LLP required
+by Independence Standards Board Standard No. 1 and have discussed with KPMG LLP
+their independence. Based on the discussions referred to above, we recommended
+that the audited financial statements be included in the Company's Annual Report
+on Form 10-K for filing with the SEC.
+
+AUDIT FEES AND ALL OTHER FEES
+
+AUDIT FEES
+
+Fees for audit services totaled $1,294,000 in fiscal year 2005 and $521,000 in
+fiscal year 2004, including fees associated with the annual audit (including the
+audit of management's assessment of the effectiveness of its internal controls
+over financial reporting as required by Section 404 of the Sarbanes-Oxley Act)
+and the reviews of the Company's quarterly reports on Form 10-Q.
+
+
+                                       17
+<PAGE>
+
+AUDIT RELATED FEES
+
+There were no audit-related fees in fiscal year 2005 or 2004.
+
+TAX FEES
+
+Fees for tax services, including tax compliance, tax advice and tax planning,
+totaled $60,000 in fiscal year 2005 and $203,000 in fiscal year 2004.
+
+OTHER FEES
+
+Fees for other services totaled $7,000 in fiscal year 2005 and represent
+permissible training services. There were no Other fees in fiscal year 2004.
+
+Respectfully submitted October 7, 2005 by the members of the audit committee.
+
+Albert L. Eilender (Chairman)
+Ira S. Kallem
+Hans C. Noetzli
+
+
+                                       18
+<PAGE>
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The following table sets forth, as of October 7, 2005, the number and percentage
+of shares of the Company's outstanding common stock owned by each named
+executive officer, each director and each person that, to the best of the
+Company's knowledge, owns more than 5% of the Company's issued and outstanding
+common stock, and all named executive officers and directors as a group. Unless
+indicated otherwise the business address of each person is c/o Aceto
+Corporation, One Hollow Lane, Lake Success, New York 11042.
+
+<TABLE>
+<CAPTION>
+                                    NUMBER OF SHARES
+                                      BENEFICIALLY
+NAME AND ADDRESS OF BENEFICIAL      OWNED (EXCLUDING       EXERCISABLE STOCK    TOTAL BENEFICIAL
+           OWNER                   STOCK OPTIONS) (1)         OPTIONS (2)           OWNERSHIP       PERCENT (3)
+- ---------------------------       --------------------    -------------------  ------------------  ------------
+<S>                               <C>                     <C>                  <C>                 <C>
+Leonard S. Schwartz                         179,701                 887,250          1,066,951         4.2%
+
+Frank DeBenedittis                           31,837                  79,500            111,337          *
+
+Vincent Miata                                30,812                 101,438            132,250          *
+
+Michael Feinman                              19,666                  79,500             99,166          *
+
+Douglas Roth                                  8,938                  58,650             67,588          *
+
+Robert A. Wiesen                              1,172                  50,625             51,797          *
+
+Stanley H. Fischer                             -                     33,750             33,750          *
+
+Albert L. Eilender                           15,000                  40,500             55,500          *
+
+Hans Noetzli (4)                          1,559,996                  30,375          1,590,370         6.5%
+
+Ira S. Kallem                                 1,500                  30,375             31,875          *
+
+T. Rowe Price Associates, Inc. (5)        2,252,625                     -            2,252,625         9.3%
+100 East Pratt Street
+Baltimore, MD 21202
+
+Royce & Associates, LLC                   2,219,867                     -            2,219,867         9.1%
+1414 Avenue of the Americas
+New York, NY 10019
+
+Schweizerhall, Inc. (6)                   1,559,996                     -            1,559,996         6.4%
+c/o Leonard M. Freidman, CPA 380
+Foothill Road
+Bridgewater, NJ 08807
+
+All named executive officers and          1,848,622               1,391,963          3,240,585        12.6%
+directors as a group (11 persons)
+</TABLE>
+- --------------------------------------------------------------------------------
+* Less than 1%.
+
+(1)     Unless otherwise indicated, each person has, or shares with his spouse,
+        sole voting and dispositive power over the shares shown as owned by him.
+
+(2)     For purposes of the table, a person is deemed to have "beneficial
+        ownership" of any shares which such person has the right to acquire
+        within 60 days after the record date. Any share which such person has
+        the right to acquire within those 60 days is deemed to be outstanding
+        for the purpose of computing the percentage ownership of such person,
+        but is not deemed to be outstanding for the purpose of computing the
+        percentage ownership of any other person.
+
+
+                                       19
+<PAGE>
+
+(3)     Based on 24,299,374 shares issued and outstanding as of the record date.
+
+(4)     These shares are registered in the name of Schweizerhall, Inc., of which
+        Mr. Noetzli is Chairman. These are the same shares listed as owned by
+        Schweizerhall Inc. in the table above. Mr. Noetzli disclaims beneficial
+        ownership of these shares in accordance with Rule 13d-4 of the Exchange
+        Act Rules promulgated pursuant to the Securities Exchange Act of 1934,
+        as amended.
+
+(5)     Based on information provided by T. Rowe Price Associates, Inc. T. Rowe
+        Price Associates, Inc. has sole dispositive and voting power with
+        respect to these shares. These shares are held of record by various
+        individual and institutional investors, including the T. Rowe Price
+        Small-Cap Value Fund, Inc. (which owns 1,900,000 shares representing
+        7.8% of the Company's outstanding shares), which T. Rowe Price
+        Associates, Inc. serves as investment advisor with power to direct
+        investments and/or power to vote the securities. For purposes of the
+        reporting requirements of the Securities Exchange Act of 1934, T. Rowe
+        Price Associates, Inc. is deemed to be the beneficial owner of such
+        securities; however, T. Rowe Price Associates, Inc. disclaims beneficial
+        ownership of these shares in accordance with Rule 13d-4 of the Exchange
+        Act of 1934, as amended.
+
+(6)     Represents shares issued in connection with the Company's fiscal 2001
+        acquisition of the Schweizerhall Pharma distribution division of
+        Schweizerhall Holding AG, and certain assets relating to the
+        pharmaceutical ingredients business of Schweizerhall, Inc., a wholly
+        owned subsidiary of Schweizerhall Holding AG.
+
+
+                                       20
+<PAGE>
+
+                                PERFORMANCE GRAPH
+                                -----------------
+
+The following graph compares on a cumulative basis the yearly percentage change,
+assuming dividend reinvestment, over the last five fiscal years in (a) the total
+shareholder return on our common stock with (b) the total return on the Standard
+& Poor's 500 Index and (c) the total return on a published line-of-business
+index - the Dow Jones U.S. Chemicals Index (the "Peer Group").
+
+The following graph assumes that $100 had been invested in each of the Company,
+the Standard & Poor's 500 Index and the Peer Group on June 30, 2000.
+
+                  COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*
+                  AMONG ACETO CORPORATION, THE S & P 500 INDEX
+                      AND THE DOW JONES US CHEMICALS INDEX
+
+                                                                  DOW JONES U.S.
+                                                                  --------------
+                          ACETO CORPORATION      S&P 500 INDEX      CHEMICALS
+                          -----------------      -------------      ---------
+        June 30, 2000           100                   100              100
+        June 30, 2001            94                    85              113
+        June 30, 2002           103                    70              121
+        June 30, 2003           273                    70              111
+        June 30, 2004           393                    83              139
+        June 30, 2005           254                    89              153
+
+                     ASSUMES $100 INVESTED ON JUNE 30, 2000
+                          ASSUMES DIVIDEND REINVESTMENT
+                        FISCAL YEAR ENDING JUNE 30, 2005
+
+The preceding sections entitled "Executive Compensation" and "Performance Graph"
+do not constitute soliciting material for purposes of SEC Rule 14a-9, will not
+be deemed to have been filed with the SEC for purposes of Section 18 of the
+Securities Exchange Act of 1934, and are not to be incorporated by reference
+into any other filing that we make with the SEC.
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Stanley H. Fischer, a director of the Company, is President of Fischer and
+Burstein, P.C., a law firm which serves as counsel to the Company on various
+corporate matters. During fiscal 2005, the Company paid $114,000 to Fischer and
+Burstein, P.C. for legal services rendered to the Company.
+
+Robert A. Wiesen, a director of the Company, is a partner in Clifton, Budd &
+DeMaria, a law firm which serves as labor and employment counsel to the Company.
+During fiscal 2005, the Company paid $101,000 to Clifton, Budd & DeMaria for
+legal services rendered to the Company.
+
+THE BOARD RECOMMENDS THAT YOU VOTE FOR THE ELECTION OF EACH OF THE SEVEN
+NOMINEES FOR DIRECTOR.
+
+
+                                       21
+<PAGE>
+
+APPOINTMENT OF INDEPENDENT AUDITORS
+
+Pursuant to its charter, the Audit Committee has the sole, discretionary
+authority to appoint, retain and terminate the Company's independent auditors.
+KPMG LLP has been the Company's independent auditors since 1971. However, in
+September 2005, the Audit Committee determined, in accordance with sound
+corporate governance practices, that it would issue a request for proposal with
+regard to the Company's audit engagement.
+
+The Audit Committee decided to issue the request for proposal because it wanted
+the opportunity to review other auditing firms as prospective independent
+auditors for the Company and to consider the benefits and detriments of changing
+independent auditors. This decision was not related to the quality of services
+provided by KPMG LLP.
+
+The request for proposal was issued to several public accounting firms,
+including KPMG LLP, in October 2005, and the Audit Committee currently plans to
+complete the proposal process by the end of 2005. In the interim, the Audit
+Committee has appointed KPMG LLP to serve as the Company's independent auditors
+for the first quarter of fiscal 2006 and anticipates appointing KPMG LLP for
+subsequent quarters until the request for proposal process is completed and the
+decision becomes effective. The Company will make a public announcement in the
+event that it decides to engage a firm other than KPMG LLP.
+
+As a result of the Committee's decision to issue the request for proposal, and
+the temporary uncertainty as to which firm will be selected as the Company's
+independent auditors for fiscal 2006, the Company determined that it was not
+appropriate to request shareholder ratification of an independent auditor at its
+Annual Meeting. Typically in previous years, the Company has requested that our
+shareholders vote to ratify the appointment of KPMG LLP as the independent
+auditors for the year. At next year's annual meeting, we fully expect to return
+to the practice of seeking shareholder ratification of the Company's independent
+auditors.
+
+In following with KPMG LLP's service as the Company's independent auditors for
+fiscal 2005, representatives of KPMG LLP will be available to answer questions
+at the Annual Meeting and are free to make statements during the meeting.
+
+SHAREHOLDER PROPOSALS
+
+All shareholder proposals which are intended to be presented at the 2006 Annual
+Meeting of Shareholders of the Company must be received by the Company no later
+than June 18, 2006, for inclusion in the board of directors' proxy statement and
+form of proxy relating to the meeting.
+
+OUR ANNUAL REPORT ON FORM 10-K AND CORPORATE GOVERNANCE COMPLIANCE DOCUMENTS
+
+If you own our common stock, you can obtain copies of our annual report on Form
+10-K for the fiscal year ended June 30, 2005 as filed with the SEC, including
+the financial statements, our committee charters, and our codes of conduct, all
+without charge, by writing to Mr. Douglas Roth, Chief Financial Officer and
+Corporate Secretary, Aceto Corporation, One Hollow Lane, Lake Success, New York
+11042. You can also access our 2005 Form 10-K on our website at WWW.ACETO.COM by
+clicking on "Corporate Governance" and then on "SEC Filings". You can also
+access our committee charters at our website by clicking on "Corporate
+Governance".
+
+
+                                       22
+<PAGE>
+
+OTHER BUSINESS
+
+The board of directors knows of no other business to be acted upon at the
+meeting. However, if any other business properly comes before the meeting, it is
+the intention of the persons named in the enclosed proxy to vote on such matters
+in accordance with their best judgment.
+
+The prompt return of the proxy will be appreciated and helpful in obtaining the
+necessary vote. Therefore, whether or not you expect to attend the meeting,
+please sign the proxy and return it in the enclosed envelope.
+
+                                        BY ORDER OF THE BOARD OF DIRECTORS
+
+                                        /s/ Douglas Roth
+
+                                        Douglas Roth
+                                        Chief Financial Officer and
+                                        Corporate Secretary
+
+Dated: October 20, 2005
+
+
+                                       23
+<PAGE>
+
+                                ACETO CORPORATION
+                         ANNUAL MEETING OF SHAREHOLDERS
+                THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS
+
+The undersigned, revoking all previous proxies, hereby constitutes and appoints
+Leonard S. Schwartz and Douglas Roth, and each of them, proxies with full power
+of substitution to vote for the undersigned all shares of Common Stock of Aceto
+Corporation which the undersigned would be entitled to vote if personally
+present at the Annual Meeting of Shareholders to be held on December 1, 2005 at
+the Company's offices, One Hollow Lane, Suite 201, Lake Success, New York 11042,
+at 10:00 a.m., Eastern Standard Time, and at any adjournment thereof, upon the
+matters described in the accompanying Proxy Statement and upon any other
+business that may properly come before the meeting or any adjournment thereof.
+Said proxies are directed to vote or refrain from voting as checked on the
+reverse side upon the matters listed on the reverse side, and otherwise in their
+discretion.
+
+PLEASE INDICATE HOW YOUR SHARES ARE TO BE VOTED. IF NO SPECIFIC VOTING
+INSTRUCTIONS ARE GIVEN, THE SHARES REPRESENTED BY THIS PROXY WILL BE VOTED AS
+RECOMMENDED BY THE BOARD OF DIRECTORS. THE BOARD OF DIRECTORS RECOMMENDS A VOTE
+"FOR ALL NOMINEES."
+
+                                ACETO CORPORATION
+                                 P.O. BOX 11199
+                            NEW YORK, N.Y. 10203-0199
+
+(1) Election of Directors
+
+FOR all: ___________________
+WITHHOLD for all: ___________________
+
+*EXCEPTIONS: ___________________
+
+WITHHOLD AUTHORITY to vote for Nominees: Leonard S. Schwartz, Robert A. Wiesen,
+Stanley H. Fischer, Albert L. Eilender, Ira S. Kallem, Hans C. Noetzli and
+William N. Britton.
+
+(INSTRUCTIONS: TO WITHHOLD AUTHORITY TO VOTE FOR ANY INDIVIDUAL NOMINEE, MARK
+THE "EXCEPTIONS" BOX ABOVE AND WRITE THAT NOMINEE'S NAME IN THE SPACE PROVIDED
+BELOW.)
+
+*Exceptions
+________________________________________________________________________________
+
+(2) In their discretion with respect to such other business as may properly come
+before the meeting or any adjournment thereof.
+
+
+Change of Address Mark Here
+
+
+(PLEASE SIGN, DATE AND RETURN THIS PROXY IN THE ENCLOSED POSTAGE PREPAID
+ENVELOPE.)
+NOTE: Please sign exactly as your name appears on this proxy. If shares are held
+jointly, each joint owner should sign. When signing as attorney, executor,
+administrator, trustee or guardian, please give full title as such. Proxies
+executed by a corporation should be signed with the full corporate name by a
+duly authorized officer.
+
+Dated:_____________________________, 2005
+
+___________________________________
+(Signature of Shareholder)
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

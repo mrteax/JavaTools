@@ -1,0 +1,1204 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KfW8Y9/LCd5SyyYN09AFlHQH05VXNb+e/QI+uZLwyuVxQuq3YS32n9dKkpRoE+op
+ iNowjZKRQM0mlXw2h0u6xw==
+
+<SEC-DOCUMENT>0000893220-99-000383.txt : 19990331
+<SEC-HEADER>0000893220-99-000383.hdr.sgml : 19990331
+ACCESSION NUMBER:		0000893220-99-000383
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19990507
+FILED AS OF DATE:		19990330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			K TRON INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000000020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221759452
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-09576
+		FILM NUMBER:		99578556
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+		BUSINESS PHONE:		6096616240
+
+	MAIL ADDRESS:	
+		STREET 1:		ROUTE 55 & 553
+		STREET 2:		P O BOX 888
+		CITY:			PITMAN
+		STATE:			NJ
+		ZIP:			08071-0888
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>DEF 14A K-TRON INTERNATIONAL, INC.
+<TEXT>
+
+<PAGE>   1
+                            SCHEDULE 14A INFORMATION
+           PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE SECURITIES
+                      EXCHANGE ACT OF 1934 (AMENDMENT NO. )
+
+Filed by the Registrant [X]
+Filed by a Party other than the Registrant [  ]
+
+Check the appropriate box:
+[ ] Preliminary Proxy Statement
+
+[ ] Confidential, for Use of the Commission Only (as permitted by Rule 
+    14a-6(e)(2))
+
+[X] Definitive Proxy Statement
+[ ] Definitive Additional Materials
+[ ] Soliciting Material Pursuant to Rule 14a-11(c) or Rule 14a-12
+
+                           K-Tron International, Inc.
+                (NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+
+    (NAME OF PERSON(S) FILING PROXY STATEMENT, IF OTHER THAN THE REGISTRANT)
+
+Payment of Filing Fee (Check the appropriate box):
+
+[X] No fee required.
+[ ] Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+
+    1)  Title of each class of securities to which transaction applies:
+
+
+    2)  Aggregate number of securities to which transaction applies:
+
+
+    3)  Per unit price or other underlying value of transaction computed
+        pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+        filing fee is calculated and state how it was determined):
+
+
+
+    4)  Proposed maximum aggregate value of transaction:
+
+
+    5)  Total fee paid:
+
+
+[ ]  Fee paid previously with preliminary materials.
+
+[ ]  Check box if any part of the fee is offset as provided by Exchange Act 
+     Rule 0-11(a)(2) and identify the filing for which the offsetting fee was
+     paid previously. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+     1)  Amount Previously Paid:
+
+
+     2)  Form, Schedule or Registration Statement No.:
+
+
+     3)  Filing Party:
+
+
+     4)  Dated Filed:
+
+<PAGE>   2
+                           K-TRON INTERNATIONAL, INC.
+                                Routes 55 and 553
+                                  P.O. Box 888
+                          Pitman, New Jersey 08071-0888
+
+
+
+                           --------------------------
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+                             TO BE HELD MAY 7, 1999
+                           --------------------------
+
+
+To Our Shareholders:
+
+         Notice is hereby given that the Annual Meeting of Shareholders of
+K-Tron International, Inc. (the "Company") will be held on May 7, 1999 at 10:00
+a.m., local time, at the Company's principal executive offices at Routes 55 and
+553, Pitman, New Jersey for the following purposes:
+
+         (1) To elect one director to Class II of the Board of Directors to
+serve for a four-year term and until the election and qualification of his
+successor; and
+
+         (2) To transact such other business as may properly come before the
+meeting.
+
+         Only shareholders of record at the close of business on March 12, 1999
+are entitled to notice of the Annual Meeting and to vote at the Annual Meeting
+and any adjournments thereof. The transfer books will not be closed.
+
+                                             By Order of the Board of Directors,
+
+
+                                             Mary E. Vaccara
+                                             Secretary
+
+March 26, 1999
+
+
+         YOUR PROXY VOTE IS IMPORTANT.  ACCORDINGLY, YOU ARE ASKED TO COMPLETE, 
+         SIGN AND RETURN THE ACCOMPANYING PROXY CARD IN THE ENVELOPE PROVIDED
+         WHICH REQUIRES NO POSTAGE IF MAILED IN THE UNITED STATES.
+<PAGE>   3
+                                     [LOGO]
+
+
+
+
+
+
+
+
+                                 ---------------
+                                 PROXY STATEMENT
+
+                         ANNUAL MEETING OF SHAREHOLDERS
+                             TO BE HELD MAY 7, 1999
+                                 ---------------
+
+
+         This Proxy Statement is being furnished to the shareholders of K-Tron
+International, Inc. (the "Company") in connection with the Annual Meeting of
+Shareholders of the Company to be held on May 7, 1999 and any postponements or
+adjournments thereof (the "Annual Meeting"). This Proxy Statement and the
+enclosed Proxy Card are being mailed to shareholders on or about March 26, 1999.
+
+         Execution and return of the enclosed Proxy Card are being solicited by
+and on behalf of the Board of Directors of the Company for the purposes set
+forth in the foregoing notice of meeting. The costs incidental to the
+solicitation and obtaining of proxies, including the cost of reimbursing banks
+and brokers for forwarding proxy materials to their principals, will be borne by
+the Company. Proxies may be solicited, without extra compensation, by officers
+and employees of the Company by mail, telephone, telefax, personal interviews
+and other methods of communication.
+
+         The Annual Report to Shareholders for the fiscal year ended January 2,
+1999, including consolidated financial statements and other information with
+respect to the Company and its subsidiaries, is being mailed to shareholders
+with this Proxy Statement. Such Annual Report is not part of this Proxy
+Statement.
+
+
+                              VOTING AT THE MEETING
+
+RECORD DATE; VOTE REQUIRED; PROXIES
+
+         Only shareholders of record at the close of business on March 12, 1999
+are entitled to notice of the Annual Meeting and to vote at the Annual Meeting.
+As of that date, the Company had outstanding 2,945,605 shares of Common Stock.
+The holders of a majority of such shares, represented in person or by proxy,
+shall constitute a quorum at the Annual Meeting. A quorum is necessary before
+business may be transacted at the Annual Meeting except that, even if a quorum
+is not present, the shareholders present in person or by proxy shall have the
+power to adjourn the meeting from time to time until a quorum is present. Each
+shareholder entitled to vote shall have the right to one vote for each share of
+Common Stock outstanding in such shareholder's name.
+
+         The shares of Common Stock represented by each properly executed Proxy
+Card will be voted at the Annual Meeting in the manner directed therein by the
+shareholder signing such Proxy Card. The Proxy Card provides space for a
+shareholder to vote for the nominee, or to withhold authority to vote for the
+nominee, for the Board of Directors. The nominee for election as a director is
+to be elected by a plurality of the votes cast at the Annual Meeting. With
+respect to any other matter that may properly be brought before the Annual
+Meeting, the affirmative vote of a majority of the votes cast by shareholders
+entitled to vote thereon is required to take action, unless a greater percentage
+is required either by law or by the Company's Restated Certificate of
+Incorporation or
+<PAGE>   4
+By-Laws. For determining the number of votes cast with respect to any voting
+matter, only those cast "for" or "against" are included. Abstentions will be
+considered present and entitled to vote at the Annual Meeting but will not be
+counted as votes cast. Accordingly, abstentions will have no effect on the vote.
+Similarly, where brokers submit proxies but are prohibited and thus refrain from
+exercising discretionary authority in voting shares on certain matters for
+beneficial owners who have not provided voting instructions with respect to such
+matters (commonly referred to as "broker non-votes"), those shares will be
+considered present and entitled to vote at the Annual Meeting but will not be
+counted as votes cast as to such matters and thus will have no effect on the
+vote.
+
+         If a signed Proxy Card is returned and the shareholder has given no
+direction with respect to a voting matter, the shares will be voted with respect
+to that matter by the proxy agents as recommended by the Board of Directors or
+its Executive Committee. Execution and return of the enclosed Proxy Card will
+not affect a shareholder's right to attend the Annual Meeting and vote in
+person. Any shareholder giving a proxy has the right to revoke it by giving
+notice of revocation to the Secretary of the Company at any time before the
+proxy is voted.
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+         The following table sets forth certain information as of February 28,
+1999 (or as of such other date as may be noted below) with respect to shares of
+Common Stock of the Company beneficially owned by each person believed by the
+Company to be the beneficial owner of more than 5% of the outstanding shares of
+Common Stock, by each incumbent director and nominee for director of the
+Company, by each executive officer of the Company who was serving as such on
+January 2, 1999 and by all current directors and executive officers of the
+Company as a group. Except as indicated below, the Company understands that the
+shareholders listed in such table have sole voting and investment power with
+respect to the shares owned by them. The number of shares in the table below
+includes shares issuable upon the exercise of outstanding stock options to the
+extent that such options are exercisable by the shareholder, incumbent director,
+nominee for director or executive officer on or within 60 days after February
+28, 1999. In the case of each incumbent director, nominee for director and
+executive officer, the information below has been provided by such person at the
+request of the Company.
+
+<TABLE>
+<CAPTION>
+                                                                                                     Percent of
+                                                                             Number of Shares       Common Stock
+Name of Individual or Identity of Group                                       of Common Stock       Outstanding
+- ---------------------------------------                                      ----------------       ------------
+<S>                                                                          <C>                    <C>
+David L. Babson & Company, Incorporated(1).........................                  340,600         11.6
+T. Rowe Price Associates, Inc.(2)..................................                  250,000          8.5
+Goldman Sachs Asset Management(3)..................................                  236,700          8.0
+Paradigm Capital Management, Inc. (4)..............................                  210,400          7.1
+Dimensional Fund Advisors Inc.(5)..................................                  152,000          5.2
+Edward B. Cloues, II(6)............................................                  134,286          4.5
+Leo C. Beebe(6)(7).................................................                   61,385          2.1
+Robert L. Weinberg(6)(8)...........................................                   28,093            *
+Dr. Hans-Jurg Schurmann(6).........................................                   22,000            *
+Johannes Wirth(6)..................................................                   17,400            *
+Richard J. Pinola(6)...............................................                   17,114            *
+Kevin C. Bowen(6)..................................................                   17,003            *
+Jean Head Sisco(6).................................................                   13,801            *
+Lukas Guenthardt(6)................................................                   12,241            *
+Norman Cohen(6)....................................................                    8,219            *
+Robert A. Engel....................................................                        0            *
+All current directors and executive officers
+  as a group (10 persons)(9).......................................                  331,542         10.8
+</TABLE>
+
+- ------------------
+*    Less than 1%.
+
+                                       2
+<PAGE>   5
+(1)      As reflected in Schedule 13G/A dated January 21, 1999. According to
+         David L. Babson & Company, Incorporated ("Babson"), it (i) is an
+         investment adviser and (ii) has sole voting and dispositive power over
+         all such shares. The principal address of Babson is One Memorial Drive,
+         Cambridge, Massachusetts 02142-1300.
+
+(2)      As reflected in Amendment No. 6 to Schedule 13G dated February 12,
+         1999. According to T. Rowe Price Associates, Inc. ("Price Associates"),
+         these shares are all owned by T. Rowe Price Small Cap Value Fund, Inc.,
+         a registered investment company, for which Price Associates, a
+         registered investment adviser under the Investment Advisers Act of
+         1940, serves as investment adviser with power to direct investments
+         and/or sole power to vote the shares. For purposes of the reporting
+         requirements of the Securities Exchange Act of 1934, as amended, Price
+         Associates is deemed to be a beneficial owner of such shares; however,
+         Price Associates expressly disclaims that it is, in fact, the
+         beneficial owner of such shares. The principal address of Price
+         Associates is 100 East Pratt Street, Baltimore, Maryland 21202.
+
+(3)      As reflected in Schedule 13G dated February 14, 1999 filed on behalf of
+         Goldman Sachs & Co., a registered investment adviser and The Goldman
+         Sachs Group, L.P., a parent holding company (collectively, "Goldman").
+         Goldman disclaims beneficial ownership of all such shares. The
+         principal address of Goldman is 85 Broad Street, New York, New York
+         10004.
+
+(4)      As reflected in Amendment No. 2 to Schedule 13G dated February 9, 1999.
+         According to Paradigm Capital Management, Inc. ("Paradigm"), it (i) is
+         a registered investment adviser and (ii) has sole dispositive power
+         over all such shares. The principal address of Paradigm is Nine Elk
+         Street, Albany, New York 12207.
+
+(5)      As reflected in an amendment to Schedule 13G dated February 11, 1999.
+         According to Dimensional Fund Advisors Inc. ("Dimensional"), it (i) is
+         a registered investment adviser under the Investment Advisers Act of
+         1940 and (ii) these shares are owned by four investment companies, each
+         a registered investment company, and certain other investment vehicles,
+         as to all of which Dimensional serves as investment adviser and
+         investment manager. Dimensional disclaims beneficial ownership of all
+         such shares. The principal address of Dimensional is 1299 Ocean Avenue,
+         11th Floor, Santa Monica, California 90401.
+
+(6)      Includes with respect to Mr. Cloues 64,286 shares, Mr. Beebe 1,000
+         shares, Mr. Weinberg 15,666 shares, Dr. Schurmann 11,000 shares, Mr.
+         Wirth 1,000 shares, Mr. Pinola 11,000 shares, Mr. Bowen 12,416 shares,
+         Mrs. Sisco 9,900 shares, Mr. Guenthardt 9,166 shares and Mr. Cohen
+         1,000 shares, all of which shares are subject to presently exercisable
+         installments of options.
+
+(7)      With respect to all such shares, Mr. Beebe shares investment and voting
+         power with his wife.
+
+(8)      Includes 2,000 shares owned by Mr. Weinberg's wife as to which Mr.
+         Weinberg disclaims beneficial ownership, and 5,730 shares as to which
+         Mr. Weinberg shares investment and voting power with his wife.
+
+(9)      Includes 136,434 shares subject to presently exercisable installments
+         of options.
+
+
+                          MATTERS CONCERNING DIRECTORS
+
+ELECTION OF DIRECTORS
+
+         The Board of Directors currently consists of seven directors and is
+classified with respect to terms of office into four classes. The Class II
+director elected at the Annual Meeting will serve until the 2003 annual meeting
+of shareholders and until such director's successor has been elected and
+qualified, except in the event of such director's earlier death, resignation or
+removal. The terms of office of the Class I, Class III and Class IV directors
+will expire
+
+
+                                       3
+<PAGE>   6
+at the annual meetings to be held in 2002, 2000 and 2001, respectively, upon the
+election and qualification of their successors.
+
+         The Board of Directors, acting on the recommendation of its Nominating
+Committee, has nominated Mr. Robert A. Engel for election as the Class II
+director. Mr. Engel is not currently a director, and the Class II director whose
+term will expire at the Annual Meeting is Mr. Johannes Wirth.
+
+         The persons named as proxy agents in the enclosed Proxy Card intend
+(unless instructed otherwise by a shareholder) to vote for the election of Mr.
+Robert A. Engel as the Class II director. In the event that the nominee should
+become unable to accept nomination or election (a circumstance which the Board
+of Directors does not expect), the proxy agents intend to vote for any alternate
+nominee designated by the Board of Directors or its Executive Committee or, in
+the discretion of the Board or its Executive Committee, the position may be left
+vacant.
+
+         THE BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS A VOTE FOR THE CLASS II
+NOMINEE.
+
+         Set forth below is certain information with respect to the nominee for
+director and each other person currently serving as a director of the Company
+whose term of office will continue after the Annual Meeting, including the class
+and term of office of each such person. This information has been provided by
+each incumbent director and the nominee for director at the request of the
+Company.
+
+         Class I--Directors with Terms Continuing until 2002
+
+         DR. HANS-JURG SCHURMANN. Dr. Schurmann has been a director since
+November 1993 and was most recently reelected at the 1998 annual meeting of
+shareholders. He is a senior partner in the law firm of Schurmann and Partner in
+Zurich, Switzerland, which represents the Company and its subsidiaries in
+Switzerland, and he has been a partner in that firm and its predecessor firm
+since 1979. Dr. Schurmann serves on the boards of numerous Swiss companies,
+including Instinet AG, Bellaplast Holding AG and Discorack-NCO AG. Dr. Schurmann
+is 54 years of age.
+
+         JEAN HEAD SISCO. Mrs. Sisco has been a director since September 1993
+and was most recently reelected at the 1998 annual meeting of shareholders.
+Since 1979, she has been a partner in Sisco Associates, a management consulting
+firm based in Washington, D.C. which specializes in international risk and trade
+analysis. Mrs. Sisco serves as a director of Textron, Inc., Newmont Mining
+Corp., Newmont Gold Corp., Chiquita Brands International, The Neiman-Marcus
+Group, American Funds Tax-Exempt Series I and Socrates Technologies. She is
+Chairman of the Center for Board Leadership and was the first woman director of
+the Metropolitan Washington Board of Trade. Mrs. Sisco is 73 years of age.
+
+         Class II--Nominee for Term Continuing until 2003
+
+         ROBERT A. ENGEL. Since 1995, Mr. Engel has been the Managing Director-
+Head of Mergers and Acquisitions of Gleacher NatWest Inc., a financial advisory
+and investment banking firm. From 1990 to 1995, Mr. Engel was a Director of
+Gleacher & Co., Inc., an investment banking firm specializing in mergers and
+acquisitions, and he became a Managing Director of that firm in 1995. From 1986
+to 1990, he worked in various capacities at the investment banking firms of C.
+J. Lawrence, Morgan Grenfell, Inc. and Morgan Grenfell & Co. Ltd. Mr. Engel is
+35 years of age.
+
+         Class III--Directors with Terms Continuing until 2000
+
+         NORMAN COHEN. Mr. Cohen has been a director since 1974 and was most
+recently reelected at the 1996 annual meeting of shareholders. Since 1993, he
+has been Chairman and Chief Executive Officer of Creative Contracting
+Associates, Inc., a clothing manufacturer. Mr. Cohen is 72 years of age.
+
+
+                                       4
+<PAGE>   7
+         RICHARD J. PINOLA. Mr. Pinola has been a director since January 1994
+and was most recently reelected at the 1996 annual meeting of shareholders.
+Since January 1994, he has served as Chairman and Chief Executive Officer of
+Right Management Consultants, Inc., a publicly-held human resource consulting
+and career management firm, and from June 1992 through December 1993 he was
+President and Chief Executive Officer of that company. Prior to joining Right
+Management Consultants, Inc., Mr. Pinola was President and Chief Operating
+Officer of Penn Mutual Life Insurance Company from March 1988 through September
+1991 and a consultant from September 1991 until June 1992. He serves as a
+director of Right Management Consultants, Inc. Mr. Pinola is 53 years of age.
+
+         Class IV--Directors with Terms Continuing until 2001
+
+         LEO C. BEEBE. Mr. Beebe has been a director since June 1976 and was
+most recently reelected at the 1997 annual meeting of shareholders. From July
+1985 until August 1992 and again from June 1995 until he retired in January
+1998, Mr. Beebe was the Chief Executive Officer of the Company, and from January
+1985 until January 1998, he served as the Chairman of the Board of Directors of
+the Company. Mr. Beebe was Dean of the School of Business Administration of
+Glassboro State College, Glassboro, New Jersey from July 1977 to July 1985 and a
+professor of marketing at Glassboro State College from 1972 to July 1985. Prior
+to that time, he served at Ford Motor Company for 27 years in various capacities
+in the United States and foreign countries, including as General Marketing
+Manager of Ford's Lincoln-Mercury Division, Vice President of Marketing and
+Planning and a director of Ford Motor Company of Canada, and Executive Vice
+President and General Manager of the Consumer Products Division and a director
+of Philco Ford Corporation. Mr. Beebe is 81 years of age.
+
+         EDWARD B. CLOUES, II. Mr. Cloues has been a director since July 1985
+and was most recently reelected at the 1997 annual meeting of shareholders. He
+became Chairman of the Board of Directors and Chief Executive Officer of the
+Company on January 5, 1998. From May 1985 until May 1998, Mr. Cloues served as
+Secretary of the Company. Prior to joining the Company, Mr. Cloues was a senior
+partner in the law firm of Morgan, Lewis & Bockius LLP, which is the Company's
+general counsel. He is also a director and non-executive Chairman of the Board
+of AMREP Corporation and a director of AmeriQuest Technologies, Inc. Mr. Cloues
+is 51 years of age.
+
+COMMITTEES AND MEETINGS
+
+         The Board of Directors has an Executive Committee, an Audit and Finance
+Committee, a Compensation and Human Resources Committee and a Nominating
+Committee. The members of the Compensation and Human Resources Committee also
+constitute the members of the two committees which administer the Company's
+employee stock option plans (collectively, the "Stock Option Committee"). During
+fiscal year 1998, the Board of Directors held six meetings (including one by
+telephone conference), the Executive Committee did not meet, the Audit and
+Finance Committee held two meetings, the Compensation and Human Resources
+Committee held four meetings (including two by telephone conference), the
+Nominating Committee held one meeting and the Stock Option Committee did not
+meet separately from the Compensation and Human Resources Committee. Each
+director attended at least 75% of the aggregate of the fiscal year 1998 meetings
+of the Board of Directors and of the Board committee or committees on which he
+or she served during the year.
+
+         The Executive Committee is empowered to exercise all powers of the
+Board of Directors, except action on dividends and certain other matters which
+cannot by law be delegated by the Board, during the periods between regular
+Board meetings. The Audit and Finance Committee is responsible for recommending
+to the Board the firm to be employed by the Company as its independent
+accountants and auditors, consulting with such firm as to the annual audit and
+the adequacy of internal controls, reviewing the accounting controls, practices
+and policies of the Company and reviewing budgets, cash and debt management and
+financial matters generally. The Compensation and Human Resources Committee
+recommends to the Board the compensation of the Company's chief executive
+officer, reviews and takes action on the chief executive officer's
+recommendations regarding the appropriate compensation of the Company's other
+officers and key personnel, approves the granting of any bonuses to officers,
+reviews other compensation and personnel development matters generally and
+recommends to the Board the compensation of non-employee directors. The
+Nominating Committee's duties are to evaluate Board performance, recommend to
+the Board nominees for election as directors and recommend to the Board the
+membership of all
+
+
+                                       5
+<PAGE>   8
+Board committees. The Stock Option Committee is responsible for administering
+the Company's 1996 Equity Compensation Plan and another stock option plan which
+has expired (but under which there remain outstanding stock options).
+
+         The current members of the Executive Committee are Messrs. Cloues
+(Chairman), Beebe and Cohen; of the Audit and Finance Committee, Messrs. Pinola
+(Chairman) and Wirth, Dr. Schurmann and Mrs. Sisco; of the Compensation and
+Human Resources Committee, Messrs. Cohen (Chairman) and Pinola and Mrs. Sisco;
+of the Nominating Committee, Messrs. Beebe (Chairman) and Cloues; and of the
+Stock Option Committee, Messrs. Cohen and Pinola and Mrs. Sisco.
+
+STANDARD COMPENSATION ARRANGEMENTS
+
+         Directors who are not employees of the Company receive an annual
+retainer of $12,500, a $2,000 annual retainer for each membership on any of the
+Audit and Finance Committee, the Compensation and Human Resources Committee and
+the Nominating Committee, a $1,000 annual retainer for membership on the
+Executive Committee, $1,000 for each Board meeting attended and $750 for each
+Executive Committee meeting attended provided that, in the case of Executive
+Committee meetings, such meetings either require substantial preparation or last
+two hours or more. In addition, the chairman of the Audit and Finance Committee
+and the chairman of the Compensation and Human Resources Committee are each paid
+an additional $1,500 for their service in such capacities. All retainers are
+paid on a prorated bi-monthly basis. Directors generally do not receive
+compensation for their participation in telephone meetings or for attendance at
+other committee meetings. Under the 1996 Equity Compensation Plan, non-employee
+directors are eligible to receive stock options and, unless the Stock Option
+Committee determines otherwise (which has not been the case in the past), on the
+date of each annual meeting of shareholders of the Company, each non-employee
+director receives an annual stock option grant to purchase 1,000 shares of
+Common Stock with an option price per share equal to the fair market value of a
+share of Common Stock on that date. Such options are fully vested on the date of
+grant and have a ten-year term.
+
+SHARE OWNERSHIP GUIDELINE
+
+         Each non-employee director is required to own shares of Company Common
+Stock with a value, at the greater of cost or market, equal to four times the
+current $12,500 annual retainer, or $50,000. As for any newly-elected director,
+this requirement will be phased in over a period of time to be determined by the
+Board.
+
+REQUIREMENTS FOR ADVANCE NOTIFICATION OF NOMINATIONS
+
+         Article Ninth of the Restated Certificate of Incorporation of the
+Company provides that no person may be nominated for election as a director by a
+shareholder at an annual or special meeting unless written notice of such
+shareholder's intent to make such nomination has been given, either by personal
+delivery or by United States mail, postage prepaid, to the Secretary of the
+Company at the principal executive offices of the Company not later than (i)
+with respect to an election to be held at an annual meeting of shareholders, 90
+days in advance of such meeting and (ii) with respect to an election to be held
+at a special meeting of shareholders for the election of directors, the close of
+business on the seventh day following the date on which notice of such meeting
+is first given to shareholders. Each such notice shall set forth: (a) the name
+and address of the shareholder who intends to make the nomination and of the
+person or persons to be nominated; (b) a representation that the shareholder is
+a holder of record of stock of the Company entitled to vote at such meeting and
+intends to appear in person or by proxy at the meeting to nominate the person or
+persons specified in the notice; (c) a description of all arrangements or
+understandings between the shareholder and each nominee and any other person or
+persons (naming such person or persons) pursuant to which the nomination or
+nominations are to be made by the shareholder; (d) such other information
+regarding each nominee proposed by such shareholder as would be required to be
+included in a proxy statement filed pursuant to the proxy rules of the
+Securities and Exchange Commission had the nominee been nominated, or intended
+to be nominated, by the Board of Directors; and (e) the consent of each nominee
+to serve as a director of the Company if so elected. The chairman of the meeting
+may refuse to acknowledge the nomination of any person not made in compliance
+with the foregoing procedure.
+
+
+                                       6
+<PAGE>   9
+                             EXECUTIVE COMPENSATION
+
+COMPENSATION
+
+         The following table sets forth certain information with respect to
+compensation earned during fiscal years 1998, 1997 and 1996 by the Company's
+chief executive officer and the Company's other executive officers whose salary
+and bonus from the Company or any subsidiary exceeded $100,000 in fiscal year
+1998 (the "Named Executive Officers").
+
+                           SUMMARY COMPENSATION TABLE
+
+<TABLE>
+<CAPTION>
+                                                                                           Long-Term Compensation
+                                                                                                   Awards
+                                                                                           ----------------------
+                                                     Annual Compensation                   Number of
+                                                ----------------------------------------   Shares of    Number of
+                                                                                           Restricted   Stock
+        Name and                                                          Other Annual        Stock     Options        All Other
+    Principal Position                  Year    Salary       Bonus       Compensation(2)    Granted     Granted     Compensation (1)
+    ------------------                  ----    ------       -----       ---------------   ----------   ---------   ----------------
+<S>                                      <C>   <C>          <C>           <C>              <C>        <C>            <C>
+Edward B. Cloues, II (3)............    1998   $380,000     $285,000      $ 15,371(4)       7,500           -0-        $ 22,234
+  Chief Executive Officer and 
+  Chairman of the Board of Directors
+
+Robert L. Weinberg .................    1998   $170,000     $ 45,000      $  2,364(4)         -0-         5,000        $ 25,346
+  Senior Executive Vice President,      1997    160,500       58,833         1,577(4)         -0-           -0-          21,957
+   Chief Financial Officer              1996    150,000       37,500         1,010(4)         -0-           -0-          19,049
+   and Treasurer
+
+Kevin C. Bowen .....................    1998   $150,000     $ 75,000      $    342(4)         -0-        30,000        $ 17,126
+  President and Chief Executive         1997    137,825       50,521           342(4)         -0-           -0-          16,473
+   Officer of K-Tron                    1996    128,800       32,200           201(4)         -0-           -0-          13,023
+   America, Inc. 
+
+Lukas Guenthardt ...................    1998   $147,460(5)  $ 75,000      $    255(4)         -0-        30,000        $ 21,346
+  Senior Vice President - Strategic     1997    127,209(5)    50,521           -0-            -0-           -0-          16,314
+   Planning, Product Development        1996    139,760(5)    34,940           -0-            -0-           -0-          19,165
+  and Marketing
+</TABLE>
+
+- ---------------
+(1) The amounts disclosed in this column include:
+
+     (a) Company and subsidiary contributions under the thrift portion of
+     Company's 401(k) Profit-Sharing and Thrift Plan on behalf of the following
+     Named Executive Officers: For fiscal year 1998 - Mr. Weinberg $10,560, Mr.
+     Bowen $10,560 and Mr. Guenthardt $2,475. For fiscal year 1997 - Mr.
+     Weinberg $9,500 and Mr. Bowen $9,500. For fiscal year 1996 - Mr. Weinberg
+     $9,000 and Mr. Bowen $7,709. No contributions were made under the
+     profit-sharing portion of the plan in any of these years.
+
+     (b) Company and subsidiary payments for supplemental health insurance on
+     behalf of the following Named Executive Officers: For fiscal year 1998 -
+     Mr. Cloues $3,141, Mr. Weinberg $5,923 and Mr. Bowen $5,025. For fiscal
+     year 1997 - Mr. Weinberg $3,594 and Mr. Bowen $5,432. For fiscal year 1996
+     - Mr. Weinberg $2,446 and Mr. Bowen $4,906.
+
+     (c) Company and subsidiary payments of premiums for additional group term
+     life insurance on behalf of the following Named Executive Officers: For
+     fiscal year 1998 - Mr. Cloues $1,152, Mr. Weinberg $3,510, Mr.
+
+                                       7
+<PAGE>   10
+     Bowen $696 and Mr. Guenthardt $408. For fiscal year 1997 - Mr. Weinberg
+     $3,510 and Mr. Bowen $696. For fiscal year 1996 - Mr. Weinberg $2,250 and
+     Mr. Bowen $408.
+
+     (d) Company and subsidiary payments of premiums for additional life
+     insurance on behalf of the following Named Executive Officers: For fiscal
+     year 1998 - Mr. Cloues $2,612, Mr. Weinberg $2,168 and Mr. Bowen $845. For
+     fiscal year 1997 - Mr. Weinberg $2,168 and Mr. Bowen $845. For fiscal year
+     1996 - Mr. Weinberg $2,168.
+
+     (e) Company payments of premiums for additional disability insurance on
+     behalf of the following Named Executive Officers: For fiscal year 1998 -
+     Mr. Cloues $15,329 and Mr. Weinberg $3,185. For fiscal years 1997 and 1996
+     - Mr. Weinberg $3,185 in each year.
+
+     (f) Subsidiary contributions in U.S. dollars (based on the average $/Sfr.
+     exchange rates of $.692 for 1998 and $.689 for 1997) to the Swiss pension
+     plan on behalf of Mr. Guenthardt for fiscal years 1998 and 1997: $18,463
+     and $16,314, respectively.
+
+(2)  In fiscal years 1998, 1997 and 1996, no Named Executive Officer received
+     perquisites or other personal benefits, securities or property which
+     exceeded the lesser of $50,000 or 10% of such Named Executive Officer's
+     salary and bonus.
+
+(3)  On January 5, 1998, Mr. Cloues joined the Company as its Chief Executive
+     Officer; therefore, his compensation for fiscal years 1997 and 1996 is not
+     required to be disclosed.
+
+(4)  Represents amounts reimbursed to certain of the Named Executive Officers
+     for estimated income taxes incurred with respect to additional life and
+     disability insurance purchased on their behalf.
+
+(5)  Prior to June 1, 1998, Mr. Guenthardt served as Managing Director and Chief
+     Executive Officer of K-Tron (Switzerland) Ltd., and he relocated to the
+     United States in September 1998 in connection with his new position as
+     Senior Vice President - Strategic Planning, Product Development and
+     Marketing of the Company. Mr. Guenthardt's compensation was paid in Swiss
+     francs through September 1998 and in U.S. dollars thereafter, and all of
+     his 1997 and 1996 salary, bonus and other compensation was paid in Swiss
+     francs. The salary, bonus and other compensation amounts included in the
+     table for Mr. Guenthardt are expressed in U.S. dollars using the average
+     $/Sfr. exchange rates (i) for the portion of 1998 for which he was paid in
+     Swiss francs of $.692, (ii) for 1997 of $.689 and (iii) for 1996 of $.810.
+     Mr. Guenthardt's salary in Swiss francs was Sfr. 211,707 in 1998 (on an
+     annualized basis), Sfr. 184,575 in 1997 and Sfr. 172,500 in 1996.
+
+
+
+                                       8
+<PAGE>   11
+OPTION GRANTS
+
+         The following table discloses options granted to the Named Executive
+Officers during the fiscal year ended January 2, 1999.
+
+<TABLE>
+<CAPTION>
+                                                 OPTION GRANTS IN LAST FISCAL YEAR
+                                                         INDIVIDUAL GRANTS
+                                 ----------------------------------------------------------------
+                                                PERCENT OF                                               POTENTIAL REALIZABLE
+                                                  TOTAL                                                    VALUE AT ASSUMED
+                                  NUMBER OF    OPTIONS/SARs                                                ANNUAL RATES OF
+                                  SECURITIES    GRANTED TO                                                   STOCK PRICE
+                                  UNDERLYING   EMPLOYEES IN          EXERCISE                              APPRECIATION FOR
+                                 OPTION/SARs   FISCAL YEAR         OR BASE PRICE      EXPIRATION             OPTION TERM
+NAME                               GRANTED       1998(1)           PER SHARE(2)          DATE            5%              10%
+- ----                             -----------   ------------        -------------      -----------        --              ---
+<S>                             <C>            <C>                 <C>                <C>               <C>            <C>
+Edward B. Cloues, II .....          --               --                   --                --                --             --
+Robert L. Weinberg .......       5,000              5.1%             $16.375(3)        2/17/08          $ 51,425       $130,475
+Kevin C. Bowen ...........       5,000              5.1%              16.375(3)        2/17/08            51,425        130,475
+                                25,000             25.3%               19.00(4)        7/16/08           298,750        757,000
+Lukas Guenthardt .........       5,000              5.1%              16.375(3)        2/17/08            51,425        130,475
+                                25,000             25.3%               19.00(4)        7/16/08           298,750        757,000
+</TABLE>
+
+- ----------------
+(1)  During fiscal year 1998, options to purchase 99,000 shares of Common Stock
+     were granted to 28 employees.
+
+(2)  The exercise price of the options granted was equal to the fair market
+     value of the underlying stock on the date of grant.
+
+(3)  Options become exercisable in three equal installments commencing on the
+     first anniversary of the date of grant.
+
+(4)  Options become exercisable in five equal installments commencing on the
+     fifth anniversary of the date of grant.
+
+
+
+                                       9
+<PAGE>   12
+OPTION EXERCISES AND FISCAL YEAR-END VALUES
+
+         The following table sets forth certain information regarding the number
+and value of stock options held at January 2, 1999 by the Named Executive
+Officers.
+
+    AGGREGATE OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR-END OPTION
+                                     VALUES
+
+<TABLE>
+<CAPTION>
+                                                                    NUMBER OF UNEXERCISED               VALUE OF UNEXERCISED
+                                                                        OPTIONS AT                     IN-THE-MONEY OPTIONS AT
+                                SHARES                                JANUARY 2, 1999                     JANUARY 2, 1999(1)
+                               ACQUIRED           VALUE        -------------------------------      -------------------------------
+NAME                         ON EXERCISE        REALIZED       EXERCISABLE       UNEXERCISABLE      EXERCISABLE       UNEXERCISABLE
+- ----                         -----------        --------       -----------       -------------      -----------       -------------
+<S>                          <C>                <C>              <C>               <C>               <C>              <C>
+Edward B. Cloues, II ....           --                --            35,714            64,286          $160,713          $289,287
+Robert L. Weinberg ......        8,000          $ 41,500            14,000            13,000           128,562            88,937
+Kevin C. Bowen ..........          500             3,500            10,750            33,250           106,937            50,437
+Lukas Guenthardt ........           --                --             7,500            35,500            72,812            71,437
+</TABLE>
+
+- ----------------
+
+(1)  Based on the closing price of the Company's Common Stock as reported on the
+     Nasdaq National Market on December 31, 1998 ($18.50 per share), net of the
+     option exercise price.
+
+CERTAIN EMPLOYMENT AGREEMENTS
+
+         Messrs. Weinberg, Bowen and Guenthardt were employed by the Company or
+a subsidiary during fiscal year 1998 under employment agreements with the
+Company (the "Employment Agreements"). Under these Employment Agreements,
+Messrs. Weinberg, Bowen and Guenthardt are entitled to receive a base salary,
+which may be increased from time to time, and such additional compensation and
+bonus payments as may be awarded to them. During fiscal year 1998, the annual
+base salaries for Messrs. Weinberg, Bowen and Guenthardt were $170,000, $150,000
+and $150,000, respectively. (Mr. Guenthardt's base salary was converted into
+Swiss francs at the $/Sfr. exchange rate in effect at the beginning of fiscal
+year 1998 and was paid in Swiss francs through September 30, 1998, after which
+it was paid in U.S. dollars.) As of the beginning of fiscal year 1999, Messrs.
+Bowen's and Guenthardt's annual base salaries were increased to $165,000 each.
+The Company's obligation to pay such base salaries is subject to its right to
+reduce them in the event reductions are generally being made for other officers
+of the Company or its subsidiaries holding comparable positions.
+
+         Each of the Employment Agreements provides that either the Company or
+the employee may terminate the employment term thereunder upon not less than one
+year's prior notice. Such employment terms are also subject to termination by
+reason of the employee's death or disability or by the Board of Directors at any
+time for "cause" as specified in the Employment Agreements. In addition, the
+Company has the right to terminate any of Messrs. Weinberg, Bowen or Guenthardt
+at any time without cause by paying him a lump sum amount equal to 100% of his
+then-annual base salary or, if the previously described one-year notice of
+termination has already been given by the Company to him, the portion thereof
+relating to the balance of the employment term.
+
+         Mr. Cloues was employed by the Company during fiscal year 1998 under an
+employment agreement with the Company pursuant to which he served as the
+Company's Chairman of the Board of Directors and Chief Executive Officer. During
+fiscal year 1998, Mr. Cloues received a base salary of $380,000, a bonus of
+$285,000 and a restricted stock grant for 7,500 shares of Common Stock (which
+restrictions lapsed on January 5, 1999). In addition, on January 5, 1999, Mr.
+Cloues received a stock grant for 12,500 shares of Common Stock, of which 2,500
+shares were unrestricted and 10,000 shares were restricted, with the restriction
+to lapse on January 5, 2000
+
+
+
+                                       10
+<PAGE>   13
+provided that Mr. Cloues is still employed by the Company on that date. The
+foregoing stock grants were made in accordance with Mr. Cloues' employment
+agreement. As of the beginning of fiscal year 1999, Mr. Cloues' annual base
+salary was increased to $400,000.
+
+         Mr. Cloues' employment agreement provides that he can terminate the
+agreement upon not less than 90 days prior notice. The agreement also provides
+that the Company may terminate the employment term thereunder without cause
+effective at any time after January 8, 2001, but the Company must provide Mr.
+Cloues with not less than two years prior notice of such termination. At Mr.
+Cloues' election, he may then terminate the employment term ("Termination Event
+One"). After January 8, 2001, the Company may terminate the employment term
+without cause upon not less than 30 days prior written notice ("Termination
+Event Two"). Upon the occurrence of Termination Event One or Two, Mr. Cloues
+would be entitled to a lump sum payment equal to 200% of his then-annual base
+salary. Mr. Cloues' employment term is also subject to termination by reason of
+his death or disability or by the Board of Directors at any time for "cause" as
+specified in his employment agreement.
+
+         Mr. Cloues' employment agreement also includes provisions relating to a
+termination of employment upon a "change of control" (as specified in his
+employment agreement). Mr. Cloues' employment agreement applies to a termination
+of employment upon or within one year after a "change in control" which, if such
+termination was initiated by the Company or any successor thereto, was for any
+reason other than death, disability or "cause" or which, if such termination was
+initiated by Mr. Cloues, was at his sole discretion without regard to reason. In
+the event of the termination of employment of Mr. Cloues upon a "change of
+control," his employment agreement provides that, subject to certain
+limitations, the Company would pay him (i) an amount equal to three times his
+annual base salary in effect either immediately prior to the termination of
+employment or immediately prior to the "change of control," whichever is higher
+and (ii) unless Mr. Cloues notifies the Company in writing that he intends to
+retain his options, an amount equal to the spread (the excess of market value
+over exercise price) on any stock options then held by him, whether or not such
+options were exercisable at the date of termination.
+
+
+         NOTWITHSTANDING ANYTHING TO THE CONTRARY, THE FOLLOWING REPORT OF THE
+         COMPENSATION AND HUMAN RESOURCES COMMITTEE AND THE PERFORMANCE GRAPH ON
+         PAGE 14 SHALL NOT BE DEEMED INCORPORATED BY REFERENCE BY ANY GENERAL
+         STATEMENT INCORPORATING BY REFERENCE THIS PROXY STATEMENT INTO ANY
+         FILING UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR UNDER THE
+         SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, EXCEPT TO THE EXTENT THAT
+         THE COMPANY SPECIFICALLY INCORPORATES THIS INFORMATION BY REFERENCE,
+         AND SHALL NOT OTHERWISE BE DEEMED FILED UNDER SUCH ACTS.
+
+                           REPORT OF THE COMPENSATION
+                          AND HUMAN RESOURCES COMMITTEE
+
+         As members of the Compensation and Human Resources Committee (the
+"Compensation Committee"), it is our duty to review the compensation paid to the
+Named Executive Officers, to recommend to the Board the annual base salary of
+the Company's Chief Executive Officer, to approve the annual base salaries of
+the other Named Executive Officers and of all other officers of the Company and
+to approve all bonuses and other material compensation granted to such persons.
+In addition, we also constitute the committee (the "Stock Option Committee")
+which administers the Company's 1996 Equity Compensation Plan and thus are
+responsible for the granting of stock options, stock appreciation rights and
+restricted stock to officers and employees of the Company. These duties and the
+other responsibilities of the Compensation Committee are more fully described on
+page 5 of this Proxy Statement under the caption "Matters Concerning Directors -
+Committees and Meetings." In fulfilling these duties and responsibilities, it is
+the Compensation Committee's goal to have a policy that will enable the Company
+to attract, retain and reward senior officers who contribute to both its
+short-term and long-term success. The members of the Compensation Committee are
+all non-employee, independent directors.
+
+
+
+                                       11
+<PAGE>   14
+         The Company's compensation policy for senior officers is to pay
+competitively and to be fair and equitable in the administration of pay. This is
+the same policy applicable to all employees of the Company. The Company seeks to
+balance the compensation paid to a particular individual with the compensation
+paid to other executives holding comparable positions both inside the Company
+and at other similar companies.
+
+         For fiscal year 1998, the Compensation Committee recommended and the
+Board approved an incentive compensation program consisting of two parts, one
+involving cash payments and the other the grant of stock options. Under this
+program, no incentive compensation was earned until the Company's pre-tax budget
+for 1998 was met; the incentive compensation pool was then filled until it
+equaled 20% of pre-tax, pre-incentive compensation income. Thereafter, the
+incentive compensation pool continued to increase by an amount equal to 20% of
+all additional pre-tax, pre-incentive compensation income. The total incentive
+compensation pool was then split approximately 50/50 between an identified group
+of managers and all other employees, with specific awards dependent on both
+overall corporate and local performance. All incentive compensation awards were
+paid in cash, and, except for the Chief Executive Officer's award, each Named
+Executive Officer's award was based on the Chief Executive Officer's
+recommendation to the Compensation Committee. This recommendation was based on
+the Chief Executive Officer's subjective judgment but took into account a number
+of factors, including the performance of the unit for which such officer was
+responsible, overall corporate results, teamwork, growth strategy implementation
+and any special accomplishments of the individual in question. The amount of the
+incentive compensation award to the Chief Executive Officer during fiscal year
+1998 was determined by the Compensation Committee as described in the next
+paragraph. With respect to stock options, up to 50,000 were eligible to be
+granted under the program as a result of the Company achieving its objective of
+15% earnings per share growth in fiscal year 1998. In the beginning of fiscal
+year 1999, the members of the Compensation Committee, acting as the Stock Option
+Committee, approved grants of non-qualified options to purchase 46,000 shares of
+Common Stock, and all such grants were at market price on the grant date, vest
+over four years from that date and have a life of ten years.
+
+         Since the Company achieved its fiscal year 1998 pre-tax budget, bonuses
+were paid under the program, including a $285,000 bonus to Edward B. Cloues, II,
+the Company's Chief Executive Officer. Mr. Cloues' bonus was determined by the
+Compensation Committee and reflected the Compensation Committee's recognition of
+the key role played by Mr. Cloues during fiscal year 1998, including the
+Company's achievement of record financial results as well as of certain key
+non-financial objectives such as the centralization of its research and
+development efforts. The awards made to the other three Named Executive Officers
+of the Company were recommended by Mr. Cloues on the basis described in the
+immediately preceding paragraph and approved by the Compensation Committee, and
+they equaled $45,000 for Mr. Weinberg and $75,000 for each of Messrs. Bowen and
+Guenthardt. None of these four Named Executive Officers received option grants
+under the Company's 1998 incentive compensation program; however, as described
+below, on July 16, 1998 each of Messrs. Bowen and Guenthardt was awarded an
+incentive stock option to purchase 25,000 shares of Common Stock at an exercise
+price of $19.00 per share.
+
+         For fiscal year 1999, the Compensation Committee has recommended and
+the Board has approved an incentive compensation program that is substantially
+similar to last year's program with respect to cash payments but does not
+provide for the grant of stock options. It is expected that future stock options
+will be granted by the Stock Option Committee on a case-by-case basis, as and
+when deemed appropriate.
+
+         As with respect to bonuses, the decisions of the Compensation Committee
+regarding salaries are subjective and not based on any list of specific
+criteria. The Company's Chief Executive Officer, Edward B. Cloues, II, had a
+1998 base salary of $380,000 as required by his employment agreement with the
+Company. With respect to the Company's other executive officers, their annual
+base salaries during fiscal year 1998 were as follows: Mr. Weinberg, $170,000;
+Mr. Bowen, $150,000; and Mr. Guenthardt, $150,000. Effective at the beginning of
+fiscal year 1999, Mr. Cloues' annual base salary was increased to $400,000, and
+the annual base salaries for Messrs. Bowen and Guenthardt were increased to
+$165,000 each. Mr. Weinberg's base salary was left unchanged. The Committee
+accepted the Chief Executive Officer's salary recommendations for Messrs.
+Bowen, Guenthardt and
+
+
+
+                                       12
+<PAGE>   15
+Weinberg, which were based on many of the factors described above with respect
+to incentive compensation awards. The same was also true of the factors which
+the Committee took into account in determining the Chief Executive Officer's
+1999 salary.
+
+         As stated above, the members of the Compensation Committee also serve
+as the members of the Stock Option Committee which administers the 1996 Equity
+Compensation Plan providing for grants of stock options, stock appreciation
+rights and restricted stock. The purpose of stock option grants is to provide an
+additional incentive to key employees to work to maximize shareholder value, and
+vesting periods may be utilized to encourage such employees to remain with the
+Company. Stock option grants are entirely at the discretion of the Stock Option
+Committee, including their timing, the recipients thereof and the number of
+shares underlying any particular grant. In the beginning of fiscal year 1998,
+non-qualified stock options for an aggregate of 49,000 shares were granted
+pursuant to the Company's 1997 incentive compensation program, and non-qualified
+stock options for an aggregate of 46,000 shares were granted in the beginning of
+fiscal year 1999 pursuant to the Company's 1998 incentive compensation program
+described above. Further, pursuant to Mr. Cloues' employment agreement, he
+received on October 7, 1998 a restricted stock grant for 7,500 shares of Common
+Stock under the 1996 Equity Compensation Plan, with the restriction lapsing on
+January 5, 1999, and he also received on January 5, 1999 a stock grant for
+12,500 shares of Common Stock under the 1996 Equity Compensation Plan, of which
+2,500 shares were unrestricted and 10,000 shares were restricted, with the
+restriction to lapse on January 5, 2000 provided that Mr. Cloues is still
+employed by the Company on that date. In addition, in order to provide Messrs.
+Bowen and Guenthardt with long term, company performance-related compensation,
+the Stock Option Committee in July 1998 granted to each of them under the 1996
+Equity Compensation Plan, incentive stock options to purchase 25,000 shares of
+Common Stock that vest in five equal installments commencing on the fifth
+anniversary of the date of grant. All stock option grants were at market price
+on the date of grant.
+
+         In summary, we believe that the combination of salary, bonus, stock
+options and awards and other compensation received by each of the Named
+Executive Officers for fiscal year 1998 was reasonable in view of their past and
+anticipated future contributions to the Company.
+
+         Payments during 1998 to the Company's executives as discussed above
+were made with regard to the provisions of Section 162(m) of the Internal
+Revenue Code. Section 162(m) limits the deduction that may be claimed by a
+"public company" for compensation paid to certain individuals to $1 million
+except to the extent that any excess compensation is "performance-based
+compensation." It is the Compensation Committee's intention that as a general
+rule compensation should not be limited as to its deductibility under Section
+162(m).
+
+                                      COMPENSATION AND HUMAN RESOURCES COMMITTEE
+
+                                                   Norman Cohen, Chairman
+                                                       Richard J. Pinola
+                                                        Jean Head Sisco
+March 12, 1999
+
+
+
+                                       13
+<PAGE>   16
+                                PERFORMANCE GRAPH
+
+         The following line graph compares the yearly change in the cumulative
+total shareholder return on the Company's Common Stock for the past five fiscal
+years with the cumulative total return of the Standard & Poor's 500 Stock Index
+(the "S&P 500") and the Dow Jones Factory Equipment Industry Group, which is
+described more fully below (the "Factory Equipment Group"). The graph assumes
+that $100 was invested at the end of fiscal year 1993 in the Company's Common
+Stock, the S&P 500 and the Factory Equipment Group. Dividend reinvestment has
+been assumed and, with respect to companies in the Factory Equipment Group, the
+returns of each such company have been weighted at each measurement point to
+reflect relative stock market capitalization.
+
+
+
+
+
+
+
+
+                               [PERFORMANCE GRAPH]
+
+
+                             1993    1994    1995     1996     1997     1998
+                             ----    ----    ----     ----     ----     ----
+K-Tron International, Inc.    100   104.88   60.98   100.00   168.29   180.49
+S&P 500 Index                 100   101.32  139.40   171.41   228.59   293.92
+Factory Equipment Group       100    99.01  130.57   134.14   149.63   128.34
+
+
+
+
+         The Factory Equipment Group is not a "published industry or
+line-of-business index" as that term is defined by Securities and Exchange
+Commission regulations. Accordingly, the Factory Equipment Group is considered a
+"peer index," and the identity of the issuers used in the index is as follows:
+American Vanguard Corp., Baldwin Technology Inc. Class A, Bethlehem Corporation,
+Binks Sames Corp., Bridgeport Machines Inc., Brown & Sharpe Manufacturing Co.
+Class A, Chicago Rivet & Machine Co., Devlieg-Bullard Inc., Farrel Corporation,
+Flow International Corp., Gardner Denver, Inc., Gleason Corporation, Gorman-Rupp
+Company, Hirsch International Corp. Class A, Hurco Companies Inc., Innovex Inc.,
+Inotek Technologies Corp., Interlake Corp., Invivo Corporation, K-Tron
+International, Inc., Katy Industries, Inc., Key Technology Inc., Kulicke & Soffa
+Industries, Inc., Lynch Corporation, McClain Industries, Inc., Middleby
+Corporation, Milacron Inc., Monarch Machine Tool Co., Moore Products Co., Paul
+Mueller Company, Nordson Corporation, Oilgear Company, Orbotech Ltd., Princeton
+Media Group Inc., Quipp, Inc., Regal-Beloit Corp, Riviera Tool Company, Secom
+General Corporation, Selas Corporation of America, SI Handling Systems, Inc.,
+Sonics & Materials, Inc., Speizman Industries Inc., L.S. Starrett Company, Summa
+Industries, Taylor Devices, Inc., Thermo Fibertek Inc., Thermo Terratech, Inc.,
+Twin Disc Incorporated, Unit Instruments Inc.(CA), Utilx Corporation and Valmet
+Oy Ads.
+
+
+                                       14
+<PAGE>   17
+                         INDEPENDENT PUBLIC ACCOUNTANTS
+
+         Arthur Andersen LLP has served as the Company's independent public
+accountants and auditors since 1994. It is management's expectation that Arthur
+Andersen LLP will continue in such capacity for the current year, but this
+matter has not yet been considered by the Board of Directors. A representative
+of Arthur Andersen LLP is expected to be present at the Annual Meeting with the
+opportunity to make a statement if he or she desires to do so and to be
+available to respond to appropriate questions.
+
+
+                  SHAREHOLDER PROPOSALS -- 2000 ANNUAL MEETING
+
+         Shareholders may submit proposals on matters appropriate for
+shareholder action at annual meetings in accordance with regulations adopted by
+the Securities and Exchange Commission. Any proposal which an eligible
+shareholder desires to have presented at the 2000 annual meeting of shareholders
+(which is expected to be held on or about May 5, 2000) concerning a proper
+subject for inclusion in the proxy statement and for consideration at the annual
+meeting, will be included in the Company's proxy statement and related proxy
+card if it is received by the Company no later than November 27, 1999.
+
+
+             SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+         Section 16(a) of the Securities Exchange Act of 1934, as amended,
+requires that directors and certain officers of the Company, and persons who own
+more than ten percent of the Company's Common Stock, file reports of ownership
+of Company securities and changes in ownership of Company's securities with the
+Securities and Exchange Commission. The Company believes that all filings
+required to be made during fiscal year 1998 were made on a timely basis.
+
+
+                                  OTHER MATTERS
+
+         The Board of Directors of the Company does not intend to bring any
+other matters before the Annual Meeting and has no reason to believe any other
+matters will be presented. If, however, other matters properly do come before
+the meeting, it is the intention of the persons named as proxy agents in the
+enclosed Proxy Card to vote upon such matters in accordance with their judgment.
+
+                                            By Order of the Board of Directors,
+
+
+                                            Mary E. Vaccara
+                                            Secretary
+March 26, 1999
+
+                                       15
+<PAGE>   18
+                        K-TRON INTERNATIONAL, INC. PROXY
+
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS. The undersigned
+hereby appoints LEO C. BEEBE and EDWARD B. CLOUES, II, or either of them acting
+singly in the absence of the other, each with the power to appoint his
+substitute, the Proxy Agents of the undersigned to attend the Annual Meeting of
+Shareholders of K-Tron International, Inc. (the "Company") to be held at the
+Company's principal executive offices at Routes 55 and 553, Pitman, New Jersey,
+on May 7, 1999, at 10:00 a.m., local time, and any postponements or adjournments
+thereof, and with all powers the undersigned would possess if personally
+present, to vote upon the following matters as indicated below.
+
+  PLEASE MARK, SIGN AND DATE THIS PROXY CARD AND PROMPTLY RETURN IT USING THE
+                               ENCLOSED ENVELOPE.
+
+                  (CONTINUED AND TO BE SIGNED ON REVERSE SIDE.)
+
+
+                                                                     SEE REVERSE
+                                                                         SIDE
+
+<PAGE>   19
+
+[X] PLEASE MARK YOUR VOTES AS IN THIS EXAMPLE
+
+                          FOR         WITHHELD
+1. Election of                                    NOMINEE: Robert A. Engel
+   Director               [ ]           [ ]
+   Class II
+
+
+
+2. In their discretion, the Proxy Agents are authorized to vote upon such other
+   business that may properly come before the meeting.
+
+
+THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER DIRECTED HEREIN BY
+THE UNDERSIGNED SHAREHOLDER. IF NO INSTRUCTION IS SPECIFIED WITH RESPECT TO A
+MATTER TO BE ACTED UPON, THE SHARES REPRESENTED BY THE PROXY WILL BE VOTED FOR
+THE NOMINEE FOR ELECTION AS THE CLASS II DIRECTOR. IF ANY OTHER BUSINESS IS
+PRESENTED AT THE MEETING, THIS PROXY CONFERS AUTHORITY TO AND SHALL BE VOTED IN
+ACCORDANCE WITH THE RECOMMENDATION OF THE BOARD OF DIRECTORS OF THE COMPANY OR
+ITS EXECUTIVE COMMITTEE. THE UNDERSIGNED HEREBY ACKNOWLEDGES RECEIPT OF THE
+NOTICE OF THE ANNUAL MEETING OF SHAREHOLDERS AND THE RELATED PROXY STATEMENT.
+
+PLEASE MARK, SIGN AND DATE THIS PROXY CARD AND PROMPTLY RETURN IT USING THE
+ENCLOSED ENVELOPE.
+
+
+Signature(s) __________________________________________________ DATE _____, 1999
+
+Please sign exactly as name appears above. When shares are held by joint
+tenants, both should sign. When signing as attorney, executor, administrator,
+trustee or guardian, please give full title as such. If a corporation, please
+sign in full corporate name by the President or other authorized officer. If a
+partnership, please sign in the partnership name by an authorized person.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

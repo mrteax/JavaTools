@@ -1,0 +1,1970 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SyRtdhyRJuCuxIdq3uhmBqEW5F0PEEuutMNXYJVUtwNSPyLmGG2dzUzJRaF7gIu/
+ whiOgUhpTpKwpGgyR4UgBA==
+
+<SEC-DOCUMENT>0001188112-03-000744.txt : 20031022
+<SEC-HEADER>0001188112-03-000744.hdr.sgml : 20031022
+<ACCEPTANCE-DATETIME>20031022153458
+ACCESSION NUMBER:		0001188112-03-000744
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20031024
+FILED AS OF DATE:		20031022
+EFFECTIVENESS DATE:		20031022
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACETO CORP
+		CENTRAL INDEX KEY:			0000002034
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-CHEMICALS & ALLIED PRODUCTS [5160]
+		IRS NUMBER:				111720520
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04217
+		FILM NUMBER:		03951891
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+		BUSINESS PHONE:		5166276000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HOLLOW LANE
+		CITY:			LAKE SUCCESS
+		STATE:			NY
+		ZIP:			11042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACETO CHEMICAL CO INC
+		DATE OF NAME CHANGE:	19851203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>tdef14a-30562.txt
+<DESCRIPTION>DEF 14A
+<TEXT>
+<PAGE>
+
+                                  SCHEDULE 14A
+                                 (RULE 14A-101)
+
+                     INFORMATION REQUIRED IN PROXY STATEMENT
+
+                            SCHEDULE 14A INFORMATION
+           PROXY STATEMENT PURSUANT TO SECTION 14(A) OF THE SECURITIES
+                      EXCHANGE ACT OF 1934 (AMENDMENT NO. )
+
+Filed by the Registrant       |X|
+
+Filed by a Party other than the Registrant       |_|
+
+Check the appropriate box:
+
+|_|       Preliminary Proxy Statement
+|X|       Definitive Proxy Statement
+|_|       Definitive Additional Materials
+|_|       Soliciting Material Pursuant to Rule 14a-11(c) or Rule 14a-12
+|_|       Confidential, for Use of the Commission
+          Only (as permitted by Rule 14a-6(e)(2))
+
+                                ACETO CORPORATION
+                (Name of Registrant as Specified In Its Charter)
+
+(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+Payment of Filing Fee (Check the appropriate box):
+
+|X|       No fee required.
+
+|_|       Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and
+          0-11.
+
+     (1)  Title of each class of securities to which transaction applies: Common
+          Stock, par value $.01 per share
+
+     (2)  Aggregate number of securities to which transaction applies:
+
+     (3)  Per unit price or other underlying value of transaction computed
+          pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+          filing fee is calculated and state how it was determined):
+
+     (4)  Proposed maximum aggregate value of transaction:
+
+     (5)  Total fee paid:
+
+          Fee paid previously with preliminary materials.
+
+          Check box if any part of the fee is offset as provided by Exchange Act
+          Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+          was paid previously. Identify the previous filing by registration
+          statement number, or the Form or Schedule and the date of its filing.
+
+     (1)  Amount Previously Paid:
+     (2)  Form, Schedule or Registration Statement No.:
+     (3)  Filing Party:
+     (4)  Date Filed:
+
+<PAGE>
+
+                                ACETO CORPORATION
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+                                 (516) 627-6000
+
+                                                                October 24, 2003
+
+Dear Fellow Shareholders:
+
+     I take pleasure in inviting each of you to attend Aceto Corporation's
+Annual Meeting of Shareholders on Thursday, December 4, 2003 at 10:00 a.m. at
+the Company's offices, One Hollow Lane, Lake Success, New York. I am pleased to
+provide you with your Company's Annual Report and the Proxy Statement attached
+to this letter.
+
+     Please use this opportunity to take part in our affairs by voting on the
+business to come before this meeting. You may vote your shares at the Annual
+Meeting by marking your votes on the enclosed proxy card, signing and dating it,
+and mailing it in the enclosed envelope.
+
+     I look forward to seeing you at the Annual Meeting.
+
+                                           Sincerely,
+
+
+                                           /s/ Leonard S. Schwartz
+                                           -----------------------
+                                           Leonard S. Schwartz
+                                           Chairman of the Board and
+                                           Chief Executive Officer
+
+<PAGE>
+
+                                ACETO CORPORATION
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+                                 (516) 627-6000
+
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+
+To our Shareholders:
+
+     The Annual Meeting of Shareholders of Aceto Corporation will be held on
+Thursday, December 4, 2003, at 10:00 a.m. at the Company's offices indicated
+above, for the following purposes:
+
+     1.   To elect a Board of Directors to serve for the ensuing year;
+
+     2.   To amend the Company's Certificate of Incorporation to increase the
+          number of authorized shares of common stock from 20,000,000 to
+          40,000,000;
+
+     3.   To ratify the appointment of KMPG LLP as the Company's independent
+          auditors for the current fiscal year; and
+
+     4.   To transact any other business that may properly come before the
+          meeting.
+
+     Shareholders of record at the close of business on October 6, 2003 are
+entitled to receive notice of and to vote at the Annual Meeting and at any
+continuation or adjournment thereof.
+
+                                        By Order of the Board of Directors
+
+
+                                        /s/ Douglas Roth
+                                        ----------------
+                                        Douglas Roth
+                                        Chief Financial Officer and Secretary
+
+Lake Success, New York
+October 24, 2003
+
+<PAGE>
+
+                                ACETO CORPORATION
+                                 ONE HOLLOW LANE
+                        LAKE SUCCESS, NEW YORK 11042-1215
+                                 (516) 627-6000
+
+                                    ---------
+                                 PROXY STATEMENT
+                                    ---------
+
+                               GENERAL INFORMATION
+
+
+INFORMATION ABOUT PROXY SOLICITATION
+
+     This Proxy Statement is furnished to the holders of the common stock, $0.01
+par value per share (the "Common Stock"), of Aceto Corporation, a New York
+corporation (the "Company") in connection with the solicitation of proxies on
+behalf of the Board of Directors of the Company for use at the Annual Meeting of
+Shareholders to be held on Thursday, December 4, 2003 at 10:00 a.m. (Eastern
+Standard Time), at the Company's offices, One Hollow Lane, Suite 201, Lake
+Success, New York 11042, and at any adjournment thereof. The purposes of the
+meeting and the matters to be acted upon are set forth in the accompanying
+Notice of Annual Meeting of Shareholders. At present, the Board of Directors
+knows of no other business which will come before the meeting.
+
+     The Notice of Annual Meeting, Proxy Statement, and form of proxy will be
+mailed to Shareholders on or about October 24, 2003. The Company will bear the
+cost of its solicitation of proxies. The original solicitation of proxies by
+mail may be supplemented by personal interview, telephone, telegram, and telefax
+by the directors, officers and employees of the Company. Arrangements will also
+be made with brokerage houses and other custodians, nominees and fiduciaries for
+the forwarding of solicitation material to the beneficial owners of stock held
+by such persons, and the Company may reimburse such custodians, nominees and
+fiduciaries for reasonable out-of-pocket expenses incurred by them in connection
+therewith.
+
+REVOCABILITY AND VOTING OF PROXY
+
+     A form of proxy for use at the meeting and a return envelope for the proxy
+are enclosed. Shareholders may revoke their proxies at any time before being
+voted. Shares of Common Stock represented by executed and unrevoked proxies will
+be voted in accordance with the instructions specified thereon. If no
+instructions are given, the proxies will be voted FOR the election as directors
+of management's seven nominees, FOR the proposal to amend the Company's
+Certificate of Incorporation, and FOR ratification of the appointment of KPMG
+LLP as the Company's independent auditors for the fiscal year ending June 30,
+2004.
+
+<PAGE>
+
+RECORD DATE AND VOTING RIGHTS
+
+     Only stockholders of record at the close of business on October 6, 2003 are
+entitled to notice of and to vote at the meeting or any adjournment thereof. On
+October 6, 2003, the Company had outstanding 10,344,568 shares of Common Stock,
+each of which is entitled to one vote upon matters presented at the meeting.
+
+     Votes cast at the meeting will be tabulated by persons appointed as
+inspectors of election of the meeting. The inspectors of election will treat
+shares of Common Stock represented by a properly signed and returned proxy as
+"present" at the meeting for purposes of determining a quorum, without regard to
+whether the proxy is marked as casting a vote or abstaining. Likewise, the
+inspectors of election will treat shares of Common Stock represented by "broker
+non-votes" as present for purposes of determining a quorum.
+
+     Under New York law, (i) a plurality of the votes cast at the Annual Meeting
+is necessary to elect directors, (ii) the affirmative vote of a majority of all
+outstanding shares of the Company's Common Stock is required to amend the
+Company's Certificate of Incorporation, and (iii) the affirmative vote of a
+majority of the votes cast at the Annual Meeting is required to ratify the
+appointment of KPMG LLP as the Company's independent auditors for the current
+fiscal year.
+
+     Shares represented by proxies designated as broker non-votes will be
+counted for purposes of determining a quorum. Broker non-votes occur when a
+broker nominee (which has voted on one or more matters at a meeting) does not
+vote on one or more other matters at a meeting because it has not received
+instructions to so vote from the beneficial owner and does not have
+discretionary authority to so vote. Shares represented by proxies designated as
+broker non-votes will not be treated as being cast for purposes of determining
+the outcome of a vote on any matter, except that broker non-votes will have the
+effect of a vote against the proposal to amend the Company's Certificate of
+Incorporation because this proposal requires the affirmation vote of a majority
+of all the Company's outstanding shares in order to be passed.
+
+     A list of shareholders entitled to vote at the Annual Meeting will be
+available at the Company's office, One Hollow Lane, Lake Success, New York
+11042, during business hours, for a period of 10 days prior to the Annual
+Meeting for examination by any shareholder. Such list will also be available at
+the Annual Meeting.
+
+QUORUM
+
+     The presence, either in person or by proxy, of the holders of a majority of
+the shares of common stock outstanding on October 6, 2003 is necessary to
+constitute a quorum at the Annual Meeting.
+
+<PAGE>
+
+                    ACTIONS TO BE TAKEN AT THE ANNUAL MEETING
+
+                                  PROPOSAL ONE
+
+                              ELECTION OF DIRECTORS
+NOMINEES
+
+     The Company's Board of Directors consists of seven Directors, each one of
+which serves for a one year term and until their successors are duly elected and
+qualified. The Board of Directors is proposing a slate of directors that
+consists of seven incumbent directors. Our policy is for Board members to
+propose nominees consistent with the interests of the Company's stakeholders.
+The Board then evaluates each nominee to ensure that he or she was qualified and
+met the highest standards of ethical behavior. Each director then has an
+opportunity to interview each nominee if he or she deemed it necessary. The
+Board then formally nominates those individuals that it unanimously agrees is in
+the best interests of the Company and all its stakeholders.
+
+     Proxies not marked to the contrary will be voted "FOR" the election of the
+following seven persons:
+
+<TABLE>
+<CAPTION>
+                                                                                      DIRECTOR
+               NAME             AGE               POSITION                             SINCE
+          --------------      ------     ---------------------------------       -------------------
+<S>                             <C>      <C>                                            <C>
+Leonard S. Schwartz (1)         57       Chairman, President and CEO                    1991
+Samuel I. Hendler (1)           81       Director                                       1990
+Robert A. Wiesen (1)            52       Director                                       1994
+Stanley H. Fischer (1)          60       Director                                       2000
+Albert L. Eilender (1)(2)       60       Director                                       2000
+Ira S. Kallem (2)               55       Director                                       2002
+Hans C. Noetzli (2)             62       Director                                       2002
+</TABLE>
+
+- --------------------------------------------------------------------------------
+(1)  Member of the Executive Committee
+(2)  Member of the Audit Committee
+
+BIOGRAPHICAL INFORMATION ABOUT NOMINEES
+
+Set forth below is the principal occupation of the nominees, the business
+experience of each for at least the past five years and certain other
+information relating to the nominees.
+
+     LEONARD S. SCHWARTZ. Mr. Schwartz has served as Chairman and Chief
+Executive Officer of the Company since July 1, 1997 and President since July 1,
+1996. After joining the Company in 1969, Mr. Schwartz, a chemist by training,
+developed the Company's industrial chemicals business and had a key role in the
+management of the Company's subsidiaries.
+
+<PAGE>
+
+     SAMUEL I. HENDLER. Mr. Hendler has been engaged in the private practice of
+law in New York since 1949 and has been retained as counsel to the Company for
+more than 50 years. Mr. Hendler is a director of Pneumercator Company, Inc., a
+privately held company based in Farmingdale, New York. Mr. Hendler is a member
+of the Corporation Law Committee and the Securities and Banking Law Committee of
+the Nassau County Bar Association.
+
+     ROBERT A. WIESEN. Mr. Wiesen is an attorney and partner in the law firm of
+Clifton Budd & DeMaria. He joined this law firm in 1979 subsequent to his
+employment with the National Labor Relations Board. He has handled matters for
+the Company relating to labor and employment law for over ten years and he has
+written and lectured on labor law.
+
+     STANLEY H. FISCHER. Mr. Fischer is President of Fischer and Burstein P.C.,
+a law firm. Mr. Fischer received a J.D. degree from New York University School
+of Law. He has been a practicing attorney for more than 30 years and has advised
+and represented corporate entities in matters relative to internal matters,
+mergers, acquisitions, real estate and litigation. He is a member of the
+American Bar Association, the New York Bar Association, the Association of the
+Bar of the City of New York, the Association of Trial Lawyers of America, New
+York State Trial Lawyers and the Nassau County Bar. He is a member of various
+professional committees including the International Law Section of the New York
+State Bar.
+
+     ALBERT L. EILENDER. Mr. Eilender is the sole owner of Waterways Advisory
+Services, a firm specializing in advising companies on developing and evaluating
+options relative to mergers, acquisitions and strategic partnerships in the
+Chemical Industry. He has more than 30 years of diverse Senior Level experience
+in the Specialty Chemicals and Pharmaceutical industry and has had direct P&L
+responsibility for managing businesses up to $300 million, with significant
+experience in mergers, acquisitions and joint ventures, both domestically and
+internationally. He has also served on the boards of numerous industry trade
+associations during his career.
+
+     IRA S. KALLEM. Mr. Kallem has been a managing accountant, part-time, at
+Wiener, Frushtick & Straub, Certified Public Accountants, since September 2000.
+In June 1994, Mr. Kallem co-founded Mateo Express, Inc., an international money
+transfer company and served as Chief Financial Officer and Director until May
+2000. Previously, he was a Senior Partner at Shine & Company, Certified Public
+Accountants.
+
+     HANS C. NOETZLI. Mr. Noetzli is the Chairman of Schweizerhall, Inc., a
+wholly owned subsidiary of Schweizerhall Holding AG, Basel, Switzerland. Mr.
+Noetzli holds a degree in Business Administration. He has more than 30 years
+experience in the Fine Chemicals Industry. Prior to assuming his present
+position, he served in many executive functions of the Alusuisse-Lonza Group,
+among them as CEO of Lonza Inc. for 16 years and was a member of the Executive
+Committee of the worldwide Alusuisse-Lonza Group located in Zurich, Switzerland.
+He also served on the Board of Directors of the Chemical Manufacturing
+Association, the Swiss-American Chamber of Commerce, New York, as well as other
+industry associations. Currently, he is a member of the Board of Directors of
+IRIX Pharmaceuticals, Inc., a privately owned developer and manufacturer of
+active pharmaceutical ingredients.
+
+<PAGE>
+
+INFORMATION ABOUT THE BOARD OF DIRECTORS, COMMITTEES OF THE BOARD AND SENIOR
+EXECUTIVES.
+
+     During the Company's fiscal year ended June 30, 2003, the Board of
+Directors held four meetings. Each incumbent Director attended all Board
+meetings and meetings of the Board committees on which he served. The Company
+does not have a standing nominating committee, the functions of which are
+performed by the entire Board.
+
+     During the Company's fiscal year ended June 30, 2003, the Executive
+Compensation Committee of the Board met four times. The Executive Compensation
+Committee has the power to establish base salaries and annual incentives, and to
+recommend grants of stock options and other long-term incentives.
+
+     During the Company's fiscal year ended June 30, 2003, the Audit Committee
+of the Board met eight times. The Audit Committee has the responsibility of
+recommending the engagement of independent auditors and reviewing and
+considering actions of management in matters relating to audit functions. The
+Committee reviews, with the independent auditors, the scope and results of its
+audit engagement, the system of internal controls and procedures and reviews the
+effectiveness of procedures intended to prevent violations of laws. The Audit
+Committee has recommended the selection of KPMG LLP as independent auditors for
+the fiscal year ended June 30, 2004.
+
+     No director or senior executive of the Company is related to any other
+director or senior executive of the Company. None of the Company's officers or
+nominees for director hold any directorships in any other public company.
+
+CORPORATE GOVERNANCE
+
+The Company operates within a comprehensive plan of corporate governance for the
+purpose of defining responsibilities, setting high standards of professional and
+personal conduct and assuring compliance with such responsibilities and
+standards. In July 2002, Congress passed the Sarbanes-Oxley Act of 2002 which,
+among other things, establishes, or provides the basis for, a number of new
+corporate governance standards and disclosure requirements. In addition, the
+Nasdaq Stock Market, Inc. has recently made changes or proposed changes to its
+corporate governance and listing requirements. The Board of Directors has
+initiated numerous actions consistent with these new rules and will continue to
+regularly monitor developments in the area of corporate governance.
+
+INDEPENDENT DIRECTORS
+
+o    A majority of the members of the Company's Board of Directors are
+independent.
+
+AUDIT COMMITTEE
+
+o    All Audit Committee members are independent as defined by Rule 4200 (a)(14)
+of the NASDAQ Market Place Rules. Our Board of Directors has determined that Mr.
+Kallem qualifies as an "audit committee financial expert" as that term is used
+in Section 407 of the Sarbanes-Oxley Act of 2002.
+
+<PAGE>
+
+o    The Audit Committee operates under a formal charter that governs its duties
+and conduct. The charter is attached hereto as Appendix A.
+
+o    KPMG LLP, the Company's independent auditors, reports directly to the Audit
+Committee.
+
+o    The Audit Committee, consistent with the Sarbanes-Oxley Act of 2002 and the
+rules adopted thereunder, meets with management and the auditors prior to the
+filing of officers' certifications with the SEC to request information
+concerning, among other things, significant deficiencies in the design or
+operation of internal controls, if any.
+
+o    The Audit Committee has adopted a Non-Retaliation Policy and a Complaint
+Monitoring Procedure to enable confidential and anonymous reporting regarding
+financial irregularities, if any.
+
+EXECUTIVE COMPENSATION COMMITTEE
+
+o    The Executive Committee of the Board of Directors functions as the
+Executive Compensation Committee, and makes recommendations to the Board with
+respect to the remuneration of the Company's executive officers.
+
+CODE OF BUSINESS CONDUCT
+
+o    The Company has adopted a Code of Business Conduct that includes provisions
+ranging from restrictions on gifts to conflicts of interest. All employees are
+required to affirm in writing their acceptance of the code. The code is attached
+hereto as Appendix B.
+
+CODE OF ETHICS
+
+o    The Company has adopted a Code of Ethics for its principal executive
+officer and its senior financial officers, violations of which may be reported
+to the Audit Committee. The code is attached hereto as Appendix C.
+
+DISCLOSURE COMMITTEE
+
+o    The Company has formed a Disclosure Committee, comprised of senior
+management, including senior financial personnel, to formalize processes to
+ensure accurate and timely disclosure in Aceto's periodic reports filed with the
+United States Securities and Exchange Commission and to implement certain
+disclosure controls and procedures. The Disclosure Committee operates under a
+formal charter, which is attached hereto as Appendix D.
+
+PERSONAL LOANS TO EXECUTIVE OFFICERS AND DIRECTORS
+
+o    The Company's policy has always been to not extend personal loans or other
+terms of personal credit to its directors and officers, and it will comply with
+the recently enacted legislation prohibiting such personal loans and other forms
+of personal credit.
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+     Pursuant to Section 16 of the Exchange Act, the Company's Directors and executive officers and beneficial owners of more than
+10% of the Company's Common Stock are required to file certain reports, within specified time periods, indicating their holdings of
+and transactions in the Common Stock and derivative securities. Based solely on a review of such reports provided to the Company and
+written representations from such persons regarding the necessity to file such reports, the Company is not aware of any failures to
+file reports or report transactions in a timely manner during the Company's fiscal year ended June 30, 2003.
+
+EXECUTIVE COMPENSATION
+
+     The following table shows, for the last three fiscal years, compensation information for Leonard S. Schwartz, the Company's
+Chief Executive Officer, and the next four most highly compensated executives. Other tables that follow provide more detail about
+the specific type of compensation.
+
+
+                                                          SUMMARY COMPENSATION TABLE
+
+ANNUAL COMPENSATION                                                                 LONG TERM
+                                                                                   COMPENSATION
+
+NAME AND                            YEAR      SALARY      BONUS            RESTRICTED         OPTIONS/(1             ALL OTHER
+PRINCIPAL POSITION                                                           STOCK               SARS             COMPENSATION (2)
+                                                                            AWARDS
+<S>                                 <C>      <C>         <C>                <C>                 <C>                  <C>
+Leonard S. Schwartz                 2003     $368,505    $703,135           $12,765             54,000               $ 321,155
+  President, Chairman               2002      354,332     584,527            26,073             15,000                  90,267
+  And Chief Executive               2001      340,704     495,000            90,000                  -                  82,727
+            Officer
+
+Frank DeBenedittis                  2003     $213,844    $256,500           $13,500             18,000               $  49,128
+  Senior  Vice President            2002      203,625     196,622             8,378              6,000                  42,459
+                                    2001      186,520     160,613             9,387              3,750                  38,548
+
+Vincent Miata                       2003     $215,070    $200,000                 -             18,000               $  39,128
+  Senior  Vice President            2002      202,129     160,000                 -              6,000                  35,502
+                                    2001      172,908     170,000                 -              3,750                  35,725
+
+Axel Mueller (3)                    2003     $254,212    $160,000           $40,000             18,000               $  33,535
+  Vice President,                   2002      202,003     120,000            30,000              4,500                  27,030
+  International                     2001       50,001      30,000             7,500              3,750                   3,047
+
+Michael Feinman                     2003     $171,429     $96,625           $13,375             18,000               $  32,299
+  President, Aceto                  2002      164,836      78,006            16,994              6,000                  27,367
+  Agricultural Chemicals            2001      157,207      95,862             4,138              3,750                  27,488
+    Corp.
+
+(1)   All figures have been adjusted to reflect the 3-for-2 stock dividend on our common stock paid on January 2, 2003.
+(2)   Represents contributions to retirement plans and compensation recognized from the issuance of premium shares on restricted
+      stock.
+(3)   Axel Mueller's employment with the Company commenced March 26, 2001.
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                               STOCK OPTION GRANTS IN LAST FISCAL YEAR
+
+     The following table contains information regarding the grant of stock options in the fiscal year ended June 30, 2003 to the
+named executives. All figures have been adjusted to reflect the 3-for-2 stock dividend on our common stock paid on January 2, 2003.
+
+
+                                                                                                   POTENTIAL REALIZABLE VALUE AT
+                               NUMBER OF         % OF TOTAL                                        ASSUMED ANNUAL RATES OF STOCK
+                               SECURITIES          OPTIONS                                         PRICE APPRECIATION FOR OPTION
+                               UNDERLYING        GRANTED TO       EXERCISE OR                                 TERM (1)
+                            OPTIONS GRANTED       EMPLOYEES       BASE PRICE                      -------------------------------
+             NAME            (# OF SHARES)     IN FISCAL YEAR       ($/SH)       EXPIRATION DATE        5%            10%
+         -----------       -----------------   --------------   ---------------  ---------------      ------        -------
+<S>                             <C>                  <C>             <C>            <C>              <C>            <C>
+Leonard S. Schwartz             54,000 (2)           11%             $9.63          12/05/12         $326,925       $828,491
+Frank DeBenedittis              18,000 (2)           4%               9.63          12/05/12          108,975        276,164
+Vincent Miata                   18,000 (2)           4%               9.63          12/05/12          108,975        276,164
+Axel Mueller                    18,000 (2)           4%               9.63          12/05/12          108,975        276,164
+Michael Feinman                 18,000 (2)           4%               9.63          12/05/12          108,975        276,164
+- -------------------------------------------------------------------------------------------------------------
+
+     (1)  The dollar amounts illustrate value that might be realized upon exercise of the options immediately prior to the
+          expiration of their term, covering the specific compounded rates of appreciation set by the Securities and Exchange
+          Commission (5% and 10%) and are not, therefore, intended to be forecasts by Aceto of possible future appreciation of the
+          stock price of Aceto.
+     (2)  On December 5, 2002, the Company granted incentive stock options to Messrs. Schwartz, DeBenedittis, Miata, Mueller and
+          Feinman to purchase common stock of the Company under the Company's 2002 Stock Option Plan. All of these options vest at
+          the rate of 20% per year beginning one year from date of grant, subject to acceleration if the stock price exceeds
+          pre-determined levels for a period of time.
+
+
+                                           AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR
+                                                  AND FISCAL YEAR END OPTION VALUES
+
+     The following table contains information regarding the exercise of stock options by the named executives in the fiscal year
+ended June 30, 2003 and the value of unexercised options held by such persons on June 30, 2003.
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                                                                 NUMBER OF SECURITIES                  VALUE OF UNEXERCISED
+                                                                     UNDERLYING                            IN-THE-MONEY
+                                                                UNEXERCISED OPTIONS AT                      OPTIONS AT
+                                                                      FY-END (1)                            FY-END (2)
+                               SHARES                      ---------------------------------   -----------------------------------
+                             ACQUIRED ON        VALUE                EXERCISABLE/                          EXERCISABLE/
+           NAME             EXERCISE (1)       REALIZED              UNEXERCISABLE                         UNEXERCISABLE
+   -------------------      ------------   --------------- ---------------------------------   -----------------------------------
+<S>                            <C>            <C>                <C>           <C>                   <C>            <C>
+Leonard S. Schwartz            101,250        $1,282,913         206,250       189,000               $2,600,663     $2,195,010
+Frank DeBenedittis              31,500           324,945           9,750        18,000                  118,103        162,420
+Vincent Miata                   22,500           237,720          18,750        18,000                  210,953        162,420
+Michael Feinman                 23,875           289,649           8,000        18,000                   82,525        162,420
+Axel Mueller                     8,250           110,618               -        18,000                        -        162,420
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+(1)  All share amounts have been adjusted to reflect the 3-for-2 stock dividend paid on January 2, 2003, as appropriate.
+(2)  The dollar value of each exercisable and unexercisable option was calculated by multiplying the number of shares of common
+     stock underlying the option by the difference between the exercise price of the option and the closing price of the Company's
+     common stock on June 30, 2003 ($18.65).
+
+COMPENSATION OF DIRECTORS
+
+     Directors of the Company who are not also employees receive $20,000 per year for serving on the Board of Directors plus fees
+ranging from $500 to $2,000 for each committee meeting attended. Directors of the Company who are also employees are not compensated
+for their services as Directors.
+
+     On December 5, 2002, the Company granted each of Messrs. Eilender, Hendler, Wiesen, Fischer, Noetzli and Kallem 4,500
+non-qualified stock options, adjusted to reflect the effect of the 3-for-2 stock dividend paid January 2, 2003, pursuant to the 2002
+Stock Option Plan. Each option vests one year from the date of grant, is exercisable at $9.63 (adjusted) and expires 10 years from
+the date of grant.
+
+EMPLOYMENT AGREEMENTS
+
+     On March 26, 2001, in conjunction with Aceto's acquisition of Schweizerhall Pharma, a subsidiary of the Company entered into an
+employment contract with Dr. Axel Mueller. The contract has a term of three years, with an initial salary of $200,000 plus annual
+increases at a rate equal to that which other senior Aceto executives receive and a minimum annual bonus of $125,000 (including
+restricted stock awards). In addition, Dr. Mueller received an option for 3,750 shares (adjusted) of Aceto's common stock at 100% of
+the Fair Market value at that date. Dr. Mueller is also to be provided with an automobile for his use.
+
+     The Company has no other employment agreements with its senior executives.
+</TABLE>
+
+<PAGE>
+
+LIMITS ON LIABILITY AND INDEMNIFICATION
+
+     The Company's Articles of Incorporation eliminate the personal liability of
+its directors to the Company and its shareholders for monetary damages for
+breach of the directors' fiduciary duties in certain circumstances. The Articles
+of Incorporation further provide that the Company will indemnify its officers
+and directors to the fullest extent permitted by law. The Company believes that
+such indemnification covers at least negligence and gross negligence on the part
+of the indemnified parties. Insofar as indemnification for liabilities under the
+Securities Act may be permitted to directors, officers, and controlling persons
+of the Company pursuant to the foregoing provisions or otherwise, the Company
+has been advised that in the opinion of the Securities and Exchange Commission
+such indemnification is against public policy as expressed in the Securities Act
+and is, therefore, unenforceable.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION.
+
+     Members of the Executive Compensation Committee, with the exception of
+Leonard S. Schwartz, have never served as officers or employees of the Company
+or any of our subsidiaries. During the last fiscal year, none of our senior
+executives served on the Board of Directors or Compensation Committee of any
+other entity whose officers served either on our Board of Directors or
+Compensation Committee.
+
+                 REPORT OF THE EXECUTIVE COMPENSATION COMMITTEE
+
+     The Executive Committee of the Board of Directors, whose members are
+Leonard S. Schwartz (Chairman), Stanley H. Fischer, Samuel I. Hendler, Albert L.
+Eilender and Robert A. Wiesen, functions as the Executive Compensation
+Committee, and makes recommendations to the Board with respect to the
+remuneration of the Company's executive officers.
+
+     The Company's compensation policy has been designed to enable the Company
+to attract, retain and motivate executives whose enthusiasm and abilities will
+contribute to the growth of its business and result in maximum profitability to
+the Company and its stockholders, by providing salaries and benefits competitive
+with those offered by other companies in the chemical industry. The executive
+compensation program includes base salary, annual incentive compensation (cash
+bonuses), and long term incentive compensation (awards under the Company's Stock
+Option Plans).
+
+     Base salaries are set at levels competitive with the chemical industry.
+Because of the way the Company operates its business, the contributions of its
+executives significantly affect corporate profitability. Bonuses (which can
+exceed base salary) are paid to reflect the extent of such contributions. The
+Chief Executive Officer (CEO) also is the Chairman of the Board, President and
+Chief Operating Officer of the Company. The bonuses paid to the CEO and to the
+Secretary/Treasurer, who is the Chief Financial Officer (CFO), are intended to
+reflect the Company's overall performance (excluding extraordinary events).
+
+     The four highest paid executives, other than the CEO, are each responsible
+for the performance of one of the Company's principal profit centers. Internally
+generated performance records are kept on a monthly and yearly basis for these
+profit centers, and each center's profitability is compared in the current year
+to the previous year.
+
+<PAGE>
+
+Other factors considered in determining the bonuses of individual executives are
+the individual's own performance and the overall performance of the Company. The
+Executive Compensation Committee determines each bonus primarily based on this
+data, also taking into account the long term contributions of each individual.
+
+CHIEF EXECUTIVE OFFICER'S COMPENSATION
+
+The CEO's compensation was determined on the basis of the same factors utilized
+to compensate other executives, taking into consideration total compensation
+comparisons of top executives of corporations in the chemical industry.
+
+Submitted October 7, 2003 by members of the Executive Compensation Committee
+
+Leonard S. Schwartz, Chairman
+Albert L. Eilender
+Stanley H. Fischer
+Samuel I. Hendler
+Robert A. Wiesen
+
+REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF DIRECTORS
+
+The Audit Committee is comprised of three independent directors (each of whom
+meets the independence and expertise requirements of the National Association of
+Securities Dealers, Inc.) and operates under a written charter, a copy of which
+is attached hereto as Appendix A. The Audit Committee recommends the engagement
+of the Company's independent auditor and reviews and considers actions of
+management in matters relating to audit functions. The Audit Committee also
+reviews with the independent auditor the scope and results of its audit
+engagement, the Company's system of internal controls and procedures, and
+reviews the effectiveness of procedures intended to prevent violations of laws.
+In fulfilling its responsibilities, the Audit Committee has reviewed and
+discussed the audited consolidated financial statements for the Company for the
+fiscal year ended June 30, 2003 with the Company's management and KPMG LLP
+("KPMG"), the Company's independent auditors.
+
+Pursuant to the Sarbanes-Oxley Act of 2002, in September 2003 the Audit
+Committee established the Aceto Corporation Audit Committee Pre-Approval Policy
+whereby the Committee is required to pre-approve the audit fees, and the
+provision of certain tax and other non-audit related services by KPMG after KPMG
+provides a detailed description of the services to be performed and specific fee
+estimates for each such service. The Audit Committee limits the engagement by
+the Company of KPMG for non-audit services and tax services to those
+circumstances where the services are considered integral to the audit services
+that it provides, or in which there is another compelling rationale for using
+its services. The Audit Committee considered the provision by KPMG of the below
+mentioned tax services and other non-audit services and concluded that the
+provision of these services was compatible with maintaining the independence of
+KPMG.
+
+The Audit Committee has discussed with KPMG the matters required to be discussed
+by Statement on Auditing Standards No. 61, "Communication with Audit
+Committees." In addition, the Audit Committee has received the
+
+<PAGE>
+
+written disclosures and the letter from KPMG required by Independence Standards
+Board Standard No. 1, "Independence Discussions with Audit Committees" and has
+discussed with KPMG its independence from the Company and its management.
+
+Finally, in reliance on the reviews and discussions referred to above, the Audit
+Committee recommended to the Board of Directors that the audited consolidated
+financial statements for the Company for the fiscal year ended June 30, 2003 be
+included in our Annual Report on Form 10-K for the year ended June 30, 2003
+which has been filed with the United States Securities and Exchange Commission.
+
+AUDIT FEES AND ALL OTHER FEES
+
+AUDIT FEES
+
+Fees for audit services totaled approximately $317,000 in fiscal year 2003 and
+approximately $267,000 in fiscal year 2002, including fees associated with the
+annual audit and the reviews of the Company's quarterly reports on Form 10-Q.
+
+AUDIT RELATED FEES
+
+There were no fees for audit related services. Such services may include due
+diligence services and the audit of financial statements of certain employee
+benefit plans.
+
+TAX FEES
+
+Fees for tax services, including tax compliance, tax advice and tax planning,
+totaled approximately $183,000 in fiscal year 2003 and $343,000 in fiscal year
+2002.
+
+ALL OTHER FEES
+
+There were no other fees paid during either fiscal year 2003 or fiscal year
+2002.
+
+Respectfully submitted October 7, 2003 by the members of the Audit Committee.
+
+                Albert L. Eilender (Chairman)
+                Ira S. Kallem
+                Hans C. Noetzli
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The following table sets forth, as of October 6, 2003, the number and percentage of shares of outstanding Common
+Stock owned by each named senior executive, and director and each person that to the best of the Company's knowledge
+owns more than 5% of the Company's issued and outstanding Common Stock, and all named officers and directors as a
+group:
+
+                                   NUMBER OF
+                                     SHARES
+                                  BENEFICIALLY
+                                     OWNED
+     NAME AND ADDRESS OF        (EXCLUDING STOCK         EXERCISABLE STOCK        TOTAL BENEFICIAL         PERCENT (4)
+     BENEFICIAL OWNER (1)         OPTIONS) (2)              OPTIONS (3)               OWNERSHIP
+ ---------------------------   -------------------    -----------------------   --------------------    ----------------
+<S>                                 <C>                       <C>                     <C>                   <C>
+Leonard S. Schwartz                   69,181                    209,850                 279,031               2.6%
+
+Frank DeBenedittis                    12,811                     10,950                  23,761                 *
+
+Vincent Miata                         13,694                     19,950                  33,644                 *
+
+Michael Feinman                        7,971                      9,200                  17,171                 *
+
+Axel Mueller                           8,074                      1,200                   9,274                 *
+
+Samuel I. Hendler                      8,433                     13,500                  21,933                 *
+
+Robert A. Wiesen                         451                     13,500                  13,951                 *
+
+Stanley H. Fischer                        --                     10,500                  10,500                 *
+
+Albert L. Eilender                     5,500                      9,000                  14,500                 *
+
+Hans Noetzli                         900,000 (5)                  4,500                 904,500               8.7%
+
+Ira S. Kallem                             --                      4,500                   4,500                 *
+
+T. Rowe Price Associates, Inc.       673,500 (6)                                        673,500               6.5%
+100 East Pratt Street
+Baltimore, MD 21202
+
+Schweizerhall, Inc.                  900,000 (7)                                        900,000               8.7%
+c/o Nicholas L. Truglio, CPA
+Rosenberg, Rich, Baker,
+Berman & Co.
+380 Foothill Road
+Bridgewater, NJ 08807
+
+All named officers and             1,026,115                    306,650               1,332,765              12.5%
+directors as a group (11 persons)
+- ------------------------------------
+*    Less than 1%.
+(1)  Unless otherwise indicated, the business address of each person is in care of the Company, One Hollow Lane, Lake
+     Success, New York 11042.
+(2)  Unless otherwise indicated, each person has or shares with his spouse, sole voting and dispositive power, or
+     shares with his over the shares shown as owned by him.
+(3)  For purposes of the table, a person is deemed to have "beneficial ownership" of any shares which such person has
+     the right to acquire within 60 days after the record date. Any share which such person has the right to acquire
+     within 60 days after such date is deemed to be outstanding for the purpose of computing the percentage ownership
+     of such person, but it is not deemed to be outstanding for the purpose of computing the percentage ownership of
+     any other person.
+(4)  Based on 10,344,568 shares issued and outstanding as of the record date.
+(5)  These shares are registered in the name of Schweizerhall, Inc., of which Mr. Noetzli is Chairman. These are the
+     same shares listed as owned by Schweizerhall Inc. in the table above. See footnote 7. Mr. Noetzli disclaims
+     beneficial ownership of these shares in accordance with Rule 13d-4 of the Exchange Act Rules promulgated pursuant
+     to the Securities Exchange Act of 1934, as amended.
+(6)  Based on information provided by T. Rowe Price Associates, Inc., a registered investment adviser which furnishes
+     investment advice to investment companies and individual and institutional clients. T. Rowe Price Associates has
+     the dispositive and voting power for the entire holding of 673,500 shares. The total shares held of 673,500 shares
+     are owned by various individual and institutional investors, including the T. Rowe Price Small-Cap Value Fund,
+     Inc. (which owns 525,000 shares representing 5.1% of the Company's outstanding shares), which T. Rowe Price
+     Associates (Price Associates) serves as investment advisor with power to direct investments and/or power to vote
+     the securities. For purposes of the reporting requirements of the Securities Exchange Act of 1934, Price
+     Associates is deemed to be a beneficial owner of such securities; however Price Associates disclaims beneficial
+     ownership of these shares in accordance with Rule 13d-4 of the exchange Act of 1934, as amended.
+(7)  Represents shares (adjusted) issued in connection with the Company's March 26, 2001 acquisition of the
+     Schweizerhall Pharma distribution division of Schweizerhall Holding AG, and certain assets relating to the
+     pharmaceutical ingredients business of Schweizerhall, Inc., a wholly owned subsidiary of Schweizerhall Holding AG.
+</TABLE>
+
+<PAGE>
+
+                                PERFORMANCE GRAPH
+
+     The following graph compares on a cumulative basis the yearly percentage
+change, assuming dividend reinvestment, over the last five fiscal years in (a)
+the total shareholder return on our common stock with (b) the total return on
+the Standard & Poors 500 Index and (c) the total return on a published
+line-of-business index - the Dow Jones U.S. Chemicals Index (the "Peer Group").
+
+     The following graph assumes that $100 had been invested in each of the
+Company, the Standard & Poors 500 Index and the Peer Group on June 30, 1998.
+
+                   5-YEAR CUMULATIVE TOTAL RETURN COMPARISION
+                            AMONG ACETO CORPORATION,
+            THE S&P 500 INDEX AND THE DOW JONES U.S. CHEMICALS INDEX
+
+
+                           ACETO                             DOW JONES U.S.
+                           -----                             --------------
+                        CORPORATION         S&P INDEX          CHEMICALS
+                        -----------         ---------          ---------
+  June 30, 1998             100                100                100
+  June 30, 1999              72                123                103
+  June 30, 2000              71                132                 77
+  June 30, 2001              67                112                 87
+  June 30, 2002              74                 92                 93
+  June 30, 2003             195                 92                 85
+
+                     ASSUMES $100 INVESTED ON JUNE 30, 1998
+                          ASSUMES DIVIDEND REINVESTMENT
+                        FISCAL YEAR ENDING JUNE 30, 2003
+
+     The preceding sections entitled "Executive Compensation" and "Performance
+Graph" do not constitute soliciting material for purposes of SEC Rule 14a-9,
+will not be deemed to have been filed with the SEC for purposes of Section 18 of
+the Securities Exchange Act of 1934, and are not to be incorporated by reference
+into any other filing that we make with the SEC.
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     Stanley H. Fischer, a director of the Company, is President of Fischer and
+Burstein, P.C., a law firm which serves as counsel to the Company on various
+corporate matters. During fiscal 2003, the Company paid $173,710 to Fischer and
+Burstein, P.C. for legal services rendered to the Company.
+
+<PAGE>
+
+     Robert A. Wiesen, a director of the Company, is a partner in Clifton, Budd
+& DeMaria, a law firm which serves as labor and employment counsel to the
+Company. During fiscal 2003, the Company paid $107,553 to Clifton, Budd &
+DeMaria for legal services rendered to the Company.
+
+THE BOARD RECOMMENDS THAT YOU VOTE FOR THE ELECTION OF EACH OF THE SEVEN
+DIRECTORS.
+
+                                  PROPOSAL TWO
+
+                           AMENDMENT OF THE COMPANY'S
+                          CERTIFICATE OF INCORPORATION
+
+     We propose to amend the Company's Certificate of Incorporation to increase
+the number of authorized shares of the Company's Common Stock from 20,000,000 to
+40,000,000.
+
+     The Certificate of Incorporation of the Company currently authorizes
+20,000,000 shares of Common Stock. As of October 6, 2003, the Company had issued
+12,292,684 shares of common stock, with 10,344,568 shares outstanding, and
+1,948,116 shares held as treasury stock. In addition, as of that date, the
+Corporation has reserved up to 1,947,041 shares of its Common Stock for issuance
+upon the exercise of options and premium shares on restricted stock. After
+giving effect to both the common shares issued and the common shares reserved
+for issuance, there were 5,760,275 authorized but unissued shares available to
+the Company as of October 6, 2003.
+
+     On October 1, 2003, the Board of Directors approved and adopted resolutions
+to amend the Company's Certificate of Incorporation to increase the number of
+authorized shares of Common Stock to 40,000,000. The additional shares, if
+issued, would have the same rights as the shares of Common Stock now
+outstanding.
+
+     The Board of Directors believes that the proposed increase is in the best
+interests of the Company and its shareholders. The Board believes that the
+additional shares will be necessary for the Company's legitimate corporate
+purposes, including equity financings, the acquisition of other companies, the
+establishment of strategic relationships with corporate partners, the
+declaration of stock dividends, stock splits or other distributions, and other
+general corporate purposes.
+
+     You should be aware, however, that if the Company's shareholders approve
+the proposed amendment to the Certificate of Incorporation, the Board of
+Directors may authorize the issuance of additional shares of Common Stock
+without further approval of the Company's shareholders, except as may be
+required in certain cases by the Company's charter documents or applicable law
+or regulations. Under the Company's Certificate of Incorporation, the Company's
+shareholders do not have preemptive rights to subscribe to additional securities
+which may be issued by the Company, which means that current shareholders do not
+have a prior right to purchase any new issue of capital stock of the Company in
+order to maintain their proportionate ownership of the Common Stock.
+Furthermore, if the Board elects to issue additional shares of Common Stock or
+securities convertible into or exercisable for shares of Common Stock, such
+issuance could have a dilutive effect on the voting power and earnings per share
+of existing shareholders.
+
+<PAGE>
+
+     In addition, the increase in the number of authorized shares of Common
+Stock could have an anti-takeover effect. For example, if the Board issues
+additional shares in the future, such issuance could dilute the voting power of
+a person seeking control of the Company, thereby rendering more difficult a
+merger, tender offer, proxy contest or an extraordinary transaction opposed by
+the Board of Directors. As of the date of this proxy statement, the Board is not
+aware of any attempt or plan to obtain control of the Company.
+
+     If approved, the amendment to the Company's Certificate of Incorporation
+would provide substantially as is set forth in Appendix E hereto.
+
+THE BOARD RECOMMENDS THAT YOU VOTE FOR THE AMENDMENT TO THE COMPANY'S
+CERTIFICATE OF INCORPORATION TO INCREASE THE COMPANY'S AUTHORIZED SHARES OF
+COMMON STOCK.
+                                 PROPOSAL THREE
+
+               RATIFICATION OF APPOINTMENT OF INDEPENDENT AUDITORS
+
+     The Company has engaged KPMG LLP as its principal independent public
+accountants to perform the audit of the Company's financial statements for the
+fiscal year ending June 30, 2004. KPMG LLP has audited the Company's financial
+statements since 1971. The Audit Committee recommends that KPMG LLP be ratified
+as the principal accounting firm to be utilized by the Company throughout the
+year ending June 30, 2004.
+
+     The Company anticipates that representatives of KPMG LLP will attend the
+Annual Meeting for the purpose of responding to appropriate questions. At the
+Annual Meeting, the representatives of KPMG LLP will be afforded an opportunity
+to make a statement if they so desire.
+
+THE BOARD RECOMMENDS THAT YOU VOTE FOR THE RATIFICATION OF THE SELECTION OF KPMG
+LLP AS THE COMPANY'S AUDITORS FOR THE 2004 FISCAL YEAR.
+
+SHAREHOLDER PROPOSALS
+
+     All shareholder proposals which are intended to be presented at the 2004
+Annual Meeting of Shareholders of the Company must be received by the Company no
+later than June 18, 2004, for inclusion in the Board of Directors' proxy
+statement and form of proxy relating to the meeting.
+
+OTHER BUSINESS
+
+     The Board of Directors knows of no other business to be acted upon at the
+meeting. However, if any other business properly comes before the meeting, it is
+the intention of the persons named in the enclosed proxy to vote on such matters
+in accordance with their best judgment.
+
+<PAGE>
+
+     The prompt return of the proxy will be appreciated and helpful in obtaining
+the necessary vote. Therefore, whether or not you expect to attend the meeting,
+please sign the proxy and return it in the enclosed envelope.
+
+
+                                        BY ORDER OF THE BOARD OF DIRECTORS
+
+                                        /s/ Douglas Roth
+                                        ----------------
+                                        Douglas Roth
+                                        Chief Financial Officer and Secretary
+
+Dated: October 24, 2003
+
+<PAGE>
+
+                                                                      APPENDIX A
+
+                                ACETO CORPORATION
+                             AUDIT COMMITTEE CHARTER
+
+PURPOSE OF THE COMMITTEE
+
+     The primary purpose of the Audit Committee (the "Committee") is to assist
+the Board of Directors of Aceto Corporation (the "Company") in fulfilling its
+oversight responsibilities by reviewing the financial information which will be
+provided to the Company's shareholders and others, the quality of the Company's
+accounting policies and reporting practices, the systems of internal disclosure
+controls which management and the Board of Directors have established,
+compliance with the Company's Code of Ethics, and the internal and external
+audit processes. The Committee is to assist the Board in maintaining compliance
+by the Company with legal and regulatory requirements.
+
+     In fulfilling its purpose, it is the responsibility of the Committee to
+provide an open avenue of communication between the Board of Directors,
+management and the independent auditors. The Committee is to be the Board's
+principal agent in ensuring the independence and objectivity of the independent
+auditors, the integrity of management, and the adequacy of disclosure to
+shareholders. The independent auditors are ultimately accountable to the Board
+of Directors and the Committee, as representative of the Company's shareholders;
+however, the Committee has the sole authority to select, evaluate, and, where
+appropriate, replace the independent auditors.
+
+     The Committee members are not acting as professional accountants or
+auditors, and their functions are not intended to duplicate or substitute for
+the activities of management and the independent auditors. The Committee serves
+a Board-level oversight role in which it provides advice, counsel and direction
+to management and the independent auditors on the basis of information it
+receives, discussion with the accountants and the experience of the Committee's
+members in business, financial and accounting matters.
+
+AUTHORITY OF THE COMMITTEE
+
+     The Committee has the authority to investigate any activity of the Company
+within its scope of responsibilities, and shall have unrestricted access to
+members of management and all information relevant to its responsibilities. All
+employees are directed to cooperate as requested by members of the Committee.
+The Committee is empowered to retain persons having special competence as
+necessary to assist the Committee in fulfilling its responsibility.
+
+COMPOSITION OF THE COMMITTEE
+
+     The Committee shall be comprised of at least three members, all of whom
+shall meet the independence requirements and experience qualifications of the
+United States Securities and Exchange Commission (the "SEC") and The Nasdaq
+Stock Market, Inc ("Nasdaq"). At
+
+<PAGE>
+
+least one member of the Audit Committee shall be an "audit committee financial
+expert" as defined by the SEC. The Audit Committee members shall be appointed by
+the Company's Board of Directors. Audit Committee members may be replaced by the
+Board.
+
+MEETINGS OF THE COMMITTEE
+
+     The Audit Committee shall meet, either in person or telephonically, at
+least quarterly. Prior to each meeting, the Chairman of the Committee may
+communicate with the independent auditors to review the agenda and solicit input
+on any additional topics that should be covered. The Audit Committee shall also
+meet periodically, in the discretion of the Chairman of the Committee, with
+Company's management, and the independent auditor in separate executive
+sessions.
+
+ATTENDANCE AT MEETINGS OF THE COMMITTEE
+
+     Members of the Committee are expected to use all reasonable efforts to
+attend each meeting. The Chairman may also request that members of management,
+the Company's outside counsel or the independent auditor attend a meeting of the
+Committee or meet with any members of, or consultants to, the Committee.
+
+MINUTES OF MEETINGS OF THE COMMITTEE
+
+     Minutes of each meeting shall be prepared under the direction of the
+Chairman of the Committee and circulated to Committee members for review and
+approval. Copies are then to be made available to the Company directors who are
+not members of the Committee, the independent auditors and the Company's Chief
+Financial Officer.
+
+SPECIFIC RESPONSIBILITIES OF THE COMMITTEE
+
+General Matters
+
+     The Committee shall:
+
+     1.   Oversee the work and compensation of the independent auditor in
+          connection with the preparation by the independent auditor of its
+          audit report.
+
+     2.   Review the scope of the independent auditor's audit examination,
+          including their engagement letter, prior to the annual audit. Review
+          and approve the audit fees agreed upon by management. Approve any
+          permitted non-audit services to be provided by the independent
+          auditors. The Chairman has the authority to approve any additional
+          audit or permitted non-audit services provided to the Company,
+          provided that the approval of such services is ratified by the entire
+          Committee as soon as reasonably practicable by either an electronic
+          communication with all the committee members, a telephonic meeting
+          with all the committee members, or another prompt method, but in all
+          instances, such ratification shall be considered and passed upon by
+          the Committee at its next regularly scheduled meeting.
+
+<PAGE>
+
+     3.   Have the authority to recommend to the Board the retention or
+          replacement of the independent auditors, and provide a written summary
+          of the basis for any recommended change (subject, if applicable, to
+          shareholder ratification). The independent auditor shall report
+          directly to the Audit Committee.
+
+     4.   Have the authority, to the extent it deems necessary or appropriate,
+          to retain independent legal, accounting or other advisors. The Company
+          shall provide for appropriate funding, as determined by the Audit
+          Committee, for payment of compensation to the independent auditor for
+          the purpose of rendering or issuing an audit report and to any
+          advisors employed by the Audit Committee.
+
+Financial Statement and Disclosure Matters
+
+     The Committee shall:
+
+     1.   Review and discuss with management and the independent auditor the
+          annual audited financial statements, including disclosures made in
+          management's discussion and analysis, and recommend to the Board
+          whether the audited financial statements should be included in the
+          Company's Form 10-K.
+
+     2.   Review and discuss with management and the independent auditor the
+          Company's quarterly financial statements prior to the filing of its
+          Form 10-Q, including the results of the independent auditor's review
+          of the quarterly financial statements.
+
+     3.   Discuss with the independent auditor the matters required to be
+          discussed by Statement on Auditing Standards No. 61 relating to the
+          conduct of the audit, including any difficulties encountered in the
+          course of the audit work, any restrictions on the scope of activities
+          or access to requested information, and any significant disagreements
+          with management.
+
+     4.   Discuss with management and the independent auditor significant
+          financial reporting issues and judgments made in connection with the
+          preparation of the Company's financial statements, including any
+          significant changes in the Company's selection or application of
+          accounting principles, any major issues as to the adequacy of the
+          Company's internal controls and any special steps adopted in light of
+          material control deficiencies, if any.
+
+     5.   Review and discuss quarterly reports from the independent auditors on:
+          (a) all critical accounting policies and practices to be used; (b) all
+          alternative treatments of financial information within generally
+          accepted accounting principles that have been discussed with
+          management, ramifications of the use of such alternative disclosures
+          and treatments, and the treatment preferred by the independent
+          auditor; and (c) other material written communications between the
+          independent auditor and management, such as any management letter or
+          schedule of unadjusted differences.
+
+<PAGE>
+
+     6.   Discuss with management the Company's earnings press releases,
+          including the use of "pro forma" or adjusted" non-GAAP information, as
+          well as financial information and earnings guidance provided to
+          analysts and rating agencies.
+
+     7.   Discuss with management and the independent auditor the effect of
+          regulatory and accounting initiatives as well as off-balance sheet
+          structures on the Company's financial statements, if any.
+
+     8.   Discuss with management the Company's major risk exposures and the
+          steps management has taken to monitor and control such exposures,
+          including the Company's risk assessment and risk management policies.
+
+     9.   Review disclosures made to the Audit Committee by the Company's CEO
+          and CFO during their certification process for the Form 10-K and Form
+          10-Q about any significant deficiencies in the design or operation of
+          internal controls or material weaknesses therein and any fraud
+          involving management or other employees who have a significant role in
+          the Company's internal controls.
+
+Oversight of the Company's Relationship with the Independent Auditor
+
+     The Committee shall:
+
+     1.   Review and evaluate the lead partner of the independent auditor team.
+
+     2.   Obtain and review a report from the independent auditor at least
+          annually regarding (a) the independent auditor's internal
+          quality-control procedures, (b) any material issues raised by the most
+          recent internal quality-control review, or peer review, of the firm,
+          or by any inquiry or investigation by governmental or professional
+          authorities within the preceding five years respecting one or more
+          independent audits carried out by the firm, (c) any steps taken to
+          deal with any such issues, and (d) all relationships between the
+          independent auditor and the Company. Evaluate the qualifications,
+          performance and independence of the independent auditor, including
+          considering whether the auditor's quality controls are adequate and
+          the provisions of the permitted non-audit services is compatible with
+          maintaining the auditor's independence, taking into account the
+          opinions of management and internal auditors. The Audit Committee
+          shall present its conclusions with respect to the independent auditor
+          to the Board.
+
+     3.   Oversee the rotation of the audit partners as required by law.
+
+     4.   Meet with the independent auditor to discuss the planning and staffing
+          of the audit.
+
+<PAGE>
+
+Compliance Oversight Responsibilities
+
+     The Committee shall:
+
+     1.   Obtain from the independent auditor assurance that to its knowledge
+          Section 10A(b) of the Exchange Act has not been implicated.
+
+     2.   Review management's monitoring of the Company's compliance with its
+          Code of Ethics. Review reports and disclosures of insider and
+          affiliate party transactions.
+
+     3.   Establish procedures for the receipt, retention and treatment of
+          complaints received by the Company regarding accounting, internal
+          accounting controls or auditing matters, and the confidential,
+          anonymous submission by the employees of concerns regarding the
+          questionable accounting or auditing matters.
+
+     4.   Discuss with management and the independent auditor any correspondence
+          with regulators or governmental agencies and any published reports
+          which raise material issues regarding the Company's financial
+          statements or accounting policies.
+
+     5.   Discuss with the Company's outside counsel legal matters that may have
+          a material impact on the financial statements or the Company's
+          compliance policies.
+
+Limitation of Audit Committee's Role
+
+     While the Audit Committee has the responsibilities and powers set forth in
+this Charter, it is not the duty of the Audit Committee to plan or conduct
+audits or to determine that the Company's financial statements and disclosures
+are complete and accurate and are in accordance with the generally accepted
+accounting principles and applicable rules and regulations. These are either the
+responsibilities of management or the independent auditor, as applicable.
+
+<PAGE>
+
+                                                                      APPENDIX B
+
+                            CODE OF BUSINESS CONDUCT
+
+     Aceto expects all representatives of the company and its subsidiaries to
+act in accordance with the highest standards of personal and professional
+integrity in all aspects of their activities and to comply with all applicable
+laws, regulations and company policies. We must never compromise that integrity,
+either for personal benefit or for Aceto's purported benefit. In accepting a
+position, or continuing in a position, with Aceto or any of its subsidiaries,
+each of us becomes accountable for compliance with the law and with this Code of
+Business Conduct.
+
+     This Code of Business Conduct applies to all representatives of Aceto and
+its subsidiaries, including directors, employees, temporary workers and other
+independent contractors and consultants. It is your responsibility to become
+familiar with the policies set forth herein.
+
+     If you have any questions about these policies, you should discuss them
+with Aceto's Corporate Secretary or Human Resources Manager. As a general
+matter, when there is a conflict between internal policies that apply to you or
+between jurisdictions in which you conduct business, the more restrictive policy
+will prevail. Waivers of this Code of Business Conduct, if any, may only be
+granted by Aceto's Board of Directors and must be publicly disclosed promptly.
+
+     Aceto expects you to act in full compliance with the policies set forth in
+this Code of Business Conduct and in a manner consistent with the highest
+ethical standards. Failure to observe these policies may result in disciplinary
+action, up to and including termination of employment. Furthermore, violations
+of this Code of Business Conduct may also be violations of the law and may
+result in civil or criminal penalties for you and/or Aceto.
+
+     This Code of Business Conduct sets forth guidelines only and does not
+constitute or imply an employment contract, nor is it intended to make a
+commitment to any employee concerning how individual employment action can,
+should, or will be handled.
+
+Responsibilities to Aceto
+
+RAISING ETHICAL ISSUES
+
+     Maintaining ethical standards, including appropriate disclosure and
+internal accounting controls, is the responsibility of every member of the Aceto
+family. Early identification and resolution of the ethical issues that may arise
+are critical to maintaining our commitment to world-class business practices.
+
+     Aceto personnel are expected to treat compliance with ethical standards as
+a critical element of their responsibilities. Although this Code of Business
+Conduct addresses a wide
+
+<PAGE>
+
+range of business practices and procedures, it cannot anticipate every issue
+that may arise. If you are unsure of what to do in any situation, you should
+seek additional guidance and information before you act. You should use your
+judgment and common sense; if something seems unethical or improper it probably
+is. If you have any questions regarding the best course of action in a
+particular situation, or if you suspect a possible violation of a law,
+regulation or Aceto ethical standard, you should promptly contact any of the
+following:
+
+Your supervisor
+Your Human Resources representative
+Aceto's Compliance Officer and independent board member Robert A. Wiesen, Esq.
+at (212) 687-7410, or at rawiesen@cbdm.com
+
+     You should feel free to contact either someone in your business unit or
+someone at the corporate level, whichever you believe is more appropriate.
+Alternatively, you may choose to remain anonymous by sending an anonymous e-mail
+to the secure location on Aceto's corporate web site. If you raise an ethical
+issue and you believe the issue has not been properly addressed, you should
+raise it with another of the contacts listed above.
+
+     In addition, you are required to report suspected insider trading, fraud or
+attempted fraud, and any mysterious disappearance of funds immediately. You may
+do so by contacting any of the persons listed above or sending an anonymous
+e-mail to the secure location on Aceto's corporate web site.
+
+     Aceto strongly encourages personnel to raise possible ethical issues. Aceto
+has adopted a Non-Retaliation Policy which specifically prohibits any
+retaliatory action against any individual for raising legitimate concerns or
+questions regarding ethics matters or for reporting suspected violations.
+
+PROTECTING ACETO'S CORPORATE ASSETS
+
+     You are responsible for safeguarding the tangible and intangible assets of
+Aceto and its customers, suppliers and distributors that are under your control.
+Aceto assets must not be used for personal benefit except where permitted by
+Aceto in line with local practices and laws. Assets include cash, business
+plans, customer information, supplier information, distributor information,
+intellectual property (computer programs, models and other items), physical
+property and services.
+
+     Misappropriation of corporate assets is a breach of your duty to Aceto and
+may constitute an act of fraud against Aceto. Similarly, carelessness or waste
+in regard to corporate assets is also a breach of your duty to Aceto.
+
+     Aceto has strict policies regarding the use of its telephone, e-mail and
+voice-mail systems. Each is a business communication tool and users are
+obligated to use these tools in a responsible, effective and lawful manner.
+Violations of Aceto's policies regarding these tools can result in corrective
+action up to and including discharge.
+
+<PAGE>
+
+ACCURACY OF ACETO'S RECORDS AND REPORTING
+
+     The records, data and information owned, used and managed by Aceto must be
+accurate and complete. You are personally responsible for the integrity of the
+information, reports and records under your control. Records must be maintained
+in sufficient detail as to reflect accurately the company's transactions.
+Financial statements must always be prepared in accordance with generally
+accepted accounting principles and fairly present, in all material respects, the
+financial condition and results of the company.
+
+     You must use common sense and observe standards of good taste regarding
+content and language when creating business records and other documents (such as
+e-mail) that may be retained by Aceto or a third party. You should keep in mind
+that at a future date, Aceto or a third party may be in a position to rely on or
+interpret the document with the benefit of hindsight and/or the disadvantage of
+imperfect recollections.
+
+     You are required to cooperate fully with appropriately authorized internal
+and external investigations. Making false statements to or otherwise misleading
+internal or external auditors, Aceto counsel, Aceto representatives or
+regulators can be a criminal act that can result in severe penalties. You must
+never withhold or fail to communicate information that raises ethical questions
+and thus should be brought to the attention of higher levels of management.
+
+     You are prohibited from destroying any records that are potentially
+relevant to a violation of law or any litigation or any pending, threatened or
+foreseeable government investigation or proceeding.
+
+     Aceto is also committed to accuracy in tax-related records, and to tax
+reporting in compliance with the overall intent and letter of applicable laws.
+Tax returns must be filed on a timely basis and taxes due paid on time.
+
+Representing Aceto to Customers and Others
+
+FAIR TREATMENT
+
+     Aceto is committed to dealing fairly with its customers, suppliers,
+competitors and employees. No person may take unfair advantage of any such
+persons through manipulation, concealment, abuse of confidential information,
+misrepresentation of material facts or other unfair dealing practice.
+
+MEDIA, PUBLISHING AND PUBLIC APPEARANCES
+
+     Aceto employees may be approached for interviews or comments by the news
+media from time to time and in such instances should immediately contact Aceto's
+Chief Executive Officer. Only contact people designated by the Chief Executive
+Officer may comment to news reporters on Aceto policy or events relevant to
+Aceto.
+
+<PAGE>
+
+     All inquiries from the media relating to Aceto should be referred to
+Aceto's Chief Executive Officer. Only officially designated spokespersons may
+provide comments for the media.
+
+Gifts and Entertainment
+
+ACCEPTING GIFTS AND ENTERTAINMENT
+
+     In general, you should not accept gifts or the conveyance of anything of
+value (including entertainment) from current or prospective Aceto customers or
+suppliers. Moreover, you should never accept a gift in circumstances in which it
+could even appear to others that your business judgment has been compromised.
+
+     Gifts may only be accepted from current or prospective Aceto customers or
+suppliers when permitted under applicable law if they are: (1) noncash gifts of
+nominal value; or (2) customary and reasonable meals and entertainment at which
+the giver is present, such as the occasional business meal or sporting event.
+Any gift which appears to be of more than a nominal value must be reported to
+the Human Resources Manager of Aceto, and may be returned to the source.
+
+GIVING GIFTS AND PROVIDING ENTERTAINMENT
+
+     If a gift could be seen by others as a consideration for an official or
+business favor, you must not give the gift. Appropriate entertainment may be
+offered to customers by persons authorized to do so, subject to the applicable
+business expense reimbursement requirements.
+
+     The United States and other countries, states and many local jurisdictions
+have laws restricting gifts (e.g., meals, entertainment, transportation, lodging
+or other things of value) that may be provided to government officials. In
+addition, the U.S. Foreign Corrupt Practices Act of 1977 ("FCPA") outlines very
+serious provisions against bribery, including the payment, or promise of
+payment, of anything of value to foreign officials (including any person
+employed by or representing a foreign government, officials of a foreign
+political party, officials of public international organizations and candidates
+for foreign office). Payment made indirectly through a consultant, contractor or
+other intermediary is also prohibited.
+
+POLITICAL ACTIVITIES AND CONTRIBUTIONS
+
+     You have the right voluntarily to participate in the political process. No
+one at Aceto may require you to contribute to, support or oppose any political
+group or candidate. If you choose to participate in the political process, you
+must do so as an individual, not as a representative of Aceto. You may not work
+on a political fundraiser or other campaign activity while at work or use
+company property for these activities. Any overt, visible and partisan political
+activity that could cause someone to believe that your actions reflect the views
+or position of Aceto requires the prior approval of Aceto's Chief Executive
+Officer.
+
+<PAGE>
+
+LOBBYING
+
+     Aceto encourages every employee to take an active interest in government
+processes. Any participation in a political process, however, is to be
+undertaken as an individual - not as a representative of Aceto. You must not
+engage in lobbying activities on behalf of Aceto.
+
+Investments and Activities Outside of Aceto
+
+INSIDER TRADING
+
+     Aceto has adopted a Corporate Trading Policy. This policy and the laws of
+the United States and many other countries prohibit trading in the securities
+(including equity securities, convertible securities, options, bonds and any
+stock index containing the security) of any company while in possession of
+material, nonpublic information (also know as "inside information") regarding
+the company. This prohibition applies to transactions for your personal account.
+A personal account is any account in which you have a financial or beneficial
+interest, or the power to affect or the ability to influence trading or
+investment decisions, either directly or indirectly. Personal accounts typically
+include accounts of spouses, domestic partners, children and other members of
+your household, and accounts over which you have investment discretion.
+
+     If you believe you have come into possession of inside information, you may
+not execute any trade in the securities of the subject company without first
+consulting with Aceto's Corporate Secretary, who will then determine whether
+such trade would violate Aceto's Corporate Trading Policy or applicable laws.
+The definition of "material, nonpublic information" is broad. Information is
+"material" (and hence, potentially subject to the prohibition on insider
+trading) if there is a substantial likelihood that a reasonable investor would
+consider the information important in determining whether to trade in a
+security, or if the information, if made public, likely would affect the market
+price of a company's securities. Information may be material even if it relates
+to future, speculative or contingent events, and even if it is significant only
+when considered in combination with publicly available information. Information
+is considered to be "nonpublic" unless it has been publicly disclosed, and
+adequate time has passed for the securities markets to digest the information.
+Examples of adequate disclosure include public filings with securities
+regulatory authorities and the issuance of press releases.
+
+     It is also illegal in the United States and many other countries to "tip"
+or pass on inside information to any other person if you know or reasonably
+suspect that the person receiving such information from you will misuse
+information by trading in securities or passing such information on further,
+even if you do not receive any monetary benefit from the tippee.
+
+PERSONAL INVESTMENTS IN ACETO SECURITIES
+
+     Aceto supports employee stock ownership. Investments in Aceto securities
+for personal accounts should be made with a long-term orientation and as part of
+a broader
+
+<PAGE>
+
+investment strategy. In order to comply with applicable law and avoid the
+appearance of impropriety, certain general restrictions apply to all
+transactions in Aceto securities.
+
+     You are prohibited from trading in Aceto securities for your personal
+accounts if you possess material nonpublic information about Aceto.
+
+     Additionally, directors and officers are subject to reporting and other
+legal restrictions regarding their personal trading of Aceto securities. You are
+responsible for knowing and abiding by any Aceto policies regarding Aceto
+securities that may be applicable to you.
+
+CONFLICTS OF INTEREST
+
+     You must be sensitive to any activities, interests or relationships that
+might interfere with, or even appear to interfere with, your ability to act in
+the best interests of Aceto and its customers. The following are only some of
+the areas in which real or perceived conflicts of interest may arise. Because it
+is impossible to describe every potential conflict, Aceto necessarily relies on
+your commitment to exercise sound judgment, to seek advice when appropriate and
+to adhere to the highest and ethical standards in the conduct of your
+professional and personal affairs.
+
+INVESTMENTS
+
+     You must not make any personal investment in an enterprise if your position
+at Aceto creates a conflict of interest or the appearance of such a conflict.
+Investments subject to this provision include investments in a public or private
+company that is a vendor to or competitor of Aceto, or otherwise does business
+with or is doing a transaction with Aceto. This provision will not apply to
+personal investments in enterprises having a business relationship with Aceto
+that is solely that of a customer of Aceto products available to similarly
+situated customers on substantially the same basis, or to investments of under
+1% of the outstanding equity securities of a public company.
+
+OUTSIDE BUSINESS ACTIVITIES
+
+         Because of potential conflicts with Aceto or even the potential
+perception of a conflict of interest, Aceto requires that employees obtain
+approval before they accept a position as a director of an unaffiliated
+for-profit company or organization. Any employee accepting an appointment as
+director of an unaffiliated for-profit company or organization must ensure the
+proper treatment of confidential information received from such entity in
+connection with being a director. Before accepting such an appointment,
+employees are required to obtain the written approval of Aceto's Corporate
+Secretary. In addition, employees should not accept or hold a position as a
+director, officer, employee or agent of, or consultant or advisor to, any
+competitor of, or vendor to, Aceto or any of its affiliates unless they obtain
+the written approval of the Corporate Secretary.
+
+<PAGE>
+
+USE OF ACETO NAME, FACILITIES OR RELATIONSHIPS
+
+     You should not use Aceto's name, facilities, or relationships for personal
+benefit or for outside work. Use of Aceto's name, facilities or relationships
+for charitable or pro bono purposes can be made only with prior approval from
+the Corporate Secretary.
+
+CORPORATE OPPORTUNITIES
+
+     You owe a duty to Aceto to advance its legitimate interests when the
+opportunity to do so arises. You may not take for yourself a corporate
+opportunity that is discovered in the course of your employment or through the
+use of corporate property, information or your position, nor may you compete
+against the company.
+
+RELATED PARTY BUSINESS DEALINGS
+
+     You must notify your supervisor of any business relationship or proposed
+business relationship or proposed business transaction Aceto may have with any
+company in which you or a related party has a direct or indirect interest or
+from which you or a related party may derive a benefit, or where a related party
+member is employed, if such a relationship or transaction might give rise to the
+appearance of a conflict of interest (for example, if you or a family member own
+or control property of significant value that Aceto is either purchasing or
+leasing).
+
+     This requirement generally excludes any interest that exists solely as a
+result of your ownership of less than 1% of the outstanding publicly traded
+equity securities of such company.
+
+COMMITMENT TO THE ENVIRONMENT
+
+     Aceto is committed to conducting business in an environmentally responsible
+manner that protects human health, natural resources and the global environment.
+The U.S. and many other countries have laws and regulations relating to
+environmental protections. Environmental risks or opportunities that may arise
+out of our operations should be identified and managed in accordance with these
+laws and regulations. Questions regarding environmental concerns should be
+directed to Aceto's environmental affairs department or to the Corporate
+Secretary.
+
+Conclusion
+
+     We at Aceto aspire to the highest standards of moral and ethical conduct -
+- - working to earn the trust of our customers, day in and day out. In the
+thousands of decisions we make and actions we take every day, we affirm our
+commitment to this Code of Business Conduct and to deliver value to our
+customers, our people, our shareholders and our communities.
+
+<PAGE>
+
+                                                                      APPENDIX C
+
+                     CODE OF ETHICS FOR ACETO CORPORATION'S
+                         WORLDWIDE FINANCIAL MANAGEMENT
+
+     Aceto Corporation's mission includes the promotion of professional conduct
+in the practice of its financial management worldwide. Those persons responsible
+for financial management worldwide at Aceto Corporation hold an important and
+elevated role in corporate governance in that they are uniquely capable and
+empowered to ensure that the interests of all those involved with Aceto
+Corporation - including shareholders, employees, customers, and the public - are
+appropriately balanced, protected and preserved.
+
+     This Code of Ethics provides principles for those persons responsible for
+Aceto Corporation's financial management worldwide. These persons are expected
+to adhere to these principles and advocate them. These principles embody rules
+regarding individual and peer responsibilities, as well as responsibilities to
+other employees, the public and shareholders. Any violations of this Code of
+Ethics may result in disciplinary action.
+
+All those persons responsible for financial management worldwide at Aceto
+Corporation will:
+
+          o    Act with honesty and integrity, avoiding actual or apparent
+               conflicts of interest in personal and professional relationships.
+
+          o    Provide public disclosure of information that is accurate,
+               complete, objective, relevant, timely and understandable.
+
+          o    Comply with rules and regulations of federal, state and local
+               governments, and other appropriate private and public regulatory
+               agencies.
+
+          o    Act in good faith, responsibly, with due care, competence and
+               diligence, without misrepresenting material facts or allowing
+               one's independent judgment to be subordinated.
+
+          o    Respect the confidentiality of information acquired in the course
+               of one's work except when authorized or otherwise legally
+               obligated to disclose.
+
+          o    Confidential information acquired in the course of one's work
+               will not be used for personal advantage.
+
+          o    Share knowledge and maintain skills important and relevant to
+               Aceto Corporation.
+
+          o    Proactively promote and be an example of ethical behavior as a
+               responsible partner among peers, in the work environment and the
+               community.
+
+          o    Achieve responsible use of and control over all assets and
+               resources employed or entrusted.
+
+<PAGE>
+
+                                                                      APPENDIX D
+
+                          DISCLOSURE COMMITTEE CHARTER
+
+     This disclosure committee (the "Committee") charter (the "Charter") has
+been established by Aceto Corporation (the "Company") and ratified by the
+Company's board of directors to assist the Company's chief executive officer and
+chief financial officer (the "Certifying Officers").
+
+     I.   OBJECTIVE
+
+     The Committee has been formed to help ensure that disclosures made by the
+Company in its United States Securities and Exchange Commission (the "SEC")
+filings and to the investment community comply with applicable laws and stock
+exchange rules.
+
+     The Committee shall have full access to the Company's books, records and
+facilities, and the Company's officers and employees, regarding any matter
+within the scope of the Committee's responsibilities. The Committee shall confer
+with the Company's independent auditors and outside legal counsel in order to
+verify the accuracy and completeness of the Company's disclosures.
+
+     The Committee will, under the supervision and oversight of the Certifying
+Officers, facilitate these objectives by:
+
+     A.   Creating a process (this process shall be referred to as the Company's
+          "Disclosure Controls and Procedures") designed to ensure that
+          information required by the Company to be disclosed in filings with
+          the SEC and other information that the Company discloses to the
+          investment community is recorded, processed, summarized and reported
+          accurately and timely.
+
+     B.   Supervising the preparation of the Company's: (i) annual report on
+          Form 10-K and each quarterly report on Form 10-Q (collectively, the
+          "periodic reports"), and current reports, proxy statements,
+          information statements, registration statements and other filings with
+          the SEC; (ii) press releases containing financial and other
+          information material to the marketplace for the Company's securities;
+          (iii) presentations to shareholders, analysts and the investment
+          community; and (iv) presentations to rating agencies and lenders
+          (collectively, the "Disclosure Statements"); and (v) the Company's web
+          site.
+
+     C.   Evaluating the integrity and effectiveness of the Company's Disclosure
+          Controls and Procedures within 90 days before the Company files its
+          periodic reports with the SEC and any amendments to those reports.
+
+     D.   Reviewing with the Certifying Officers, outside counsel and the public
+          auditors all relevant information with respect to the Committee's
+          proceedings, the preparation of the Disclosure Statements and the
+
+<PAGE>
+
+     D.   Committee's evaluation of the effectiveness of the Company's
+          Disclosure Controls and Procedures.
+
+     E.   Certifying to the Certifying Officers before filing each periodic
+          report as to: (i) the Committee's compliance with this charter and the
+          Disclosure Controls and Procedures; and (ii) the Committee's
+          conclusions resulting from its evaluation of the effectiveness of the
+          Disclosure Controls and Procedures.
+
+     II.  MEMBERSHIP, PROCESS
+
+     A.   Committee members shall include the Company's chief financial officer,
+          controller, vice president of administration, vice president of
+          international, and other appropriate Aceto employees as determined by
+          the Certifying Officers.
+
+     B.   The Certifying Officers (acting with such members of the Committee as
+          they shall determine) may, at any time, assume any or all of the
+          duties of the Committee identified in this Charter, including, for
+          example, approving the Disclosure Statements when time or other
+          factors do not permit the full Committee to review the Disclosure
+          Statement.
+
+     C.   The chief financial officer shall serve as the Committee Chair. The
+          Committee Chair shall schedule and preside over meetings and prepare
+          agendas. Any interpretation of the Charter or the Committee's
+          procedures shall be made by the Committee Chair.
+
+     D.   As soon as practicable, the Committee shall prepare and submit for the
+          approval of the Certifying Officers and the Company's Board of
+          Directors, a set of Disclosure Controls and Procedures, including
+          policies and procedures of the Committee and policies and procedures
+          to test the effectiveness of the Disclosure Controls and Procedures.
+
+     E.   The Committee shall meet as necessary to: (i) ensure the accuracy and
+          completeness of the Disclosure Statements; and (ii) evaluate the
+          Disclosure Controls and Procedures.
+
+     III. PERIODIC EVALUATION
+
+     The Committee shall review and reassess this Charter and the performance of
+the Committee annually and recommend any proposed changes to the Certifying
+Officers and the Board of Directors for approval.
+
+     IV.  OTHER RESPONSIBILITIES, DELEGATION
+
+     The Certifying Officers may assign other responsibilities, consistent with
+this Charter, to the Committee, and may delegate as they consider appropriate.
+
+<PAGE>
+
+                                                                      APPENDIX E
+
+                            CERTIFICATE OF AMENDMENT
+                       OF THE CERTIFICATE OF INCORPORATION
+                              OF ACETO CORPORATION
+
+                UNDER SECTION 805 OF THE BUSINESS CORPORATION LAW
+                -------------------------------------------------
+
+The undersigned, being the president and the secretary of ACETO Corporation, do
+hereby certify and set forth:
+
+     1.   The name of the corporation is ACETO CORPORATION. The corporation was
+formed under the name ACETO CHEMICAL CO. INC.
+
+     2.   The Certificate of Incorporation was filed by the Department of State
+on June 13, 1947.
+
+     3.   The Amendment to the Certificate of Incorporation effected by this
+Certificate of Amendment is to increase the number of authorized common shares,
+$.01 par value, from 20,000,000 to 40,000,000.
+
+     4.   To accomplish the foregoing, paragraph THIRD(A) of the Certificate of
+Incorporation, which refers to shares, is hereby amended as follows:
+
+            "THIRD(A) The aggregate number of shares which the Corporation shall
+          have authority to issue is 42,000,000 shares, of which 40,000,000
+          shares shall be Common Stock, par value $.01 per share, and 2,000,000
+          shares shall be Preferred Stock, par value $2.50 per share, issuable
+          in series."
+
+     5.   Amendment to the Certificate of Incorporation was authorized by vote
+of the Board of Directors followed by vote of the holders of a majority of all
+outstanding shares entitled to vote thereon at a meeting of the shareholders.
+
+     IN WITNESS WHEREOF, this Certificate has been subscribed this ___ day of
+December 2003, by the undersigned who affirm the statements made herein are true
+under the penalties of perjury.
+
+
+                                              ------------------
+                                              Leonard S. Schwartz
+                                              President and CEO
+
+
+                                              ------------------
+                                              Douglas Roth
+                                              Secretary
+
+<PAGE>
+
+                                ACETO CORPORATION
+                         ANNUAL MEETING OF SHAREHOLDERS
+                THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS
+
+The undersigned, revoking all previous proxies, hereby constitutes and appoints
+Leonard S. Schwartz and Douglas Roth, and each of them, proxies with full power
+of substitution to vote for the undersigned all shares of Common Stock of Aceto
+Corporation which the undersigned would be entitled to vote if personally
+present at the Annual Meeting of the Shareholders to be held on December 4, 2003
+at the Company's offices, One Hollow Lane, Suite 201,Lake Success, New York
+11042, at 10:00 a.m., Eastern Standard Time, and at any adjournment thereof,
+upon the matters described in the accompanying Proxy Statement and upon any
+other business that may properly come before the meeting or any adjournment
+thereof. Said proxies are directed to vote or refrain from voting as checked on
+the reverse side upon the matters listed on the reverse side, and otherwise in
+their discretion.
+
+PLEASE INDICATE HOW YOUR STOCK IS TO BE VOTED.IF NO SPECIFIC VOTING INSTRUCTIONS
+ARE GIVEN,THE SHARES REPRESENTED BY THIS PROXY WILL BE VOTED AS RECOMMENDED BY
+THE BOARD OF DIRECTORS. THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR ALL
+NOMINEES "IN ITEM 1 AND "FOR " ITEMS 2 AND 3.
+
+                                ACETO CORPORATION
+                                 P.O. BOX 11199
+                            NEW YORK, N.Y. 10203-0199
+
+(1)  Election of Directors
+
+FOR all nominees listed below     *EXCEPTIONS     WITHHOLD AUTHORITY to vote
+
+Nominees: Leonard S. Schwartz , Samuel I. Hendler, Robert A. Wiesen, Stanley H.
+Fischer, Albert L. Eilender, Ira S. Kallem and Hans C. Noetzli.
+
+(INSTRUCTIONS: TO WITHHOLD AUTHORITY TO VOTE FOR ANY INDIVIDUAL NOMINEE, MARK
+THE "EXCEPTIONS" BOX ABOVE AND WRITE THAT NOMINEE'S NAME IN THE SPACE PROVIDED
+BELOW.)
+*Exceptions
+
+________________________________________________________________________________
+
+(2) Amend the Company's Certificate of Incorporation to increase the Company's
+authorized shares of common stock from 20,000,000 to 40,000,000.
+
+FOR                        AGAINST                   ABSTAIN
+
+(3) Ratify the appointment of KPMG LLP as the Company's independent auditors for
+the current fiscal year.
+
+FOR                        AGAINST                   ABSTAIN
+
+(4) In their discretion with respect to such other business as may properly come
+before the meeting or any adjournment thereof.
+
+Change of Address Mark Here
+
+<PAGE>
+
+(PLEASE SIGN, DATE AND RETURN THIS PROXY IN THE ENCLOSED POSTAGE PREPAID
+ENVELOPE.)
+NOTE: Please sign exactly as your name appears on this proxy. If shares are held
+jointly, each joint owner should sign. When signing as attorney, executor,
+administrator, trustee or guardian, please give full title as such. Proxies
+executed by a corporation should be signed with the full corporate name by a
+duly authorized officer.
+
+Dated:_____________________________, 2003
+
+
+___________________________________
+(Signature of Stockholder)
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

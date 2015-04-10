@@ -1,0 +1,4807 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KyK1NIDIOMy2O76OXV5cFUZT4VzMSrNsHRn4QYt4z+U1tWggwvaWnf1iv2cZe4Ud
+ 05WcSaIPE4jFWWTziGEJMQ==
+
+<SEC-DOCUMENT>0000950144-03-009576.txt : 20030808
+<SEC-HEADER>0000950144-03-009576.hdr.sgml : 20030808
+<ACCEPTANCE-DATETIME>20030808160403
+ACCESSION NUMBER:		0000950144-03-009576
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20030910
+FILED AS OF DATE:		20030808
+EFFECTIVENESS DATE:		20030808
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABRAMS INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000001923
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL BUILDING CONTRACTORS - NONRESIDENTIAL BUILDINGS [1540]
+		IRS NUMBER:				580522129
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10146
+		FILM NUMBER:		03832004
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1945 THE EXCHANGE, SE
+		STREET 2:		SUITE 300
+		CITY:			ALTANTA
+		STATE:			GA
+		ZIP:			30339-2029
+		BUSINESS PHONE:		7709530304
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 724728
+		STREET 2:		STE 202
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			31139-1728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>g84197ddef14a.htm
+<DESCRIPTION>ABRAMS INDUSTRIES, INC
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>ABRAMS INDUSTRIES, INC</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV align="center">
+<B><FONT size="2">SCHEDULE 14A</FONT></B>
+</DIV>
+
+<DIV align="center">
+<B><FONT size="2">(Rule 14a-101)</FONT></B>
+</DIV>
+
+<P align="center">
+<B><FONT size="2">INFORMATION REQUIRED IN PROXY
+STATEMENT</FONT></B>
+
+<P align="center">
+<B><FONT size="2">SCHEDULE 14A INFORMATION</FONT></B>
+
+<P align="center">
+<B><FONT size="2">Proxy Statement Pursuant to Section 14(a) of
+the Securities</FONT></B>
+
+<DIV align="center">
+<B><FONT size="2">Exchange Act of 1934 (Amendment No.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)</FONT></B>
+</DIV>
+
+<P align="left">
+<FONT size="2">Filed by the Registrant&nbsp;
+<FONT face="wingdings">&#120;</FONT>
+</FONT>
+
+<P align="left">
+<FONT size="2">Filed by a Party other than the Registrant&nbsp;
+<FONT face="wingdings">&#111;</FONT>
+</FONT>
+
+<P align="left"><FONT size="2">
+Check the appropriate box:
+</font>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+        <TD width="49%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+        <TD width="48%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR>
+        <TD align="left" valign="top">
+
+<FONT size="2"><FONT face="wingdings">&#111;</FONT>&nbsp;&nbsp;<B>Confidential,
+for Use of the Commission Only (as permitted by<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rule 14a-6(e)(2))</B></FONT></TD>
+        <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="left" valign="top">
+        <DIV style="margin-left:10px; text-indent:-10px">
+        <FONT size="2"><FONT face="wingdings">&nbsp;</FONT>&nbsp;
+        </FONT></DIV>
+        </TD>
+</TR>
+
+<TR>
+        <TD colspan="3" align="left" valign="top">
+        <FONT size="2"><FONT face="wingdings">&#120;</FONT>&nbsp;&nbsp;Definitive
+        Proxy Statement
+        </FONT></TD>
+</TR>
+
+<TR>
+        <TD colspan="3" align="left" valign="top">
+        <FONT size="2"><FONT face="wingdings">&#111;</FONT>&nbsp;&nbsp;Definitive
+        Additional Materials
+        </FONT></TD>
+</TR>
+
+<TR>
+        <TD colspan="3" align="left" valign="top">
+        <FONT size="2"><FONT face="wingdings">&#111;</FONT>&nbsp;&nbsp;Soliciting
+        Material under Rule 14a-12
+        </FONT></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<P align="center"><font size="2">&nbsp;</FONT>
+
+
+<DIV align="center">Abrams Industries, Inc.
+<HR size="1" width="100%" align="left" noshade>
+</DIV>
+
+<DIV align="center">
+<FONT size="2">(Name of Registrant as Specified In Its Charter)
+</FONT>
+</DIV>
+
+<P align="center">
+
+
+<DIV align="left">
+<HR size="1" width="100%" align="left" noshade>
+</DIV>
+
+<DIV align="center">
+<FONT size="2">(Name of Person(s) Filing Proxy Statement, if
+other than the Registrant)
+</FONT>
+</DIV>
+
+<P align="left">
+<FONT size="2">Payment of Filing Fee (Check the appropriate box):
+</FONT>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="4%"></TD>
+        <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2"><FONT face="wingdings">&#120;</FONT></FONT></TD>
+        <TD align="left">
+        <FONT size="2">No fee required.
+        </FONT></TD>
+</TR>
+
+<TR>
+        <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2"><FONT face="wingdings">&#111;</FONT></FONT></TD>
+        <TD align="left">
+        <FONT size="2">Fee computed on table below per Exchange Act
+        Rules&nbsp;14a-6(i)(1) and 0-11.
+        </FONT></TD>
+</TR>
+</TABLE>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Title of each class of securities to which
+        transaction applies:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Aggregate number of securities to which
+        transaction applies:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Per unit price or other underlying value of
+        transaction computed pursuant to Exchange Act Rule&nbsp;0-11
+        (set forth the amount on which the filing fee is calculated and
+        state how it was determined):
+        </FONT></TD>
+</TR>
+
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Proposed maximum aggregate value of transaction:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Total fee paid:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="4%"></TD>
+        <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2"><FONT face="wingdings">&#111;</FONT></FONT></TD>
+        <TD align="left">
+        <FONT size="2">Fee paid previously with preliminary materials.
+        </FONT></TD>
+</TR>
+<TR>
+        <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2"><FONT face="wingdings">&#111;</FONT></FONT></TD>
+        <TD align="left">
+        <FONT size="2">Check box if any part of the fee is offset as
+        provided by Exchange Act Rule&nbsp; 0-11(a)(2) and identify the
+        filing for which the offsetting fee was paid previously.
+        Identify the previous filing by registration statement number,
+        or the Form or Schedule and the date of its filing.
+        </FONT></TD>
+</TR>
+</TABLE>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Amount Previously Paid:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Form, Schedule or Registration Statement No.:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Filing Party:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+        <TD width="9%"></TD>
+        <TD width="91%"></TD>
+</TR>
+
+<TR valign="top">
+        <TD><FONT size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)</FONT></TD>
+        <TD align="left">
+        <FONT size="2">Date Filed:
+        </FONT></TD>
+</TR>
+</TABLE>
+
+<P align="right">
+<HR size="1" width="91%" align="right" noshade>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<P align="center">
+<B><FONT size="2">ABRAMS INDUSTRIES, INC.</FONT></B>
+
+<DIV align="center">
+<B><FONT size="2">Atlanta, Georgia</FONT></B>
+</DIV>
+
+<P align="center">
+<B><FONT size="2">NOTICE OF ANNUAL MEETING OF
+SHAREHOLDERS</FONT></B>
+
+<P align="center">
+<B><FONT size="2">To Be Held On September&nbsp;10,
+2003</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Annual Meeting of Shareholders of ABRAMS
+INDUSTRIES, INC. (the &#147;Company&#148;) will be held on
+Wednesday, September&nbsp;10, 2003, at 11:00&nbsp;A.M., Atlanta
+time, at the Company&#146;s Corporate Headquarters, 1945 The
+Exchange, Suite 300, Atlanta, Georgia, for the purpose of
+considering and voting upon the following:
+</FONT>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="6%"></TD>
+    <TD width="4%"></TD>
+    <TD width="90%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD><FONT size="2">(1)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">The election of eight Directors to constitute the
+    Board of Directors until the next Annual Meeting and until their
+    successors are elected and qualified.
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD><FONT size="2">(2)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Such other matters as may properly come before
+    the Meeting or any and all adjournments thereof.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board of Directors has fixed the close of
+business on July&nbsp;28, 2003, as the record date for the
+determination of the shareholders who will be entitled to notice
+of, and to vote at, this Meeting or any and all adjournments
+thereof.
+</FONT>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="40%"></TD>
+    <TD width="60%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <FONT size="2">BY ORDER OF THE BOARD OF DIRECTORS
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <FONT size="2">Alan R. Abrams
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <I><FONT size="2">Co-Chairman of the Board</FONT></I></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <I><FONT size="2">President and Chief Executive
+    Officer</FONT></I></TD>
+</TR>
+
+</TABLE>
+
+<P align="left">
+<FONT size="2">Atlanta, Georgia
+</FONT>
+
+<DIV align="left">
+<FONT size="2">August&nbsp;6, 2003
+</FONT>
+</DIV>
+
+<P align="center">
+<B><FONT size="2">IMPORTANT&nbsp;&#151; YOUR PROXY IS
+ENCLOSED.</FONT></B>
+
+<DIV align="center">
+<B><FONT size="2">PLEASE DATE, SIGN AND MAIL THE ENCLOSED PROXY
+PROMPTLY.</FONT></B>
+</DIV>
+
+<DIV align="center">
+<B><FONT size="2">NO POSTAGE IS REQUIRED IF MAILED</FONT></B>
+</DIV>
+
+<DIV align="center">
+<B><FONT size="2">IN THE UNITED STATES IN THE ACCOMPANYING
+ENVELOPE.</FONT></B>
+</DIV>
+
+<DIV>&nbsp;</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">PROXY STATEMENT</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">GENERAL INFORMATION</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">NOMINATION AND ELECTION OF DIRECTORS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">MEETINGS AND COMMITTEES OF THE BOARD OF DIRECTORS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#004">PRINCIPAL HOLDERS OF THE COMPANY&#146;S SECURITIES AND HOLDINGS BY EXECUTIVE OFFICERS AND DIRECTORS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#005">SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#006">COMPENSATION OF EXECUTIVE OFFICERS AND DIRECTORS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#007">EQUITY COMPENSATION PLAN</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#008">STOCK OPTION GRANTS IN LAST FISCAL YEAR</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#009">AGGREGATED OPTION EXERCISES IN THE LAST FISCAL YEAR AND FISCAL YEAR-END OPTION VALUES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#010">COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS REPORT ON EXECUTIVE COMPENSATION</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#011">AUDIT COMMITTEE REPORT</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#012">DIRECTORS COMPENSATION</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#013">SHAREHOLDER RETURN</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#014">INFORMATION CONCERNING THE COMPANY&#146;S INDEPENDENT AUDITORS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#015">SHAREHOLDER PROPOSALS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#016">OTHER MATTERS</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<P align="center">
+<B><FONT size="2">ABRAMS INDUSTRIES, INC.</FONT></B>
+
+<P align="center">
+<B><FONT size="2">EXECUTIVE OFFICES</FONT></B>
+
+<P align="center">
+<B><FONT size="2">1945 The Exchange</FONT></B>
+
+<DIV align="center">
+<B><FONT size="2">Suite&nbsp;300</FONT></B>
+</DIV>
+
+<DIV align="center">
+<B><FONT size="2">Atlanta, Georgia 30339-2029</FONT></B>
+</DIV>
+
+<DIV>&nbsp;</DIV>
+
+<!-- link1 "PROXY STATEMENT" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">PROXY STATEMENT</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The following information is furnished in
+connection with the solicitation of proxies by the Board of
+Directors of the Company for the Annual Meeting of Shareholders
+(the &#147;Meeting&#148;) to be held on Wednesday,
+September&nbsp;10, 2003, at 11:00&nbsp;A.M., Atlanta time, at
+the Company&#146;s Corporate Headquarters, 1945 The Exchange,
+Suite&nbsp;300, Atlanta, Georgia. A copy of the Company&#146;s
+Annual Report for the fiscal year ended April&nbsp;30, 2003, and
+a proxy for use at the Meeting are enclosed with this Proxy
+Statement. This Proxy Statement and the enclosed proxy first
+were mailed to shareholders on or about August&nbsp;6, 2003.
+</FONT>
+
+<!-- link1 "GENERAL INFORMATION" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">GENERAL INFORMATION</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Any proxy given pursuant to this solicitation may
+be revoked, without compliance with any other formalities, by
+any shareholder who attends the Meeting and gives oral notice of
+his or her election to vote in person. In addition, any proxy
+given pursuant to this solicitation may be revoked prior to the
+Meeting by delivering to the President of the Company a notice
+of revocation or a duly executed proxy for the same shares
+bearing a later date. All proxies of shareholders solicited by
+the Company, which are properly executed and received by the
+President of the Company prior to the Meeting, and which are not
+revoked, will be voted at the Meeting. The shares represented by
+such proxies will be voted in accordance with the instructions
+thereon, and unless specifically instructed to vote otherwise,
+the individuals named in the enclosed proxy will vote to elect
+all the nominees as set forth in this Proxy Statement.
+Abstentions and broker non-votes will be included in determining
+whether a quorum is present at the Meeting, but will otherwise
+have no effect on the election of the Directors. For purposes of
+determining approval of a matter presented at the Meeting other
+than the election of Directors, abstentions will be deemed
+present and entitled to vote, and therefore will have the same
+legal effect as a vote &#147;against&#148; a matter presented at
+the Meeting. Broker non-votes will be deemed not entitled to
+vote on the subject matter as to which the non-vote is
+indicated, and will, therefore, have no legal effect on the vote
+on that particular matter. A system administered by the
+Company&#146;s transfer agent will tabulate the votes cast.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Company pays the cost of soliciting proxies.
+Copies of solicitation material may be furnished to banks,
+brokerage houses and other custodians, nominees and fiduciaries
+for forwarding to beneficial owners of shares of the
+Company&#146;s common stock, $1.00 par value per share (the
+&#147;Common Stock&#148;), and normal handling charges may be
+paid for such forwarding service. In addition to soliciting by
+mail, Directors and regular employees of the Company, at no
+additional compensation, may assist in soliciting proxies by
+telephone or other means.
+</FONT>
+
+<P align="center"><FONT size="2">1
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">As of July&nbsp;28, 2003, the record date for the
+Meeting, there were 2,914,251 shares of Common Stock outstanding
+and entitled to vote. The holders of Common Stock, the only
+outstanding class of voting stock of the Company, are entitled
+to one vote per share.
+</FONT>
+
+<!-- link1 "NOMINATION AND ELECTION OF DIRECTORS" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">NOMINATION AND ELECTION OF DIRECTORS</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board of Directors recommends the election of
+the eight nominees listed below to constitute the entire Board
+to hold office until the next Meeting of Shareholders and until
+their successors are elected and qualified. If, at the time of
+the Meeting, any of such nominees should be unable to serve, the
+persons named in the proxy will vote for such substitutes or
+vote to reduce the number of Directors for the ensuing year in
+accordance with his judgment of what is in the best interest of
+the Company. Management has no reason to believe that any
+substitute nominee or nominees or reduction in the number of
+Directors for the ensuing year will be required. The affirmative
+vote of a plurality of the votes cast is required to elect the
+nominees.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Company&#146;s By-Laws contain an advance
+notice procedure for the nomination of candidates for election
+to the Board. Notice of proposed shareholder nominations for
+election of Directors must be given to the Secretary of the
+Company not less than sixty days nor more than ninety days prior
+to the meeting at which Directors are to be elected, unless the
+notice of meeting is given less than sixty days prior to the
+meeting, in which case the notice of nomination must be received
+not later than the tenth day following the day on which the
+notice of meeting was mailed to shareholders. The notice of
+nomination must contain information about each proposed nominee,
+including age, address, principal occupation, the number of
+shares of stock of the Company beneficially owned by such
+nominee, and such other information as would be required to be
+disclosed under the Securities Exchange Act of 1934 (the
+&#147;Exchange Act&#148;), in connection with any acquisition of
+shares by such nominee or with the solicitation of proxies by
+such nominee for his or her election as a Director. Information
+must also be disclosed by and about the shareholder proposing to
+nominate that person. The chairman of a shareholder meeting may
+refuse to acknowledge the nomination of any person not made in
+compliance with the foregoing procedure.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The following information relating to:
+(1)&nbsp;age as of September&nbsp;10, 2003;
+(2)&nbsp;directorships in other publicly-held companies;
+(3)&nbsp;positions with the Company; and (4)&nbsp;principal
+employment has been furnished by the respective nominees. Except
+as otherwise indicated, each nominee has been or was engaged in
+his or her present or last principal employment, in the same or
+a similar position, for more than five years.
+</FONT>
+
+<P align="center"><FONT size="2">2
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="69%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"></TD>
+</TR>
+
+<TR>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD align="center" nowrap><B><FONT size="1">INFORMATION ABOUT NOMINEES</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD align="center" nowrap><B><FONT size="1">NAME</FONT></B></TD>
+    <TD></TD>
+    <TD align="center" nowrap><B><FONT size="1">FOR DIRECTOR</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"></TD>
+</TR>
+
+<TR>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Alan R. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">A Director of the Company since 1992, he has been
+    Co-Chairman of the Board since 1998, Chief Executive Officer
+    since 1999, and President since 2000. From 1998 to 1999, he was
+    President and Chief Operating Officer. He also served as
+    President and Chief Executive Officer of Servidyne Systems, LLC
+    from May 2002 until July 2003. Mr.&nbsp;Abrams is 48.
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">David L. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">A Director of the Company since 2000, he has been
+    President of Silver Star Management Corp. (investment
+    management) and has been engaged in managing family investments,
+    including shares of the Company as described in the first
+    sentence of Footnote&nbsp;3 to the Share Ownership Table below,
+    since October 2000. He was associated with Sutherland Asbill
+    &#38; Brennan LLP (a law firm) from 1993 to 2001.
+    Mr.&nbsp;Abrams is 45.
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">J. Andrew Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">A Director of the Company since 1992, he has been
+    Co-Chairman of the Board since 1998, and Vice President-Business
+    Development since 2000. He served as President and Chief
+    Operating Officer from 1999 to 2000. From 1997 to 1999, he was
+    Executive Vice President. Mr.&nbsp;Abrams is 43.
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Samuel E. Allen
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">Mr. Allen serves as Chairman and Chief Executive
+    Officer of Globalt, Inc. (an investment management company). He
+    is also a Director of Chattem, Inc. Mr.&nbsp;Allen is 67.
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Gilbert L. Danielson
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">A Director of the Company since 2000, he is
+    Executive Vice President, Chief Financial Officer, and Director
+    of Aaron Rents, Inc. (a company engaged in the rental, sales and
+    lease ownership, and specialty retailing of residential and
+    office furniture, consumer electronics and home appliances).
+    Mr.&nbsp;Danielson is 57.
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Melinda S. Garrett
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">A Director of the Company since 1999, she has
+    been Chief Financial Officer since 1997 and Corporate Secretary
+    since 2000. She also has served Abrams Properties, Inc. as
+    President since 2001, Chief Financial Officer from 1998 to 2000,
+    and Vice President from 1993 to 2000. Ms.&nbsp;Garrett is 47.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P align="center"><FONT size="2">3
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="69%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"></TD>
+</TR>
+
+<TR>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD align="center" nowrap><B><FONT size="1">INFORMATION ABOUT NOMINEES</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD align="center" nowrap><B><FONT size="1">NAME</FONT></B></TD>
+    <TD></TD>
+    <TD align="center" nowrap><B><FONT size="1">FOR DIRECTOR</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"></TD>
+</TR>
+
+<TR>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Robert T. McWhinney,&nbsp;Jr.
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">A Director of the Company since 2000, he was the
+    Group Vice President&nbsp;&#151; Consulting Operations for
+    Jacobs Engineering Group, Inc. (an engineering, construction and
+    consulting company) from January 2001 until June 2003, and the
+    President of Jacobs Consultancy, Inc. (an international
+    technical and management consulting company and an operating
+    subsidiary of Jacobs Engineering Group, Inc.) from October 2001
+    until June 2003. He is currently an employee of Jacobs
+    Consultancy, Inc. He was President and Chief Executive Officer
+    of Stone &#38; Webster Management Consultants, Inc. (an
+    international management consulting company and an operating
+    subsidiary of Stone&nbsp;&#38; Webster, Inc.) from 1997 to 2000.
+    Mr.&nbsp;McWhinney is 63.
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="3"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Felker W. Ward,&nbsp;Jr.
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2">A Director of the Company since 1992, he is
+    Chairman of Pinnacle Investment Advisors, Inc. (investment
+    advisory services). He also is a Director of AGL Resources, Inc.
+    Mr.&nbsp;Ward is 70.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Alan R. Abrams and J. Andrew Abrams are brothers,
+and are the sons of Edward M. Abrams, a recently retired member
+of the Board of Directors. David L. Abrams is first cousin to
+Alan R. Abrams and J. Andrew Abrams, and nephew to Edward M.
+Abrams. There are no other family relationships between any
+Executive Officers or Directors of the Company.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">On June&nbsp;2, 2000, in conjunction with and as
+a condition to Stone &#38; Webster, Inc.&#146;s definitive
+agreement to sell substantially all of its assets to Jacobs
+Engineering Group, Inc., Stone &#38; Webster and 71 affiliates,
+including Stone &#38; Webster Management Consultants, Inc., of
+which Mr.&nbsp;McWhinney formerly served as President and Chief
+Executive Officer, sought bankruptcy court approval of the asset
+sale by filing a voluntary petition for reorganization under
+Chapter&nbsp;11 of the U.S. Bankruptcy Code. The reorganization
+concluded with the purchase of Stone &#38; Webster, Inc. by
+another company.
+</FONT>
+
+<!-- link1 "MEETINGS AND COMMITTEES OF THE BOARD OF DIRECTORS" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">MEETINGS AND COMMITTEES OF THE BOARD OF
+DIRECTORS</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">During the fiscal year ended April&nbsp;30, 2003,
+the Board of Directors held four meetings, the Audit Committee
+held seven meetings, and the Compensation Committee held one
+meeting. All of the Directors who served during the fiscal year
+ended April&nbsp;30, 2003, attended at least 75% of the
+aggregate of all Board meetings and the meetings of each
+committee of the Board on which they served, if any.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board has a standing Executive Committee,
+currently consisting of Alan R. Abrams, J.&nbsp;Andrew Abrams,
+and Melinda S. Garrett. This committee is empowered to take
+actions that do not require the approval of the full Board of
+Directors. All actions of the Executive Committee subsequently
+are reviewed by the full Board of Directors.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board has a standing Audit Committee composed
+entirely of independent Directors, as defined in the listing
+standards of the Nasdaq Stock Market. The committee currently
+consists of Gilbert L. Danielson, Robert T. McWhinney, Jr. and
+Felker W. Ward, Jr. Pursuant to its written
+</FONT>
+
+<P align="center"><FONT size="2">4
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV align="left">
+<FONT size="2">charter, this committee is authorized, among
+other things, to review the scope and results of audits and
+recommendations made relating to internal controls by the
+external and internal auditors; appraise the independence of,
+and recommend the appointment of, the external auditors to the
+Board; and review the adequacy of the Company&#146;s financial
+controls.
+</FONT>
+</DIV>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board has a standing Compensation Committee,
+composed entirely of independent Directors. The committee
+currently consists of Gilbert L. Danielson , Robert T.
+McWhinney,&nbsp;Jr., and Felker W. Ward,&nbsp;Jr. This committee
+is authorized to review and make recommendations to the Board of
+Directors regarding the compensation of the Company&#146;s
+Executive Officers, and to administer the Company&#146;s 2000
+Stock Award Plan.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board established a Nominating Committee in
+March 2003. The committee currently consists of Alan R. Abrams,
+Gilbert L. Danielson, Robert T. McWhinney, Jr., and Felker W.
+Ward,&nbsp;Jr. The committee is responsible for recommending to
+the Board the slate of nominees to be recommended to the
+shareholders for election at the Company&#146;s annual
+shareholder meeting. The committee will consider nominees
+submitted by the shareholders in accordance with the procedures
+set forth in Section&nbsp;10 of the Company&#146;s Restated
+Bylaws, which in general require shareholders to submit
+specified biographical and other information concerning the
+nominee and the submitting shareholder to the Secretary of the
+Company not less than sixty nor more than ninety days prior to
+the relevant meeting. For a complete description of the
+procedures, refer to the Company&#146;s Restated Bylaws.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board and the Nominating Committee intend to
+evaluate and further develop the committee&#146;s structure and
+processes in accordance with pending stock market listing
+standards.
+</FONT>
+
+<!-- link1 "PRINCIPAL HOLDERS OF THE COMPANY&#146;S SECURITIES AND HOLDINGS BY EXECUTIVE OFFICERS AND DIRECTORS" -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">PRINCIPAL HOLDERS OF THE COMPANY&#146;S
+SECURITIES</FONT></B>
+
+<DIV align="center">
+<B><FONT size="2">AND HOLDINGS BY EXECUTIVE OFFICERS AND
+DIRECTORS</FONT></B>
+</DIV>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">As of June&nbsp;30, 2003, the following list
+reflects beneficial ownership of the Common Stock by persons (as
+that term is defined by the Securities and Exchange Commission)
+who: (1)&nbsp;own more than 5% of the outstanding shares of such
+stock; (2)&nbsp;are Directors; (3)&nbsp;are Executive Officers,
+named in the Summary Compensation Table below; and/or
+(4)&nbsp;are Executive Officers and Directors of the Company as
+a group. The following percentages of outstanding shares total
+more than 100%, because they are based on SEC beneficial
+ownership rules, the application of which can result in the same
+shares being owned beneficially by more than one person.
+</FONT>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="51%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="15%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="14%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="6%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="6%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+</TR>
+
+<TR>
+    <TD colspan="9" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Shares of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Percentage of</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Common Stock</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Outstanding</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD align="center" nowrap><B><FONT size="1">Name and Address</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Beneficially Owned</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Shares</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+</TR>
+
+<TR>
+    <TD colspan="9" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Edward M. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">789,697</FONT></TD>
+
+<TD align="left" valign="bottom" nowrap><FONT size="2">&nbsp;&nbsp;&nbsp;(1)(2)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">27.10</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">David L. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">747,678</FONT></TD>
+
+<TD align="left" valign="bottom" nowrap><FONT size="2">&nbsp;&nbsp;&nbsp;(3)(4)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">25.66</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Kandu Partners L.P.
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">612,208</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">21.01</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Post Office Box 53407
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Atlanta, Georgia 30355
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P align="center"><FONT size="2">5
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="51%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="15%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="14%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="6%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="6%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+</TR>
+
+<TR>
+    <TD colspan="9" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Shares of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Percentage of</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Common Stock</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Outstanding</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD align="center" nowrap><B><FONT size="1">Name and Address</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Beneficially Owned</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Shares</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+</TR>
+
+<TR>
+    <TD colspan="9" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Alan R. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">502,100</FONT></TD>
+
+<TD align="left" valign="bottom" nowrap><FONT size="2">&nbsp;&nbsp;&nbsp;(1)(5)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">17.23</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">J. Andrew Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">502,000</FONT></TD>
+
+<TD align="left" valign="bottom" nowrap><FONT size="2">&nbsp;&nbsp;&nbsp;(1)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">17.23</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Abrams Partners, L.P.
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">500,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">17.16</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">7525 Princeton Trace
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Atlanta, Georgia 30328
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Bank of America Corporation
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">184,423</FONT></TD>
+
+<TD align="left" valign="bottom" nowrap><FONT size="2">&nbsp;&nbsp;&nbsp;(6)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">6.33</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">100 South Tryon Street
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Charlotte, North Carolina 28255
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Felker W. Ward, Jr.
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">3,684</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">*</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Paula Lawton Bevington
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">3,200</FONT></TD>
+
+<TD align="left" valign="bottom" nowrap><FONT size="2">&nbsp;&nbsp;&nbsp;(7)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">*</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Melinda S. Garrett
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">2,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">*</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Gilbert L. Danielson
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">1,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">*</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Robert T. McWhinney, Jr.
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">1,000</FONT></TD>
+
+<TD align="left" valign="bottom" nowrap><FONT size="2">&nbsp;&nbsp;&nbsp;(8)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">*</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">All Officers and Directors as a group
+    (9&nbsp;persons)
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">1,552,359</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">53.27</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="1%"></TD>
+    <TD width="2%"></TD>
+    <TD width="97%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD><FONT size="2">*&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Less than 1%
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<DIV align="left">
+<HR size="1" width="100%" align="left" noshade>
+</DIV>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="4%"></TD>
+    <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(1)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Includes 500,000 shares (17.16% of the
+    outstanding shares) owned by Abrams Partners, L.P., which Edward
+    M. Abrams, Alan R. Abrams, and J.&nbsp;Andrew Abrams each
+    beneficially own due to their joint control of the general
+    partner of such partnership. Does not include 144,817 shares
+    (4.97% of the outstanding shares) owned by two trusts
+    established by the parents of Edward M. Abrams, and under which
+    Edward M. Abrams and his children, Alan R. Abrams,
+    J.&nbsp;Andrew Abrams, and Laurie Abrams Lindey, are
+    beneficiaries. An independent trustee, who holds the power to
+    vote and dispose of the shares, administers the two trusts.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(2)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Includes 12,389 shares owned jointly with and
+    19,919 shares owned directly by Mr.&nbsp;Abrams&#146; wife. Also
+    includes 8,604 shares held by an estate, for which
+    Mr.&nbsp;Abrams&#146; wife serves as Co-Executor.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(3)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Includes 612,208 shares (21.01% of outstanding
+    shares) owned by Kandu Partners, L.P., which David L. Abrams
+    beneficially owns due to his control of the general partner of
+    the partnership, and 400 shares held by the Estate of Bernard W.
+    Abrams, for which David L. Abrams serves as Co-Executor.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(4)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Includes 25,064 shares owned by Purple Heart
+    Partners LLLP, which David L. Abrams beneficially owns due to
+    his control of the general partner of the partnership.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(5)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Includes 100 shares owned by
+    Mr.&nbsp;Abrams&#146; wife.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(6)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Consists primarily of shares owned by the trusts
+    referenced in Footnote 1 above, of which Bank of America
+    Corporation serves as trustee.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(7)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Includes 2,000 shares owned by
+    Mrs.&nbsp;Bevington&#146;s husband.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(8)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">All shares are owned jointly with
+    Mr.&nbsp;McWhinney&#146;s wife.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<P align="center"><FONT size="2">6
+</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<!-- link1 "SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE" -->
+<DIV align="left"><A NAME="005"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING
+COMPLIANCE</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Section&nbsp;16(a) of the Securities Exchange Act
+of 1934 requires the Company&#146;s Directors, certain officers
+and persons who own more than 10% of the outstanding Common
+Stock of the Company to file with the Securities and Exchange
+Commission reports of changes in ownership of the Common Stock
+of the Company held by such persons. These persons are also
+required to furnish the Company with copies of all forms they
+file under this regulation. To the Company&#146;s knowledge,
+based solely on a review of the copies of such reports furnished
+to the Company and without further inquiry, all required forms
+were filed on time.
+</FONT>
+
+<!-- link1 "COMPENSATION OF EXECUTIVE OFFICERS AND DIRECTORS" -->
+<DIV align="left"><A NAME="006"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">COMPENSATION OF EXECUTIVE OFFICERS AND
+DIRECTORS</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The following table sets forth all compensation
+earned by the Chief Executive Officer (&#147;CEO&#148;) and each
+of the three other most highly compensated Executive Officers
+(&#147;named Executive Officers&#148;) for services rendered in
+all capacities during the Company&#146;s last three fiscal years:
+</FONT>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="26%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="2%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="2%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="2%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="2%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="2%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="1">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="2" align="left" valign="top">
+    <BR></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="11" align="center" valign="bottom">
+    <FONT size="1">Annual Compensation
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="7" align="center" valign="bottom">
+    <FONT size="1">Long-Term<BR>
+    Compensation<BR>
+    Awards
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<tr>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+<td align="center" colspan="11"><hr size="1" noshade></td>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+<td align="center" colspan="7"><hr size="1" noshade></td>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</tr>
+
+<TR>
+    <TD colspan="2" align="center" valign="bottom">
+    <FONT size="1">Name and<BR>
+    Principal Position
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">Fiscal<BR>Year</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom"><FONT size="1">Salary<BR>($)</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom"><FONT size="1">Bonus<BR>($)(1)</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom"><FONT size="1">Other<BR>Annual<BR>Compensation<BR>($)(2)</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom"><FONT size="1">Restricted<BR>Stock<BR>Awards<BR>($)(3)</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">Securities<BR>Underlying<BR>Options<BR>(#)(4)</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom"><FONT size="1">All Other<BR>Compensation<BR>($)(5)</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<tr>
+<td align="center" colspan="30"><hr size="1" noshade></td>
+</tr>
+
+<TR>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="1">Alan R. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2003</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">300,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">5,769</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">150,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">13,323</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Co-Chairman,
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2002</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">275,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">40,288</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">15,271</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">President, and CEO.
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2001</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">250,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">124,328</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">7,750</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">37,203</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Former CEO and President, Servidyne Services, LLC
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<tr>
+<td align="center" colspan="30"><hr size="1" noshade></td>
+</tr>
+
+<TR>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="1">Melinda S. Garrett
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2003</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">195,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">28,750</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">50,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">13,300</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Chief Financial Officer.
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2002</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">182,500</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">28,510</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">14,661</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">President, Abrams
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2001</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">165,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">65,761</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">7,750</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">35,333</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Properties, Inc.
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<tr>
+<td align="center" colspan="30"><hr size="1" noshade></td>
+</tr>
+
+<TR>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="1">B. Michael Merritt (6)
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2003</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">175,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">3,366</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">50,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">13,208</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Former President and
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2002</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">167,500</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">17,444</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">14,661</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Chief Executive Officer,
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2001</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">167,500</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">211,584</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">7,750</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">35,218</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Abrams Construction, Inc.
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<tr>
+<td align="center" colspan="30"><hr size="1" noshade></td>
+</tr>
+
+<TR>
+    <TD colspan="2" align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="1">J. Andrew Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2003</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">165,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">3,173</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">50,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">13,162</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Co-Chairman and Vice
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2002</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">155,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">22,981</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">15,166</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">President-Business
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">2001</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">145,000</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">55,274</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="center" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">7,750</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">&#151;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="1">36,467</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="1">Development
+    </FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+
+
+<tr>
+<td align="center" colspan="30"><hr size="1" noshade></td>
+</tr>
+
+
+</TABLE>
+</CENTER>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="4%"></TD>
+    <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(1)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Consists of cash holiday and incentive bonuses,
+    cash profit-sharing and special incentive payments (both accrued
+    and deferred, during the applicable fiscal year, such deferral
+    at the election of the respective Executive Officer). Holiday
+    bonuses equal to one week&#146;s pay are paid to all employees
+    meeting specified service requirements, at the discretion of the
+    Chief Executive Officer of the Company. Holiday bonuses are not
+    subject to deferral.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<P align="center"><FONT size="2">7
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="4%"></TD>
+    <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(2)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Perquisites and other benefits paid by the
+    Company on behalf of the Executive Officers, if any, do not meet
+    the SEC threshold for disclosure.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(3)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Shares of restricted stock were awarded on
+    January&nbsp;19, 2001, pursuant to the Company&#146;s 2000 Stock
+    Award Plan. Each officer listed in the table above received
+    2,000 shares. On January&nbsp;19, 2002, the restricted shares
+    for each officer vested. Dividends were paid on all restricted
+    stock at the same rate payable to all common shareholders, and
+    are not reflected in the values in the table above.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(4)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Options were granted on July&nbsp;17, 2002,
+    pursuant to the Company&#146;s 2000 Stock Award Plan.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(5)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Consists of: (i)&nbsp;contributions to the
+    Company&#146;s Profit-Sharing and 401(k) Plan;
+    (ii)&nbsp;premiums paid on behalf of the named Executive
+    Officers under individual life insurance policies; and
+    (iii)&nbsp;Directors fees. Such amounts in the fiscal year ended
+    April&nbsp;30, 2003, were as follows:
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<CENTER>
+<TABLE width="80%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="53%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="9%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="8%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Contributions</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Premiums</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3"></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">to Profit-Sharing</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">for</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3"></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">and 401(k)</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Life</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Directors</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Plan</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Insurance</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Fees</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Alan R. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">923</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">12,400</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Melinda S. Garrett
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">900</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">12,400</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">B. Michael Merritt
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">808</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">12,400</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">J. Andrew Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">762</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">12,400</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="4%"></TD>
+    <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(6)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Resigned employment in June 2003.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<!-- link1 "EQUITY COMPENSATION PLAN" -->
+<DIV align="left"><A NAME="007"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">EQUITY COMPENSATION PLAN</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Abrams Industries, Inc. 2000 Stock Award Plan
+(the &#147;Stock Award Plan&#148;) was adopted by the Board of
+Directors on May&nbsp;26, 2000, and subsequently approved by the
+shareholders in August 2000. Awards granted under the Stock
+Award Plan may be incentive stock options; nonqualified stock
+options; shares of Common Stock, which may be nontransferable
+and/or forfeitable under restrictions, terms and conditions set
+forth in the award agreement; stock appreciation rights; or
+performance shares. The number of shares of Common Stock with
+respect to which awards may be granted under the Stock Award
+Plan is a maximum of 1,000,000&nbsp;shares. The Company has no
+other compensation plans or arrangements under which equity
+securities are authorized for issuance.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The following table sets forth certain
+information regarding the Stock Award Plan as of April&nbsp;30,
+2003:
+</FONT>
+
+<CENTER>
+<TABLE width="60%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="7%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="12%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="12%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="12%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="12%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="17%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="16%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3"></TD>
+    <TD></TD>
+    <TD colspan="3"></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">(c)</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">(a)</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3"></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Number of</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Number of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">(b)</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Securities</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Securities to Be</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Weighted-</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Remaining Available</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Issued Upon</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Average Exercise</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">for Future Issuance</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Exercise of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Price of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">(Excluding Securities</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Outstanding</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Outstanding</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Reflected in</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Options</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Options</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Column (a))</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top" nowrap><FONT size="2">747,250</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="top" nowrap><FONT size="2">4.88</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="top" nowrap><FONT size="2">210,150</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P align="center"><FONT size="2">8
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<!-- link1 "STOCK OPTION GRANTS IN LAST FISCAL YEAR" -->
+<DIV align="left"><A NAME="008"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">STOCK OPTION GRANTS IN LAST FISCAL
+YEAR</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The following table sets forth information
+concerning individual grants of stock options made during the
+fiscal year ended April&nbsp;30, 2003, to each of the named
+Executive Officers:
+</FONT>
+
+<CENTER>
+<TABLE width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="28%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="6%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="6%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="6%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="5%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="21"></TD>
+</TR>
+
+<TR>
+    <TD colspan="21" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="19"></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="19" align="center" nowrap><B><FONT size="1">Individual Grants</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="19"></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="19" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Number of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Percent of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="11"></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Securities</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Total Options</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="11"></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Underlying</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Granted to</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Exercise or</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3"></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Grant Date</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Options</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Employees in</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Base Price</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Expiration</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Present</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD align="left" nowrap><B><FONT size="1">Name</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Granted(#)</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Fiscal Year</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Per Share</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Date</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Value(1)</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="21"></TD>
+</TR>
+
+<TR>
+    <TD colspan="21" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Alan R. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">39,214</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">5.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">7/17/07</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">35,685</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">110,786</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">5.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">7/17/12</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">136,267</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">150,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">30.06</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="21" align="left"><HR size="1" noshade></TD>
+
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Melinda S. Garrett
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">50,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">10.02</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">5.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">7/17/12</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">61,500</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="21" align="left"><HR size="1" noshade></TD>
+
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">J. Andrew Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">39,214</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">5.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">7/17/07</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">35,685</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">10,786</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">5.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">7/17/12</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">13,267</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">50,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">10.02</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="21" align="left"><HR size="1" noshade></TD>
+
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">B. Michael Merritt (2)
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">50,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">10.02</FONT></TD>
+    <TD align="left" valign="bottom" nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">5.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">7/17/12</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">61,500</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="21" align="left"><HR size="1" noshade></TD>
+
+</TR>
+
+</TABLE>
+</CENTER>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="4%"></TD>
+    <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(1)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Based on Black Scholes option pricing model on
+    date of grant.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(2)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Resigned employment in June 2003, at which time
+    all options were forfeited.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<DIV>&nbsp;</DIV>
+
+<!-- link1 "AGGREGATED OPTION EXERCISES IN THE LAST FISCAL YEAR AND FISCAL YEAR-END OPTION VALUES" -->
+<DIV align="left"><A NAME="009"></A></DIV>
+
+<DIV align="center">
+<B><FONT size="2">AGGREGATED OPTION EXERCISES IN THE LAST FISCAL
+YEAR AND FISCAL</FONT></B>
+</DIV>
+
+<DIV align="center">
+<B><FONT size="2">YEAR-END OPTION VALUES</FONT></B>
+</DIV>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The following table sets forth the number of
+options, both exercisable and unexercisable, held by each of the
+named Executive Officers of the Company and the value of any
+in-the-money options at April&nbsp;30, 2003 (using a value of
+$3.96 on April&nbsp;30, 2003):
+</FONT>
+
+<CENTER>
+<TABLE width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="31%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="2%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="9%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="8%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="10%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="9%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="17"></TD>
+</TR>
+
+<TR>
+    <TD colspan="17" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Number of</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Value of</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Unexercised</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Unexercised In-the-</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Options at</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Money Options at</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">April&nbsp;30, 2003(#)</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">April&nbsp;30, 2003</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="9"></TD>
+    <TD></TD>
+    <TD colspan="7"></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Shares</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3"></TD>
+    <TD></TD>
+    <TD colspan="7" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Acquired on</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Value</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Exercisable/</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Exercisable/</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD align="center" nowrap><B><FONT size="1">Name</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Exercise(#)</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Realized</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Unexercisable</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">Unexercisable (1)</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="17"></TD>
+</TR>
+
+<TR>
+    <TD colspan="17" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Alan R. Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/150,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">Melinda S. Garrett
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/50,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">J. Andrew Abrams
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/50,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">B. Michael Merritt (2)
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/50,000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">0/$0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="17" align="left"><HR size="1" noshade></TD>
+
+</TR>
+
+</TABLE>
+</CENTER>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="4%"></TD>
+    <TD width="96%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(1)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Calculated on the basis of the fair market value
+    of the underlying securities as of April&nbsp;30, 2003, minus
+    the exercise price.
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">(2)&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Resigned employment in June 2003, at which time
+    all options were forfeited.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<P align="center"><FONT size="2">9
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<!-- link1 "COMPENSATION COMMITTEE OF THE BOARD OF DIRECTORS REPORT ON EXECUTIVE COMPENSATION" -->
+<DIV align="left"><A NAME="010"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">COMPENSATION COMMITTEE OF THE BOARD OF
+DIRECTORS</FONT></B>
+
+<DIV align="center">
+<B><FONT size="2">REPORT ON EXECUTIVE COMPENSATION</FONT></B>
+</DIV>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The objectives of the Company&#146;s Executive
+compensation program are to enhance the profitability of the
+Company, and thus shareholder value, by aligning employee
+compensation with the financial interests of the shareholders of
+the Company, and to attract, motivate, reward and retain
+employees, including Executive Officers, who contribute to the
+long-term success of the Company. In furtherance of these goals,
+the Company&#146;s compensation program for Executive Officers
+includes base salary, annual incentive compensation and
+long-term incentive compensation. At the discretion of the Board
+of Directors, selected Executive Officers may participate in the
+Senior Management Deferral Plan, which is designed to permit
+eligible employees to defer a portion of their incentive
+compensation. The Compensation Committee reviews and makes
+recommendations to the Board of Directors regarding the
+compensation of the Company&#146;s Executive Officers.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I><FONT size="2">Salary. </FONT></I><FONT size="2">The
+Compensation Committee determines its recommended base salary
+for the Executive Officers, including the CEO, based upon the
+financial performance of the Company or subsidiary, as the case
+may be, and upon the individual&#146;s level of responsibility,
+qualifications, time with the Company, contribution,
+performance, and the compensation levels of similarly positioned
+executives in comparable companies. Evaluation of these factors
+is subjective and no fixed, relative weights are assigned to the
+criteria considered.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I><FONT size="2">Incentive
+Compensation.</FONT></I><FONT size="2"> The Board of Directors
+of the Company or the participating subsidiary, as the case may
+be, determines the amount of annual cash incentive bonus, if
+any, for certain of the Executive Officers. These incentive
+bonuses are based upon the financial performance of the Company
+or subsidiary, as the case may be, and upon the
+individual&#146;s level of responsibility, qualifications,
+contribution, performance, the bonus levels of similarly
+positioned executives in comparable companies, and upon the
+respective Board&#146;s judgment as to the impact of the
+individual on the financial performance of the Company. Only one
+Executive Officer received a cash incentive bonus, in the amount
+of $25,000, for the fiscal year ended April&nbsp;30, 2003.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Effective January&nbsp;1, 2003, the Company
+amended its deferred profit-sharing plan (the &#147;Plan&#148;)
+to add a 401(k)&nbsp;feature covering eligible employees meeting
+certain service requirements. Pursuant to the provisions of the
+Plan, eligible employees may make salary deferral (before tax)
+contributions of up to 100% of their total compensation per plan
+year, subject to a specified maximum contribution as determined
+by the Internal Revenue Service. The Plan also includes
+provisions that authorize the Company to make discretionary
+contributions. Such contributions, if made, are allocated among
+all eligible employees as determined under the Plan. The
+trustees under the Plan invest the assets of each
+participant&#146;s account as directed by the participants.
+During the fiscal year ended April&nbsp;30, 2003, the Company
+made employer matching 401(k) contributions to the Plan for all
+participating employees totaling approximately $18,000.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I><FONT size="2">Stock Awards. </FONT></I><FONT size="2">The
+Board of Directors adopted the Abrams Industries, Inc. 2000
+Stock Award Plan (the &#147;Stock Award Plan&#148;) on
+May&nbsp;26, 2000. The Company&#146;s shareholders approved the
+Stock Award Plan on August&nbsp;23, 2000. It is the intent of
+the Stock Award Plan to provide the means through which
+employees, including Executive Officers, can build a financial
+stake in the Company, so as to align the employees&#146;
+economic interests with those of shareholders. The Stock Award
+Plan
+</FONT>
+
+<P align="center"><FONT size="2">10
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV align="left">
+<FONT size="2">is designed to play an integral role in the
+ability of the Company to attract and retain key employees,
+directors, consultants, and independent contractors. Equity
+ownership among employees is an incentive which can enhance the
+Company&#146;s growth, profitability, and, accordingly,
+shareholder value.
+</FONT>
+</DIV>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">In July 2002, the Compensation Committee awarded
+1,100 shares of restricted stock to certain employees, 355,856
+incentive stock options to certain employees, and 253,144
+non-qualified stock options to the Company&#146;s directors,
+certain employees, and an independent contractor. In March 2003,
+the Compensation Committee awarded 4,700 shares of restricted
+stock to certain employees, consultants, and independent
+contractors.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I><FONT size="2">Compensation Deductibility
+Policy.</FONT></I><FONT size="2"> The Company does not
+anticipate that Section&nbsp;162 (m)&nbsp;of the Internal
+Revenue Code that limits the tax deduction for certain executive
+compensation at $1,000,000 will have any impact on the
+compensation policies of the Company.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The tables included in this Proxy Statement and
+accompanying narrative and footnotes reflect the decisions
+covered by the above discussion.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Submitted by the Compensation Committee of the
+Company&#146;s Board of Directors.
+</FONT>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="3%"></TD>
+    <TD width="97%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD></TD>
+    <TD align="left">
+    <FONT size="2">Robert T. McWhinney, Jr., Chairman
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD></TD>
+    <TD align="left">
+    <FONT size="2">Gilbert L. Danielson
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD></TD>
+    <TD align="left">
+    <FONT size="2">Felker W. Ward, Jr.
+    </FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- link1 "AUDIT COMMITTEE REPORT" -->
+<DIV align="left"><A NAME="011"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">AUDIT COMMITTEE REPORT</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Audit Committee has reviewed and discussed
+the audited financial statements for the fiscal year ended
+April&nbsp;30, 2003, with management and the independent
+auditors, Deloitte &#38; Touche LLP. Management made
+representations to the Audit Committee that the Company&#146;s
+consolidated financial statements were prepared in accordance
+with generally accepted accounting principles. The discussions
+with the independent auditors also included the matters required
+by Statement on Auditing Standards No.&nbsp;61 (Communication
+with Audit Committees).
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The independent auditors provided to the Audit
+Committee the written disclosures and the letter regarding its
+independence, as required by Independence Standards Board
+Standard No.&nbsp;1 (Independence Discussion with Audit
+Committees). This information was discussed with the independent
+auditors.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Based on discussions with management and the
+Company&#146;s independent auditors, the Audit Committee&#146;s
+review of the representations of management, and the report and
+independence letter of the independent auditors, the Audit
+Committee recommended to the Board of Directors that the audited
+consolidated financial statements be included in the
+Company&#146;s Annual Report on
+</FONT>
+
+<P align="center"><FONT size="2">11
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV align="left">
+<FONT size="2">Form&nbsp;10-K, to be filed with the Securities
+and Exchange Commission for the fiscal year ended April&nbsp;30,
+2003.
+</FONT>
+</DIV>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Submitted by the Audit Committee of the
+Company&#146;s Board of Directors.
+</FONT>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="3%"></TD>
+    <TD width="97%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD></TD>
+    <TD align="left">
+    <FONT size="2">Felker W. Ward, Jr., Chairman<BR>
+    Gilbert L. Danielson<BR>
+    Robert T. WcWhinney, Jr.</FONT></TD>
+</TR>
+</TABLE>
+
+<!-- link1 "DIRECTORS COMPENSATION" -->
+<DIV align="left"><A NAME="012"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">DIRECTORS COMPENSATION</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Currently, each Director is paid a retainer of
+$600 per month and a fee of $1,300 for each Board of Directors
+meeting attended. In addition, Directors who are members of a
+committee of the Board of Directors, but who are not Executive
+Officers of the Company, are paid a fee of $600 for each
+committee meeting attended.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I><FONT size="2">Directors&#146; Deferred Compensation Plan.
+</FONT></I><FONT size="2">The Company maintains a
+Directors&#146; Deferred Compensation Plan (the &#147;Deferred
+Compensation Plan&#148;) under which members of the Board of
+Directors of the Company may elect to defer to a future date
+receipt of all or any part of their compensation as Directors
+and/or as members of a committee of the Board. For purposes of
+the Deferred Compensation Plan, &#147;compensation&#148; means
+the retainer fees and meeting fees payable to such Directors by
+the Company in their capacities as Directors or as members of a
+committee of the Board of Directors, respectively, but excludes
+awards of restricted stock or stock options.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Deferred Compensation Plan is administered by
+the Executive Committee of the Board of Directors. A committee
+member may not participate in any decision relating in any way
+to his or her individual rights or obligations as a participant
+under the Deferred Compensation Plan.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Company will make payments of deferred
+compensation and the earnings on such deferred compensation
+pursuant to the provisions of the Deferred Compensation Plan at
+the time specified by each participant in a lump sum, subject to
+the Plan&#146;s restrictions and limitations, or, at the sole
+discretion of the participant, in no more than five equal annual
+installments. For the year ended April&nbsp;30, 2003, three
+members of the Board of Directors (including one Executive
+Officer who is also a Director) participated in the Deferred
+Compensation Plan.
+</FONT>
+
+<!-- link1 "SHAREHOLDER RETURN" -->
+<DIV align="left"><A NAME="013"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">SHAREHOLDER RETURN</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Set forth below is a line graph comparing, for
+the five-year period ending April&nbsp;30, 2003, the cumulative
+total shareholder return (assuming reinvestment of dividends) on
+the Company&#146;s Common Stock with that of: (i)&nbsp;all U.S.
+companies quoted on NASDAQ; (ii)&nbsp;all retail trade companies
+quoted on NASDAQ; and (iii) all companies in the Dow Jones U.S.
+Heavy Construction Index. The comparison assumes $100 was
+invested on April&nbsp;30, 1998, in the Company&#146;s Common
+</FONT>
+
+<P align="center"><FONT size="2">12
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV align="left">
+<FONT size="2">Stock and in each of the indices shown. The stock
+price performance shown on the graph below is not necessarily
+indicative of future price performance.
+</FONT>
+</DIV>
+
+<P align="center">
+<IMG src="g84197dg8419702.gif" alt="(PERFORMANCE GRAPH)">
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="29%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="25"></TD>
+</TR>
+
+<TR>
+    <TD colspan="25" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">4/30/98</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">4/30/99</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">4/30/00</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">4/30/01</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">4/30/02</FONT></B></TD>
+    <TD></TD>
+    <TD colspan="3" align="center" nowrap><B><FONT size="1">4/30/03</FONT></B></TD>
+</TR>
+
+<TR>
+    <TD colspan="25"></TD>
+</TR>
+
+<TR>
+    <TD colspan="25" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">&nbsp;Abrams Industries, Inc.
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">100.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">59.20</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">59.40</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">57.70</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">89.30</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom"><FONT size="2">$</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">71.20</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD colspan="25" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">&nbsp;NASDAQ&nbsp;Stock&nbsp;Market&nbsp;(US&nbsp;Companies)
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">100.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">137.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">207.60</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">113.70</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">91.40</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">79.80</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD colspan="25" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">&nbsp;NASDAQ Retail Trade Stocks
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">100.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">101.70</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">75.90</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">59.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">79.20</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">69.20</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD colspan="25" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2">&nbsp;Dow&nbsp;Jones&nbsp;U.S.&nbsp;Heavy&nbsp;Construction&nbsp;Index
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">100.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">91.17</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">111.10</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">157.31</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">143.83</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right" valign="bottom" nowrap><FONT size="2">120.88</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD colspan="25" align="center" nowrap><HR size="1" noshade></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<!-- link1 "INFORMATION CONCERNING THE COMPANY&#146;S INDEPENDENT AUDITORS" -->
+<DIV align="left"><A NAME="014"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">INFORMATION CONCERNING THE COMPANY&#146;S
+INDEPENDENT AUDITORS</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">Deloitte Touche LLP were the independent public
+accountants for the Company for the fiscal year ended
+April&nbsp;30, 2003. Representatives of Deloitte Touche LLP, who
+are expected to be present at the Annual Meeting, will have the
+opportunity to make a statement if they desire to do so, and to
+respond to appropriate questions. The Board of Directors has not
+selected auditors for the present fiscal year because the matter
+has not yet been considered.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">On October&nbsp;25, 2001, the Company dismissed
+PricewaterhouseCoopers LLP as its principal accountants, and
+engaged Arthur Andersen LLP. Subsequently, on May&nbsp;23, 2002,
+the Company dismissed Arthur Andersen LLP as its principal
+accountants, and engaged Deloitte &#38; Touche LLP. Both
+decisions to change accountants were approved by the Audit
+Committee of the registrant. PricewaterhouseCoopers&#146; report
+on the financial statements of the Company for the fiscal year
+2001 did not contain any adverse opinion or disclaimer of
+opinion, and was not qualified or modified as to uncertainty,
+audit scope, or accounting principle. Arthur Andersen LLP did
+not report on the financial statements of the registrant in the
+past two fiscal years.
+</FONT>
+
+<P align="center"><FONT size="2">13
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">In connection with PricewaterhouseCoopers&#146;
+audit for the Company&#146;s fiscal year 2001 and the subsequent
+interim period through October&nbsp;25, 2001, there were no
+disagreements with PricewaterhouseCoopers on any matter of
+accounting principles or practices, financial statement
+disclosure, or auditing scope or procedure, which disagreements,
+if not resolved to the satisfaction of PricewaterhouseCoopers,
+would have caused them to make reference to the subject matter
+of the disagreements in their reports for such fiscal years. In
+connection with the period from the engagement of Arthur
+Andersen on October 25, 2001, through May&nbsp;23, 2002, there
+were no disagreements with Arthur Andersen on any matter of
+accounting principles or practices, financial statement
+disclosure, or auditing scope or procedure, which disagreements,
+if not resolved to the satisfaction of Arthur Andersen, would
+have caused them to make reference to the subject matter of the
+disagreements in the subsequent interim period.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">None of the reportable events described under
+Item&nbsp;304(a)(1)(v) of Regulation&nbsp;S-K occurred during
+the Company&#146;s fiscal year 2001 and the subsequent interim
+period through October&nbsp;25, 2001, with respect to
+PricewaterhouseCoopers, nor did any such reportable events occur
+during the period from the engagement of Arthur Andersen on
+October&nbsp;25, 2001, through May 23, 2002.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">During the Company&#146;s last two fiscal years
+and the subsequent interim period through May&nbsp;23, 2002, the
+Company did not consult Deloitte &#38; Touche LLP regarding any
+of the matters or events set forth in Item&nbsp;304(a)(2)(i) and
+(ii) of Regulation&nbsp;S-K, nor did the Company consult with
+Arthur Andersen regarding any such matters during the
+Company&#146;s fiscal year 2001 and the subsequent interim
+period through October&nbsp;25, 2001.
+</FONT>
+
+<P align="left">
+<B><FONT size="2">Audit Fees</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">For the fiscal year ended April&nbsp;30, 2003,
+the aggregate fees billed by Deloitte &#38; Touche LLP for the
+audit of the Company&#146;s annual financial statements and for
+reviews of the interim quarterly financial statements were
+$126,000.
+</FONT>
+
+<P align="left">
+<B><FONT size="2">Financial Information Systems Design and
+Implementation Fees</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Company&#146;s independent auditors did not
+provide any professional services for information technology
+services relating to financial information systems design and
+implementation for the fiscal year ended April&nbsp;30, 2003;
+therefore, there were no fees billed by the Company&#146;s
+independent auditors for such services.
+</FONT>
+
+<P align="left">
+<B><FONT size="2">All Other Fees</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The aggregate fees billed for professional
+services by Deloitte &#38; Touche LLP to provide other non-audit
+services, including, among others, tax preparation and other
+services, during the fiscal year 2003, totaled $113,325.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Audit Committee has considered whether the
+provision of non-audit services by its independent auditors is
+compatible with maintaining auditor independence.
+</FONT>
+
+<!-- link1 "SHAREHOLDER PROPOSALS" -->
+<DIV align="left"><A NAME="015"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">SHAREHOLDER PROPOSALS</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">In accordance with the provisions of
+Rule&nbsp;14a-8(e) of the Securities and Exchange Commission,
+proposals of shareholders intended to be presented at the
+Company&#146;s 2004 Annual Meeting of
+</FONT>
+
+<P align="center"><FONT size="2">14
+</FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV align="left">
+<FONT size="2">Shareholders must be received by the Company at
+its executive offices on or before April&nbsp;8, 2004, in order
+to be eligible for inclusion in the Company&#146;s Proxy
+Statement and form of proxy for that meeting. In addition, in
+accordance with the Company&#146;s By-Laws, shareholder
+proposals intended to be presented at that meeting must be
+presented to the Secretary not less than sixty days prior to
+that meeting. The By-Laws further require that, in connection
+with such proposals, the shareholders provide certain
+information to the Secretary. The summary descriptions of the
+By-Laws contained in this Proxy Statement are not intended to be
+complete, and are qualified in their entirety by reference to
+the text of the By-Laws, which is available upon request of the
+Company.
+</FONT>
+</DIV>
+
+<!-- link1 "OTHER MATTERS" -->
+<DIV align="left"><A NAME="016"></A></DIV>
+
+<P align="center">
+<B><FONT size="2">OTHER MATTERS</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="2">The Board of Directors knows of no other matters
+to be brought before the Meeting. If other matters should come
+before the Meeting, however, it is the intention of each person
+named in the proxy to vote the proxy in accordance with his
+judgment of what is in the best interest of the Company.
+</FONT>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="40%"></TD>
+    <TD width="60%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <FONT size="2">BY ORDER OF THE BOARD OF DIRECTORS
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <FONT size="2">Alan R. Abrams
+    </FONT></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <I><FONT size="2">Co-Chairman of the Board</FONT></I></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD align="left">
+    <I><FONT size="2">President and Chief Executive
+    Officer</FONT></I></TD>
+</TR>
+
+</TABLE>
+
+<P align="left">
+<FONT size="2">Atlanta, Georgia
+</FONT>
+
+<DIV align="left">
+<FONT size="2">August&nbsp;6, 2003
+</FONT>
+</DIV>
+
+<P align="center"><FONT size="2">15
+</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<P align="center">
+<B><FONT size="2">ABRAMS INDUSTRIES, INC.</FONT></B>
+
+<P align="center">
+<B><FONT size="2">This Proxy is Solicited by the Board of
+Directors for the Annual Meeting of Shareholders to Be Held on
+September&nbsp;10, 2003.</FONT></B>
+
+<P align="left">&nbsp;&nbsp;&nbsp;
+<FONT size="2">The undersigned shareholder of Abrams Industries,
+Inc. hereby constitutes and appoints Alan R. Abrams and J.
+Andrew Abrams, and either of them, the true and lawful attorneys
+and proxies of the undersigned, with full power of substitution
+and appointment, for and in the name, place and stead of the
+undersigned to act for and to vote all of the undersigned&#146;s
+shares of Common Stock of Abrams Industries, Inc. at the Annual
+Meeting of Shareholders to be held in Atlanta, Georgia, on
+Wednesday, the 10th day of September, 2003, at 11:00&nbsp;A.M.,
+and at any and all adjournments thereof as follows:
+</FONT>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="2%"></TD>
+    <TD width="4%"></TD>
+    <TD width="94%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD>&nbsp;</TD>
+    <TD><FONT size="2">(1)</FONT></TD>
+    <TD align="left">
+    <FONT size="2">Election of Directors
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<CENTER>
+<TABLE width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="46%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="4"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="46%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD align="left" valign="top">
+    <DIV style="margin-left:10px; text-indent:-10px">
+    <FONT size="2"><FONT face="wingdings">&#111;</FONT>
+    </FONT></DIV>
+    </TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <B><FONT size="2">FOR </FONT></B><FONT size="2">all nominees
+    listed below (except as marked to the contrary below)
+    </FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <FONT size="2"><FONT face="wingdings">&#111;</FONT>
+    </FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top">
+    <B><FONT size="2">WITHHOLD AUTHORITY
+    </FONT></B><FONT size="2">to vote for all nominees listed below
+    </FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+
+<TR>
+    <TD width="7%"></TD>
+    <TD width="93%"></TD>
+</TR>
+
+<TR valign="top">
+    <TD><FONT size="2">NOMINEES:&nbsp;</FONT></TD>
+    <TD align="left">
+    <FONT size="2">ALAN R. ABRAMS; DAVID L. ABRAMS; J. ANDREW
+    ABRAMS; SAMUEL E. ALLEN; GILBERT L. DANIELSON; MELINDA S.
+    GARRETT; ROBERT T. McWHINNEY, JR.; AND FELKER W. WARD, JR.
+    </FONT></TD>
+</TR>
+
+</TABLE>
+
+<P align="center">
+<B><I><FONT size="2">(INSTRUCTION:&nbsp;To withhold authority to
+vote for any individual nominee, write that nominee&#146;s name
+in the space provided below.)</FONT></I></B>
+
+<P align="left">
+<HR size="1" width="100%" align="left" noshade>
+
+<P align="left">&nbsp;&nbsp;&nbsp;
+<FONT size="2">(2)&nbsp;&nbsp;&nbsp;For the transaction of such
+other business as may lawfully come before the Meeting; hereby
+revoking any proxies as to said shares heretofore given by the
+undersigned; and ratifying and confirming all that said
+attorneys and proxies may lawfully do by virtue hereof.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;
+<FONT size="2">It is understood that this Proxy confers
+discretionary authority in respect to matters not known to, or
+determined by, the undersigned at the time of mailing of notice
+of the Meeting.
+</FONT>
+
+<P align="left">&nbsp;&nbsp;&nbsp;
+<B><FONT size="2">The Board of Directors favors a vote
+&#147;FOR&#148; all of the nominees listed in Item&nbsp;1.
+Unless instructions to the contrary are indicated in the space
+provided for in Item&nbsp;1, this Proxy will be so
+voted.</FONT></B>
+
+<P align="center">
+<I><FONT size="2">(Continued and to be dated and signed on
+reverse side)</FONT></I>
+
+<DIV>&nbsp;</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<P align="left">&nbsp;&nbsp;&nbsp;
+<FONT size="2">The undersigned hereby acknowledges receipt of
+the Notice of Annual Meeting of Shareholders dated
+August&nbsp;6, 2003, and the Proxy Statement furnished therewith.
+</FONT>
+
+<CENTER>
+<TABLE width="80%" align="center" cellspacing="0" cellpadding="0" border="0">
+
+<TR>
+    <TD width="40%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="3%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="19%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="27%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="1%"><FONT size="2">&nbsp;</FONT></TD>
+    <TD width="9%"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="bottom">
+    <FONT size="2">Dated and signed:
+    </FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="bottom">&nbsp;</TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="bottom">
+    <FONT size="2">,&nbsp;2003
+    </FONT></TD>
+</TR>
+
+
+<TR valign="top">
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="bottom">
+    <FONT size="2">&nbsp;
+    </FONT></TD>
+    <TD colspan="2" align="left" valign="top">
+    <HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="bottom">
+    <FONT size="2">&nbsp;
+    </FONT></TD>
+</TR>
+
+<TR>
+    <TD colspan="7"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="5" align="left"><HR size="1" noshade></TD>
+
+</TR>
+
+<TR>
+    <TD colspan="7"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="5" align="left"><HR size="1" noshade></TD>
+
+</TR>
+
+<TR>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="5" align="left" valign="bottom">
+    <FONT size="2">(Signature should agree with name hereon.
+    Executors, administrators, trustees, guardians and attorneys
+    should so indicate when signing. For joint accounts, each owner
+    should sign. Corporations should sign full corporate name by
+    duly authorized officer.)
+    </FONT></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P align="left">&nbsp;&nbsp;&nbsp;
+<FONT size="2">This Proxy is revocable at or at any time prior
+to the Meeting. Please sign and return this Proxy to SunTrust
+Bank, Attn: Stock Transfer Department, P.O. Box 105649, Atlanta,
+Georgia 30348-9923, in the accompanying prepaid envelope.
+</FONT>
+
+<DIV>&nbsp;</DIV>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g84197dg8419702.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g84197dg8419702.gif
+M1TE&.#EA5@+]`/?_````````,P``9@``F0``S```_P`S```S,P`S9@`SF0`S
+MS``S_P!F``!F,P!F9@!FF0!FS`!F_P"9``"9,P"99@"9F0"9S`"9_P#,``#,
+M,P#,9@#,F0#,S`#,_P#_``#_,P#_9@#_F0#_S`#__S,``#,`,S,`9C,`F3,`
+MS#,`_S,S`#,S,S,S9C,SF3,SS#,S_S-F`#-F,S-F9C-FF3-FS#-F_S.9`#.9
+M,S.99C.9F3.9S#.9_S/,`#/,,S/,9C/,F3/,S#/,_S/_`#/_,S/_9C/_F3/_
+MS#/__V8``&8`,V8`9F8`F68`S&8`_V8S`&8S,V8S9F8SF68SS&8S_V9F`&9F
+M,V9F9F9FF69FS&9F_V:9`&:9,V:99F:9F6:9S&:9_V;,`&;,,V;,9F;,F6;,
+MS&;,_V;_`&;_,V;_9F;_F6;_S&;__YD``)D`,YD`9ID`F9D`S)D`_YDS`)DS
+M,YDS9IDSF9DSS)DS_YEF`)EF,YEF9IEFF9EFS)EF_YF9`)F9,YF99IF9F9F9
+MS)F9_YG,`)G,,YG,9IG,F9G,S)G,_YG_`)G_,YG_9IG_F9G_S)G__\P``,P`
+M,\P`9LP`F<P`S,P`_\PS`,PS,\PS9LPSF<PSS,PS_\QF`,QF,\QF9LQFF<QF
+MS,QF_\R9`,R9,\R99LR9F<R9S,R9_\S,`,S,,\S,9LS,F<S,S,S,_\S_`,S_
+M,\S_9LS_F<S_S,S___\``/\`,_\`9O\`F?\`S/\`__\S`/\S,_\S9O\SF?\S
+MS/\S__]F`/]F,_]F9O]FF?]FS/]F__^9`/^9,_^99O^9F?^9S/^9___,`/_,
+M,__,9O_,F?_,S/_,____`/__,___9O__F?__S/___P``````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````````````````"P`````5@+]```(_P"O"1Q(L*#!@P@3*ES(L*'#
+MAQ`C2IQ(L:+%BQ@S:MS(L:/'CR!#BAQ)LJ3)DRA3JES)LJ7+ES!CRIQ)LZ;-
+MFSASZMS)LZ?/GT"#"AU*M*A&*P2ML"+("FE"*U"C2IU*M:K5JUBS:MW*M:O7
+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
+''<R@@```.S\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

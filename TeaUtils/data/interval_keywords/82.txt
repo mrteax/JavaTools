@@ -1,0 +1,949 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PsIAf0tnz2sci+SLlC5TKwZLu0lk4Gw4WlUsA1QA0B7bMWwAYBKqmvfwqGqf4PrJ
+ oDj7zY1UMs1apAhnMg2gSg==
+
+<SEC-DOCUMENT>/in/edgar/work/0000002034-00-000007/0000002034-00-000007.txt : 20001026
+<SEC-HEADER>0000002034-00-000007.hdr.sgml : 20001026
+ACCESSION NUMBER:		0000002034-00-000007
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000630
+FILED AS OF DATE:		20001025
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACETO CORP
+		CENTRAL INDEX KEY:			0000002034
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [5160
+]		IRS NUMBER:				111720520
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		DEF 14A
+			SEC ACT:		
+			SEC FILE NUMBER:	000-04217
+			FILM NUMBER:		745495
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		ONE HOLLOW LANE
+				CITY:			LAKE SUCCESS
+				STATE:			NY
+				ZIP:			11042
+				BUSINESS PHONE:		5166276000
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		ONE HOLLOW LANE
+					CITY:			LAKE SUCCESS
+					STATE:			NY
+					ZIP:			11042
+</MAIL-ADDRESS>
+
+					FORMER COMPANY:	
+						FORMER CONFORMED NAME:	ACETO CHEMICAL CO INC
+						DATE OF NAME CHANGE:	19851203
+</FORMER-COMPANY>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+December 7, 2000
+
+The Annual Meeting of Stockholders of Aceto Corporation, a New York
+corporation, ("the Company"), will be held at the Inn at Great Neck, 30 Cutter
+Mill Road, Great Neck, New York 11021, at 10:00 A.M. New York City time, on
+Thursday, December 7, 2000 for the following purposes:
+
+      1.    To elect seven directors to hold office until the next
+            Annual Meeting of Stockholders or until their successors are
+            elected and qualified;
+
+      2.    To transact such other business as may properly come before
+            the meeting or any adjournment thereof.
+
+The Board of Directors has fixed the close of business on September 11, 2000 as
+the record date for the determination of stockholders entitled to notice of and
+to vote at the Annual Meeting.
+
+If you do not expect to attend the meeting in person, please fill in, sign, and
+return the enclosed form of proxy.
+
+                                    By order of the Board of Directors,
+
+
+                                    DONALD HOROWITZ
+                                    Secretary
+
+Lake Success, New York
+October 20, 2000
+
+
+ACETO CORPORATION
+One Hollow Lane
+Lake Success, New York 11042-1215
+
+PROXY STATEMENT
+
+ANNUAL MEETING OF STOCKHOLDERS
+December 7, 2000
+
+Approximate Mailing Date of Proxy Statement and Form of Proxy:  October 20,
+2000
+
+This Proxy Statement is furnished in connection with the solicitation by the
+Board of Directors of Aceto Corporation ("the Company") of proxies to be voted
+at the Annual Meeting of Stockholders to be held on Thursday, December 7, 2000
+and at any adjournment thereof.
+
+A stockholder who executes and mails a proxy in the enclosed return envelope
+may revoke such proxy at any time prior to its use by notice in writing to the
+Secretary of the Company or by revocation in person at the Annual Meeting.
+Unless so revoked, the shares represented by duly executed proxies received by
+the Company prior to the Annual Meeting will be voted for or against the
+proposals referred to therein and presented at the Annual Meeting in accordance
+with the stockholder's instructions marked thereon. If no instructions are
+marked thereon, proxies will be voted (l) FOR the election as directors of the
+nominees named below under the caption "ELECTION OF DIRECTORS"; (2) in the
+discretion of the proxies named on the proxy card with respect to such other
+business as may properly come before the Annual Meeting or any adjournments
+thereof.
+
+The close of business on September 11, 2000 has been fixed as the record date
+for the determination of stockholders entitled to notice and to vote at the
+meeting. At that record date, the following class of stock was outstanding and
+entitled to notice and vote:
+
+                                 Shares     Votes per
+      Class                   Outstanding     Share              Votes
+
+Common stock                  6,034,717      1.0000            6,034,717
+
+PRINCIPAL HOLDERS OF VOTING SECURITIES
+
+The following table sets forth as of September 11, 2000 certain information
+with respect to each person who to the best of the knowledge of the Company
+beneficially owned more than 5% of the outstanding shares of the Company's
+common stock:
+
+NAME and ADDRESS              COMMON STOCK
+
+                              Amount & Nature
+                               of Beneficial          % of
+                                 Ownership            Class
+
+Private Capital
+Management                      824,175(1)            13.7
+3003 Tamiami Trail
+North Naples, FL 34103
+
+T. Rowe Price
+Associates, Inc.                638,000(2)            10.6%
+100 East Pratt Street
+Baltimore, MD 21202
+
+Mark E. Brady                   483,779(3)            8.0%
+Robert J. Suttman
+Ronald Eubel
+Bernie Holtgrieve
+William Hazel
+Eubel Brady & Suttman
+Asset Management, Inc.
+7777 Washington
+Village Drive
+Dayton, Ohio 45459
+
+Dimensional Fund
+Advisors Inc.                  437,008(4)             7.2%
+1299 Ocean Avenue
+11{th} Floor
+Santa Monica, CA 90401
+
+Delphi Management, Inc.        308,000(5)             5.1%
+50 Rowes Wharf
+Suite 540
+Boston, MA 02110
+
+(1)   As of October 6, 2000.
+
+(2)  The securities are owned by various individual and institutional
+     investors [including T. Rowe Price Small Cap Value Fund, Inc. (which
+     owns 575,000 shares, representing 9.5% of the shares outstanding)], to
+     which T. Rowe Price Associates, Inc. ("Price Associates") serves as
+     investment advisor with power to direct investments and/or sole power
+     to vote the securities.  For purposes of the reporting requirements of
+     the Securities Exchange Act of 1934, Price Associates is deemed sole
+     owner of such securities; however, Price Associates expressly
+     disclaims that it is, in fact, the beneficial owner of such
+     securities.
+
+(3)  Eubel Brady & Suttman Asset Management, Inc. (EBS) is an investment
+     advisor registered under Section 203 of the Investment Advisors Act of
+     1940.  Mark E. Brady, Robert J. Suttman and Ronald L. Eubel, all
+     affiliates of EBS, each beneficially own 407,691 shares (6.8%), with
+     shared voting and dispositive power. Bernie Holtgrieve and William
+     Hazel, who are also affiliated with EBS, and EBS, each beneficially
+     own 391,838 shares (6.5%) with shared voting and dispositive power.
+
+(4)  Dimensional Fund Advisors, Inc. (Dimensional), an investment advisor
+     registered under Section 203 of the Investment Advisors Act of 1940,
+     furnishes investment advice to four investment companies registered
+     under the Investment Company Act of 1940, and serves as investment
+     manager to certain other investment vehicles, including commingled
+     group trusts.  (These investment companies and investment vehicles are
+     the "Portfolios").  In its role as investment advisor and investment
+     manager, Dimensional possesses both voting and investment power over
+     437,008 shares of Aceto Corporation as of June 30, 2000.  The
+     Portfolios own all securities reported in this statement, and
+     Dimensional disclaims beneficial ownership of such securities.
+
+(5)  Per 13-F filing of June 30, 2000.
+
+   PROPOSAL 1: ELECTION OF DIRECTORS
+
+At the meeting seven directors are to be elected, each to serve until the next
+Annual Meeting of Stockholders or until their successors are elected and
+qualified. If any nominee should become unavailable for any reason, it is
+intended that shares represented by proxies in the accompanying form will be
+voted for a substitute nominee designated by the management. The management has
+no reason to believe that any of the nominees named will not be a candidate or
+will be unable to serve if elected.
+
+The names of the nominees for directors, together with certain information
+regarding them, are as follows:
+
+LEONARD S. SCHWARTZ, Age 54, PRESIDENT , CHAIRMAN OF THE BOARD and CHIEF
+EXECUTIVE OFFICER. Mr. Schwartz has served as Chairman and Chief Executive
+Officer since July 1, 1997, and President since July 1, 1996.  He joined the
+Company in 1969, and became Senior Vice President in charge of its industrial
+chemicals department in 1991.  Mr. Schwartz is also Chairman of the Executive
+Committee and the incumbent Chairman of the Audit Committee.  He has been a
+director of the Company since 1991.
+
+SAMUEL I. HENDLER, Age 78, ATTORNEY.  Mr. Hendler, who has been engaged in the
+private practice of law in New York since 1949, has acted as counsel to the
+Company for more than 45 years and is Secretary, a director and counsel to
+Pneumercator Company, Inc., a Farmingdale, New York Corporation.  Mr. Hendler
+is a member of the Executive and Audit Committees.  He has been a director
+since 1990.
+
+ROBERT A. WIESEN, Age 49, ATTORNEY, Partner in Clifton Budd & DeMaria.  Mr.
+Wiesen is an attorney and partner in the law firm of Clifton Budd & DeMaria.
+He joined the firm in 1979 subsequent to his employment with the National Labor
+Relations Board.  He has handled matters for the Company relating to labor and
+employment law for over ten years and he has written and lectured on labor law.
+Mr. Wiesen is a member of the Executive and Audit Committees.  He has been a
+director since 1994.
+
+RICHARD AMITRANO, Age 52, SENIOR VICE PRESIDENT of the Company.
+Mr. Amitrano joined the Company in 1972 and is in charge of its organic
+intermediates and colorants department.  He has been a director since 1997.
+
+STANLEY H. FISCHER, Age 57, ATTORNEY, President of Fischer and Burstein P.C., a
+law firm.  Mr. Fischer received a J.D. degree from New York University School
+of Law.  He has been a practicing attorney for more than thirty years and has
+advised and represented corporate entities in matters relative to internal
+matters, mergers, acquisitions, real estate and litigation.  He is a member of
+the American Bar Association, the New York Bar Association, the Association of
+the Bar of the City of New York, Association of Trial Lawyers of America, New
+York State Trial Lawyers and Nassau County Bar. He is a member of various
+professional committees including the International Law Section of the New York
+State Bar.  Mr. Fischer became a director in March 2000 and is a member of the
+Executive Committeee.
+
+ALBERT L. EILENDER, Age 57, is the sole owner of Waterways Advisory Services, a
+firm specializing in advising companies on developing and evaluating options
+relative to mergers, acquisitions and strategic partnerships in the Chemical
+Industry.  He has more than 30 years of diverse Senior Level experience in the
+Specialty Chemicals and Pharmaceutical industry and has had direct P&L
+responsibility for running businesses up to $300 million, with significant
+experience in mergers, acquisitions and joint ventures, both domestically and
+internationally.  He has also served on the boards of numerous industry trade
+associations during his career.
+
+JOHN H. SCHLESINGER, Age 52, is Managing Director of Young and Partners, LLC,
+an investment bank specializing in mergers and acquisitions in the chemical and
+pharmaceutical industries.  He is a corporate finance executive with more than
+15 years of experience specializing in chemical mergers & acquisitions.  He
+holds an MBA in Finance from the Wharton School.  He was with Salomon Brothers
+for 14 years ending up as the Managing Director and worldwide head of Chemical
+Industry Mergers & Acquisitions and has extensive international experience in
+South America and Asia.
+
+            Stock Ownership of Executive Officers, Directors and Nominees for
+            Director as of September 11, 2000
+
+                    Common Stock     Currently       Total
+                    Beneficially    Exercisable    Beneficial   Percent
+Name                   Owned       Stock Options   Ownership   Ownership
+
+Leonard S. Schwartz       32,288         127,500     159,788      2.6
+Donald Horowitz            4,424          27,500      31,924      0.5
+Samuel I. Hendler          5,622           1,000       6,622      0.1
+Richard Amitrano           2,314          27,500      29,814      0.5
+Robert A. Wiesen             301           1,000       1,301        -
+Stanley H. Fischer             -               -           -        -
+Albert L. Eilender             -               -           -        -
+John H. Schlesinger            -               -           -        -
+
+All directors, officers   44,949         184,500     229,449      3.7%
+and nominees as a group
+- -eight persons
+
+All the nominees for Director have, or share with their respective spouses,
+voting power and investment power with respect to the shares owned by each of
+them.
+
+The Board of Directors does not have a nominating committee. The Executive
+Committee of the Board of Directors, whose members are Messrs. Leonard S.
+Schwartz (Chairman), Stanley H. Fischer, Samuel I. Hendler and Robert A.
+Wiesen, functions as the Executive Compensation Committee.
+
+During the fiscal year ended June 30, 2000 there were 5 meetings of the Board
+of Directors. All then incumbent directors attended at least 75% of the
+meetings.
+
+A plurality of votes actually cast at the meeting is required to elect a
+director.
+
+THE BOARD RECOMMENDS THAT YOU VOTE "FOR" ALL SEVEN NOMINEES FOR DIRECTOR.
+
+                                AUDIT COMMITTEE
+
+The incumbent members of the Audit Committee (the "Committee") are Messrs.
+Schwartz, Hendler and Wiesen.  The Company anticipates that the composition of
+the Committee will be changed following the Annual Meeting to Messrs. Eilender,
+Schlesinger and Wiesen, who are non-employee, independent directors.
+
+The Committee held two meetings during the fiscal year.  The Committee serves:
+as an independent and objective party to monitor the Company's financial
+reporting process and internal accounting system; annually recommends to the
+Board of Directors the firm to be engaged as independent accountants for the
+Company and the compensation to be paid to the independent accountants; reviews
+the scope of, and the reports and findings of, the audit activities of the
+independent accountants and of the Company's internal accounting department;
+provides an open avenue of communication among the independent accountants,
+financial and senior management, and the internal accounting department to
+ascertain if any restrictions have been placed on the scope of their activities
+or if there has been any lack of adequate response to their recommendations;
+reviews the Company's corporate compliance program; and makes periodic reports
+and recommendations to the Board of Directors.
+
+The Company's Board of Directors has adopted a written charter for the Audit
+Committee, a copy of which is included as an appendix hereto.
+
+EXECUTIVE COMPENSATION
+
+Summary Compensation Table
+The following table sets forth certain information regarding compensation paid
+or accrued during each of the Company's last three fiscal years to the
+Company's Chief Executive Officer and each of the Company's four other most
+highly compensated executive officers.
+
+ANNUAL COMPENSATION                                                 LONG TERM
+                                                                  COMPENSATION
+
+
+NAME AND    YEAR   SALARY   BONUS    OTHER   RESTRICTED OPTIONS/ LTIP   ALL
+PRINCIPAL                            ANNUAL   STOCK     SARS   PAYOUTS OTHER
+POSITION                             COMPEN-  AWARDS                   COMPEN-
+                                     SATION                           SATION(2)
+
+Leonard S.
+Schwartz    2000  $339,715  $519,246  $1,051  $ 65,754   -        -   $63,515
+President,  1999   314,711   432,000   1,264   108,000   -        -    58,223
+ Chairman   1998   298,558   500,000   4,053   100,000  60,000(1) -    60,415
+ & CEO
+
+Donald
+Horowitz    2000   226,477   137,750   1,877     6,250  -         -    35,804
+Secretary/  1999   209,808   116,312   1,897     8,688  15,000    -    32,228
+Treasurer   1998   199,731   115,000   2,334       -    -         -    31,348
+ & CFO
+
+Richard
+Amitrano    2000   213,325   149,160   1,950       -    -         -    35,529
+Sr. Vice    1999   198,624   111,822   1,633     1,566  15,000    -    31,001
+President   1998   189,579    93,210   1,273    28,000  -         -    31,890
+
+Anthony
+Baldi       2000   207,692   200,000   3,161       -     2,000    -    35,811
+President,  1999   200,000   185,500   2,349     4,500   2,000    -    34,988
+Aceto       1998   200,330   144,000   2,634    36,000   -        -    34,504
+Agricul-
+tural
+Chemicals
+
+Thomas
+Brunner     2000   207,692    50,000   2,760       -     2,000    -    22,621
+Sr. Vice    1999   200,000    50,000   2,718       -     2,000    -    24,675
+President   1998   200,083   147,894   2,702    36,974   -        -    34,735
+
+   (1)  Adjusted for the 3 for 2 stock split paid in April 1998.
+   (2)  Represents contributions to the Company's qualified and non-qualified
+        retirement plans.
+
+
+Option Grants In Last Fiscal Year
+The following table contains information regarding the grant of stock options
+in the fiscal year ended June 30, 2000 to the named executives.  All grants
+were made in the form of non-qualified stock options.
+
+Options Granted in Last Fiscal Year
+
+                                                    Potential Realizable Value
+                                                    at Assumed Annual Rates
+                                                    of Stock Price Appreciation
+                                                    for Option Term
+
+                          Individual Grants
+
+
+             Number of
+             Securities   % of Total       Exercise
+             Underlying  Options Granted   or Base   Expir-
+             Options      To Employees     Price     ation
+Name         Granted      in Fiscal Year   ($/Sh)    Date      5%(1)    10%(1)
+
+Richard
+ Amitrano     None
+
+Anthony
+ Baldi       2,000         10%           $11.75     12/2/09    $14,779  $34,682
+
+Thomas
+ Brunner     2,000         10%           $11.75     12/2/09    $14,779  $34,682
+
+Donald
+ Horowitz     None
+
+Leonard
+ Schwartz     None
+
+(1) The dollar amounts illustrate value that might be realized upon exercise
+    of the options immediately prior to the expiration of their term,
+    covering the specific compounded rates of appreciation set by the
+    Securities and Exchange Commission (5% and 10%) and are not, therefore,
+    intended to be forecasts by Aceto of possible future appreciation of the
+    stock price of Aceto.
+
+Stock Option Exercises in Fiscal 2000 and Value at June 30, 2000
+
+The following table summarizes information with respect to options exercised
+during fiscal year ended June 30, 2000 by the Chief Executive Officer and the
+executive officers named in the Summary Compensation Table, and the value of
+the options held by such persons at the end of fiscal year 2000.
+
+                                                              Value of
+                                               No. of         Unexercised
+                                               Unexercised    In-the-money
+                                               Options at     Options at
+                       Shares                  June 30, 2000  June 30, 2000(1)
+                       Acquired     Value      Exercisable/   Exercisable/
+Name                 on Exercise    Realized   Unexercisable  Unexercisable
+
+Richard Amitrano         -         $    -       27,500/           $ 83,700/
+                                                10,000                -0-
+
+Anthony Baldi           6,000         18,750     8,000/             22,320/
+                                                 2,000                -0-
+
+Thomas Brunner          6,534         46,775       -0-/               -0- /
+                                                   -0-                -0-
+
+Donald Horowitz          -              -       27,500/             83,700/
+                                                10,000                -0-
+
+Leonard S. Schwartz     6,534         39,832   127,500/            364,500/
+                                               172,500             431,250
+
+(a)   Value of unexercised in-the-money options is based on the common
+      stock closing price on June 30, 2000 of $11.50.
+
+On June 9, 1992, the Company's Board of Directors adopted resolutions amending
+the Company's 1980 Stock Option Plan ("the Option Plan"), in the following
+respects: the Plan is to be administered by a committee consisting of not less
+than three directors, all of whom shall be "disinterested persons"; a committee
+member shall be a "disinterested person" only if such person is not, at the
+time he exercises discretion in administering the Option Plan, eligible, and
+has not at any time within one year prior thereto been eligible, for selection
+as a person as to whom options may be granted; and no option may be granted to
+any director as to whom the proxy statement for the meeting of stockholders at
+which the Option Plan was submitted for approval of the stockholders of the
+Company disclosed that such director will not participate in the Option Plan.
+
+A committee consisting of Samuel I. Hendler (Chairman), Stanley H. Fischer and
+Robert A. Wiesen was appointed by the Board of Directors to administer the
+Option Plan. All of said directors were disinterested persons as defined by the
+Option Plan.
+
+The Company's 1998 Omnibus Equity Award Plan is administered by the Executive
+Committee of the Company's Board of Directors.
+
+REPORT OF THE EXECUTIVE COMPENSATION COMMITTEE
+
+The Executive Committee of the Board of Directors, whose members are Leonard S.
+Schwartz (Chairman), Stanley H. Fischer, Samuel I. Hendler and Robert A.
+Wiesen, functions as the Executive Compensation Committee, and makes
+recommendations to the Board with respect to the remuneration of the Company's
+executive officers.
+
+The Company's compensation policy has been designed to enable the Company to
+attract, retain and motivate executives whose enthusiasm and abilities will
+contribute to the growth of its business and result in maximum profitability to
+the Company and its stockholders, by providing salaries and benefits
+competitive with those offered by other companies in the chemical industry.
+The executive compensation program includes base salary, annual incentive
+compensation (cash bonuses), and long term incentive compensation (awards under
+the Company's Omnibus Equity Award Plan).
+
+Base salaries are set at levels competitive with the chemical industry.
+Because of the way that the Company operates its business, the contributions of
+its executives significantly affect corporate profitability.  Bonuses (which
+can exceed base salary) are paid to reflect the extent of such contributions.
+The Chief Executive Officer (CEO) also is the President and Chief Operating
+Officer (COO) of the Company.  The bonuses paid to the CEO and to the
+Secretary/Treasurer, who is the Chief Financial Officer (CFO), reflect the
+Company's overall performance (excluding extraordinary events).
+
+The three highest paid executives, other than the CEO and CFO, are each
+responsible for the performance of one of the Company's principal profit
+centers.  Internally generated performance records are kept on a monthly and
+yearly basis for these profit centers, and each center's profitability is
+compared in the current year to the previous year.  Other factors considered in
+determining the bonuses of individual executives are the individual's own
+performance and the overall performance of the Company.  The Executive
+Compensation Committee determines each bonus primarily based on this data, also
+taking into account the long term contributions of each individual.
+
+CHIEF EXECUTIVE OFFICER'S COMPENSATION
+
+The CEO's compensation was determined on the basis of the same factors utilized
+to compensate other executives, taking into account total compensation
+comparisons of top executives of corporations considered to be in the Company's
+peer group.
+
+      The Executive Compensation Committee
+            Leonard S. Schwartz, Chairman
+            Stanley H. Fischer
+            Samuel I. Hendler
+            Robert A. Wiesen
+
+
+
+DIRECTOR COMPENSATION
+
+Each non-employee director currently receives $12,500 per year for serving on
+the Board of Directors plus $500 for each committee meeting attended. There is
+no additional compensation for directors who are also employees.
+
+Each of the then non-employee directors, Messrs. Hendler, Wiesen and Goldstein,
+received stock options on December 2, 1999 under the 1998 Aceto Corporation
+Omnibus Equity Award Plan.  Each stock option was for 1,000 shares at a strike
+price of $11.75 and expires ten years from the date of grant.  At June 30,
+2000, the closing price of Aceto Corporation common stock was $11.50.  The
+options were not in-the-money.
+
+
+EMPLOYMENT AGREEMENTS
+
+There are no employment contracts with any director, nominee for election as
+director, or officer; however, Messrs. Amitrano and Schwartz have signed patent
+and trade secret agreements.
+
+STOCK PERFORMANCE GRAPH
+
+Shown below is a line graph comparing the yearly percentage change in the
+cumulative total stockholder return on the Company's common stock against the
+cumulative total return of the S & P 500 Index and the Dow Jones Chemicals
+Index for the period of five years commencing July 1, 1995 and ending June 30,
+2000.
+
+Comparison of Five Year Cumulative Return* Among Aceto Corporation, The S & P
+500 Index and the Dow Jones Chemicals Index.
+
+* $100 invested on 06/30/95 in stock or index including reinvestment of
+dividends.  Fiscal year ending June 30.
+
+                        Cumulative Total Return
+
+                  6/95  6/96  6/97  6/98  6/99  6/00
+
+Aceto Corp.       100   120   115   194   140   138
+S & P 500         100   126   169   221   271   291
+DJ Chemicals      100   114   147   162   167   124
+
+
+CERTAIN TRANSACTIONS
+
+Samuel I. Hendler, a director of the Company, serves as general counsel to the
+Company. Robert A. Wiesen, a director of the Company, is a partner in the law
+firm of Clifton Budd & DeMaria, which serves as labor and employment law
+counsel to the Company.  Stanley H. Fischer, a director of the Company, is
+President of Fischer and Burstein, P. C., a law firm which serves as counsel to
+the Company on various corporate matters.
+
+
+SECTION 16 COMPLIANCE
+
+Section 16(a) of the Securities Exchange Act of 1934 requires the Company's
+directors and executive officers, and persons who own more than 10% of the
+registered class of the Company's equity securities to file with the Securities
+and Exchange Commission (the "SEC"), initial reports of ownership and reports
+of changes in ownership of common stock and other equity securities of the
+Company. Officers, directors and greater than 10% stockholders are required by
+SEC regulation to furnish the Company with copies of all Section 16(a) forms
+they file. To the Company's knowledge, based solely on review of the copies of
+such reports furnished to the Company and representations that no other reports
+were required during the fiscal year, all Section 16(a) filing requirements
+applicable to its officers, directors and greater than 10% beneficial owners
+were complied with.
+
+RELATIONSHIP WITH THE COMPANY'S INDEPENDENT PUBLIC ACCOUNTANTS
+
+The Board has again appointed the firm of KPMG LLP as independent auditors for
+the fiscal year ending June 30, 2001.  A representative of KPMG LLP will be
+present at the Annual Meeting of Stockholders to respond to appropriate
+questions from stockholders and will have the opportunity to make a statement,
+if he so desires.
+
+STOCKHOLDER PROPOSALS
+
+Any proposal which a stockholder intends to present at the 2001 Annual Meeting
+of Stockholders must be duly received by the Company on or before June 2, 2001.
+
+OTHER MATTERS
+
+The Company's Annual Report to Stockholders for the year ended June 30, 2000 is
+being mailed to stockholders with this Proxy Statement.
+
+The cost of solicitation of proxies in the accompanying form will be borne by
+the Company, including expenses in connection with preparing and mailing this
+Proxy Statement. In addition to the use of mails, proxies may be solicited by
+personal interview, facsimile, telephone or telegram by directors, officers and
+employees of the Company. Arrangements may also be made with brokerage houses
+and other custodians, nominees and fiduciaries for the forwarding of
+solicitation material to the beneficial owners of stock held of record by such
+persons, and the Company may reimburse them for reasonable out-of-pocket
+expenses incurred by them in connection therewith.
+
+The management does not know of any matters to be presented for consideration,
+other than the matters described in the Notice of Annual Meeting, but if other
+matters are presented, it is the intention of the persons named in the
+accompanying proxy to vote on such matters in accordance with their judgment.
+
+The Company will provide, without charge to each person whose proxy is
+solicited, on the written request of any such person, a copy of the Company's
+annual report on Form 10-K for its fiscal year ended June 30, 2000 required to
+be filed with the Securities and Exchange Commission, including the financial
+statements and the schedules thereto. Such written request should be directed
+to Mr. Donald Horowitz, Aceto Corporation, One Hollow Lane, Lake Success, New
+York 11042-1215. Each such request must set forth a good faith representation
+that, as of September 11, 2000 the person making the request was a beneficial
+owner of securities entitled to vote at the annual meeting of stockholders.
+
+
+
+      By Order of the Board of Directors,
+
+      DONALD HOROWITZ
+      Secretary
+
+October 20, 2000
+
+
+
+                                                            Addendum 1
+            STATEMENT PURSUANT TO SECTION 726 (d) OF
+            THE NEW YORK BUSINESS CORPORATION LAW
+      RELATING TO DIRECTOR AND OFFICER INDEMNIFICATION
+
+The following information pertains to directors and officers liability
+indemnity insurance purchased by the Company:
+
+
+Insurance Carrier:            St. Paul Insurance Co.
+
+Date of Contract:             September 1, 1999
+
+Expiration Date:              July 1, 2001
+
+Cost of Insurance:            $60,238 ($32,857 per annum)
+
+Corporate Positions Insured:  Directors and Officers
+
+Appendix 1
+
+ACETO CORPORATION
+
+AUDIT COMMITTEE OF THE BOARD OF DIRECTORS CHARTER
+
+
+I.  FUNCTION, PURPOSE, RESPONSIBILITIES AND DUTIES
+
+The primary function of the Audit Committee (the "Committee") is to assist the
+Board of Directors (the "Board") in fulfilling its oversight responsibilities
+by reviewing: the financial reports and other financial information provided by
+Aceto Corporation (the "Corporation") to any governmental body or the public;
+the Corporation's systems of internal controls regarding finance, accounting,
+legal compliance and ethics that management and the Board have established; and
+the Corporation's auditing, accounting and financial reporting processes
+generally.  Consistent with this function, the Committee should encourage
+continuous improvement of, and should foster adherence to, the Corporation's
+policies, procedures and practices at all levels.  The Committee's primary
+duties and responsibilities are to:
+
+      Serve as an independent and objective party to monitor the Corporation's
+      financial reporting process and internal accounting system.
+
+      Review and appraise the audit efforts of the Corporation's independent
+      accountants and internal accounting department.
+
+      Provide an open avenue of communication among the independent
+      accountants, financial and senior management, the internal accounting
+      department, and the Board.
+
+      TO FULFILL ITS RESPONSIBILITIES AND DUTIES THE AUDIT COMMITTEE SHALL:
+
+DOCUMENTS/REPORTS REVIEW
+
+1.  Review and update this Charter periodically, at least annually, as
+    conditions dictate.
+
+1.  Review the Corporation's annual financial statements and any reports or
+    other financial information submitted to any governmental body, or the
+    public, including any certification, report, opinion, or review rendered by
+    the independent accountants.
+
+2.  Review the regular internal reports to management prepared by the internal
+    accounting department and management's response.
+
+3.  Review with financial management and the independent accountants the
+    Corporation's Quarterly Report on Form 10-Q prior to its filing or prior to
+    the release of earnings.  The Chair of the Committee may represent the
+    entire Committee for purposes of this review.
+
+INDEPENDENT ACCOUNTANTS
+
+4.  Recommend to the Board the selection of the independent accountants,
+    considering independence and effectiveness and approve the fees and other
+    compensation to be paid to the independent accountants.  On an annual
+    basis, the Committee should review and discuss with the accountants all
+    significant relationships the accountants have with the Corporation to
+    determine the accountants' independence.
+
+5.  Review the performance of the independent accountants and approve any
+    proposed discharge of the independent accountants when circumstances
+    warrant.
+
+6.  Periodically consult with the independent accountants out of the presence
+    of management about internal controls and the fullness and accuracy of the
+    Corporation's financial statements.
+
+FINANCIAL REPORTING PROCESSES
+
+7.  In consultation with the independent accountants and the Corporation's
+    internal accounting personnel, review the integrity of the Corporation's
+    financial reporting processes, both internal and external.
+
+8.  Consider the independent accountants' judgments about the quality and
+    appropriateness of the Corporation's accounting principles as applied in
+    its financial reporting.
+
+9.  Consider and approve, if appropriate, major changes to the Corporation's
+    auditing and accounting principles and practices as suggested by the
+    independent accountants, management, or the internal accounting department.
+
+PROCESS IMPROVEMENT
+
+10. Establish regular and separate systems of reporting to the Audit Committee
+    by each of management, the independent accountants and the internal
+    accounting department regarding any significant judgments made in
+    management's preparation of the financial statements and the view of each
+    as to appropriateness of such judgments.
+
+11. Following completion of the annual audit, review separately with each of
+    management, the independent accountants and the internal accounting
+    department any significant difficulties encountered during the course of
+    the audit, including any restrictions on the scope of work or access to
+    required information.
+
+12. Review any significant disagreement among management and the independent
+    accountants or the internal accounting department in connection with the
+    preparation of the financial statements.
+
+13. Review with the independent accountants, the internal accounting department
+    and management the extent to which changes or improvements in financial or
+    accounting practices, as approved by the Audit Committee, have been
+    implemented.  (This review should be conducted at an appropriate time
+    subsequent to implementation of changes or improvements, as decided by the
+    Committee.)
+
+ETHICAL AND LEGAL COMPLIANCE
+
+14. Establish, review and update periodically a Code of Ethical Conduct and
+    ensure that management has established a system to enforce this Code.
+
+15. Review management's monitoring of the Corporation's compliance with the
+    Ethical Code, and ensure that management has the proper review system in
+    place to ensure that Corporation's financial statements, reports and other
+    financial information disseminated to governmental organizations, and the
+    public satisfy legal requirements.
+
+16. Review activities, organizational structure, and qualifications of the
+    internal accounting department.
+
+17. Review, with the Corporation's counsel, legal compliance matters including
+    corporate securities trading policies.
+
+18. Review, with the Corporation's counsel, any legal matter that could have a
+    significant impact on the Corporation's financial statements.
+
+19. Perform any other activities consistent with this Charter, the
+    Corporation's By-laws and governing law, as the Committee or the Board
+    deems necessary or appropriate.
+
+
+II.  COMPOSITION
+
+The Committee shall be comprised of three or more directors as determined by
+the Board, at least three of such directors shall be independent directors, and
+free from any relationship that, in the opinion of the Board, would interfere
+with the exercise of  such director's independent judgment as a member of the
+Committee.  "Independent director" means a person other than an officer or
+employee of the Corporation or its subsidiaries or any other individual having
+a relationship which, in the opinion of the Board, would interfere with the
+exercise of independent judgment in carrying out the responsibilities of a
+director.  The following persons shall not be considered independent: (a) a
+director who is employed by the Corporation or any of its affiliates for the
+current year or any of the past three years; (b) a director who accepts any
+compensation from the Corporation or any of its affiliates in excess of
+$60,000.00 during the previous fiscal year, other than compensation for Board
+service; (c) a director who is a member of the immediate family of an
+individual who is, or has been in any of the past three years, employed by the
+Corporation or any of its affiliates as an executive officer.  Immediate family
+includes a person's spouse, parents, children, siblings, mother-in-law, father-
+in-law, brother-in-law, sister-in-law, and anyone who resides in such person's
+home; (d) a director who is a partner in, or a controlling shareholder or an
+executive officer of, any for-profit business organization to which the
+Corporation made, or from which the Corporation received, payments (other than
+those arising solely from investments in the Corporation's securities) that
+exceed 5% of the business organization's consolidated gross revenues for that
+year, or $200,000, whichever is more, in any of the past three years; or (e) a
+director who is employed as an executive of another entity where any of the
+Corporation's executives serve on that entity's compensation committee.]
+Notwithstanding the foregoing, one director who is not independent as defined
+herein, and is not a current employee or an immediate family member of such
+employee, may be appointed to the Committee, if the Board has determined in its
+business judgment that membership on the Committee is required by the best
+interests of the Corporation and its shareholders.
+
+All members of the Committee shall be able to read and understand fundamental
+financial statements, including a company's balance sheet, income statement,
+and cash flow statement or will become able to do so within a reasonable period
+of time after appointment to the Committee.  Additionally, at least one member
+of the Committee, shall have past employment experience in finance or
+accounting, requisite professional certification in accounting, or any other
+comparable experience or background which results in the member's financial
+sophistication, including being or having been a chief executive officer, chief
+financial officer or other senior officer with financial oversight
+responsibilities.  Committee members may enhance their familiarity with finance
+and accounting by participating in educational programs conducted by the
+Corporation or an outside consultant.
+
+The members of the Committee shall be elected by the Board and shall serve
+until their successors shall be duly elected and qualified.  Unless a Chair is
+elected by the full Board, the members of the Committee may designate a Chair
+by majority vote of the full Committee membership.
+
+
+III.  MEETINGS
+
+The committee shall meet at least four times annually, or more frequently as
+circumstances dictate.  As part of its job to foster open communication, the
+Committee should meet at least annually with management, the person in charge
+of internal accounting and the independent accountants in separate executive
+sessions to discuss any matters that the Committee or each of these groups
+believe should be discussed privately.  In addition, the Committee or at least
+its Chair should meet with the independent accountants and management quarterly
+to review the Corporation's financials consistent Section I. 4 above.
+
+                               ACETO CORPORATION
+              Proxy Solicited on Behalf of the Board of Directors
+
+
+The undersigned hereby appoints Leonard S. Schwartz and Donald Horowitz, with
+the full power of substitution, proxies to vote at the annual meeting of
+stockholders of Aceto Corporation to be held on Thursday, December 7, 2000 at
+The Inn at Great Neck, 30 Cutter Mill Road, Great Neck, New York, and at any
+adjournments of the meeting, according to the number of votes the undersigned
+might cast with all powers the undersigned would possess if personally present,
+as follows:
+
+The shares represented by this proxy will be voted in accordance with the
+instructions given, but if no instructions are given, the shares will be voted
+FOR the election of directors as a group.
+
+Either of the proxies or their substitutes who are present at the meeting may
+exercise all powers conferred thereby.
+
+PLEASE SIGN AND DATE THIS PROXY ON THE REVERSE SIDE AND MAIL IT IN THE
+ENCLOSED ENVELOPE.  NO POSTAGE REQUIRED IF MAILED IN THE UNITED STATES.
+
+                                                ACETO CORPORATION
+                                                P.O. Box 11199
+                                                New York, NY 10203-0199
+
+(1) Election of Directors
+
+FOR all nominees  [  ]  WITHHOLD AUTHORITY to vote  [  ] EXCEPTIONS [  ]
+listed below            for all nominees listed below
+
+Nominees:  Richard Amitrano,  Albert L. Eilender, Stanley H. Fischer, Samuel I.
+Hendler, John H. Schlesinger, Leonard S. Schwartz and Robert A. Wiesen
+
+(INSTRUCTIONS:  To withhold authority to vote for any individual nominee, mark
+the "Exceptions" box and write that nominee's name in the space provided
+below.)
+
+*Exceptions__________________________________________________________
+
+(2) In their discretion with respect to such other business as may properly
+come before the meeting or any adjournment thereof.
+
+NOTE:  Please sign exactly as your name appears on this proxy.  If shares are
+held jointly, each joint owner should sign. When signing as attorney,
+executor, administrator, trustee or guardian, please give full title as such.
+Proxies executed by a corporation should be signed with the full corporate name
+by a duly authorized officer.
+
+Dated: __________________________, 2000
+
+       __________________________
+       (Signature of Stockholder)
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

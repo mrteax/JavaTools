@@ -1,0 +1,1028 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Cx2DTxp2yPfa+ZmrRy1zp6FlKu+FamcrbO4p0Z/4P50o9ytqDg8gq6qutwCr8lk4
+ /0gtF+lAhsscXrEQefNfGA==
+
+<SEC-DOCUMENT>0000001985-97-000007.txt : 19970512
+<SEC-HEADER>0000001985-97-000007.hdr.sgml : 19970512
+ACCESSION NUMBER:		0000001985-97-000007
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19960611
+FILED AS OF DATE:		19970422
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCEL INTERNATIONAL CORP
+		CENTRAL INDEX KEY:			0000001985
+		STANDARD INDUSTRIAL CLASSIFICATION:	6311
+		IRS NUMBER:				310788334
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08768
+		FILM NUMBER:		97584704
+
+	BUSINESS ADDRESS:	
+		STREET 1:		475 METRO PLACE N
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+		BUSINESS PHONE:		6147647000
+
+	MAIL ADDRESS:	
+		STREET 1:		475 METRO PLACE NORTH
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ACCELERATION CORP
+		DATE OF NAME CHANGE:	19870814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<TEXT>
+
+                         SCHEDULE 14A INFORMATION
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934
+
+
+Filed by the Registrant                         [X]
+
+Filed by a Party other than the Registrant      [ ]
+
+
+Check the appropriate box:
+
+[ ]   Preliminary Proxy Statement
+      
+[ ]   Confidential, for Use of the Commission Only (as permitted by Rule
+      14a-6(e)(2))
+  
+[X]   Definitive Proxy Statement
+      
+[ ]   Definitive Additional Materials
+      
+[ ]   Soliciting Material Pursuant to Section  240.14a-11(c) or
+      Section  240.14a-12
+
+
+                    ACCEL INTERNATIONAL CORPORATION 
+               (Name of Registrant as Specified in Its Charter)
+
+                         Nicholas Z. Alexander
+               (Name of Person(s) Filing Proxy Statement)
+
+Payment of Filing Fee (Check appropriate box):
+
+[X]   No fee required.
+
+[ ]   Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+    
+            1)    Title  of  each class  of  securities  to which  transaction
+                  applies:
+
+            2)    Aggregate number of securities to which transaction applies:
+
+            3)    Per  unit price  or  other underlying  value of  transaction
+                  computed pursuant to Exchange  Act Rule 0-11 (Set forth  the
+                  amount on which the  filing fee is calculated and  state how
+                  it was determined):
+ 
+            4)    Proposed maximum aggregate value of transaction:
+
+            5)    Total fee paid:
+
+[ ]   Check box if any part of the fee is offset as provided by Exchange Act
+      Rule 0-11(a)(2) and identify the filing for which the offsetting fee was
+      paid previously. Identify the  previous filing by registration statement
+      number, or the Form or Schedule and the date of its filing.
+
+      1)    Amount Previously Paid: 
+      2)    Form Schedule or Registration Statement No.: 
+      3)    Filing Party:
+      4)    Date Filed:
+
+<PAGE>
+
+                        ACCEL International Corporation
+                        475 Metro Place North, Suite 100
+                               Dublin, Ohio 43017
+                                  614-764-7000
+
+
+                                                                  April 18, 1997
+
+Dear Stockholder:
+
+You are cordially  invited to attend the Annual  Meeting of  Stockholders  to be
+held at 10:00 A.M.,  local time,  on Tuesday,  May 20,  1997, at the Adam's Mark
+Columbus Hotel, 50 N. Third Street,  Columbus, Ohio. Formal notice of the Annual
+Meeting and the Proxy  Statement are  attached.  I hope that you will be able to
+attend  and  participate  in the  meeting,  at  which  time  we  will  have  the
+opportunity to review the business and operations of the Company. The matters to
+be acted upon by our stockholders are set forth in the attached Notice of Annual
+Meeting.  It is  important  that  your  shares be  represented  and voted at the
+meeting,  whether or not you are personally able to attend.  Accordingly,  after
+reading the attached Proxy Statement, would you kindly sign, date and return the
+enclosed proxy card.
+
+                                        Sincerely yours,
+
+                                        /s/  Thomas H. Friedberg
+                                        Chairman of the Board, 
+                                        President, & Chief Executive Officer
+
+<PAGE>
+
+                        ACCEL International Corporation
+                        475 Metro Place North, Suite 100
+                               Dublin, Ohio 43017
+
+
+                    NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+                                  May 20, 1997
+
+TO THE STOCKHOLDERS OF ACCEL International Corporation:
+
+The Annual  Meeting of  Stockholders  of ACCEL  International  Corporation  (the
+"Company"),  a Delaware  corporation,  will be held at the Adam's Mark  Columbus
+Hotel,  50 N. Third  Street,  Columbus,  Ohio, on May 20 1997, at 10:00 A.M., to
+consider and vote on the  following  matters  described  in the  attached  Proxy
+Statement:
+
+     1.   The election of nine directors to serve for a one-year term.
+     2.   The transaction of such other business as may properly come before the
+          meeting, or any adjournments thereof.
+
+April 4, 1997 has been fixed as the  record  date for  determining  stockholders
+entitled to notice of and to vote at the Annual  Meeting.  Only  stockholders of
+record at the close of business on that date are  entitled to receive  notice of
+and to vote at the  meeting or any  adjournments  thereof.  A  complete  list of
+stockholders  entitled to vote at the meeting will be available for  examination
+by any  stockholder  at the  Company's  offices  from May 5, 1997  until the day
+before the Annual Meeting.
+
+                                             By Order of the Board of Directors
+                                             Nicholas Z. Alexander, Secretary
+Dublin, Ohio
+
+April 18, 1997
+
+IF YOU ARE UNABLE TO BE PRESENT AT THE  MEETING,  WE URGE YOU TO SIGN AND RETURN
+THE ENCLOSED PROXY IN THE ENCLOSED ADDRESSED ENVELOPE WHICH IS INTENDED FOR YOUR
+CONVENIENCE  AND WHICH REQUIRES NO POSTAGE IF MAILED IN THE U.S.A.  THE PROXY IS
+REVOCABLE  AT ANY TIME AND WILL NOT  AFFECT  YOUR RIGHT TO VOTE IN PERSON IN THE
+EVENT YOU ATTEND THE MEETING.
+
+<PAGE>
+
+                        ACCEL International Corporation
+                        475 Metro Place North, Suite 100
+                               Dublin, Ohio 43017
+
+                                PROXY STATEMENT
+
+                         Annual Meeting of Stockholders
+                            To Be Held May 20, 1997
+
+               Furnished By The Board of Directors of The Company
+
+                                                                  April 18, 1997
+
+The Board of Directors of ACCEL  International  Corporation (the  "Company"),  a
+Delaware corporation,  is soliciting proxies, the form of which is enclosed, for
+the Annual Meeting of  Stockholders to be held on May 20, 1997. The cost of such
+solicitation  will be borne by the  Company.  Officers,  directors  and  regular
+employees of the Company may  communicate  with  stockholders  personally  or by
+mail,  telephone,  telegram  or  otherwise  for the purpose of  soliciting  such
+proxies,  but  the  Company  will  pay  no  additional   compensation  for  such
+solicitation.  The Company and any authorized  agent of the Company will request
+brokers  and  other  custodians,  nominees  and  fiduciaries  to  forward  proxy
+soliciting  material to the  beneficial  owners of shares held of record by such
+persons and will reimburse the reasonable  out-of-pocket  expenses in forwarding
+such material. This Proxy Statement is being mailed on or about April 21, 1997.
+
+Any stockholder  giving a proxy has the power to revoke it at any time before it
+is voted by a later  appointment  received by the Secretary of the Company or by
+giving  notice of such  revocation to the Secretary of the Company in writing or
+in open meeting. All duly executed proxies received prior to the meeting and not
+revoked will be voted at the meeting. The enclosed proxy contains space in which
+the stockholder may insert instructions as to the way the stockholder wishes his
+shares to be voted.  When such proxy is  properly  executed  and  returned,  the
+shares  it  represents  will  be  voted  at  the  meeting  as  directed.  If  no
+specification  is  indicated,  the shares  will be voted  "For" the  election as
+directors of the nominees listed below under "Election of Directors".
+
+April 4,  1997  has  been  fixed as the  record  date for the  determination  of
+stockholders entitled to such notice of and to vote at the Annual Meeting or any
+adjournments thereof. On that date the total number of outstanding shares of the
+Company  entitled to vote at the meeting was  8,603,742  shares of Common Stock,
+$.10 par value, (the "Common  Stock"). The holder of each share of such stock is
+entitled  to  one  vote.  Pursuant  to  applicable  law,  broker  non-votes  and
+abstentions  will not be  counted  in favor of or against  the  election  of any
+nominee for director or any other proposals to be presented at the meeting.  Any
+stockholder  who abstains from voting on any such other  proposal will in effect
+be voting against it.
+
+                            1. ELECTION OF DIRECTORS
+
+In accordance  with the Bylaws of the Company,  the number of directors has been
+fixed  at nine by  action  of the  Board of  Directors.  Directors  are  elected
+annually to serve until the next Annual Meeting of Stockholders, and until their
+successors are elected and qualified.  The election of directors is decided by a
+plurality of the votes cast by the shares  entitled to vote in the election.  In
+the absence of instructions to the contrary,  it is the intention of the persons
+named in the proxy to vote the proxies  for the  election  as  directors  of the
+persons  nominated  below.  Although  the  Board of  Directors  has no reason to
+believe that any of the  nominees  set forth below will not serve,  in the event
+that  vacancies  occur,  the  proxies  will be voted  for the  election  of such
+nominees,  if any, as shall be  designated  by the Board of  Directors or a duly
+authorized committee thereof.
+
+
+                                       1
+<PAGE>
+
+                                   NOMINEES
+                               TERM EXPIRES 1998
+<TABLE>
+<CAPTION>
+                                                                                         Number of shares of
+                                                                                         Common Stock owned
+                                                                                         beneficially, directly
+                                                                                         or indirectly, on
+Name, Position with             Principal Occupation                                     January 31, 1997
+the Company and Age             for past five years/                         Director    (except as otherwise     Percent
+(as of January 31, 1997)        other Directorships                           Since       noted)<F1>           of Class
+- - --------------------------------------------------------------------------------------------------------------------------
+<S>                             <C>                                           <C>           <C>                   <C>
+Robert Betagole                 President of Mike Albert                      1970          115,491<F5>           1.3%
+   Director, 68                 Leasing, Inc., Cincinnati, OH.
+
+David T. Chase <F2>          President and Chief Executive
+   Director, 67                 Officer of D.T. Chase                         1985          5,500<F6>             *
+                                Enterprises, Inc., Hartford, CT.
+
+Douglas J. Coats                Executive Vice President of the               1995          55,190                *
+   Director, 64                 Company since May 23, 1995.
+                                Prior thereto he was Executive
+                                Vice President of Ranger Insurance
+                                Company, Houston, TX since August,
+                                1987.
+
+Raymond H. Deck                 President of Chase Insurance                  1990          241,287               2.8%
+   Director, 74                 Enterprises, Inc., Hartford, CT.
+   <F2> <F3> <F4>               Also, is a director of SCOR U.S.
+                                and Scor Re, New York, NY.
+
+Richard Desich                  Presidentof Mid-Ohio Securities               N/A           34,350                *
+   Director, 57                 Corp., Elyria, Ohio
+
+
+                                       2
+<PAGE>
+
+                                   NOMINEES
+                               TERM EXPIRES 1998
+<CAPTION>
+                                                                                         Number of shares of
+                                                                                         Common Stock owned
+                                                                                         beneficially, directly
+                                                                                         or indirectly, on
+Name, Position with             Principal Occupation                                     January 31, 1997
+the Company and Age             for past five years/                         Director    (except as otherwise     Percent
+(as of January 31, 1997)        other Directorships                           Since       noted)<F1>              of Class
+- - --------------------------------------------------------------------------------------------------------------------------
+<S>                             <C>                                           <C>           <C>                   <C>
+Thomas H. Friedberg <F2>        Chairman of the Board and Chief               1995          265,158               3.1%
+  President, 58                 Executive Officer of the Company
+   Chief Executive              since May 23, 1995.  Appointed
+   Officer and Director         President as of October 15, 1995.
+                                Prior thereto he was Chairman of the
+                                Board, President and Chief Executive
+                                Officer of Ranger Insurance Company,
+                                Houston, TX, since January, 1987.
+                                Previously served as a Director of the
+                                Company from 1990 to March 1995.
+                                
+Kermit G. Hicks                 President of Hicks Chevrolet,                 1981          63,314<F7>            *
+   Director, 61                 Inc., Greencastle, PA. Also,
+   <F2> <F3> <F4>               Chairman of the Board of Tower
+                                Bancorp Inc., and its wholly owned
+                                subsidiary First National Bank of
+                                Greencastle.
+
+Stephen M. Qua                  President of Qua Buick/                       1970          38,358                *
+   Director, 64                 Suzuki, Inc. Cleveland, OH.
+   <F2> <F3> <F4>
+
+John P. Redding                 Senior Vice President and Chief               N/A           -                     -
+   Director, 38                 Financial Officer, D.T. Chase
+                                Enterprises, Inc., Hartford, CT
+                                
+
+All Directors and Officers as a group (15 persons)                                          880,091<F8>           10.2%
+
+
+                                       3
+<PAGE>
+- - ------------------------
+<FN>
+
+<F1>  On January 31, 1997, there were 8,603,742 shares of the Company's Common
+      Stock issued and outstanding.  Except as noted, includes shares owned by
+      spouse,  minor  children or certain  other  family  members,  or held as
+      custodian or trustee for the benefit of spouse or children,  or owned by
+      corporations   of  which  such   person  is  an  officer  or   principal
+      stockholder, over which shares such directors have sole or shared voting
+      or  investment  power.  With  respect  to  each  non-employee  Director,
+      includes an aggregate of 27,500 shares which are subject to  immediately
+      exercisable options.
+
+<F2>  Member of Executive Committee (Mr. Friedberg, Chairman).
+
+<F3>  Member of Audit Committee (Mr. Qua, Chairman).
+
+<F4>  Member of Compensation Committee (Mr. Deck, Chairman). 
+
+<F5>  Includes 20,092  shares as to which  Mr. Betagole disclaims  beneficial
+      ownership.
+
+<F6>  David T. Chase disclaims beneficial  ownership,  for purposes of Section
+      13(d) of the Securities  Exchange Act of 1934, as amended (the "Exchange
+      Act"),  of the  2,000,000  shares of Common Stock or 23.2% of the shares
+      outstanding,  owned by his wife Rhoda L. Chase;  the 1,167,824 shares of
+      Common Stock or 13.6% of the shares outstanding, owned by his son Arnold
+      L.  Chase,  and the  1,167,824  shares of  Common  Stock or 13.6% of the
+      shares outstanding owned by The Darland Trust for which Rothschild Trust
+      Cayman Limited serves as trustee and in which Cheryl Chase, the daughter
+      of David T. Chase,  is a  beneficiary.  In filings on Schedule  13D with
+      respect to the Company's Common Stock,  Rhoda L. Chase,  Arnold L. Chase
+      and The  Darland  Trust have each stated that such person has not agreed
+      to act  together  with any other  person or entity  for the  purpose  of
+      acquiring,  holding,  voting or disposing of shares of Common Stock, and
+      disclaims membership in any "group" with respect to the Common Stock for
+      purposes of Section  13(d)(3) of the  Exchange  Act or Rule  13d-5(b)(1)
+      adopted  thereunder.  If such a group  were  deemed to exist,  the group
+      would  be  deemed  to  beneficially  own  all  shares  of  Common  Stock
+      beneficially owned by each such person.
+
+<F7>  Includes  9,696 shares as to which Mr. Hicks claims beneficial ownership
+      on an indirect basis.
+
+<F8>  This  amount includes  107,500 shares  which are subject  to immediately
+      exercisable  options  and  27,010  shares owned  by  officers  in  their
+      Acceleration Retirement Savings and Stock Ownership  Plan accounts as of
+      December 31, 1996.
+
+*     Less than 1% of outstanding Common Stock.
+</FN>
+</TABLE>
+
+                                      4
+
+<PAGE>
+
+           SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+Section  16(a) of the  Securities  Exchange  Act of 1934  (the  "Exchange  Act")
+requires the Company's officers and directors, and persons who own more than 10%
+of the Common Stock,  to file reports of ownership and changes in ownership with
+the  Securities and Exchange  Commission  (the "SEC").  Officers,  directors and
+greater than 10%  stockholders  are required by SEC  regulations  to furnish the
+Company with copies of all Section 16(a) forms they file.
+
+Based solely on its review of the copies of such forms received by it or written
+representations  from certain reporting persons that no Forms 5 were required of
+them, the Company  believes that during the fiscal year ended December 31, 1996,
+all filing requirements  applicable to its officers,  directors and greater than
+10% stockholders were complied with.
+
+                             THE BOARD OF DIRECTOR
+
+                       COMMITTEES, MEETINGS AND FUNCTIONS
+
+The Board of  Directors  of the  Company  met four (4)  times  during  1996.  No
+director  attended  fewer than 75% of the total  number of meetings of directors
+and of any committees on which he served. The Board of Directors has established
+an Executive Committee, an Audit Committee and a Compensation Committee. It does
+not have a Nominating Committee.
+
+The Executive  Committee,  which  exercises the powers of the Board of Directors
+between regular  meetings of the Board, did not meet during 1996. The membership
+of the Executive Committee consists of Messrs. Friedberg, Chase, Deck, Hicks and
+Qua. The Audit  Committee  met one (1) time during 1996 to review the results of
+the  audit  of the  Company's  1995  financial  statements  by  the  independent
+auditors,  review  the  scope  of the  1996  audit,  consider  relevant  matters
+pertaining  to  internal  controls  and  accounting  procedures,  perform  other
+customary  functions of Audit  Committees,  and to make a recommendation  to the
+Board of Directors on the  engagement  of  independent  auditors for fiscal year
+1996. The membership of the Audit  Committee  consists of Messrs.  Qua, Deck and
+Hicks.
+
+The  Compensation  Committee  met four (4) times  during 1996 for the purpose of
+reviewing employee compensation and benefit arrangements.  The membership of the
+Compensation  Committee  consists of Messrs.  Deck, Hicks and Qua. The Report of
+the Compensation Committee is contained below.
+
+Compensation of Directors
+- - -------------------------
+During 1996,  non-employee  directors  of the Company  continued to abide by the
+one-third  reduction in compensation  levels  initiated in 1993, and accordingly
+received  an  annual  retainer  of  $5,000  plus a fee of $500 per  meeting  for
+attending any regular or special meetings of the Board of Directors. The members
+of each committee of the Board of Directors, other than officers of the Company,
+received  a fee of $500  for  each  meeting  attended.  Chairmen  of  committees
+received a fee of $750 for each meeting attended.
+
+
+                                       5
+<PAGE>
+
+The  First  Restatement  of  the  ACCEL  International  Corporation  1987  Stock
+Incentive  Plan (the "Restated  Plan")  provides for options to be granted every
+year to  non-employee  directors  of the Company for a  predetermined  number of
+shares of Common Stock.  In 1991,  the year the Restated  Plan was adopted,  the
+non-employee directors were granted options for 2,000 shares each. In subsequent
+years,  options  for  1,000  shares  each  were  granted  and will  continue  to
+automatically  be granted  according to the Restated Plan (subject to adjustment
+for stock dividends,  stock splits and other similar events). Newly appointed or
+elected non-employee  directors are granted options for 2,000 shares in the year
+they are appointed or elected, and thereafter will receive the automatic grants.
+The exercise  price is equal to the fair market value of a share of stock on the
+date the option is granted.  Options become  exercisable as to 50% of the shares
+subject to the option on  completion of each full year prior to  termination  of
+the  director's  status as director  after the date the option was granted.  The
+options lapse on the earliest of the date 10 years after the option was granted,
+or the date 180 days after the termination of the director's status as director.
+The options shall fully vest and become completely exercisable upon the death or
+voluntary  retirement of a director.  The provisions of the 1996 Stock Incentive
+Plan (the "1996  Plan")  adopted in 1996,  are  substantially  identical  to the
+Restated Plan pertaining to non-employee directors.
+
+Compensation Committee
+- - ----------------------
+Executive Compensation including the grant of stock options is determined by the
+Compensation  Committee  of the Board of  Directors.  The  formal  report of the
+Compensation Committee with respect to 1996 compensation is as follows:
+
+
+                      REPORT OF THE COMPENSATION COMMITTEE
+
+The Company's  compensation  package for its executive officers consists of base
+salary, participation in a profit sharing plan for senior officers, and periodic
+stock option grants or awards.  The base salary for Mr. Friedberg,  the Chairman
+of the Board,  President and Chief Executive Officer,  is fixed by the Committee
+and  may be  adjusted  as  determined  periodically  by the  Committee  after  a
+performance review is conducted.  As of June 1, 1996, the Committee formulated a
+compensation  arrangement for Mr. Friedberg to include base salary and authorize
+a stock option to be granted.  A similar  compensation  arrangement was approved
+for Mr. Coats on the recommendation of Mr. Friedberg. Base salary levels for all
+other executive  officers are determined by Mr. Friedberg and recommended to the
+Committee.  The amount of profit sharing compensation and stock option grants or
+awards,  if any, are also determined by this Committee.
+
+Based on Mr.  Friedberg's  more than thirty  years  experience  and  performance
+record as an executive at other companies in the insurance industry, his role in
+negotiating and  restructuring the finances of the Company at year-end 1995, and
+his efforts in new product line development,  the Committee  established a total
+aggregate annual compensation level for Mr. Friedberg of $350,000, subject to an
+annual review,  with an allocation of the $350,000 between cash compensation and
+stock  options to be  determined  each May by the  Committee.  The stock options
+granted for this purpose are valued by calculating  the  difference  between the
+book value and market value per share as of the date of grant. The annual review
+takes into account Company  performance,  comparative  industry data and various
+subjective  considerations of individual performance as well as corporate goals.
+For 1996,  the monthly cash  compensation  was set at $20,000  beginning on June
+1st, and stock options were awarded based on the approximate  difference between
+book and market value of one dollar ($1.00) per share.
+
+The Committee  believes that a significant  or meaningful  portion of total cash
+compensation  should be related to  profitability  and the  achievement of fixed
+objectives.  Consequently,  the  profit  sharing  potential  for  the  Company's
+executive   officers   is   conditioned   on   overall   corporate   performance
+(profitability),  and achieving individual and departmental objectives tied to a
+percentage of total base salary.
+
+
+                                        6
+<PAGE>
+
+Generally speaking,  base salary levels are set and adjusted at levels which are
+part of the Company's budgetary process, yet are believed by the Committee to be
+sufficient to attract and retain  qualified  executives when considered with the
+other components of the Company's compensation structure.
+
+In previous  years,  profit  sharing plans had been adopted for all employees of
+the Company and for senior officers. The overall objectives for establishing the
+Company's  incentive  compensation  programs were to enhance total  compensation
+without  adding fixed  expense,  modify the  corporate  reward  systems and give
+managers  the  discretion  to reward  contributors,  better  focus  management's
+attention on the  achievement  of  objectives  and drive  accountability  to all
+levels of the Company, and foster teamwork.
+
+For 1996,  no profit  sharing goal was set for  employees  and senior  officers.
+Accordingly,  no profit sharing compensation was paid to any employees or senior
+officers in 1996. In addition to approving an ACCEL Bonus Plan, the Compensation
+Committee  determines annual stock option grants or awards to executive officers
+and other  eligible  employees.  Stock  options are  intended to  encourage  key
+employees to remain  employed by the Company by providing  them with a long-term
+interest in the Company's overall performance as reflected by the performance of
+the market of the Company's Common Stock.
+
+Option Repricing Report
+- - -----------------------
+In August,  1996, all employees who held outstanding options under the Company's
+stock option plans, including the three executive officers whose status predated
+May,  1995,  were given the  opportunity  to reprice  outstanding  stock options
+granted during the period from September 17, 1986 to October 3, 1995 to the then
+current  market price of $2.50 per share.  Employees  who accepted the repricing
+opportunity  surrendered  for  cancellation  the previously  granted options and
+received new options granted under the terms of the 1996 Plan. Vesting under the
+1996 Plan commences on the first anniversary of the date of grant and vests at a
+rate of 25% per year.
+
+The  Company  took this  action to retain  key  employees  whose  experience  is
+valuable to the Company,  to maintain employee morale, and provide the incentive
+for increasing  stockholder  value.  The following table sets forth  information
+regarding such repricing options held by the executive officers of the Company:
+
+
+                                        7
+<PAGE>
+
+                        REPRICING OF OUTSTANDING OPTIONS
+
+                                     Market
+                        Number of   Price of   Exercise
+                       Securities  Stock at   Price at               Length of
+                       Underlying    Time of    Time of          Original Option
+                          Options  Repricing  Repricing     New   Term Remaining
+                      Repriced or      or         or     Exercise    At Date of
+                          Amended  Amendment  Amendment    Price    Repricing or
+Name               Date      (#)       ($)       ($)       ($)       Amendment
+- - --------------------------------------------------------------------------------
+
+Nicholas Z.       8/28/96   1,824    $2.50     $9.00     $2.50      .5 month
+    Alexander               3,473             $6.263                19 months
+Senior Vice                 3,308            $6.2358                31 months
+President,                  3,150             $7.381                43 months
+General Counsel             3,000             $11.75                55 months
+and Secretary               5,000              $8.25                67 months
+                           10,500            $3.8125                79 months
+                           10,000              $4.50                93 months
+                           ------
+                           40,255
+
+Larry L. Main     8/28/96   1,824    $2.50     $9.00     $2.50      .5 month
+Senior Vice                 3,473             $7.451                13 months
+President                   3,473             $6.263                19 months
+                            3,308            $6.2358                31 months
+                            3,150             $7.381                43 months
+                            3,000             $11.75                55 months
+                            5,000              $8.25                67 months
+                           10,500            $3.8125                79 months
+                           10,000              $4.50                93 months
+                           ------
+                           43,728
+
+Kurt L. Mueller   8/28/96   1,216    $2.50     $9.00     $2.50      .5 month
+Vice President,             1,737             $6.263                19 months
+Treasurer and               1,654            $6.2358                31 months
+Controller                  1,575             $7.381                43 months
+                            3,000             $11.75                55 months
+                            4,000              $8.25                67 months
+                            7,500            $3.8125                79 months
+                            7,500              $4.50                93 months
+                           ------
+                           28,182
+
+
+ Raymond H. Deck, Chairman   Kermit G. Hicks, Member   Stephen M. Qua, Member
+
+Compensation Committee Interlocks and Insider Participation
+- - -----------------------------------------------------------
+Mr.  Qua  is  associated  with  two  automobile  dealerships  which  are  master
+policyholders  of the  Company  and  receive  commissions  from the  Company  in
+connection  with credit  insurance sold by such  dealerships.  During the fiscal
+year ended  December 31, 1996,  such  dealerships  received  commissions  in the
+amount of  $39,456.
+
+
+                                        8
+<PAGE>
+
+                             EXECUTIVE COMPENSATION
+Summary
+- - -------
+The  following  table  is  a  summary  of  certain  information  concerning  the
+compensation  awarded  or paid to, or earned  by, the  Company's  current  Chief
+Executive  Officer,  Executive Vice  President,  and each of the Company's other
+most highly  compensated  executive officers whose total annual salary and bonus
+for the fiscal year ended  December  31,  1996,  exceeded  $100,000  (the "named
+executives") during each of the last three fiscal years:
+
+<TABLE>
+                           SUMMARY COMPENSATION TABLE
+<CAPTION>
+                                                          Annual Compensation            Long Term Compensation
+      Year            Name, Age, and Principal            Salary ($)       Bonus ($)     Securities          All Other
+                      Position                                                           Underlying          Compensation
+                                                                                         Options/SARs (#)    ($)<F1>
+      <S>             <C>                                 <C>              <C>           <C>                 <C>
+      1996            Thomas H. Friedberg, 58  <F2>       140,000          --            110,000             2,183
+      1995            Chairman of the Board,              --               --            100,000             --
+      1994            President and Chief Executive       --               --            --                  --
+                      Officer
+
+      1996            Douglas J. Coats, 64     <F2>       71,250           --            55,000              2,611
+      1995            Executive Vice President. President --               --            50,000              --
+      1994            President and Chief Executive       --               --            --                  --
+                      Officer
+
+      1996            Larry L. Main, 48                   120,000          --            10,000              8,968
+      1995            Senior Vice President               112,000          --            10,000              2,639
+      1994            Auto After Market Product Group     112,000          --            10,000              2,605
+                      Officer
+
+      1996            Nicholas Z. Alexander, 61           115,000          --            10,000              8,628
+      1995            Senior Vice President,              109,000          --            10,000              4,093
+      1994            Secretary and General Counsel       109,000          --            10,000              4,061
+                      
+      1996            Bryce E. Farmer, 46     <F3>        97,125           --            10,000              318
+      1995            Senior Vice President               --               --            --                  --
+      1994            Administration                      --               --            --                  --
+
+<FN>
+
+<F1>   Represents  approximate  amounts  contributed  on  behalf  of  each  such
+       executive  to the  Acceleration  Retirement  Savings and Stock  Ownership
+       Plan.
+
+<F2>   Mr.  Friedberg  was appointed  Chairman of the Board and Chief  Executive
+       Officer  of the  Company  on May 23,  1995,  and was named  President  in
+       October,  1995.  Mr. Coats was appointed  Executive Vice President of the
+       Company and President of Acceleration  National  Insurance Company on May
+       23, 1995. They served without salary for the first year of employment. In
+       lieu of salary,  they were granted stock  options for 100,000  shares and
+       50,000  shares,  respectively,  of Common  Stock,  which  options  vested
+       immediately, become exercisable one year following the date of grant, and
+       lapse  five  years  from  the  date of  grant.  As of June 1,  1996,  the
+       Compensation Committee of the Board of Directors commenced a compensation
+       arrangement for Mr.  Friedberg and Mr. Coats. As part of the arrangement,
+       salary levels were agreed to and Mr.  Friedberg was granted an option for
+       110,000  shares and Mr.  Coats was  granted an option for 55,000  shares.
+       Except for the exercise price,  the terms of the options were the same as
+       the options granted in the previous year.
+
+<F3>   Mr. Farmer commenced employment with the Company on February 5, 1996.
+
+</FN>
+</TABLE>
+
+R. Max Williamson  relinquished his positions with the Company as of October 15,
+1995. However,  pursuant to the provisions of his Employment  Agreement with the
+Company, his compensation  continued until
+
+
+                                       9
+<PAGE>
+
+February 28, 1997. For the year ended December 31, 1996, Mr. Williamson received
+total compensation of $226,619.
+
+The  following  table sets forth  information  concerning  individual  grants of
+options to purchase the Company's  Common Stock made to the named  executives in
+1996:
+
+<TABLE>
+
+                                               OPTION GRANTS IN LAST FISCAL YEAR
+
+<CAPTION>
+                                             INDIVIDUAL GRANTS IN 1996                                      
+                                                                                                    Potential Realizable
+  Name                        Number of            Percent of                                      Value at Assumed Annual
+                              Securities           Total                                             Rates of Stock Price
+                              Underlying           Options                                         Appreciation for Option
+                              Options/SARs         Granted to      Exercise or                              Term
+                              Granted              Employees in    Base Price    Expiration
+                              (#)                  Fiscal Year     ($ Sh) <F1>   Date              5% ($)       10% ($)
+  <S>                         <C>                  <C>             <C>           <C>               <C>          <C>
+  Thomas H. Friedberg         110,000              26.7%           $2.50         8/28/01           75,977       167,890
+  Douglas J. Coats            55,000               13.3%           $2.50         8/28/01           37,989       83,945
+  Larry L. Main               53,728               13.0%           $2.50         8/28/06           15,722       39,844
+  Nicholas Z. Alexander       50,255               12.2%           $2.50         8/28/06           15,722       39,844
+  Bryce E. Farmer             10,000               2.4%            $2.50         8/28/06           15,722       39,844
+
+<FN>
+
+<F1>  Market price of the Company's Common Stock on date of grant.
+
+</FN>
+</TABLE>
+
+The  following  table  sets  forth certain  information  regarding  individual
+exercises of stock options during 1996 by each of the named executives:
+
+<TABLE>
+     AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FY-END OPTION VALUES
+<CAPTION>
+     Name                       Shares         Value         
+                                Acquired on    Realized      
+                                Exercise       (Mkt. Price   
+                                (#)            at Exercise      Number of Securities              Value of Unexercised
+                                               Less          Underlying Unexercised Options    In-The-Money Options at Fiscal
+                                               Exercise         at Fiscal Year End (#)                Year End <F1>
+                                               Price)
+                                                             Exercisable     Unexercisable     Exercisable     Unexercisable
+     <S>                        <C>            <C>           <C>             <C>               <C>             <C>
+     Thomas H. Friedberg        100,000        $37,500       5,000           110,000           0               27,500
+     Douglas J. Coats           0              N/A           50,000          55,000            31,250          13,750
+     Larry L. Main              0              N/A           10,000          53,728            6,250           13,432
+     Nicholas Z. Alexander      0              N/A           10,000          50,255            6,250           12,564
+     Bryce E. Farmer            0              N/A           --              10,000            0               2,500
+
+<FN>
+
+<F1>  Intended  to  represent the  amount by  which  the market  price  of the
+      Company's Common  Stock  on  December  31, 1996  ($2.75),  exceeded  the
+      exercise prices of unexercised options on that date.
+
+</FN>
+</TABLE>
+
+                                       10
+<PAGE>
+
+Beneficial Ownership of Management
+- - ----------------------------------
+The  following  table  sets  forth  certain  information   regarding  the  named
+executive's  beneficial  ownership  of the  Common  Stock of the  Company  as of
+January 31, 1997:
+<TABLE>
+<CAPTION>
+                                                  Shares of Common Stock of
+                                                  Company Beneficially Owned
+        Title of Class   Name of Officer        Number <F1>   Percent of Class
+        <S>              <C>                    <C>              <C> 
+        Common Stock     Thomas H. Friedberg    265,158          3.1%
+        Common Stock     Douglas J. Coats        55,190          *
+        Common Stock     Larry L. Main           24,395          *
+        Common Stock     Nicholas Z. Alexander   24,844          *
+        Common Stock     Bryce E. Farmer          1,115          *
+
+<FN>
+
+<F1>    The amounts  shown  represent  the total shares  owned  outright by such
+        individuals together with shares which are issuable upon the exercise of
+        all stock  options which are currently  exercisable.  Specifically,  the
+        following  individuals  have the right to acquire  the shares  indicated
+        after  their  names,  upon  the  exercise  of  such  stock  option:  Mr.
+        Friedberg, 5,000; Mr. Main, 10,000; and Mr. Alexander, 10,000.
+
+</FN>
+
+*       Less than 1% of outstanding Common Stock.
+
+</TABLE>
+
+
+                             CERTAIN RELATIONSHIPS
+
+Several of the Company's  directors are associated with automobile  dealerships.
+These   dealerships  are  master   policyholders  of  the  Company  and  receive
+commissions  from the Company in connection with credit  insurance sold by them.
+All commissions paid to automobile  dealerships and agencies associated with the
+Company's  directors  are  at  rates  determined  on  a  basis  consistent  with
+commissions  paid to non-related  parties.  Total commission on credit insurance
+business  paid to all agencies  relating to all  directors as a group during the
+year ended December 31, 1996 was $39,456.
+
+None of the Companys directors whose agencies received commissions in connection
+with the credit insurance  business of the Company exceeded $60,000 in amount of
+commissions  received  during the year ended  December  31,  1996.  An insurance
+agency of which Robert Betagole is a shareholder,  received $1,476,542 through a
+reinsurance arrangement.
+
+                                       11
+
+<PAGE>
+
+Financial Performance
+- - ---------------------
+The graph below  summarizes the cumulative  return  experienced by the Company's
+shareholders compared with the Russell 2,000 and NASDAQ Insurance Stocks.
+
+
+                COMPARISON OF FIVE-YEAR CUMULATIVE TOTAL RETURN*
+
+                  VS. RUSSELL 2000 AND NASDAQ INSURANCE STOCKS
+
+                     (Performance results through 12/31/96)
+
+
+Value of Investment ($)
+
+
+Description of Graph:
+
+      The  graph charts the Value of  Investment from $0 to  $300 for the time
+      period of December 31, 1991 to December 31, 1996 for ACCEL International
+      Corp.,  Russell  2000  and  NASDAQ  Insurance.    Listed  below  is  the
+      breakdown, by year, for each Company.
+
+
+
+                              1991    1992   1993  1994   1995  1996
+ACCEL                         $100     $45    $50   $24    $37   $37
+Russell 2000                  $100    $119   $141  $139   $178  $207
+NASDAQ Insurance Stocks       $100    $135   $145  $136   $194  $221
+
+*     $100 invested  on 1/1/91 in stock  or index - including  reinvestment of
+      dividends. Fiscal year ending December 31.
+
+
+                                       12
+<PAGE>
+
+                SECURITY OWNERSHIP AND CERTAIN BENEFICIAL OWNERS
+The  following  table sets forth  certain  information  as of January  31,  1997
+(except as otherwise noted) with respect to stockholders known to the Company to
+be the beneficial owners of more than five percent of any class of the Company's
+voting securities:
+
+<TABLE>
+<CAPTION>
+  Title of Class           Name and Address of Beneficial Owner           Amount of Beneficial     Percent of Class 
+                                                                          Ownership <F1>
+  <S>                      <C>                                            <C>                      <C>
+  Common Stock             Rhoda L. Chase                                 2,000,000 Shares <F2>    23.2%
+                           c/o Chase Enterprises, Inc.
+                           One Commercial Plaza
+                           Hartford, CT  06103
+
+                           Arnold L. Chase                                1,167,824 Shares <F2>    13.6%
+                           Chase Enterprises, Inc.
+                           One Commercial Plaza
+                           Hartford, CT  06103
+
+                           The Darland Trust                              1,167,824 Shares <F2>    13.6%
+                           P.O. Box 472
+                           St. Peter's House, Le Bordage
+                           St. Peter Port
+                           Guernsey GYI6AY
+                           Channel Islands
+
+                           Spitzer Profit Sharing and                     712,250 Shares <F3>      8.3%
+                           Savings Plan
+                           150 E. Bridge Street
+                           Elyria, OH 44035
+
+<FN>
+
+<F1>   Except as otherwise  noted, the Company has no reason to believe that any
+       beneficial  owner listed  above does not have sole voting and  investment
+       power with respect to these shares.
+
+<F2>   As of January 31, 1997. See footnote (6) on page 4 hereof.
+
+<F3>   Spitzer  Profit Sharing and Savings Plan under  agreement  dated December
+       31,  1973,  is an Employee  Benefit  Plan,  Pension  Fund  subject to the
+       provisions of the Employee Retirement Income Security Act of 1974.
+
+</FN>
+</TABLE>
+
+
+                                       13
+<PAGE>
+
+                 RELATIONSHIP WITH INDEPENDENT PUBLIC AUDITORS
+
+KPMG Peat Marwick LLP has served as the independent auditors for the company for
+each of the years in the  three-year  period ended  December 31, 1996. In recent
+years, it has been the practice of the Board of Directors to annually review and
+select independent  auditors for the Company.  The Board of Directors intends to
+continue such practice and to make the selection of  independent  auditors later
+in the year. The selection of  independent  auditors has not therefore been made
+for the current  fiscal year.  Representatives  of KPMG Peat Marwick LLP will be
+present at the Annual  Meeting of  Stockholders  with an  opportunity  to make a
+statement and will be available to respond to appropriate questions,  if any, of
+the stockholders of the Company.
+
+
+                              STOCKHOLDER PROPOSALS
+
+Stockholders  wishing to submit proposals for the Company's 1998 Proxy Statement
+may do so prior to December 22, 1997 by letter  addressed to the Company in care
+of the Secretary.
+
+
+                                 OTHER MATTERS
+
+Management does not know of any other business to be presented for consideration
+at the meeting.  If any other business properly comes before the meeting, or any
+adjournment  or  adjournments  thereof,  the proxy  holders  will vote in regard
+thereto according to their discretion insofar as such proxies are not limited to
+the  contrary.  The 1996 Annual  Report to  Stockholders  is being  furnished to
+stockholders along with this proxy statement.
+
+
+                                              By Order of the Board of Directors
+
+                                              Nicholas Z. Alexander, Secretary
+April 18, 1997
+
+A COPY  OF THE  COMPANY'S  LAST  ANNUAL  REPORT  ON FORM  10-K  FILED  WITH  THE
+SECURITIES AND EXCHANGE  COMMISSION IS AVAILABLE,  WITHOUT CHARGE,  UPON WRITTEN
+REQUEST OF A BENEFICIAL  OWNER OF COMMON STOCK  ENTITLED TO VOTE AT THE MEETING.
+REQUESTS FOR A COPY OF THE REPORT  SHOULD BE DIRECTED TO NICHOLAS Z.  ALEXANDER,
+SECRETARY,  ACCEL INTERNATIONAL  CORPORATION,  475 METRO PLACE NORTH, SUITE 100,
+P.O. BOX 7000, DUBLIN, OHIO 43017.
+
+
+                                       14
+
+<PAGE>
+                             [Front of Proxy Card]
+
+                        ACCEL INTERNATIONAL CORPORATION
+                             475 Metro Place North
+                             Dublin, Ohio   43017
+
+           Proxy                                     THIS PROXY IS SOLICITED
+Annual Meeting of Stockholders                      BY THE BOARD OF DIRECTORS
+         May 20, 1997                                    OF THE COMPANY
+
+The undersigned hereby appoints Thomas H. Friedberg and Nicholas Z. Alexander as
+Proxies, each with the power to appoint a substitute, and hereby authorizes them
+to  represent  and to vote as  designated  below,  all of the  shares  of  ACCEL
+International  Corporation held of record by the undersigned on April 4, 1997 at
+the Annual Meeting of Stockholders to be held at the Adam's Mark Columbus Hotel,
+Columbus, Ohio at 10:00 A.M. on May 20, 1997 or at any adjournment thereof.
+
+1. ELECTION OF DIRECTORS
+
+   FOR all nominees listed below   [  ]          WITHHOLD AUTHORITY  [  ]
+   (except as marked to the contrary below)      to vote for all listed below
+
+   Robert Betagole         Douglas J. Coats          Richard Desich       
+   Kermit G. Hicks         John P. Redding           David T. Chase
+   Raymond H. Deck         Thomas H. Friedberg       Stephen M. Qua
+   
+   (INSTRUCTION:   To withhold  authority to  vote for  any individual,  write
+   that nominee's name in the space provided below.)
+
+      _____________________________________________________________________
+                 (Continued and to be signed, on the other side)
+- - -------------------------------------------------------------------------------
+                              [Back of Proxy Card]
+
+IN  THEIR DISCRETION,  THE PROXIES  ARE  AUTHORIZED TO  VOTE  UPON SUCH  OTHER
+BUSINESS AS MAY PROPERLY COME BEFORE THE MEETING.
+
+This  proxy, when  properly  executed, will  be voted  in the  manner directed
+herein  by the undersigned  stockholder. IF NO  DIRECTION IS MADE,  THIS PROXY
+WILL BE  VOTED FOR  THE  DIRECTOR NOMINEES  LISTED ON  THE  REVERSE SIDE.  The
+undersigned  acknowledges   receipt  of  this  Notice  of  Annual  Meeting  of
+Stockholders to be held on May 20, 1997 and the related Proxy Statement.
+
+                           Please sign  below exactly as  name appears.   When
+                           shares  are  held  by  joint  tenants, both  should
+                           sign.    When signing  as  attorney,  as  executor,
+                           administrator,  trustee  or guardian,  please  give
+                           full  title as such.  If a corporation, please sign
+                           in  full  corporate  name  by  President  or  other
+                           authorized  officer.  If a partnership, please sign
+                           in partnership name by authorized person.
+
+                           Dated______________________________________,  1997
+                                                                    
+                           __________________________________________________
+                           Signature                                          
+       
+                           __________________________________________________
+                           Signature if held jointly
+
+
+PLEASE MARK,  SIGN, DATE AND RETURN THE PROXY CARD PROMPTLY USING THE ENCLOSED
+ENVELOPE.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,2949 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ItenUbp9QUTuOB0So+IMSyshyq3HXYbfQCsn3OYnms1BMwUguZfjYKUecRQO86kt
+ dX99v0O2TsroWeQycdbPFA==
+
+<SEC-DOCUMENT>0000912057-97-029318.txt : 19970912
+<SEC-HEADER>0000912057-97-029318.hdr.sgml : 19970911
+ACCESSION NUMBER:		0000912057-97-029318
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19971008
+FILED AS OF DATE:		19970828
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AAR CORP
+		CENTRAL INDEX KEY:			0000001750
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MACHINERY, EQUIPMENT & SUPPLIES [5080]
+		IRS NUMBER:				362334820
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-06263
+		FILM NUMBER:		97671485
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 N WOOD DALE RD
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+		BUSINESS PHONE:		6302272000
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 N WOOD DALE RD
+		CITY:			WOOD DALE
+		STATE:			IL
+		ZIP:			60191
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLEN AIRCRAFT RADIO INC
+		DATE OF NAME CHANGE:	19700204
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>DEF 14A
+<TEXT>
+
+<PAGE>
+                            SCHEDULE 14A INFORMATION
+ 
+                  Proxy Statement Pursuant to Section 14(a) of
+            the Securities Exchange Act of 1934 (Amendment No.    )
+ 
+    Filed by the Registrant /X/
+    Filed by a Party other than the Registrant / /
+ 
+    Check the appropriate box:
+    / /  Preliminary Proxy Statement
+    / /  Confidential, for Use of the Commission Only (as permitted by Rule
+         14a-6(e)(2))
+    /X/  Definitive Proxy Statement
+    / /  Definitive Additional Materials
+    / /  Soliciting Material Pursuant to Section240.14a-11(c) or
+         Section240.14a-12
+ 
+                                               AAR CORP.
+- --------------------------------------------------------------------------------
+                (Name of Registrant as Specified In Its Charter)
+ 
+- --------------------------------------------------------------------------------
+    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+ 
+Payment of Filing Fee (Check the appropriate box):
+ 
+/X/  No fee required.
+/ /  Fee computed on table below per Exchange Act Rules 14a-6(i)(1)
+     and 0-11.
+     (1) Title of each class of securities to which transaction applies:
+         -----------------------------------------------------------------------
+     (2) Aggregate number of securities to which transaction applies:
+         -----------------------------------------------------------------------
+     (3) Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+         filing fee is calculated and state how it was determined):
+         -----------------------------------------------------------------------
+     (4) Proposed maximum aggregate value of transaction:
+         -----------------------------------------------------------------------
+     (5) Total fee paid:
+         -----------------------------------------------------------------------
+/ /  Fee paid previously with preliminary materials.
+/ /  Check box if any part of the fee is offset as provided by Exchange Act Rule
+     0-11(a)(2) and identify the filing for which the offsetting fee was paid
+     previously. Identify the previous filing by registration statement number,
+     or the Form or Schedule and the date of its filing.
+     (1) Amount Previously Paid:
+         -----------------------------------------------------------------------
+     (2) Form, Schedule or Registration Statement No.:
+         -----------------------------------------------------------------------
+     (3) Filing Party:
+         -----------------------------------------------------------------------
+     (4) Date Filed:
+         -----------------------------------------------------------------------
+<PAGE>
+   [LOGO]
+ 
+One AAR Place
+1100 N. Wood Dale Road
+Wood Dale, Illinois 60191
+ 
+                                                                 August 28, 1997
+ 
+Dear Shareholder:
+ 
+You are cordially invited to attend the Annual Meeting of Stockholders of AAR
+CORP. (the "Company") to be held on Wednesday, October 8, 1997, commencing at
+3:00 p.m. (Chicago time) at 231 S. LaSalle Street, Chicago, Illinois. The Board
+of Directors and management look forward to personally greeting those
+shareholders attending the meeting.
+ 
+At the Annual Meeting, you will be asked to consider and vote upon the election
+of three Class I directors to serve for a three-year term expiring at the Annual
+Meeting of Stockholders in the year 2000. This year, in addition to electing
+three directors, you are also being asked to consider and approve three Internal
+Revenue Code Section 162(m) performance compensation related proposals.
+ 
+Your approval of these Section 162(m) related proposals is necessary in order to
+qualify Compensation Committee approved stock option awards under the AAR CORP.
+Stock Benefit Plan and performance-based restricted stock incentive awards and
+performance-based cash incentive bonus awards, as "performanced-based"
+compensation for purposes of Section 162(m) of the Internal Revenue Code, so
+that the Company will be entitled to full tax deductibility of such awards.
+These proposals are described more fully in the Company's Proxy Statement which
+you are urged to read carefully.
+ 
+Your Board of Directors unanimously recommends a vote FOR the election of
+Directors, and FOR each of the other three Section 162(m) related proposals.
+ 
+Regardless of the number of shares you own and whether or not you plan to
+attend, it is important that your shares be represented and voted at the Annual
+Meeting. Accordingly, you are requested to sign, date and mail the enclosed
+proxy at your earliest convenience.
+ 
+On behalf of the Board of Directors, thank you for your cooperation and support.
+ 
+                                          Sincerely,
+ 
+                                          /s/ Ira A. Eichner
+ 
+                                          Ira A. Eichner
+                                          CHAIRMAN OF THE BOARD
+<PAGE>
+   [LOGO]
+ 
+One AAR Place
+1100 N. Wood Dale Road
+Wood Dale, Illinois 60191
+ 
+- ------------------------
+ 
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+TO BE HELD ON WEDNESDAY, OCTOBER 8, 1997
+ 
+To the Stockholders of AAR CORP.:
+ 
+The Annual Meeting of Stockholders of AAR CORP. for the year 1997 will be held
+in the Shareholders' Room (21st Floor) of Bank of America Illinois, 231 S.
+LaSalle Street, Chicago, Illinois, on Wednesday, October 8, 1997, at 3:00 P.M.
+(Chicago time) for the purpose of considering and acting upon the following
+proposals, all as described in the accompanying Proxy Statement:
+ 
+1.  To elect three Class I directors for a three-year term expiring at the
+    Annual Meeting of Stockholders in the year 2000;
+ 
+2.  To approve an amendment to the AAR CORP. Stock Benefit Plan ("Plan") to
+    limit to 300,000 the number of shares of Common Stock that may be granted
+    under the Plan to any grantee during any 12-month period;
+ 
+3.  To approve Performance Goals established by the Compensation Committee of
+    the Board of Directors of the Company under the Long-Term Performance
+    Restricted Stock Incentive program for David P. Storch, the Company's Chief
+    Executive Officer;
+ 
+4.  To approve the AAR CORP. Section 162(m) Performance-Based Annual Cash Bonus
+    Program adopted by the Compensation Committee of the Board of Directors of
+    the Company for executive officers of the Company; and
+ 
+5.  To transact such other business as may properly come before the meeting or
+    any adjournment thereof.
+ 
+Only stockholders of record at the close of business on August 11, 1997, will be
+entitled to notice of, and to vote at, the meeting or any adjournment thereof.
+ 
+Accompanying this notice and the Proxy Statement is a copy of the Annual Report
+to Stockholders for the fiscal year ended May 31, 1997.
+ 
+                                          By Order of the Board of Directors
+ 
+                                          HOWARD A. PULSIFER,
+                                          SECRETARY
+ 
+August 28, 1997
+ 
+YOUR VOTE IS IMPORTANT
+ 
+PLEASE DATE AND SIGN THE ENCLOSED FORM OF PROXY AND RETURN IT IN THE ENCLOSED
+STAMPED, ADDRESSED ENVELOPE, SO THAT IF YOU ARE UNABLE TO ATTEND THE MEETING,
+YOUR SHARES MAY NEVERTHELESS BE VOTED. NO POSTAGE IS REQUIRED FOR MAILING IN THE
+UNITED STATES.
+<PAGE>
+[AAR CORP LOGO]
+ 
+One AAR Place
+1100 N. Wood Dale Road
+Wood Dale, Illinois 60191
+ 
+PROXY STATEMENT
+ANNUAL MEETING OF STOCKHOLDERS
+October 8, 1997
+ 
+SOLICITATION
+ 
+This Proxy Statement is furnished to stockholders of AAR CORP., a Delaware
+corporation (the "Company" or "AAR"), in connection with the solicitation of
+proxies by the Board of Directors of the Company to be used at the Annual
+Meeting of Stockholders of the Company to be held in the Shareholders' Room
+(21st Floor) of Bank of America Illinois, 231 S. LaSalle Street, Chicago,
+Illinois, on Wednesday, October 8, 1997, at 3:00 P.M. (Chicago time), or any
+adjournment thereof (the "Annual Meeting"). This Proxy Statement is first being
+sent to holders of the Company's outstanding shares of common stock, par value
+$1.00 per share ("Common Stock") on or about August 28, 1997.
+ 
+A proxy given in response to this solicitation may be revoked at any time prior
+to the voting thereof by (i) sending written notice of revocation to the
+Secretary of the Company, or (ii) delivering a later-dated proxy, or (iii)
+attending the Annual Meeting and voting in person. Shares of Common Stock
+represented by proxies that are properly executed and returned to the Company
+will be voted in accordance with instructions on the proxy card. If no
+instructions are specified, such shares will be voted (i) FOR Proposal 1, the
+election of the three nominees for director designated by the Board of
+Directors; (ii) FOR Proposal 2, the AAR CORP. Stock Benefit Plan amendment
+limiting to 300,000 shares the number of shares that may be granted to any
+grantee in any 12-month period; (iii) FOR Proposal 3, approval of the
+performance goals under the Long-Term Performance Restricted Stock Incentive
+program for the Chief Executive Officer; (iv) FOR Proposal 4, the AAR CORP.
+Section 162(m) Performance-Based Annual Cash Bonus program; and (v) upon any
+other matters that may properly come before the Annual Meeting in the discretion
+of the named proxies in accordance with their best judgment. In the event any
+nominee is unavailable for election, which is not presently anticipated, shares
+represented by valid proxies will be voted for such other person or persons in
+the named proxies in accordance with their best judgment.
+ 
+As provided in the Company's Automatic Dividend Reinvestment and Stock Purchase
+Plan, shares held by the Dividend Reinvestment Agent for a participant will be
+voted in accordance with the instructions on the proxy card received
+representing such shares or otherwise as set forth above.
+ 
+The cost of the solicitation of proxies will be borne by the Company. Such costs
+consist primarily of printing, postage and handling, including reimbursement to
+banks, brokers, custodians, nominees and fiduciaries for reasonable
+out-of-pocket expenses incurred in forwarding proxy material to their respective
+principals. The Company has engaged D. F. King & Co., Inc., 77 Water Street, New
+York, New York, to aid in the solicitation of proxies at a total estimated cost
+of $7,500. D. F. King & Co., Inc. may solicit proxies by mail, personally, or by
+telephone or telegraph. In addition to the solicitation of proxies by D. F. King
+& Co., Inc. and by use of the mails, certain officers, directors and employees
+of the Company may solicit proxies personally, or by telephone or telegraph,
+without additional compensation.
+ 
+                                       1
+<PAGE>
+QUORUM AND VOTING RIGHTS
+ 
+On August 11, 1997, the record date for the determination of stockholders
+entitled to vote at the Annual Meeting, 18,334,120 shares of Common Stock were
+outstanding. Each stockholder of record on the close of business on August 11,
+1997 is entitled to one vote for every share of Common Stock held on the record
+date. Shares cannot be voted at the Annual Meeting unless the owner thereof is
+present in person or by proxy. A quorum of stockholders is necessary to take
+action at the Annual Meeting. The holders of a majority of the shares of Common
+Stock entitled to vote and present in person or represented by proxy will
+constitute a quorum of stockholders at the Annual Meeting. Votes cast in person
+or by proxy at the Annual Meeting will be tabulated by the inspectors of
+election appointed for the Annual Meeting. The inspectors of election will treat
+directions to withhold authority, abstentions and broker non-votes as shares
+that are present and entitled to vote for purposes of determining a quorum.
+Directions to withhold authority will have no effect on the election of
+directors, because directors are elected by a plurality of votes cast.
+Abstentions and broker non-votes will be disregarded for purposes of determining
+whether a matter has been approved, because they are not considered votes cast.
+ 
+                                   PROPOSAL 1
+ 
+ELECTION OF DIRECTORS
+ 
+The Restated Certificate of Incorporation and By-Laws of the Company provide
+that the Board of Directors shall consist of between three and fifteen
+directors. The exact number of directors is fixed from time to time by the Board
+of Directors and is presently set at ten.
+ 
+The ten members of the Board of Directors are divided into three classes: Class
+I (3 directors), Class II (3 directors) and Class III (4 directors). One class
+is elected each year for a three-year term. At the Annual Meeting, Erwin E.
+Schulze, Joel D. Spungin, and David P. Storch will be nominated as directors to
+serve in Class I until the Annual Meeting of Stockholders in the year 2000 and
+until their successors are duly elected and qualified. Each of the nominees is
+currently a director of the Company. Under Delaware law, the three nominees for
+director who individually receive the greatest number of votes shall be elected
+directors of the Company.
+ 
+NOMINEES AND CONTINUING DIRECTORS
+ 
+The following sets forth certain information with respect to the nominees as
+well as the other current and continuing directors:
+ 
+<TABLE>
+<CAPTION>
+                  Name, Age, Principal Occupation                       Director
+                       and Other Information                             Since
+- --------------------------------------------------------------------    --------
+<S>                                                                     <C>
+NOMINEES:
+ 
+CLASS I--DIRECTORS WHOSE TERMS EXPIRE AT THE 1997 ANNUAL MEETING:
+ERWIN E. SCHULZE, 72--Chairman Emeritus, Chicago Stock Exchange
+  (formerly Midwest Stock Exchange). Since January, 1991, private
+  investor. From 1981 to 1991, Chairman of the Board, President and
+  Chief Executive Officer of Ceco Industries, Inc., a manufacturer
+  of building products and provider of concrete forming services for
+  the construction industry.
+    Other directorships: Chicago Stock Exchange and The Interlake
+     Corporation                                                          1977
+JOEL D. SPUNGIN, 59--Since March, 1995, Managing Partner, DMS
+  Enterprises, L.P., a consulting and management advisory
+  partnership. Since 1995, Chairman Emeritus, and from 1988 to
+  March, 1995, Chairman and Chief Executive Officer of United
+  Stationers Inc.
+    Other directorships: United Stationers Inc. and Home Products
+     International                                                        1992
+DAVID P. STORCH, (1)44--Since 1996, President and Chief Executive
+  Officer of AAR. From 1989 to 1996, President and Chief Operating
+  Officer of AAR. From 1988 to 1989, Vice President of AAR.               1989
+</TABLE>
+ 
+    --------------
+ 
+<TABLE>
+<S>        <C>
+(1)        Mr. Storch is Mr. Eichner's son-in-law.
+</TABLE>
+ 
+                                       2
+<PAGE>
+ 
+<TABLE>
+<CAPTION>
+                  Name, Age, Principal Occupation                       Director
+                       and Other Information                             Since
+- --------------------------------------------------------------------    --------
+<S>                                                                     <C>
+ 
+OTHER CURRENT AND CONTINUING DIRECTORS:
+CLASS II--DIRECTORS WHOSE TERMS EXPIRE AT THE 1998 ANNUAL MEETING:
+EDGAR D. JANNOTTA, 66--Since January, 1996, Senior Director of
+  William Blair & Company, LLC, an investment banking firm ("William
+  Blair"). From 1995 to 1996, Senior Partner of William Blair. From
+  1977 to 1995, Managing Partner of William Blair.
+    Other directorships: Aon Corporation, Bandag, Incorporated,
+     Molex Incorporated, New York Stock Exchange, Inc., Oil-Dri
+     Corporation of America, Safety-Kleen Corp., and Unicom
+     Corporation.                                                         1964
+LEE B. STERN, 70--Since December, 1992, President of LBS Co., and
+  Managing Partner of LBS Limited Partnership, a member firm of the
+  Chicago Board of Trade and Futures Commission Merchant since 1992.
+  From 1967 to December, 1992, President and Chief Executive Officer
+  of Lee B. Stern & Company, Ltd., a Futures Commission Merchant.
+  Mr. Stern has been a member of the Chicago Board of Trade since
+  1949, a member of the Chicago Mercantile Exchange since 1963, and
+  an owner-director of the Chicago White Sox since 1976.
+    Other directorship: Anicom, Inc.                                      1982
+RICHARD D. TABERY, 68--Since February, 1995, Chairman of HKS&A,
+  Inc., an aviation consulting company. Since December, 1993,
+  Aviation Business Consultant. From June, 1988, through November,
+  1993, Vice Chairman of AAR. From 1957 to 1988, Mr. Tabery held
+  various positions with United Airlines, Inc., most recently as
+  Senior Vice President-Maintenance Operations.                           1989
+CLASS III--DIRECTORS WHOSE TERMS EXPIRE AT THE 1999 ANNUAL MEETING:
+A. ROBERT ABBOUD, 68--Since 1984, President of A. Robert Abboud &
+  Co., a private investment business.
+    Other directorships: Inland Steel Company, Hartmarx Corporation,
+     and Alberto-Culver Company.                                          1987
+HOWARD B. BERNICK, 45--Since November, 1994, President and Chief
+  Executive Officer of Alberto-Culver Company, a manufacturer,
+  marketer and distributor of personal care and household products.
+  From 1988 to November, 1994, President and Chief Operating Officer
+  of Alberto-Culver Company.
+    Other directorship: Alberto-Culver Company.                           1994
+IRA A. EICHNER,(1) 66-- Since 1973, Chairman of the Board of AAR.
+  Mr. Eichner is the founder of the Company and was its Chief
+  Executive Officer since it was founded in 1955 until October,
+  1996.                                                                   1955
+ROBERT D. JUDSON, 72--Since 1984, Financial Consultant. Prior to
+  1980, Senior Vice President, The First National Bank of Chicago.        1979
+<FN>
+ 
+    --------------
+ 
+(1)        Mr. Eichner is Mr. Storch's father-in-law.
+</TABLE>
+ 
+                                       3
+<PAGE>
+MEETINGS AND STANDING COMMITTEES OF THE BOARD OF DIRECTORS
+ 
+The Board of Directors held six meetings during the fiscal year ended May 31,
+1997. All of the incumbent directors, except Edgar D. Jannotta, attended 75% or
+more of the aggregate number of meetings of the Board and of the Committees on
+which they served during the fiscal year ended May 31, 1997.
+ 
+The Board of Directors has an Audit Committee, a Compensation Committee, an
+Executive Committee, and a Nominating Committee.
+ 
+AUDIT COMMITTEE
+ 
+The Audit Committee is comprised entirely of independent directors. Its members
+are Edgar D. Jannotta (Chairman), Robert D. Judson, Erwin E. Schulze, Joel D.
+Spungin, and Howard B. Bernick. The functions of this committee include
+maintaining communication between the Company's Board of Directors and its
+independent auditors, monitoring performance of the independent auditors,
+reviewing audit scope and results, reviewing the organization and performance of
+the Company's internal systems of audit and financial controls, and recommending
+the retention or, when appropriate, the replacement of independent auditors. The
+Audit Committee held two meetings during the fiscal year ended May 31, 1997.
+ 
+COMPENSATION COMMITTEE
+ 
+The Compensation Committee is comprised entirely of independent directors. Its
+members are Erwin E. Schulze (Chairman), A. Robert Abboud, Edgar D. Jannotta,
+Robert D. Judson and Lee B. Stern. The functions of this committee include
+reviewing and approving compensation policies and practices for all elected
+corporate officers and fixing the total compensation of the Chief Executive
+Officer. The Compensation Committee also administers the Chief Executive
+Officer's long-term incentive program and the AAR CORP. Stock Benefit Plan. The
+Compensation Committee held six meetings during the fiscal year ended May 31,
+1997.
+ 
+EXECUTIVE COMMITTEE
+ 
+The Executive Committee is comprised of Ira A. Eichner (Chairman), Edgar D.
+Jannotta, Erwin E. Schulze and David P. Storch. The Executive Committee is
+authorized to meet between meetings of the Board of Directors and exercise the
+powers of the Board, subject to limitations imposed by law and by the Board. The
+Executive Committee did not hold any meetings during the fiscal year ended May
+31, 1997.
+ 
+NOMINATING COMMITTEE
+ 
+The Nominating Committee is comprised of Robert D. Judson (Chairman), Ira A.
+Eichner, Lee B. Stern, and Richard D. Tabery. The functions of this committee
+include recommending to the Board of Directors qualified candidates for election
+as directors and considering the performance of incumbent directors to determine
+whether they should be recommended to the Board for nomination for reelection.
+The Nominating Committee will consider director candidates recommended by
+stockholders. Any stockholder wishing to submit a recommendation to the
+Nominating Committee with respect to the 1998 Annual Meeting of Stockholders
+should send a signed letter of recommendation to AAR CORP., One AAR Place, 1100
+N. Wood Dale Road, Wood Dale, Illinois 60191, Attention: Howard A. Pulsifer,
+Secretary. To be considered, recommendation letters must be received prior to
+May 1, 1998, must state the reasons for the recommendation and contain the full
+name and address of each proposed nominee, as well as a brief biographical
+history setting forth past and present directorships, employment and
+occupations. The recommendation letter must also include a statement indicating
+that such nominee has consented to being named in the proxy statement and to
+serve if elected. The Nominating Committee held one meeting during fiscal year
+ended May 31, 1997.
+ 
+                                       4
+<PAGE>
+SECURITY OWNERSHIP OF MANAGEMENT AND OTHERS
+ 
+The following tables show the shares of Common Stock beneficially owned as of
+July 31, 1997 for management and as of the date of the Schedule 13G filing for
+certain beneficial owners, (i) by each director and nominee for election to the
+Board of Directors, by each of the five executive officers named in the Summary
+Compensation Table below, and by all directors and executive officers of the
+Company as a group and (ii) by each beneficial owner of more than 5% of the
+outstanding shares of Common Stock.
+ 
+                        SECURITY OWNERSHIP OF MANAGEMENT
+ 
+<TABLE>
+<CAPTION>
+                                                                                          Percent
+                                                                                          of
+                                                                                          Shares
+                                                                                          Outstanding
+                                                                                          if
+                                                                         Number of        greater
+                               Name                                      Shares (1)       than 1%
+- -------------------------------------------------------------------  ------------------   ---
+<S>                                                                  <C>                  <C>
+A. Robert Abboud...................................................    20,250
+Howard B. Bernick..................................................    12,500
+Ira A. Eichner.....................................................   492,474(2)          2.7
+Edgar D. Jannotta..................................................    25,000
+Robert D. Judson...................................................    14,025
+Howard A. Pulsifer.................................................    20,245
+Timothy J. Romenesko...............................................    18,970
+Erwin E. Schulze...................................................    12,125
+Philip C. Slapke...................................................    48,551
+Joel D. Spungin....................................................    13,500
+Lee B. Stern.......................................................   101,100(3)
+David P. Storch....................................................   300,927(4)          1.6
+Richard D. Tabery..................................................    39,975
+All directors and executive officers as a group
+  (13 persons).....................................................  1,119,642(1,2,3,4)   6.1
+<FN>
+ 
+    --------------
+(1)        Includes the following shares of the identified person that may be acquired within
+           sixty days of May 31, 1997 through the exercise of stock options: Mr. Abboud, 3,000
+           shares; Mr. Bernick, 7,500 shares; Mr. Eichner, 53,978 shares; Mr. Jannotta, 10,000
+           shares; Mr. Judson, 10,000 shares; Mr. Pulsifer, 2,249 shares; Mr. Romenesko, 1,992
+           shares; Mr. Schulze, 10,000 shares; Mr. Slapke, 12,072 shares; Mr. Spungin, 10,000
+           shares; Mr. Stern, 10,000 shares; Mr. Storch, 119,161 shares; and Mr. Tabery, 21,500
+           shares; and all directors and executive officers as a group (13 persons), 301,830
+           shares.
+ 
+(2)        Does not include 50,000 shares which Mr. Eichner may be deemed to own a beneficial
+           interest in, but as to which Mr. Eichner disclaims beneficial ownership.
+ 
+(3)        Does not include 33,000 shares which Mr. Stern may be deemed to own a beneficial
+           interest in, but as to which Mr. Stern disclaims beneficial ownership.
+ 
+(4)        Includes 19,004 shares beneficially owned by Mr. Storch's wife (12,540 shares) and
+           minor children (6,464 shares), as to which Mr. Storch disclaims beneficial ownership.
+</TABLE>
+ 
+                SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+ 
+<TABLE>
+<CAPTION>
+                           Name and Address                              Number of    Percent of Shares
+                            of Stockholder                                 Shares        Outstanding
+- ----------------------------------------------------------------------  ------------  -----------------
+<S>                                                                     <C>           <C>
+The Prudential Insurance Company of America (1).......................  1,265,300(1)        6.96%
+751 Broad Street
+Newark, New Jersey 07102-3777
+<FN>
+ 
+    --------------
+(1)        As of 4/30/97, The Prudential Insurance Company disclaimed beneficial ownership of
+           these shares and stated that it had the following powers with respect to these
+           shares:
+      (i) sole voting power: 2,600
+      (ii) shared voting power: 1,252,500
+      (iii) sole dispositive power: 2,600
+     (iv) shared dispositive power: 1,262,700
+</TABLE>
+ 
+                                       5
+<PAGE>
+SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+ 
+Based solely upon a review of Securities and Exchange Commission Forms 3, 4 and
+5 and upon related written representations furnished to the Company with respect
+to its most recent fiscal year, no person who, at any time during the fiscal
+year, was a director, officer or beneficial owner of more than ten percent of
+any class of equity securities of the Company registered pursuant to Section 12
+of the Securities Exchange Act of 1934 ("Exchange Act"), failed to file on a
+timely basis reports required by Section 16(a) of the Exchange Act during the
+most recent fiscal year or prior fiscal years, except as follows: (i) one Form 5
+report covering two estate planning transactions which occurred in December,
+1995 and February, 1996 involving a change in the form of beneficial ownership
+for 372,410 and 18,571 shares, respectively, was filed late by Mr. Eichner; (ii)
+one Form 4 report covering one transaction involving the purchase of 500 shares
+of stock in October, 1995 was filed late by Mr. Schulze; and (iii) five Form 4
+reports covering four transactions involving the exercise of stock options by
+Mr. Howard Pulsifer (12,103 shares), Mr. Timothy Romenesko (10,006 shares), and
+Mr. Richard Tabery (7,500 shares), respectively, in March, 1997, one transaction
+involving the sale of 3,393 shares of stock by Mr. Richard Tabery, in April,
+1997, and one transaction involving the purchase of 2,000 shares of stock by Mr.
+Lee Stern, in April, 1997 (all five from 4 reports were filed initially by the
+Company on behalf of these individuals via EDGAR electronic filing within the
+deadline, but were not "accepted" by the SEC through such filing due to apparent
+EDGAR computer format errors; pending resolution of the EDGAR computer formating
+problems, backup hard copies of the Form 4 reports for these transactions were
+filed by the Company on behalf of these individuals and received by the
+Commission, but beyond the applicable SEC filing deadline).
+ 
+EXECUTIVE COMPENSATION AND OTHER INFORMATION
+ 
+COMPENSATION COMMITTEE'S REPORT ON EXECUTIVE COMPENSATION
+ 
+GENERAL
+ 
+The Company's executive compensation program is structured and administered by
+the Compensation Committee of the Board of Directors (the "Committee"), which is
+comprised of the five individuals listed below, all of whom are independent
+directors of the Company.
+ 
+The executive compensation program is designed to enable the Company to attract,
+motivate and retain talented executives capable of achieving strategic business
+initiatives and to reward them for their achievement. It is intended to
+complement the Company's short-term and long-term business objectives and to
+focus executives' efforts on fulfilling these objectives. The program consists
+of three elements: (i) base salaries which are generally set at approximately
+the median salary level of comparable positions in similar companies, adjusted
+up or down to reflect individual capabilities and responsibilities and
+experience levels; (ii) annual variable incentive opportunities paid in cash and
+stock based on individual contribution and performance; and (iii) long-term
+incentive opportunities, in the form of stock option/restricted stock awards.
+ 
+Total compensation opportunities for each executive are intended to be
+competitive with those offered by other companies competing for talent in the
+Company's employment market. In designing and administering the individual
+elements of the executive compensation program for each executive, the Committee
+strives to balance short- and long-term incentive objectives and employ prudent
+judgment in establishing base salary levels and performance criteria, evaluating
+performance and determining actual incentive payments. To ensure competitiveness
+and reasonableness of the Committee's compensation decisions, independent
+compensation consulting firms are retained periodically to advise the Committee
+in connection with both the design and implementation of the various elements of
+the program and the level of individual executive participation. Generally, as
+an executive's level of responsibility increases, a greater percentage of total
+compensation is based on performance, and the mix of total compensation shifts
+toward
+ 
+                                       6
+<PAGE>
+stock, thereby aligning the long-term interest of senior executives with those
+of stockholders. To encourage stock ownership in the Company by senior
+executives, the Company has established guidelines for ownership of Common Stock
+by senior management equal in value to 75% of salary, to be voluntarily achieved
+over the next several years. An executive's progress towards achieving these
+guidelines will be used by the Committee in making incentive stock compensation
+decisions for the executive in the future.
+ 
+Base salary levels of all elected corporate officers, including the Chief
+Executive Officer, are reviewed annually and may be adjusted depending upon the
+executive's responsibilities, assessed performance contribution, qualifications
+and tenure in the Company and in the position held, and competitive salary
+considerations relative to similar positions at selected companies in the
+employment market from which the Company draws its executives.
+ 
+Mr. Eichner, Chairman of the Board, and Mr. Storch, President and Chief
+Executive Officer, each have an annual performance-based incentive bonus
+opportunity of up to 100% of their respective base salary. That portion of Mr.
+Storch's incentive bonus opportunity in excess of 80% of his base salary is
+payable in restricted stock. The percentage incentive bonus opportunity for
+other executive positions varies depending on their responsibility level, and
+10% of any bonus paid is payable in restricted stock. As pertains to Mr. Eichner
+and Mr. Storch, three-fourths of their respective incentive bonus opportunity is
+based upon operating profit results and the remainder is based on asset
+management results. Performance objectives for other executives are established
+annually and the incentive opportunity varies depending on position.
+ 
+The long-term incentive program consists of stock option and/or restricted stock
+awards granted under the AAR CORP. Stock Benefit Plan approved by stockholders
+in 1992. Mr. Storch is also eligible for a performance stock award based on
+performance over a four year period pursuant to the terms of his Employment
+Agreement.
+ 
+Stock option awards typically expire 10 years from the date of grant or earlier
+upon termination of employment, become exercisable in five equal increments on
+successive grant anniversary dates at the NYSE closing stock price on the date
+of grant, and are accompanied by reload features and, for certain individuals,
+stock rights exercisable in the event of a change in control of the Company. In
+determining stock option and restricted stock awards, the Committee considers
+the recipient's position and responsibilities in the Company, performance and
+contributions made during the preceeding year, capabilities and potential for
+future contribution to the Company, the number of options and awards previously
+granted to the recipient and, for senior management, their progress toward
+achieving the Company's guidelines for stock ownership by senior management.
+Stock option and restricted stock awards for Mr. Storch are granted in
+accordance with the terms of his Employment Agreement.
+ 
+Restrictions imposed on restricted stock awards vary and are designed, among
+other things, to encourage executives to stay with the Company and to maintain a
+focus on long-term objectives of the Company. Typically, restricted stock grants
+vest over five (5) years (20% each anniversary) or over seven (7) years (25% on
+fourth anniversary, 25% on sixth anniversary and 50% on seventh anniversary);
+restrictions on restricted stock used in lieu of cash to pay earned bonuses are
+released over three (3) years (1/3 of such shares each anniversary). Typically,
+awards (other than awards in lieu of cash to pay earned bonuses) are subject to
+forfeiture if employment terminates for any reason during the award cycle.
+During the award cycle the participant receives dividends on the restricted
+shares and also has the right to vote the awarded shares.
+ 
+CHIEF EXECUTIVE OFFICER COMPENSATION
+ 
+On October 9, 1996, David Storch, President and Chief Operating Officer of the
+Company, was elected Chief Executive Officer of the Company replacing Ira
+Eichner in that capacity, who continues as Chairman of the Board. Mr. Storch
+also continues as President of the Company.
+ 
+                                       7
+<PAGE>
+Competitive compensation analyses by independent consultants are used by the
+Committee to ensure that the Chairman's and the Chief Executive Officer's base
+salaries and total compensation are at an appropriate competitive level relative
+to compensation for such positions at other companies in the relevant employment
+market.
+ 
+The Committee's action with respect to Mr. Eichner's and Mr. Storch's total
+fiscal year 1997 compensation reflects consideration of the salary factors
+discussed earlier, recognition of significant achievements during the year
+including strong earnings growth above plan, expansion of capabilities through
+development of new products and acquisitions, upgrading of existing investment
+grade ratings on debt by Moody's and Standard & Poor's, an increase in
+shareholder value during the year (share price up 40.1% and total market
+capitalization up 59% or $210 million including the effects of a two million
+share public offering), and the leadership role played in the performance of the
+Company overall in maintaining the financial strength and liquidity of the
+Company. Mr. Eichner's base salary and annual bonus opportunity has been
+established at eighty percent (80%) of that of the President and Chief Executive
+Officer.
+ 
+The base salary level of Mr. Eichner, Chairman of the Board (and for part of the
+fiscal year 1997, Chief Executive Officer), has been increased progressively
+since 1955 to reflect his performance, leadership and responsibilities for
+increasingly complex and diversified domestic and international operations as
+the Company has expanded into new product lines and markets. In 1996, Mr.
+Eichner's annual base salary was adjusted downward to $400,000 reflecting
+relinquishment of his Chief Executive Officer duties.
+ 
+Mr. Storch's annual base salary was increased to $500,000 in 1996 to reflect his
+additional responsibilities as Chief Executive Officer of the Company. As Chief
+Operating Officer and newly named Chief Executive Officer, Mr. Storch's salary
+has steadily increased during his 19 years with the Company including eight
+years as Chief Operating Officer.
+ 
+Mr. Eichner (who also served as Chief Executive Officer during part of fiscal
+year 1997), was awarded an incentive bonus in 1997 equal to 100% of his base
+salary reflecting achievement of (i) a 75% incentive opportunity benefit for
+operating performance based on a substantial improvement over the prior year in
+consolidated net sales (up 16.7%) and in net income (up 43.8%), and (ii) a 25%
+incentive opportunity benefit for asset management based on improving the
+balance sheet performance.
+ 
+Mr. Storch was awarded an incentive bonus in 1997 equal to 100% of his base
+salary in effect as of May 31, 1997 reflecting achievement of (i) a 75%
+incentive opportunity benefit for operating performance based on a substantial
+improvement over the prior year in consolidated net sales (up 16.7%) and in net
+income (up 43.8%), and (ii) a 25% incentive opportunity benefit for asset
+management based on improving the balance sheet performance.
+ 
+Mr. Eichner, Mr. Storch, and other executive officers named in the Summary
+Compensation Table below received the stock options and restricted stock awards
+reflected in the table. The number of shares covered by each grant reflects
+individual contributions and performance, as well as competitive industry
+practices, in the view of the Committee; it also continues the Committee's
+emphasis on executive share ownership and furthers the Company's objectives of
+tying incentive compensation to performance and aligning executives' interests
+with the interests of the Company's stockholders.
+ 
+Long-term incentive awards and opportunities for Mr. Eichner and Mr. Storch were
+changed from prior practices to reflect business objectives for the Company over
+the coming years. It is the expectation of the Board of Directors that, based on
+performance, Mr. Storch, as the Chief Executive Officer, should have the
+opportunity to become a significant shareholder. In addition, the performance
+measures that govern the opportunities should be both economic and shareholder
+value related. Furthermore, such measures should be related to the Company's
+industry and
+ 
+                                       8
+<PAGE>
+investor communities. Pursuant to these objectives, Mr. Storch has the
+opportunity to earn up to 360,000 shares at the completion of four years service
+contingent upon the Company's performance versus (i) the Company's peer group
+index and (ii) the S&P Composite 500 Index, for both return on total capital and
+total return to shareholders. Finally, the Board may make awards of restricted
+stock and options each year based on annual performance.
+ 
+The tables which follow and accompanying footnotes and narrative reflect the
+decisions covered by the above discussion.
+ 
+FEDERAL INCOME TAX CONSIDERATIONS
+ 
+Section 162(m) of the Internal Revenue Code of 1986, as amended (the "Code"),
+generally prevents the Company from claiming deduction for compensation in
+excess of $1 million for any executives of the Company. This deduction
+limitation, however, does not apply to performance-based compensation that
+satisfies certain requirements under Section 162(m). The Committee has
+determined that it is in the best interests of the Company and its shareholders
+to structure compensation of executive officers so that compensation will not be
+subject to the deduction limit to the extent that it can reasonably do so in a
+manner that provides adequate incentives and allows the Company to attract and
+retain qualified executives. However, the Committee has and may in the future
+structure compensation arrangements that under certain circumstances may be
+subject to the deduction limit.
+ 
+INCORPORATION BY REFERENCE
+ 
+This report of the Committee shall not be deemed incorporated by reference by
+any general statement incorporating this Proxy Statement into any filing under
+the Securities Exchange Act of 1933 or under the Exchange Act (collectively, the
+"Acts"), except to the extent that the Company specifically incorporates this
+report by reference, and shall not otherwise be deemed filed under such Acts.
+ 
+COMPENSATION COMMITTEE
+ 
+    Erwin E. Schulze, Chairman
+    A. Robert Abboud
+    Edgar D. Jannotta
+    Robert D. Judson
+    Lee B. Stern
+ 
+                                       9
+<PAGE>
+SUMMARY OF CASH AND CERTAIN OTHER COMPENSATION
+ 
+The following table shows, for the fiscal years ending May 31, 1997, 1996, and
+1995, the cash compensation paid by the Company, as well as certain other
+compensation paid or accrued for those years, to each of the five most highly
+compensated executive officers of the Company in all capacities in which they
+served.
+ 
+                           SUMMARY COMPENSATION TABLE
+ 
+<TABLE>
+<CAPTION>
+                                                                                     Long Term Compensation
+                                                                                   ---------------------------
+                                                     Annual Compensation                     Awards
+                                              ---------------------------------    ---------------------------
+                                                                         Other       Restricted     Securities
+                                                                        Annual         Stock        Underlying    All Other
+                                                             Bonus      Compensation    Award(s)     Options     Compensation
+Name and Principal Position             Year  Salary ($)     ($)(1)       ($)          ($)(2)          (#)          ($)(3)
+- --------------------------------------  ----  ----------   ----------   -------    --------------   ----------   ------------
+<S>                                     <C>   <C>          <C>          <C>        <C>              <C>          <C>
+IRA A. EICHNER                          1997    440,500      440,500     --           361,875         30,000        10,600
+ CHAIRMAN AND FOUNDER                   1996    498,400      503,100     --           330,000         30,000         4,700
+                                        1995    480,000      265,000    156,600(4)    206,250         30,000         3,600
+DAVID P. STORCH                         1997    450,500      500,000     --           361,875        200,000        14,700
+ PRESIDENT AND                          1996    348,900      352,200     --           165,619         75,000         4,700
+ CHIEF EXECUTIVE OFFICER                1995    336,000      224,000     --           107,250         60,000         2,500
+PHILIP C. SLAPKE                        1997    230,000      373,530     --           150,781         12,500         2,000
+ VICE PRESIDENT-ENGINE                  1996    223,000      277,300     --           110,000         10,000         3,300
+ GROUP                                  1995    214,600      215,900     --            68,750         10,000         2,600
+HOWARD A. PULSIFER                      1997    177,800      100,000     --            90,469          7,500         3,600
+ VICE PRESIDENT,                        1996    172,200       86,900     --            66,000          6,000         4,000
+ GENERAL COUNSEL AND                    1995    165,800       67,500     --            41,250          6,000         3,100
+ SECRETARY
+TIMOTHY J. ROMENESKO                    1997    158,000      100,000     --            90,469          7,500         3,600
+ VICE PRESIDENT, CHIEF                  1996    153,100       77,300     --            66,000          6,000         4,000
+ FINANCIAL OFFICER &                    1995    136,700       60,000     --            41,250          6,000         1,800
+ TREASURER
+</TABLE>
+ 
+- ------------
+ 
+(1)   Fiscal 1997 bonus compensation for Mr. Eichner was paid 100% in cash, for
+    Mr. Storch 80% in cash and 20% in restricted stock, and for all others 90%
+    in cash and 10% in restricted stock, based on NYSE May 31, 1997 closing
+    price, in accordance with applicable employment contracts and the Company's
+    executive and key employment incentive bonus payment policy. The restricted
+    stock vests over a three year period (one-third each grant anniversary
+    date). Dividends are paid on all shares of restricted stock to the same
+    extent as any other shares of the Company's Common Stock.
+ 
+(2)   As of May 31, 1997, fiscal year, the following shares of restricted stock
+    were held by each named executive: Mr. Eichner, 23,659; Mr. Storch, 35,913;
+    Mr. Slapke, 19,008; Mr. Pulsifer, 10,438; Mr. Romenesko, 10,361. The May 31,
+    1997, market value of each named executive's restricted stock is as follows:
+    Mr. Eichner, $733,429; Mr. Storch, $1,113,303; Mr. Slapke, $589,248;
+    Pulsifer, $323,578; Mr. Romenesko, $321,191. Dividends are paid on all
+    shares of restricted stock to the same extent as any other shares of the
+    Common Stock.
+ 
+(3)   "All Other Compensation" includes the following: (i) contributions to the
+    Company's 401(k) Plan on behalf of each of the named executives as a 1%
+    match of 1997 pre-tax elective deferred contributions (Mr. Eichner $1,600;
+    Mr. Storch $1,600; Mr. Slapke $1,500; Mr. Pulsifer $1,500; and Mr.
+    Romenesko, $1,500), (ii) premium payments for each of the named executives
+    under the Company's standard health plan (Mr. Pulsifer, $2,100; Mr.
+    Romenesko; $2,100; and Mr. Slapke, $1,400); (iii) the value of the benefit
+    of the remainder of premiums paid by the Company above the cash value of the
+    policies pursuant to the Company's "split dollar" insurance program in the
+    following amounts: Mr. Eichner, $9,000; Mr. Storch, $13,100.
+ 
+(4)   Represents a tax reimbursement to Mr. Eichner due to the Company's funding
+    of Supplemental Executive Retirement Plan ("SERP") benefits.
+ 
+                                       10
+<PAGE>
+STOCK OPTIONS
+ 
+The following table sets forth certain information regarding stock options
+granted to the named executive officers in fiscal 1997 (the Company does not
+grant stock appreciation rights). In addition, hypothetical gains or "option
+spreads" that would exist for the respective options are shown based on assumed
+rates of annual compound stock price appreciation of 0%, 5% and 10% required (in
+the case of the 5% and 10% rates) by applicable regulations of the Securities
+and Exchange Commission; these rates are for illustration purposes only and are
+not a forecast of future appreciation. The Company did not use an alternative
+formula for a grant date valuation, as the Company is not aware of any formula
+which will determine, with reasonable accuracy, a present value based on future
+unknown or volatile factors. The table also shows that the increase in potential
+realizable value of such options, if any, will be less than 1% of the increase
+in potential realizable value to the other stockholders.
+ 
+                       OPTION GRANTS IN LAST FISCAL YEAR
+ 
+<TABLE>
+<CAPTION>
+                                                       Individual Grants
+                                      ----------------------------------------------------   Potential Realizable Value at
+                                        Number of       % of Total                           Assumed Annual Rates of Stock
+                                        Securities       Options      Average                Price Appreciation for Option
+                                        Underlying      Granted to    Exercise                         Term (3)
+                                         Options       Employees in    Price    Expiration   -----------------------------
+                Name                  Granted (#)(1)   Fiscal Year    ($/Sh)     Date (2)    0%     5% ($)       10% ($)
+- ------------------------------------  --------------   ------------   -------   ----------   ---  -----------  -----------
+<S>                                   <C>              <C>            <C>       <C>          <C>  <C>          <C>
+Ira A. Eichner......................      30,000(4)        4.81%      $24.125   10/09/06      0      $455,162   $1,153,471
+                                          10,048*          1.61%      $25.875   10/10/00      0       $56,030     $120,662
+                                           8,425*          1.35%      $25.875   01/14/02      0       $74,140     $168,198
+                                           5,623*          0.90%      $25.875   01/12/03      0       $59,231     $138,034
+                                           4,637*          0.74%      $25.875   01/11/04      0       $57,286     $137,211
+                                           3,188*          0.51%      $25.875   01/17/05      0       $45,479     $112,016
+                                           4,057*          0.65%      $25.875   10/11/05      0       $57,876     $142,550
+ 
+David P. Storch.....................     200,000(5)       32.08%      $20.00    07/09/06      0    $2,515,578   $6,374,970
+                                           7,768*          1.24%      $25.875   10/10/00      0       $43,316      $93,283
+                                           5,371*          0.86%      $25.875   10/09/01      0       $38,396      $84,845
+                                           4,212*          0.67%      $25.875   01/14/02      0       $37,065      $84,089
+                                           3,877*          0.62%      $25.875   10/14/02      0       $34,118      $77,401
+                                           2,811*          0.45%      $25.875   01/12/03      0       $29,610      $69,005
+                                           3,184*          0.51%      $25.875   10/13/03      0       $33,539      $78,161
+                                           3,478*          0.55%      $25.875   01/11/04      0       $42,968     $102,915
+                                           6,376*          1.02%      $25.875   01/17/05      0       $90,958     $224,033
+                                          10,144*          1.62%      $25.875   10/11/05      0      $144,710     $356,429
+                                           1,317*          0.21%      $25.375   10/14/02      0       $11,366      $25,785
+                                           1,623*          0.26%      $25.375   10/13/03      0       $16,766      $39,072
+ 
+Philip C. Slapke....................      12,500           2.00%      $24.125   10/09/06      0      $189,651     $480,613
+ 
+Howard A. Pulsifer..................       7,500           1.20%      $24.125   10/09/06      0      $113,791     $288,368
+                                           3,361*          0.53%      $23.25    10/10/00      0       $16,840      $36,266
+                                           1,406*          0.22%      $23.25    01/14/02      0       $11,118      $25,222
+                                           1,095*          0.17%      $23.25    01/12/03      0       $10,364      $24,153
+                                           1,032*          0.16%      $23.25    01/11/04      0       $11,456      $27,439
+                                             709*          0.11%      $23.25    01/17/05      0        $9,088      $22,385
+                                             278*          0.04%      $29.375   01/14/02      0        $2,256       $4,986
+                                             288*          0.04%      $29.375   01/12/03      0        $2,877       $6,527
+                                             408*          0.06%      $29.375   01/11/04      0        $4,879      $11,370
+                                             561*          0.09%      $29.375   01/17/05      0        $7,868      $18,846
+                                             714*          0.11%      $29.375   10/11/05      0       $10,014      $23,985
+</TABLE>
+ 
+                                       11
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                       Individual Grants
+                                      ----------------------------------------------------   Potential Realizable Value at
+                                        Number of       % of Total                           Assumed Annual Rates of Stock
+                                        Securities       Options      Average                Price Appreciation for Option
+                                        Underlying      Granted to    Exercise                         Term (3)
+                                         Options       Employees in    Price    Expiration   -----------------------------
+                Name                  Granted (#)(1)   Fiscal Year    ($/Sh)     Date (2)    0%     5% ($)       10% ($)
+- ------------------------------------  --------------   ------------   -------   ----------   ---  -----------  -----------
+Timothy J. Romenesko................       7,500           1.20%      $24.125   10/09/06      0      $113,791     $288,368
+<S>                                   <C>              <C>            <C>       <C>          <C>  <C>          <C>
+                                           2,085*          0.33%      $20.375   10/10/00      0        $9,155      $19,716
+                                           1,337*          0.21%      $20.375   01/14/02      0        $9,265      $21,018
+                                             892*          0.14%      $20.375   01/12/03      0        $7,399      $17,242
+                                             883*          0.14%      $20.375   01/11/04      0        $8,590      $20,574
+                                             809*          0.12%      $20.375   01/17/05      0        $9,088      $22,384
+                                             228*          0.03%      $29.75    01/14/02      0        $1,874       $4,141
+                                             203*          0.03%      $29.75    01/12/03      0        $2,054       $4,660
+                                             302*          0.04%      $29.75    01/11/04      0        $3,658       $8,524
+                                             554*          0.08%      $29.75    01/17/05      0        $7,869      $18,848
+                                             705*          0.11%      $29.75    10/11/05      0       $10,014      $23,985
+ 
+All Stockholders....................         N/A            N/A          N/A       N/A        0   $255,217,080 $646,962,555
+ 
+All Employee Optionees..............     451,000          72.36%      $22.30    10/09/06      0    $6,323,020  $16,028,540
+                                         172,292*         27.64%      $25.82     Various           $1,512,943   $3,432,351
+ 
+Total Optionee Gain as % of all
+ Stockholder Gain...................         N/A            N/A          N/A       N/A        0            3%           3%
+</TABLE>
+ 
+- ------------
+ 
+(1)   10 year options subject to reload and rights provisions; 20% of option
+    shares become exercisable on the 1st, 2nd, 3rd, 4th and 5th anniversary
+    dates of the grant except as otherwise noted.
+ 
+(2)   These options are subject to earlier expiration in the event of
+    termination of employment.
+ 
+(3)   Data shows appreciation in value of stock from market value on the date of
+    option grant.
+ 
+(4)   Become exercisable in equal amounts on the 1st and 2nd anniversary date of
+    the grant.
+ 
+(5)   Become exercisable in equal amounts on the 1st, 2nd, 3rd and 4th
+    anniversary date of the grant.
+ 
+*   These items represent reload options resulting from the exercise of an
+    original option grant received by the holder in prior years which contained
+    a reload option feature. Under the terms of the original grant, reload
+    options result upon the exercise, in whole or in part, of the original
+    option grant and surrender of shares then owned by the option holder in
+    payment of the exercise price of the initial option. The reload option may
+    be exercised for the number of shares surrendered at an exercise price equal
+    to the fair market value of the Company's stock on the date the original
+    option is exercised, and is only valid for the remaining term of the
+    original option. Reload options have been included in the calculation of the
+    percentage of total options granted to employees set forth in the chart.
+    Further, the values shown in the Potential Realizable Value columns are
+    duplicative of a portion of the value disclosed in such columns in the year
+    of the original option grant and do not represent new value above that of
+    the original grant.
+ 
+                                       12
+<PAGE>
+AGGREGATED OPTION EXERCISES AND FISCAL YEAR-END OPTION VALUES
+ 
+The following table shows stock options exercised by named executive officers
+during fiscal 1997, including the aggregate value of gains on the date of
+exercise. In addition, this table includes the number of shares of Common Stock
+covered by both exercisable and non-exercisable stock options as of May 31,
+1997. Also reported are the number and value of "in-the-money" unexercised
+options.
+ 
+   AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND FISCAL YEAR-END OPTION
+                                     VALUES
+ 
+<TABLE>
+<CAPTION>
+                                                                    Number of Securities
+                                                                   Underlying Unexercised         Value of Unexercised
+                                                                      Options at Fiscal          In-the-Money Options at
+                                                     Value              Year-End (#)             Fiscal Year-End ($)(2)
+                                Shares Acquired     Realized     ---------------------------   ---------------------------
+             Name               on Exercise (#)      ($)(1)      Exercisable   Unexercisable   Exercisable   Unexercisable
+- ------------------------------  ---------------   ------------   -----------   -------------   -----------   -------------
+<S>                             <C>               <C>            <C>           <C>             <C>           <C>
+Ira A. Eichner................      74,000         $  983,750      53,978          84,000       $496,887      $1,044,250
+David P. Storch...............      99,000         $1,262,035      69,161         313,100       $586,045      $3,931,017
+Philip C. Slapke..............           0                  0      35,450          30,800       $644,650      $  369,975
+Howard A. Pulsifer............      27,218         $  287,205       2,249          18,200       $  3,654      $  217,275
+Timothy J. Romenesko..........      20,156         $  200,300       1,992          17,600       $  2,490      $  207,100
+</TABLE>
+ 
+- ------------
+ 
+(1)   Value realized equals the fair market value on the date of exercise, less
+    the exercise price, times the number of shares acquired.
+ 
+(2)   Value of unexercised in-the-money options equals the fair market value of
+    the Common Stock at May 31, 1997, less the exercise price, times the number
+    of option shares outstanding. The closing price of the Common Stock on the
+    NYSE at May 31, 1997, was $31.00.
+ 
+PENSION PLANS
+ 
+The following table indicates a straight life annuity pension benefit (based on
+30% of an employee's final average compensation) payable annually under the AAR
+CORP. Retirement Plan ("Retirement Plan") and Supplemental Key Employee
+Retirement Plan ("SKERP") commencing at age 65 at various combinations of
+average compensation and years of service.
+ 
+                             PENSION BENEFIT TABLE
+ 
+<TABLE>
+<CAPTION>
+                                                          Annual Benefit for
+                                                           Years of Service
+                                                          ------------------
+    Final Average Compensation                               15        20
+    ----------------------------------------------------  --------  --------
+    <S>                                                   <C>       <C>
+    $ 100,000...........................................  $ 22,500  $ 30,000
+      125,000...........................................    28,125    37,500
+      150,000...........................................    33,750    45,000
+      175,000...........................................    39,375    52,500
+      200,000...........................................    45,000    60,000
+      225,000...........................................    50,625    67,500
+      250,000...........................................    56,250    75,000
+      275,000...........................................    61,875    82,500
+      300,000...........................................    67,500    90,000
+      350,000...........................................    78,750   105,000
+      400,000...........................................    90,000   120,000
+      450,000...........................................   101,250   135,000
+      500,000...........................................   112,500   150,000
+      600,000...........................................   135,000   180,000
+      700,000...........................................   157,500   210,000
+      800,000...........................................   180,000   240,000
+      900,000...........................................   202,500   270,000
+     1,000,000..........................................   225,000   300,000
+     1,100,000..........................................   247,500   330,000
+     1,200,000..........................................   270,000   360,000
+     1,300,000..........................................   292,500   390,000
+     1,400,000..........................................   315,000   420,000
+     1,500,000..........................................   337,500   450,000
+</TABLE>
+ 
+                                       13
+<PAGE>
+The Company's Retirement Plan covers all named executive officers. Benefits
+under the Retirement Plan are determined pursuant to a formula set forth in the
+Retirement Plan and take into consideration years of credited service, a
+percentage of the participant's final average compensation (the five highest
+consecutive calendar years of compensation out of the employee's last ten
+calendar years of employment) and adjustments for social security "covered
+compensation" which is an "offset" under the Retirement Plan. The term
+"compensation" means cash compensation shown as income on an employee's Form
+W-2, plus amounts contributed to the Profit Sharing Plan and reduced by certain
+items specified in the Retirement Plan. Notwithstanding the preceding sentence,
+compensation for purposes of the Retirement Plan is subject to an annual
+compensation limitation of $150,000 as adjusted from time to time by the
+Commissioner of Internal Revenue in accordance with applicable provisions of the
+Code.
+ 
+The aggregate salary and bonus compensation shown for the executive officers
+named in the Summary Compensation Table above is the compensation currently
+included for purposes of determining benefits under the Retirement Plan and
+SKERP described below. The number of years of credited service under the Plan
+(effective maximum is 20 years), is as follows: Mr. Eichner, 20 years; Mr.
+Storch, 19 years; Mr. Pulsifer, 10 years; Mr. Romenesko, 16 years; and Mr.
+Slapke, 13 years. Benefits under the Retirement Plan may be limited by
+applicable laws or regulations.
+ 
+SUPPLEMENTAL KEY EMPLOYEE RETIREMENT BENEFITS
+ 
+The Company also provides supplemental retirement benefits to certain executives
+and key employees under the SKERP. All of the named executives are participants
+in the SKERP, except that Mr. Eichner's participation does not include
+supplemental retirement benefits. The SKERP is designed to restore the
+approximate amount of employer-provided benefits under the Company's Retirement
+Plan lost as a result of Code limitations, including those limiting compensation
+for purposes of benefit calculations. Such lost benefits restored under the
+SKERP are determined in the same manner, using the same compensation data and
+years of credited service, as retirement benefits are determined under the
+Retirement Plan described above, subject to maximum compensation limits
+established by the Company from time to time (presently $350,000 for key
+employee participants and $500,000 for executive officer participants). The
+SKERP also provides for aggregate retirement benefits at fifty percent (50%) of
+final average compensation (as defined in the Retirement Plan) for certain
+executive officers designated by the Compensation Committee (including four of
+the named executive officers), subject to maximum compensation limits
+established by the Company from time to time and reduced by certain items
+specified in the Retirement Plan. The SKERP is unfunded and supplemental
+retirement benefits thereunder are forfeited if the participant violates a
+covenant not to compete set forth in the SKERP or his or her employment is
+terminated for cause.
+ 
+Mr. Eichner is also the beneficiary of a Supplemental Executive Retirement Plan
+("SERP"). Annual retirement benefits under the SERP are equal to 80% of his
+aggregate average of annual salary, bonus and long-term incentive cash payments
+("cash compensation") for the three fiscal years during the ten fiscal years
+preceding the date of his termination of active employment during which his cash
+compensation was highest, subject to an offset for benefits received under the
+Retirement Plan and certain reductions. Based on Mr. Eichner's cash compensation
+history to date, it is estimated that he would receive an annual net of tax
+retirement benefit of $551,000 upon retirement at age 66. The Company funds the
+benefits through an irrevocable trust arrangement with a bank. The level of
+funding is based on actuarial computations determined by an independent actuary.
+The residual in the trust upon the death of Mr. Eichner will be paid to his
+estate or designated beneficiaries.
+ 
+STOCKHOLDER RETURN PERFORMANCE GRAPH
+ 
+The following graph compares the five-year cumulative total stockholder return
+(including reinvestment of dividends) of the Company, the S&P (Standard &
+Poor's) Composite--500 Stock Index, and a peer group index selected by the
+Company.
+ 
+                                       14
+<PAGE>
+The S&P Composite--500 Stock Index is comprised of domestic industry leaders in
+four major sectors: Industrials, Financials, Utilities and Transportation, and
+serves as a broad indicator of the performance of the U.S. equity market. The
+peer group index selected by the Company is comprised of companies engaged in
+engine, airframe and/or manufacturing activities in support of the
+aerospace/aviation aftermarket similar to those conducted by the Company. The
+peer group selected by the Company is comprised of the following companies:
+Aviall, Inc., Banner Aerospace, Inc., Greenwich Air Services, Inc., Hi-Shear
+Industries, Inc., Sequa Corp., SPS Technologies Inc., UNC, Inc., and Wyman
+Gordan Co.
+ 
+These indices relate only to stock prices; they do not purport to provide a
+direct comparison of the business or financial performance of the companies
+comprising such indices with the Company or with each other.
+ 
+                 COMPARISON OF FIVE-YEAR CUMULATIVE STOCKHOLDER
+                                TOTAL RETURN (1)
+ 
+EDGAR REPRESENTATION OF DATA POINTS USED IN PRINTED GRAPHIC
+ 
+<TABLE>
+<CAPTION>
+    RETURN TO SHAREHOLDER
+<S>                            <C>           <C>         <C>
+Index                             AAR CORP.     S&P 500       PEER GROUP
+FY92                                  $ 100       $ 100            $ 100
+FY93                               $ 109.03    $ 111.61          $ 84.46
+FY94                               $ 119.93    $ 116.36          $ 92.23
+FY95                               $ 131.88    $ 139.86          $ 85.16
+FY96                               $ 196.28    $ 179.63         $ 150.58
+FY97                               $ 280.31    $ 232.25         $ 179.16
+</TABLE>
+ 
+- ----------
+   (1)  Assumes $100 invested on June 1, 1992, and reinvestment of dividends in
+        the Company's Common Stock, S&P Composite--500 Stock Index and Companies
+        comprising the Peer Group.
+ 
+EMPLOYMENT AND OTHER AGREEMENTS
+ 
+Mr. Eichner has an agreement with the Company providing for employment in his
+present capacity at a base compensation of $400,000 per year, effective October,
+1996, or such increased amount as the Board may determine, and for retirement
+benefits following termination of his full-time employment with the Company
+pursuant to the Retirement Plan, and the SKERP and SERP described under "Pension
+Plans" above. His term of employment is continuously extended so as to have a
+remaining term of three years, but shall expire on the first to occur of his
+death, disability, voluntary termination or attainment of age 68.
+ 
+The Company has entered into an irrevocable trust agreement with The Northern
+Trust Company as trustee to fund at certain dates the Company's obligations to
+Mr. Eichner and his widow or other
+ 
+                                       15
+<PAGE>
+beneficiary under his employment agreement. The Company will pay bonuses to Mr.
+Eichner (or his widow or other beneficiary) to provide for federal, state and
+local income taxes incurred as a result of contributions to the trust and income
+earned by trust assets. Mr. Eichner's estate or designated beneficiary(ies) will
+receive any residual amounts in the trust after payment of all retirement and
+other obligations under the trust agreement.
+ 
+The Company has entered into an employment agreement ("Employment Agreement")
+with Mr. Storch, designed to assure his continued services with the Company, at
+a base compensation of $500,000 per year, effective October, 1996, or such
+increased amount as the Board may determine. Mr. Storch's term of employment is
+continuously extended so as to have a remaining term of three years, but shall
+expire upon his death, disability, retirement or termination by the Company or
+Mr. Storch pursuant to the terms of the Employment Agreement.
+ 
+The Employment Agreement sets forth the terms and conditions of Mr. Storch's
+employment, including: confidentiality and non-compete provisions, participation
+in the Company's benefit plans, a severance payment upon termination of
+employment by the Company for other than cause (as defined in the Employment
+Agreement) prior to a change in control of the Company (as defined in the
+Employment Agreement) equal to two times base salary then in effect, a severance
+payment equal to three (3) times his average cash compensation (base salary plus
+cash bonus) for the last two fiscal years of employment upon termination of
+employment under certain circumstances in the event of a change in control of
+the Company, an incentive bonus opportunity of up to 100% of base salary subject
+to annual financial targets approved by the Compensation Committee (any bonus in
+excess of 80% of base salary is payable in three year restricted stock), and
+long term incentive stock compensation consisting of an option grant of 200,000
+shares, annual restricted stock awards of up to 15,000 shares each year for four
+years in the discretion of the Compensation Committee, and 360,000 performance
+shares to be granted at the completion of a four year performance period
+contingent upon the Company's performance versus the Company's Peer Group index
+and the S&P500 index, for both return on capital and total return to
+shareholders.
+ 
+The Company has entered into split dollar life insurance agreements with Mr.
+Eichner and Mr. Storch. Under the agreements, the Company will fund the annual
+insurance premiums for the policies subject to reimbursement from the cash value
+or death benefit proceeds of the policies or by the individuals for any
+deficiency in the event of early termination of the policies for any reason.
+ 
+The Company has entered into severance agreements with certain key employees,
+including all named executive officers other than Mr. Storch and Mr. Eichner.
+The severance agreements are substantially identical, include confidentiality
+and non-compete covenants, and provide for payment of compensation and certain
+benefits in consideration thereof in the event of termination of employment for
+other than cause, including a change in control of the Company. Severance equal
+to one year base salary plus any earned incentive cash bonus will be paid upon
+termination of employment for other than cause (as defined in the severance
+agreement) prior to a change in control of the Company; severance equal to three
+times average annual total compensation (base salary plus cash bonus) for the
+last two fiscal years of employment will be paid upon termination of employment
+under certain circumstances following a change in control of the Company.
+ 
+DIRECTORS' COMPENSATION
+ 
+Directors who are not officers or employees of the Company or any subsidiary
+each receive an annual retainer of $28,000 payable only in Common Stock of the
+Company, a fee of $1,750 for attendance at each meeting of the Board of
+Directors or of any Board committee and reimbursement of expenses. The chairman
+of each committee receives an additional $2,000 annual retainer. The Company
+also provides each of its outside directors with group term life insurance
+coverage of $200,000. In addition, under the AAR CORP. Stock Benefit Plan, each
+outside director, upon becoming a director, automatically receives stock options
+for 10,000 shares of the Common Stock which can be exercised in 25% increments
+each anniversary grant date at the closing NYSE
+ 
+                                       16
+<PAGE>
+price on the date of grant. Directors who are officers or employees of the
+Company or any subsidiary receive no additional compensation for service on the
+Board of Directors or any of its committees. The directors may elect to defer
+receipt of their respective annual retainer and committee fees pursuant to the
+Company's Nonemployee Directors' Deferred Compensation Plan.
+ 
+The Company also has a Directors' Retirement Plan for its outside directors. The
+Plan provides for a benefit to outside directors upon retirement on or after age
+65, provided they have completed at least five years of service as a director.
+Benefits are payable as a quarterly annuity in an amount equal to 25% of the
+annual retainer fee payable by the Company to an active outside director.
+Payment of benefits commences upon retirement and continues for a period equal
+to the total number of years of the retired director's service as a director to
+a maximum of ten years or death, whichever first occurs. The Directors'
+Retirement Plan is unfunded. As of May 31, 1997, one former director was
+receiving benefits under the Directors' Retirement Plan.
+ 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+Mr. Jannotta, a director of the Company, is a Senior Director of William Blair &
+Company, which from time to time has rendered investment banking services to the
+Company, for which it has received customary compensation. In 1996, the Company
+entered into an Underwriting Agreement pursuant to which William Blair & Company
+served as co-manager of a public offering of securities on February 6, 1997.
+Pursuant to the Underwriting Agreement, the Company indemnified William Blair &
+Company against certain liabilities, and, compensated William Blair & Company
+for its services. Management believes the Underwriting Agreement was on terms as
+favorable to the Company as if made with a non-affiliated party. It is
+anticipated that the Company may engage William Blair & Company for additional
+services in the future.
+ 
+                                   PROPOSAL 2
+ 
+APPROVAL OF AN AMENDMENT TO THE AAR CORP. STOCK BENEFIT PLAN TO LIMIT TO 300,000
+THE NUMBER OF SHARES OF COMMON STOCK THAT MAY BE GRANTED UNDER THE PLAN TO ANY
+GRANTEE DURING ANY 12-MONTH PERIOD
+ 
+PROPOSED AMENDMENT TO THE PLAN
+ 
+Section 162(m) of the Internal Revenue Code of 1986, as amended (the "Code"),
+generally precludes a publicly traded company from taking a federal income tax
+deduction for compensation in excess of $1 million paid to the company's chief
+executive officer or any of the four next highest paid executive officers,
+subject to several exceptions, including an exception for compensation paid
+under a stockholder-approved plan that is "performance-based" within the meaning
+of Section 162(m). Compensation attributable to a stock option or stock
+appreciation right is deemed to be performance-based if, among other things, the
+underlying plan, as approved by the stockholders, includes a limit on the number
+of shares for which stock options or stock appreciation rights may be granted to
+any one person during a specified period. The Board of Directors believes that
+it is in the best interests of the Company to ensure, to the extent possible,
+the full deductibility of compensation attributable to stock options ("Options")
+and "limited rights" (as defined below) granted under the AAR CORP. Stock
+Benefit Plan (the "Plan"). Accordingly, the Board has unanimously adopted,
+subject to stockholder approval, an amendment to the Plan which provides that
+the maximum number of shares of Common Stock with respect to which Options or
+limited rights, or any combination thereof, may be granted to any one person
+under the Plan within any 12-month period shall not exceed 300,000 shares. If
+this proposal is not approved by the stockholders, the Company's named executive
+officers will receive compensation pursuant to the terms of applicable
+employment agreements or under alternative compensation arrangements approved by
+the Committee in its discretion.
+ 
+                                       17
+<PAGE>
+SUMMARY OF THE PLAN
+ 
+The Plan was approved by the Company's stockholders in 1992, and an amendment to
+the Plan was approved by the stockholders in 1996. The Compensation Committee of
+the Board of Directors administers the Plan and has the authority to determine
+the key employees to whom awards are to be granted under the Plan, the term and
+other terms and conditions of each award, the applicable vesting schedule, and
+the number of shares of Common Stock covered by an award. As of May 31, 1997,
+107 employees were eligible to receive awards under the Plan. In fiscal 1997,
+107 employees received such awards.
+ 
+As of June 30, 1997, a total of 111,746 shares were available for issuance under
+the Plan. On January 1 of each calendar year prior to December 31, 2001, an
+additional number of shares equal to 2% of the issued and outstanding shares of
+Common Stock as of such date becomes available for issuance. Notwithstanding the
+foregoing, no more than 1,000,000 shares of Common Stock may be subject to
+incentive stock options granted under the Plan.
+ 
+Under the Plan, the Company may grant the following types of awards:
+ 
+OPTIONS.  Options may be either non-qualified stock options or incentive stock
+options. Subject to certain limited exceptions, the exercise price must equal
+the fair market value per share of the Common Stock on the date of grant.
+Payment of the exercise price may be made in cash, in shares of Common Stock, or
+as otherwise authorized by the Compensation Committee at the time of grant.
+Subject to certain limited exceptions, including a change in control of the
+Company (as defined in the Plan), non-qualified stock options may not be
+exercised before the first anniversary date of grant. Each Option will expire on
+the date fixed by the Compensation Committee at the time of grant but in no
+event later than the tenth anniversary of the date of grant. In its discretion,
+the Compensation Committee, may grant an additional Option (a "Reload Option")
+for the number of shares used by the grantee to pay the exercise price of the
+original Option, provided that such Reload Option must be subject to the same
+terms as the original Option except that the exercise price of a Reload Option
+must be equal to the fair market value of the Common Stock at the time that the
+original Option is exercised. The Plan also provides for an automatic grant of a
+non-qualified stock option to acquire 10,000 shares of Common Stock, exercisable
+over four years, to each non-employee director on the date such person becomes a
+director of the Company.
+ 
+LIMITED RIGHTS.  The Compensation Committee may also grant to any key employee
+who is the holder of an Option under the Plan the right to surrender all or a
+portion of the Option following a change in control of the Company (as defined
+in the Plan) in return for an amount of cash determined by the Compensation
+Committee at the time of grant but in no event greater than the excess of the
+fair market value of the shares covered by the Option over the aggregate
+exercise price (a "Limited Right"). No Limited Right will be exercisable until
+six months after the date of grant or on such later date on which the Option to
+which it relates becomes exercisable.
+ 
+RESTRICTED STOCK.  The Compensation Committee may also grant awards of
+restricted stock to key employees, either separately from or in tandem with, the
+grant of an Option. Subject to certain limited exceptions (including a change in
+control of the Company), such restrictions may not lapse sooner than the first
+or later than the tenth anniversary of the date of grant.
+ 
+Information relating to awards made in fiscal 1997 under the Plan to the
+executive officers named in the Summary Compensation Table is presented in the
+various tables under the caption "Executive Compensation and Other Information."
+In addition, 203,000 Options at an average exercise price of $24.125 per share
+were granted to all non-officer employees as a group. Awards to be made in the
+future under the Plan are not yet determinable since they are discretionary
+(other than the automatic grants to non-employee directors). On July 31, 1997,
+the last reported sales price for the Common Stock on the New York Stock
+Exchange was $35.75 per share.
+ 
+                                       18
+<PAGE>
+The Board of Directors may terminate, suspend or modify the Plan, without the
+authorization of the stockholders, to the extent allowed by law. No termination,
+suspension or modification of the Plan may adversely affect any rights of a
+holder of an award granted under the Plan before the date of such termination,
+suspension or modification.
+ 
+FEDERAL INCOME TAX CONSEQUENCES
+ 
+Neither non-qualified stock options, incentive stock options, nor restricted
+stock awards require the holder to recognize income, or entitle the Company to a
+deduction, at the time of grant.
+ 
+Upon the exercise of a non-qualified stock option, the holder will recognize
+ordinary income in an amount equal to the excess of the fair market value of the
+option stock as of the date of exercise over the exercise price. Upon the
+vesting of a restricted stock award, the holder will realize ordinary income in
+an amount equal to the fair market value of the restricted stock at such time. A
+holder may elect to recognize ordinary income on the fair market value of the
+restricted stock at the date of the award, and thus recognize capital gain on
+the subsequent sale of the stock in an amount equal to the excess of the fair
+market value of the stock at the date of vesting over the fair market value at
+the date of the award.
+ 
+Incentive stock options are not ordinarily subject to taxation until the holder
+sells the option stock, although the excess of the fair market value of the
+option stock over the exercise price is a tax preference item subject to
+alternative minimum taxation at the time of exercise. When stock acquired
+through exercise of an incentive stock option is sold at least two years after
+grant and at least one year after exercise, the holder recognizes as capital
+gain or loss the difference between the sale proceeds of the option stock and
+the exercise price. If these holding periods are not met, the holder will
+recognize ordinary income on the excess of the sale proceeds over the exercise
+price.
+ 
+Subject to Section 162(m), the Company is entitled to a deduction when and to
+the extent the holder recognizes ordinary income upon the vesting of a
+restricted stock award or the exercise of a non-qualified stock option, provided
+the Company complied with certain withholding requirements. In the case of an
+incentive stock option, the Company is not entitled to a deduction where the
+holder recognizes capital gain; the Company is, however, entitled to a deduction
+when and to the extent the holder recognizes ordinary income upon sale of the
+option stock within either of the two previously mentioned holding periods.
+ 
+VOTE REQUIRED FOR APPROVAL
+ 
+The proposed amendment to the Plan must be approved by a majority of the shares
+of Common Stock present in person or by proxy and entitled to vote at the 1997
+Annual Meeting.
+ 
+THE BOARD OF DIRECTORS RECOMMENDS THAT THE STOCKHOLDERS VOTE FOR THE PROPOSED
+AMENDMENT TO THE AAR CORP. STOCK BENEFIT PLAN.
+ 
+                                   PROPOSAL 3
+ 
+APPROVAL OF PERFORMANCE GOALS UNDER THE PERFORMANCE RESTRICTED STOCK INCENTIVE
+PROGRAM FOR THE CHIEF EXECUTIVE OFFICER
+ 
+BACKGROUND
+ 
+Section 162(m) of the Internal Revenue Code of 1986, as amended, generally
+precludes a publicly traded company from taking a tax deduction for compensation
+in excess of $1 million paid to the Company's Chief Executive Officer, subject
+to several exceptions, including an exception for compensation paid under a plan
+having stockholder-approved "performance-based" goals within the meaning of
+Section 162(m).
+ 
+The Compensation Committee of the Board of Directors has unanimously adopted
+performance goals under a Long-Term Performance Restricted Stock Incentive Bonus
+program for David P.
+ 
+                                       19
+<PAGE>
+Storch, the Company's Chief Executive Officer, subject to stockholder approval
+of such performance goals. This program is designed to (i) tie a significant
+portion of the total compensation of the Chief Executive Officer to the creation
+of shareholder value relative to other investments and not simply on the basis
+of stock price or stock market movement, (ii) provide incentive compensation
+opportunities contingent upon achieving better than average economic performance
+as compared with peers and the general market, (iii) provide an incentive
+opportunity in the form of performance-based restricted stock that results in
+significant stock ownership, the value of which is contingent upon sustained
+performance; and (iv) to the extent possible, consistent with the Company's
+performance and compensation objectives, qualify such compensation as
+"performance-based" for purposes of Section 162(m) of the Internal Revenue Code
+so that the Company will be entitled to a tax deduction on the payment of such
+awards.
+ 
+LONG-TERM PERFORMANCE RESTRICTED STOCK INCENTIVE BONUS PERFORMANCE GOALS
+ 
+Under Mr. Storch's Long-Term Performance Restricted Stock Incentive Bonus
+program, based on achievement of specified goals, Mr. Storch may earn up to
+360,000 restricted shares of the Company's Common Stock in accordance with a
+performance unit matrix covering a four year performance period commencing July
+9, 1996, the date of his appointment as Chief Executive Officer. The number of
+restricted shares to be awarded, if any, will be determined at the end of the
+performance period based on achievement of the following specified performance
+goals and performance unit matrix:
+ 
+    A.  The Company's cumulative percentage Total Return to Shareholders as
+compared to the S&P 500 Composite Index Total Return to Shareholders; and
+ 
+    B.  The Company's cumulative percentage Total Return to Shareholders as
+compared to its Peer Group Composite Index Total Return to Shareholders; and
+ 
+    C.  The Company's average Return on Capital as compared to the S&P 500
+Composite Index average Return on Capital; and
+ 
+    D.  The Company's average Return on Capital as compared to the Company's
+Peer Group Composite Index average Return on Capital.
+ 
+For purposes of this program (i) "Total Return to Shareholders" means the
+cumulative share price appreciation plus dividends (reinvested); (ii) "Peer
+Group Composite Index" means the index selected by the Company from time to time
+for performance comparisons in the Company's annual proxy statement pursuant to
+applicable Securities and Exchange Commission regulations; and (iii) "Return on
+Capital" means earnings before interest and taxes (EBIT) divided by Total
+Capital (debt plus equity minus cash).
+ 
+Performance units will be earned in accordance with the following performance
+unit matrix:
+ 
+<TABLE>
+<CAPTION>
+                                        Performance Units Earned for Each
+                 % of Target Achieved*    of the Four Performance Goals
+                 ---------------------  ----------------------------------
+<S>              <C>                    <C>
+                          0 - 80                             0
+                              81                        30,000
+                             100                        60,000
+                             120                        75,000
+                            120+                        90,000
+</TABLE>
+ 
+        *With respect to Total Return to Shareholders goals, 100% achievement
+        will be the median of the S&P 500 and the 60th percentile of the Peer
+        Group; with respect to the Return on Capital goals, 100% achievement
+        will be 80% of the median of the S&P 500 and 60th percentile of the Peer
+        Group. Results between the amounts shown on the schedule will be
+        computed by linear interpolation.
+ 
+                                       20
+<PAGE>
+One share of restricted stock will be awarded for each performance unit earned
+under the above performance unit matrix, subject to a maximum total dollar value
+of $12,690,000 based on the New York Stock Exchange closing price for the
+Company's Common Stock on July 9, 2000. The shares will be restricted for three
+years after July 9, 2000, with fifty percent (50%) vesting on the first
+anniversary date of the award and fifty percent (50%) vesting on the third
+anniversary date of the award. In the event Mr. Storch's employment with the
+Company is terminated within twenty-four (24) months following a Change in
+Control of the Company, as that term is defined in Mr. Storch's Employment
+Agreement, occurring prior to July 9, 2000 pursuant to the Change-in-Control
+provisions of Mr. Storch's Employment Agreement, the above stated dollar value
+limit will be removed and 360,000 shares will be awarded and such compensation
+will not be deductible under applicable Internal Revenue Code provisions.
+ 
+If this proposal is approved by the stockholders, Mr. Storch's Employment
+Agreement will be amended to reflect the approved goals and long-term restricted
+stock incentive award opportunity described in this proposal in lieu of the
+existing performance share award opportunity presently provided for in his
+Employment Agreement. If this proposal is not approved by the stockholders, Mr.
+Storch will receive compensation pursuant to the terms of his Employment
+Agreement described in the Employment and Other Agreements section of this Proxy
+Statement, or other alternative compensation arrangements approved by the Board
+and acceptable to Mr. Storch.
+ 
+PROGRAM ADMINISTRATION
+ 
+Mr. Storch's Long-Term Performance Restricted Stock Incentive Program will be
+administered by the Board's Compensation Committee (the "Committee"), consisting
+of at least two non-employee directors, each of whom is intended to qualify as
+an "outside director" within the meaning of Section 162(m) of the Code.
+ 
+FEDERAL INCOME TAX CONSEQUENCES
+ 
+Under present federal income tax law, Mr. Storch will realize ordinary income in
+the year restrictions are released in an amount equal to the fair market value
+of the restricted shares released. The Company will receive a deduction for the
+amount constituting ordinary income to the participant, provided that the
+requirements of Section 162(m) which limits the deductibility of non-performance
+related compensation paid to certain corporate executives are satisfied.
+ 
+VOTE REQUIRED
+ 
+The affirmative vote of a majority of the shares of common stock present in
+person or by proxy and entitled to vote at the Annual Meeting is required to
+approve the performance goals under the Long-Term Performance Restricted Stock
+Incentive program for Mr. Storch.
+ 
+THE BOARD OF DIRECTORS RECOMMENDS THAT THE STOCKHOLDERS VOTE FOR APPROVAL OF THE
+PERFORMANCE GOALS UNDER THE LONG-TERM PERFORMANCE RESTRICTED STOCK INCENTIVE
+PROGRAM FOR MR. STORCH.
+ 
+                                   PROPOSAL 4
+ 
+APPROVAL OF THE AAR CORP. SECTION 162(M) PERFORMANCE BASED ANNUAL CASH BONUS
+PROGRAM
+ 
+BACKGROUND
+ 
+Section 162(m) of the Internal Revenue Code of 1986, as amended, generally
+precludes a publicly traded company from taking a tax deduction for compensation
+in excess of $1 Million paid to a company's chief executive officer or any of
+the company's four next highest paid executive officers, subject to several
+exceptions, including an exception for compensation paid under a stockholder-
+approved plan that is "performance-based" within the meaning of Section 162(m).
+ 
+                                       21
+<PAGE>
+The Company's Board of Directors and the Compensation Committee believe that, as
+a matter of general policy, the Company's incentive compensation plans should be
+structured to ensure the full deductibility of compensation under Section
+162(m), but that the Compensation Committee should reserve the right to
+establish separate incentive compensation arrangements for otherwise covered
+executive officers that may not meet Section 162(m) deductibility requirements
+if it determines, in its sole discretion, that doing so would be in the
+Company's best interests.
+ 
+To come within the Section 162(m) exception for "performance-based" plans, the
+Compensation Committee has established a Section 162(m) Performance Based Annual
+Cash Bonus program ("Section 162(m) Bonus Program") for certain Company
+officers, subject to the approval of such program by the Company's stockholders
+at the Company's 1997 annual meeting.
+ 
+The purpose of the Section 162(m) Bonus Program is (i) to retain and motivate
+key senior executives of the Company who have been designated as participants in
+the Section 162(m) Performance Based Annual Cash Bonus Program for a given
+fiscal year, by providing them with the opportunity to earn annual bonus awards
+that are based on the extent to which specified performance goals for such year
+have been achieved or exceeded and (ii) to structure annual bonus opportunities
+in a way that will qualify the awards made as "performance-based" for purposes
+of Section 162(m) so that the Company will be entitled to a tax deduction on the
+payment of such incentive awards to such employees.
+ 
+Bonus eligible officers and other key employees not designated as participants
+in the Section 162(m) Bonus Program for any given year will generally be
+eligible for coverage under one of the Company's other annual bonus plans and
+arrangements.
+ 
+The Compensation Committee believes that annual cash bonuses serve as an
+incentive to focus on the annual goals that are necessary to preserve and grow
+shareholder wealth. As part of its pay for performance policy and its long
+history of maintaining the strong balance sheet necessary to survive and thrive
+in our industry, the Compensation Committee establishes explicit goals for key
+members of management that will provide competitive opportunities upon the
+achievement of the pre-established goals. If this proposal is not approved by
+the stockholders, the Company's officers and key employees may receive annual
+cash bonus awards in the discretion of the Compensation Committee under
+alternative compensation arrangements approved by the Committee.
+ 
+SECTION 162(M) BONUS PROGRAM OPPORTUNITIES AND AWARDS
+ 
+Within the first 90 days of each fiscal year, the Compensation Committee will
+establish specific goals for the Chairman and CEO and certain other executive
+officers of the Company (as appropriate in the Compensation Committee's
+discretion) that will govern the payment of their annual cash bonuses for that
+fiscal year. These goals will focus on two categories: income and balance sheet
+management. The importance and weighting of these two categories will be
+established each year by the Compensation Committee. Under the category of
+balance sheet management, the Compensation Committee will establish goals that
+will include one or several of the following criteria: shareholder equity,
+long-term debt to capital ratio, investment rating, debt coverage, cash flow or
+return on invested capital. Under the category of income, the Compensation
+Committee will establish goals that will include one or several of the
+following: pre-tax income, earnings per share, net income. Upon achievement of
+target goals, a participant may earn up to 100% of such participant's salary
+(not to exceed $4 million in any year). The amount actually earned will depend
+on each participant's position and actual performance versus pre-established
+goals. After the acceptance of audited financial statements by the Board, the
+Compensation Committee will certify the degree of achievement for each criteria
+and the corresponding bonus payment for each Section 162(m) Bonus Program
+participant.
+ 
+                                       22
+<PAGE>
+PROGRAM ADMINISTRATION
+ 
+The Section 162(m) Bonus Program will be administered by the Compensation
+Committee, consisting of at least two non-employee directors, each of whom is
+intended to qualify as an "outside director" within the meaning of Section
+162(m) of the Code. The Section 162(m) Bonus Program will be administered by the
+Compensation Committee which will, among other things, designate participants,
+establish performance goals, and interpret and administer the Section 162(m)
+Bonus Program as it deems necessary or advisable.
+ 
+AMENDMENT AND TERMINATION
+ 
+The Compensation Committee may terminate the Section 162(m) Bonus Program, in
+whole or part, and may amend the Section 162(m) Bonus Program from time to time
+provided (i) that, without the participant's written consent, no such amendment
+or termination shall adversely affect the annual bonus rights (if any) of any
+already designated participant for a given fiscal year once the participant
+designations and performance goals for such year have been announced and (ii)
+that the Compensation Committee shall be authorized to make any amendments
+necessary to comply with applicable regulatory requirements (including, without
+limitation, Section 162(m)). Section 162(m) Bonus Program amendments will
+require stockholder approval only if required under Section 162(m).
+ 
+FEDERAL INCOME TAX CONSEQUENCES
+ 
+Under present federal income tax law, participants will realize ordinary income
+equal to the amount of the award received in the year of receipt. The Company
+shall receive a deduction for the amount constituting ordinary income to the
+participant, provided that the requirements of Section 162(m) which limits the
+deductibility of non-performance related compensation paid to certain corporate
+executives are satisfied.
+ 
+VOTE REQUIRED
+ 
+The affirmative vote of a majority of the shares of common stock present in
+person or by proxy and voting at the Annual Meeting is required to approve the
+Section 162(m) Bonus Program.
+ 
+THE BOARD OF DIRECTORS RECOMMENDS THAT THE STOCKHOLDERS VOTE FOR APPROVAL OF THE
+SECTION 162(M) BONUS PROGRAM.
+ 
+OTHER MATTERS
+ 
+Management knows of no other matters which are to be brought before this Annual
+Meeting. However, if any other matters properly come before the Annual Meeting,
+it is intended that the persons voting the proxies will vote them in accordance
+with their best judgment on such other matters.
+ 
+INDEPENDENT PUBLIC ACCOUNTANTS
+ 
+The Company's Board of Directors, upon recommendation of its Audit Committee,
+has selected KPMG Peat Marwick as its independent public accountants for the
+fiscal year ending May 31, 1998. Representatives of that firm are expected to be
+present at the Annual Meeting, with the opportunity to make a statement if they
+so desire and to be available to respond to appropriate questions.
+ 
+                                       23
+<PAGE>
+STOCKHOLDER PROPOSALS FOR 1998 ANNUAL MEETING
+ 
+Any stockholder who wishes to present a proposal for consideration at the Annual
+Meeting of Stockholders to be held in 1998 must submit such proposal in
+accordance with the rules promulgated by the Securities and Exchange Commission.
+In order for a proposal to be eligible for inclusion in the Company's Proxy
+Statement and form of proxy relating to the 1998 Annual Meeting, the stockholder
+must submit such proposal to the Company, in writing, to be received by the
+Secretary of the Company, AAR CORP., One AAR Place, 1100 N. Wood Dale Road, Wood
+Dale, Illinois 60191, no later than May 1, 1998.
+ 
+                                          By Order of the Board of Directors
+ 
+                                          Howard A. Pulsifer
+                                          SECRETARY
+ 
+August 28, 1997
+ 
+UPON THE WRITTEN REQUEST OF ANY RECORD HOLDER OR BENEFICIAL OWNER OF COMMON
+STOCK OF AAR CORP., THE COMPANY WILL PROVIDE, WITHOUT CHARGE, A COPY OF ITS
+ANNUAL REPORT ON FORM 10-K FILED WITH THE SECURITIES AND EXCHANGE COMMISSION FOR
+THE FISCAL YEAR ENDED MAY 31, 1997. REQUESTS SHOULD BE MADE TO MR. HOWARD A.
+PULSIFER, SECRETARY, AAR CORP., ONE AAR PLACE, 1100 N. WOOD DALE ROAD, WOOD
+DALE, ILLINOIS 60191, (630) 227-2000.
+ 
+                                       24
+<PAGE>
+
+                                                                   EXHIBIT A
+                                  COMPOSITE OF
+                                    AAR CORP.
+                               STOCK BENEFIT PLAN*
+
+1.   PURPOSE AND ELIGIBILITY
+
+     AAR CORP. adopted the AAR CORP. 1983 Incentive Stock Plan, effective April
+12, 1983, as amended and restated effective July 22, 1986 and as subsequently
+further amended from time to time.  AAR CORP. now further amends, restates and
+renames such plan the AAR CORP. Stock Benefit Plan.  This Plan is adopted to
+encourage officers and other key employees of the Company who have executive,
+managerial, supervisory or professional responsibilities and non-employee
+members of the Board to increase their investment in the Company and to provide
+additional opportunities to such persons to share in the success of the Company.
+The opportunity so provided is intended to foster in Grantees a strong incentive
+to put forth maximum effort for the continued success and growth of the Company,
+to aid in retaining individuals who put forth such efforts, and to assist in
+attracting the best available individuals in the future.
+
+     Non-Employee Directors shall participate in the Plan through automatic
+grants of NSOs pursuant to Section 5 hereof.  Key Employees who have been
+selected by the Committee to receive an Award shall participate in the Plan. 
+The Committee shall determine, within the limits of the express provisions of
+the Plan, those Key Employees to whom, and the time or times at which, Awards
+shall be granted.  In making a determination concerning the granting of Awards,
+the Committee may take into account the nature of the services the Key Employees
+have rendered or that the Committee expects they will render, their present and
+potential contributions to the success of the business, the number of years of
+effective service they are expected to have and such other factors as the
+Committee in its sole discretion shall deem relevant.  The Committee shall also
+determine, with respect to Awards to Key Employees, the number of Shares to be
+subject to each such Award; the type of Awards (Restricted Stock, Options or
+Limited Rights); the type of Options (ISO or NSO); the duration of each Option;
+the exercise price under each Option; the time or times within which (during the
+Term of the Option) all or portions of each Option may be exercised; whether
+cash, Shares, Options or other property may be accepted in full or partial
+payment upon
+
+<PAGE>
+
+exercise of an Option; the restrictions to be imposed on shares of 
+Restricted Stock; and any other terms and conditions of such Awards.
+
+
+
+*including Third Amendment dated 4/8/97
+
+
+
+
+
+
+
+
+                                      2
+
+<PAGE>
+
+2.   DEFINITIONS
+
+     For purposes of this Plan, the following terms shall have the meaning set
+forth below:
+
+     2.1  "Award" shall mean an Option, a Limited Right or a Restricted Stock
+Award.
+
+     2.2  "Board" means the Board of Directors of the Company.
+
+     2.3  "Cause", when used in regard to the termination of a Key Employee's
+employment with the Company, shall mean termination of such employment by the
+Company (A) because of the Key Employee's dishonesty, fraud or breach of trust,
+gross negligence or substantial misconduct in the performance of, or substantial
+nonperformance of, his assigned duties or willful violation of Company policy,
+(B) because of any act or omission by the Key Employee that is a substantial
+cause for a regulatory body with jurisdiction over the Company to request or
+recommend the suspension or removal of the Key Employee or to impose sanctions
+upon the Company or the Key Employee, (C) because of a material breach by the
+Key Employee of any applicable employment agreement between him and the Company
+or (D) as defined in the applicable Option Agreement, Restricted Stock Agreement
+or Limited Right Agreement issued hereunder.  Whether the termination of a Key
+Employee's employment is for Cause shall be determined by the management of the
+Company in its sole discretion.
+
+     2.4  "Change in Control" means the earliest of:
+
+          (a)  any person (as such term is used in Section 13(d) of the
+     Securities Exchange Act of 1934, as amended ("Exchange Act")), has acquired
+     (other than directly from the Company) beneficial ownership (as that term
+     is defined in Rule 13d-3 under the Exchange Act), of more than 20% of the
+     outstanding capital stock of the Company entitled to vote for the election
+     of directors;
+
+          (b)  the commencement by an entity, person, or group (other than the
+     Company or a subsidiary of the Company) of a
+
+                                      3
+
+<PAGE>
+
+     tender offer or an exchange offer for more than 20% of the outstanding 
+     voting stock of the Company;
+
+          (c)  the effective time of (i) a merger or consolidation or other
+     business combination of the Company with one or more other corporations as
+     a result of which the holders of the outstanding voting stock of the
+     Company immediately prior to such business combination hold less than 60%
+     of the voting stock of the surviving or resulting corporation, or (ii) a
+     transfer of substantially all of the assets of the Company other than to an
+     entity of which the Company owns at least  80% of the voting stock; or
+
+          (d)  the election, over any period of time, to the Board of Directors
+     of the Company without the recommendation or approval of the incumbent
+     Board of Directors of the Company, of the lesser of (i) three directors, or
+     (ii) directors constituting a majority of the number of directors of the
+     Company then in office; or
+
+          (e)  the occurrence of any arrangement or understanding relating to
+     the Company which would give rise to a filing requirement with the
+     Securities and Exchange Commission pursuant to Rule 14F-1 of the Exchange
+     Act Rules under the Securities Exchange Act of 1934.
+
+     2.5  "Code" means the Internal Revenue Code of 1986, as in effect at the 
+time of reference, or any successor revenue code which may hereafter be 
+adopted in lieu thereof, and references to any specific provisions of the 
+Code shall refer to the corresponding provisions of the Code as it may 
+hereafter be amended or replaced.
+
+     2.6  "Committee" means the Board's Compensation Committee, or such other 
+committee of not less than two Directors who are "non-employee directors" 
+within the meaning of Rule 16b-3 under the Securities Act of 1934 and 
+"outside directors" within the meaning of Section 162(m) of the Internal 
+Revenue Code of 1986, as amended, and the regulations thereunder, as shall be 
+designated by the Board.
+
+                                       4
+
+<PAGE>
+
+     2.7  "Company" means AAR CORP, a Delaware corporation, and its 
+subsidiaries, which include any businesses, whether or not incorporated, in 
+which the Company owns directly or indirectly not less than 50 percent of the 
+equity interest at the time an Award is granted to an employee thereof, or in 
+any other case, at the time of reference.
+
+     2.8  "Continuing Director" shall mean a member of the Board of the Company
+prior to the occurrence of a Change in Control.
+
+     2.9  "Disability" means the inability of an individual to engage in any
+substantial gainful activity by reason of any medically determinable physical or
+mental impairment which can be expected to result in death or which has lasted
+or can be expected to last for a continuous period of not less than 12 months.
+
+     2.10 "Fair Market Value" means, with respect to the Company's Shares, the
+closing price of the Shares on the trading day corresponding to, or if no
+trading occurred on the New York Stock Exchange on such date, the trading day
+immediately preceding, the date on which the value is to be determined, as
+reported on the NYSE-Composite Tape or such other source of quotations for or
+reports of trading activity in Shares as the Committee may from time to time
+select.  If no trades in Shares occurred on the relevant trading day, the mean
+between the bid and asked prices of a Share as reflected on the NYSE-Composite
+Tape at the close of the market on such trading day shall be deemed to be the
+Fair Market Value.
+
+     2.11 "Grantee" means a person to whom an Award is granted.
+
+     2.12 "Incentive Stock Option" or "ISO" means an Option meeting the
+conditions and containing the limitations and restrictions set forth in Section
+422 of the Code.
+
+     2.13 "Key Employee" means an officer or other key employee of the Company
+who has executive, managerial, supervisory or professional responsibilities.
+
+     2.14 "Limited Right" means a right, subject to the provisions of Section
+13, to surrender to the Company all or a portion of an Option within 30 days
+after a Change in Control and
+
+                                       5
+
+<PAGE>
+
+to be paid therefor an amount in cash, as determined by the Committee at the 
+time of grant, no greater than the excess, if any, of (i) the Fair Market 
+Value, on the date such right is exercised in accordance with Section 14 
+hereof, of the Shares to which the Option or portion thereof relates, over 
+(ii) the aggregate option price of those Shares.  If no such determination is 
+made by the Committee at the time of grant, the amount of cash payable upon 
+exercise of a Limited Right shall be the excess, if any, of such Fair Market 
+Value over such price.
+
+     2.15 "Non-Employee Directors" means non-employee members of the Board.
+
+     2.16 "Non-Qualified Stock Option" or "NSO" means an Option other than an
+Incentive Stock Option.
+
+     2.17 "Option" means the right to purchase, at a price and for a term 
+fixed by the Committee in accordance with the Plan, and subject to such other 
+limitations and restrictions as the Plan and the Committee impose, the number 
+of Shares specified by the Committee.
+
+     2.18 "Option Agreement" means a written agreement issued in connection with
+the grant of an Option, as specified in subsection 6.2.
+
+     2.19 "Plan" means the Company's Stock Benefit Plan as reflected in the 
+provisions contained herein, and as it may be amended from time to time.
+
+     2.20 "Restricted Stock Agreement" means a written agreement issued in
+connection with the grant of a Restricted Stock Award, as specified in
+subsection 9.3.
+
+     2.21 "Restricted Stock Award" means the grant, at a time or times fixed 
+by the Committee in accordance with the Plan, and subject to such other 
+limitations and restrictions as the Plan and the Committee may impose, of the 
+number of Shares specified by the Committee.  The term "Restricted Stock" 
+shall refer to Shares issued pursuant to a Restricted Stock Award.
+
+                                       6
+
+<PAGE>
+
+     2.22 "Retirement" means the voluntary termination of employment of a Key 
+Employee who is at least fifty-five (55) years of age and whose age, at the 
+date of such termination, plus the number of consecutive years of employment 
+with the Company is at least equal to sixty-two (62).
+
+     In the case of a Non-Employee Director, "Retirement" means the voluntary 
+termination of membership on the Board at or after age 65 with not less than 
+five (5) consecutive years of service as a director of the Company.
+
+     2.23 "Shares" means the shares of the Company's $1.00 par value common 
+stock or, if by reason of the adjustment provisions hereof, any rights under 
+an Award pertain to any other security, such other security.
+
+     2.24  "Successor" means the legal representative of the estate of a 
+deceased Grantee or the person or persons who shall acquire Restricted Stock, 
+or the right to exercise an Option or a Limited Right, by bequest or 
+inheritance or by reason of the death of the Grantee.
+
+     2.25 "Taxable Date" means the date a Grantee recognizes income with 
+respect to an Award under the Code or any applicable state income tax code.
+
+     2.26 "Term" means the period during which a particular Option or Limited 
+Right may be exercised or the period during which the restrictions placed on 
+a Restricted Stock Award are in effect.
+
+3.   ADMINISTRATION
+
+     3.1  The Plan shall be administered by the Committee.
+
+     3.2  The Committee shall have plenary authority with respect to Key 
+Employees, subject to the provisions of the Plan, to determine when and to 
+whom Awards shall be granted, the Term of each Award, the number of Shares 
+covered by it, the effect of participation by a Grantee in other plans, and 
+any other terms or conditions of each such Award.  The number of Shares, the 
+Term and other terms and conditions of a particular kind of Award need not
+
+                                       7
+
+<PAGE>
+
+be the same, even as to Awards made at the same time.  The Committee's 
+actions in making Awards and fixing their size, Term, and other terms and 
+conditions shall be conclusive on all persons.
+
+     3.3  The Committee shall have the sole responsibility for construing and 
+interpreting the Plan, for establishing and amending such rules and 
+regulations as it deems necessary or desirable for the proper administration 
+of the Plan, and for resolving all questions arising under the Plan.  Any 
+decision or action taken by the Committee arising out of or in connection 
+with the construction, administration, interpretation and effect of the Plan 
+and of its rules and regulations shall, to the extent permitted by law, be 
+within its absolute discretion, except as otherwise specifically provided 
+herein, and shall be conclusive and binding upon all Grantees, all 
+Successors, and any other person, whether that person is claiming under or 
+through any Grantee or otherwise.
+
+     3.4  The Board shall designate one of the members of the Committee as 
+the Chairman of the Committee. The Committee shall hold its meetings at such 
+times and places as it may determine.  A majority of its members shall 
+constitute a quorum, and all determinations of the Committee shall be made by 
+a majority of its members. Any determination reduced to writing and signed by 
+all members shall be fully as effective as if it had been made by a majority 
+vote at a meeting duly called and held.  The Committee may appoint a 
+Secretary, who need not be a member of the Committee, and may make such rules 
+and regulations for the conduct of its business as it shall deem advisable.
+
+     3.5  No member of the Committee shall be liable, in the absence of bad 
+faith, for any act or omission with respect to his service on the Committee. 
+Service on the Committee shall constitute service as a director of the 
+Company, so that the members of the Committee shall be entitled to 
+indemnification and reimbursement as directors of the Company pursuant to its 
+By-Laws. 
+
+4.   SHARES SUBJECT TO THE PLAN
+
+     4.1  The total number of Shares that may be available for Awards under 
+the Plan at any date shall be the aggregate of (1) the sum of 0.9% of the 
+total number of issued and outstanding
+
+                                       8
+
+<PAGE>
+
+Shares on each of January 1, 1992, 1993, 1994 and 1995, plus (2) the sum of 
+2% of the total number of issued and outstanding Shares on January 1, 1996 
+and on January 1st of each subsequent calendar year commencing within the 
+Applicable Period and on or prior to the date the total number of Shares is 
+determined, minus (3) the total number of Shares that have been subject to 
+Awards granted under the Plan after July 16, 1992; provided, however, that 
+the number of Shares available pursuant to this sentence shall be increased 
+by the number of Shares (i) delivered by any Grantee, or (ii) withheld by the 
+Company, pursuant to Section 14 or 20 of the Plan in connection with the 
+exercise of an Option.  For purposes of the preceding sentence, Applicable 
+Period shall be the ten year period commencing on January 1, 1992 and ending 
+on December 31, 2001.  The aforementioned total number of Shares shall be 
+adjusted in accordance with the provisions of Section 4.2 hereof.  
+Notwithstanding the foregoing, the total number of Shares that may be subject 
+to ISOs under the Plan shall be 1,000,000 Shares, adjusted in accordance with 
+the provisions of Section 4.2 hereof.  A Share subject to an Option and its 
+related tandem Restricted Stock Award shall only be counted once.  The Shares 
+so issued may be Shares held in the treasury or Shares which are authorized 
+but unissued, as elected by the Board.  Any Shares subject to issuance upon 
+exercise of Options but which are not issued because of a surrender, lapse, 
+expiration, cancellation or termination of any such Option, or which have 
+been issued in connection with Restricted Stock Awards that are subsequently 
+canceled or forfeited to the extent consistent with applicable law, rules and 
+regulations, shall once again be available for issuance in satisfaction of 
+Awards.  Shares in respect of which Limited Rights are exercised shall not 
+thereafter be available for issuance in satisfaction of Awards.
+
+     4.2  Any increase or decrease in the number of outstanding Shares of the 
+Company occurring through stock splits, stock dividends, stock 
+consolidations, spin-offs, other distributions of assets to shareholders, or 
+assumptions or conversions of outstanding Awards due to an acquisition after 
+the adoption of the Plan shall be reflected proportionately in an increase or 
+decrease in the aggregate number of Shares then available for the grant of 
+Awards under the Plan or becoming available through the termination, 
+surrender or lapse of Awards previously granted but
+
+                                       9
+
+<PAGE>
+
+unexercised, and in the number of Shares subject to Awards then outstanding; 
+and a proportionate reduction or increase shall be made in the per share 
+option price to any outstanding Options.  Any fractional shares resulting 
+from such adjustments shall be eliminated.  If changes in capitalization 
+other than those considered above shall occur, the Board shall make such 
+adjustment in the number or class of shares as to which Awards may thereafter 
+be granted, in the number and class of shares remaining subject to Awards 
+then outstanding and in the per share option price as the Board in its 
+discretion may consider appropriate, and all such adjustments shall be 
+conclusive upon all persons.
+
+     4.3  The total number of Shares with respect to which Options or Limited 
+Rights, or any combination thereof, may be granted under the Plan to any 
+Grantee during any 12 month period shall not exceed 300,000 Shares.
+
+5.   GRANTS TO NON-EMPLOYEE DIRECTORS
+
+     5.1  Grants
+
+     All Awards to Non-Employee Directors shall be automatic and 
+non-discretionary.  Each individual who is a Non-Employee Director on the 
+effective date of the Plan shall automatically receive an Award, on the 
+effective date, consisting of a NSO to purchase 10,000 Shares.  Each 
+individual who becomes a Non-Employee Director after the effective date of 
+the Plan shall automatically receive an Award, on the date he or she becomes 
+a Non-Employee Director, consisting of an NSO to purchase 10,000 Shares.  In 
+any event, a maximum of 10,000 Shares, as adjusted pursuant to subsection 
+4.2, granted to a Non-Employee Director under this Plan or any other plan of 
+the Company may be outstanding at any time.  The preceding formula for Awards 
+to Non-Employee Directors shall not be changed more than once in any 
+six-month period.
+
+     5.2  NSOs
+
+     The per share exercise price of each such NSO granted to a Non-Employee 
+Director shall be 100 percent of the Fair Market Value of a Share on the date 
+of grant.  Each such NSO shall be exercisable in installments in accordance 
+with the following schedule:
+
+                                       10
+
+<PAGE>
+
+          (a)  A maximum of 25% of the total Shares covered by the NSO may be
+     exercised after the first anniversary of the date of grant;
+
+          (b)  A maximum of 50% of the total Shares covered by the NSO and not
+     previously purchased upon exercise of the NSO may be exercised after the
+     second anniversary of the date of grant;
+
+          (c)  A maximum of 75% of the total Shares covered by the NSO and not
+     previously purchased upon exercise of the NSO may be exercised after the
+     third anniversary of the date of grant; and 
+
+          (d)  100% of the total Shares covered by the NSO and not previously
+     purchased upon exercise of the NSO may be exercised after the fourth
+     anniversary of the date of grant,
+
+and shall expire on the date ten years after the date of grant.
+
+6.   GRANTS OF OPTIONS TO KEY EMPLOYEES
+
+     6.1  Subject to the terms of the Plan, the Committee may from time to 
+time grant Options, which may be Non-Qualified Stock Options or Incentive 
+Stock Options, to Key Employees.  Unless otherwise expressly provided at the 
+time of the grant, Options granted under the Plan will not be ISOs.  
+Notwithstanding the foregoing, outstanding NSOs may be converted to ISOs at 
+the discretion of the Committee in accordance with, and to the extent, 
+allowed by law.
+
+     6.2  Each Option shall be evidenced by a written Option Agreement
+specifying the type of Option granted, the Option exercise price, the terms for
+payment of the exercise price, the duration of the Option, the number of Shares
+to which the Option pertains and the terms of any related Restricted Stock
+Award.  An Option Agreement may, in the sole discretion of the Committee, also
+contain a vesting schedule, a non-competition agreement, a confidentiality
+provision, provisions for forfeiture and such restrictions, conditions and other
+terms as the Committee shall
+
+                                       11
+
+<PAGE>
+
+determine in its sole discretion.  Option Agreements need not be identical.  
+
+     6.3  Each Option shall expire and all rights to purchase Shares 
+thereunder shall cease on the date fixed by the Committee in the Option 
+Agreement, which shall not be later than the tenth anniversary of the date on 
+which the Option was granted, except as otherwise required under Section 7.4 
+hereof.  Further, if provided in the Option Agreement, any Option granted to 
+a Key Employee pursuant to the Plan shall expire and all rights to purchase 
+Shares thereunder shall cease, if (i) the Key Employee violates a 
+non-competition, confidentiality or employment agreement, any Company policy, 
+or any other conditions set forth in the Option Agreement or in a separate 
+document, or (ii) the Key Employee's employment terminates as provided in 
+Section 12.
+
+     6.4  Each Option shall become exercisable at the time, and for the 
+number of Shares, fixed by the Committee in the Option Agreement.  Except to 
+the extent otherwise provided in or pursuant to Section 13, or in the proviso 
+to this sentence, no Option shall become exercisable as to any Shares prior 
+to the first anniversary of the date on which the Option was granted; 
+provided that (i) the Committee may provide, at the time of grant or 
+subsequently that an Option granted to a person who is or becomes subject to 
+taxation under any applicable law that would tax such person upon the grant 
+of such Option, shall be exercisable from and after the date of grant or (ii) 
+the Committee, in its discretion, shall have the power to accelerate the 
+dates for exercise of any or all Options, or any part thereof, granted to a 
+Key Employee under the Plan.
+
+     6.5  In the discretion of the Committee, the grant of any Option may be
+accompanied by a Reload Option.  A Reload Option may be granted to a Grantee who
+is an Option holder and who satisfies all or part of the purchase price of the
+Option with Shares.  The Reload Option represents an additional Option to
+acquire the same number of Shares as is used by the Grantee to pay for the
+original Option.  A Reload Option is subject to all of the same terms and
+conditions as the original Option except that (1) the purchase price of the
+Shares subject to the Reload Option will be determined at the time the original
+Option is exercised and (2)
+
+                                       12
+
+<PAGE>
+
+such Reload Option will conform to all provisions of the Plan at the time the 
+original Option is exercised.
+
+7.   REQUIRED TERMS AND CONDITIONS OF INCENTIVE STOCK OPTIONS
+
+     7.1    Except as provided in subsection 7.4, the per Share exercise 
+price of each ISO shall be at least 100 percent of the Fair Market Value of 
+the Shares at the time such ISO is granted.
+
+     7.2  The aggregate Fair Market Value (determined with respect to each 
+Incentive Stock Option at the time such Option is granted) of the Shares with 
+respect to which Incentive Stock Options are exercisable for the first time 
+by an individual during any calendar year (under all incentive stock option 
+plans of the Company and its parent and subsidiary corporations) shall not 
+exceed $100,000.  If the aggregate Fair Market Value (determined at the time 
+of grant) of the stock subject to an Option, which first becomes exercisable 
+in any calendar year exceeds the limitation of this subsection, so much of 
+the Option that does not exceed the applicable dollar limit shall be an ISO 
+and the remainder shall be an NSO; but in all other respects, the original 
+Option Agreement shall remain in full force and effect.
+
+     7.3  As used in this Section 7, the words "parent" and "subsidiary" 
+shall have the meanings given to them in Section 425(e) and 425(f) of the 
+Code.
+
+     7.4  Notwithstanding anything herein to the contrary, if an Incentive 
+Stock Option is granted to an individual who owns stock possessing more than 
+10 percent of the total combined voting power of all classes of stock of the 
+Company or of its parent or subsidiary corporation, within the meaning of 
+Section 422(b)(6) of the Code, (i) the purchase price of each Share subject 
+to Option shall be not less than 110 percent of the Fair Market Value of the 
+Share on the date the Option is granted, and (ii) the Option shall expire and 
+all rights to purchase Shares thereunder shall cease no later than the fifth 
+anniversary of the date the Option was granted.
+
+     7.5  No ISOs may be granted under the Plan after July 15, 2002.
+
+                                       13
+
+<PAGE>
+
+8.   REQUIRED TERMS AND CONDITIONS OF NON-QUALIFIED STOCK OPTIONS
+
+     Each NSO granted to a Key Employee shall be in such form and subject to 
+such restrictions and conditions and other terms as the Committee may 
+determine at the time of grant, subject to the general provisions of the 
+Plan, the applicable Option Agreement, and the following specific rules:
+
+     8.1  The number of Shares subject to each NSO and the per share exercise 
+price of each NSO shall be 100 percent of the Fair Market Value of the Shares 
+on the date the NSO is granted.  In no event may the exercise price be less 
+than the par value of the Shares subject to such NSO.
+
+     8.2  The Committee shall specify at the time each NSO is granted, the 
+duration of each NSO and the time or times within which (during the term of 
+the NSO) all or portions of each NSO may be exercised, except to the extent 
+that other terms of exercise are specifically provided by other provisions of 
+the Plan, and such provisions shall be specified in the applicable Option 
+Agreement.
+
+9.   RESTRICTED STOCK AWARDS TO KEY EMPLOYEES
+
+     9.1  Subject to the terms of the Plan, the Committee may also grant to 
+Key Employees Restricted Stock Awards from time to time.  Restricted Stock 
+may be granted to a Key Employee either separately from, or in tandem with, 
+the grant of an Option to the Key Employee.  In the case of Restricted Stock 
+granted in tandem with the grant of an Option:  (i) the exercise of the 
+Option shall cause the forfeiture to the Company of the Restricted Stock 
+related to the Option, or portion thereof that is exercised; and (ii) the 
+lapse of restrictions applicable to such Restricted Stock shall cause the 
+expiration of the unexercised Option, or portion thereof, related to such 
+Restricted Stock.  Restricted Stock not granted in tandem with the grant of 
+an Option shall have no effect on, and shall not be affected by, the exercise 
+of any Option by the holder of such Restricted Stock.
+
+     9.2  The terms and conditions of any such Award, including restrictions on
+transfer or on the ability of the Grantee to make elections with respect to the
+taxation of the Award without the
+
+                                       14
+
+<PAGE>
+
+consent of the Committee, shall be determined by the Committee at the time of 
+grant. Except as provided in Sections 9.1, 9.6, 11, 12 and 13, no such 
+restrictions shall lapse earlier than the first, or later than the tenth, 
+anniversary of the date of the Award.
+
+     9.3  Restricted Stock Awards issued under the Plan shall be evidenced by 
+written Restricted Stock Agreements which shall specify whether such 
+Restricted Stock is issued separate from, or in tandem with, the grant of an 
+Option, the number of Shares issuable under the Restricted Stock Award 
+evidenced thereby, and such other provisions as the Committee, in its sole 
+discretion, may determine.
+
+     9.4  The number of Shares granted under a Restricted Stock Award shall 
+be issued to the Grantee thereof on the date of grant of such Award or as 
+soon as may be practicable thereafter.  Shares issued pursuant to Restricted 
+Stock Awards shall be duly issued or transferred, and a certificate or 
+certificates for such Shares shall be issued in the Grantee's name. Subject 
+to the restrictions set forth in the related Restricted Stock Agreement, the 
+Grantee shall thereupon be a stockholder with respect to all the Shares 
+represented by such certificate or certificates and shall have all the rights 
+of a stockholder with respect to such Shares, including the right to vote 
+such Shares and to receive dividends and other distributions paid with 
+respect to such Shares.  In aid of such restrictions, certificates for Shares 
+awarded hereunder, together with a suitably executed stock power signed by 
+each Grantee, shall be held by a nominee of the Company for the account of 
+such Grantee until the restrictions under the related Restricted Stock 
+Agreement lapse pursuant to such Agreement or such Shares are theretofore 
+forfeited to the nominee of the Company as provided by the Plan or the 
+Agreement.
+
+     9.5  At the Committee's option, the Restricted Stock Agreement may provide
+that any Shares of Restricted Stock granted to a Key Employee pursuant to the
+Plan shall be forfeited to the Company if, among other reasons, (i) the Key
+Employee violates a non-competition, confidentiality or employment agreement,
+any Company policy, or any other condition set forth in the Restricted Stock
+Agreement or in a separate document, (ii) the Key Employee's employment with the
+Company terminates prior to the date or dates for expiration of the forfeiture
+provisions set forth in his or
+
+                                       15
+
+<PAGE>
+
+her Restricted Stock Agreement, which date shall not be earlier than the 
+first anniversary of such grant, (iii) the Key Employee's employment with the 
+Company terminates for Cause, or (iv) there occurs a violation of any 
+provision of the applicable Restricted Stock Agreement.  A forfeiture of 
+Restricted Stock pursuant to this subsection 9.5 shall occur immediately 
+following the mailing of written notice to the Key Employee.  Thereafter, the 
+Secretary of the Company shall promptly cancel Shares of Restricted Stock 
+that are forfeited to the Company.
+
+     9.6  Notwithstanding the foregoing, (i) if the Key Employee's employment 
+terminates, or (ii) upon a Change in Control, any restrictions of this 
+Section 9 or in any Restricted Stock Agreement shall lapse as provided in 
+Sections 12 and 13.  
+
+     9.7  The Committee may prescribe such other restrictions and conditions 
+and other terms applicable to the Shares of Restricted Stock issued to a Key 
+Employee under the Plan that are neither inconsistent with nor prohibited by 
+the Plan or any Restricted Stock Agreement, including, without limitation, 
+terms providing for a lapse of the restrictions of this Section 9, provided 
+they are set forth in the applicable Restricted Stock Agreement, in 
+installments.
+
+10.  LIMITED RIGHTS
+
+     10.1 The Committee may, in its discretion, grant a Limited Right to a 
+Key Employee who is the holder of an Option, either at the time the Option is 
+granted or at any time after the Option is granted and until one day prior to 
+the date that is sixth months prior to the end of the Term of the Option, so 
+long as the grant is made during the period in which grants of Limited Rights 
+may be made under the Plan.
+
+     10.2 Each Limited Right shall be for such Term, and shall be subject to 
+such other terms and conditions, as the Committee shall impose at the time of 
+grant. The terms and conditions may include limitations on the time within 
+which and the extent to which such Limited Right shall be exercisable, and 
+limitations on the amount of appreciation which may be recognized with regard 
+to such Limited Right.The terms and conditions shall be reflected in a 
+written agreement between the Company and the Grantee pursuant to
+
+                                       16
+
+<PAGE>
+
+which the Limited Right is awarded.  This agreement shall either be part of 
+an Option Agreement or be a separately executed agreement.
+
+     10.3 No Limited Right shall become exercisable until the date sixth 
+months after it was granted, or such later date that the Option to which it 
+relates becomes exercisable.
+
+     10.4 Upon exercise of a Limited Right, the Option, or portion thereof, with
+respect to which such Right is exercised shall be surrendered and shall not
+thereafter be exercisable.
+
+11.  NON-TRANSFERABILITY OF RIGHTS
+
+     No rights under any Award shall be transferable otherwise than by will 
+or the laws of descent and distribution, and the rights and the benefits, of 
+any such Award, may be exercised and received, respectively, during the 
+lifetime of the Grantee only by him or her.
+
+     Notwithstanding the provisions of the preceding paragraph, a Grantee, at 
+any time prior to his death, may assign all or any portion of an Award 
+granted to him (other than an ISO) to (i) his spouse or lineal descendant, 
+(ii) the trustee of a trust for the primary benefit of his spouse or lineal 
+descendant, (iii) a partnership of which his spouse and lineal descendants 
+are the only partners, or (iv) a tax exempt organization as described in 
+Section 501(c)(3) of the Code.  In such event, the spouse, lineal descendant, 
+trustee, partnership or tax exempt organization will be entitled to all of 
+the rights of the Grantee with respect to the assigned portion of such Award, 
+and such portion of the Award will continue to be subject to all of the 
+terms, conditions and restrictions applicable to the Award, as set forth 
+herein, and in the related Option Agreement, Restricted Stock Agreement or 
+Limited Right Agreement, immediately prior to the effective date of the 
+assignment.  Any such assignment will be permitted only if (i) the Grantee 
+does not receive any consideration therefor, and (ii) the assignment is 
+expressly approved by the Company.  Any such assignment shall be evidenced by 
+an appropriate written document executed by the Grantee, and a copy thereof 
+shall be delivered to the Company on or prior to the effective date of the
+
+                                       17
+
+<PAGE>
+
+assignment.  This paragraph shall apply to all Awards granted under the Plan 
+at any time.
+
+12.  DEATH OR TERMINATION OF EMPLOYMENT
+
+     12.1 Except as hereinafter provided, no Option or Limited Right granted 
+pursuant to the Plan may be exercised at any time unless the holder thereof 
+is then an employee or director of the Company.  Options and Limited Rights 
+granted under the Plan shall not be affected by any change of employment or 
+service on the Board so long as the Grantee continues to be an employee or 
+director of the Company.
+
+     12.2 Except as provided in Section 13, the Option or Limited Right of 
+any Grantee whose employment or service on the Board is terminated for any 
+reason, other than for death, Disability, termination of employment for 
+Cause, or Retirement, shall terminate on the earlier of (i) three months 
+after termination of employment or service on the Board and (ii) the date 
+that such Option or Limited Right expires in accordance with its terms.
+
+     12.3 In the event of the death of a Grantee during employment or service 
+on the Board, or within three months after the termination of employment 
+(except as described in subsection 12.5) or service on the Board, each Option 
+or Limited Right granted to such Grantee shall be exercisable or payable to 
+the extent provided therein but not later than one year after his or her 
+death (but not beyond the stated duration of the Option or Limited Right).  
+Any such exercise or payment shall be made only: (i) by or to the Successor  
+of the deceased Grantee; and (ii) to the extent, if any, that the deceased 
+Grantee was entitled at the date of his or her death.
+
+     12.4 In the case of the Disability of a Grantee, the Option or Limited 
+Right shall terminate on the earlier of (i) one year after termination of 
+employment or service on the Board and (ii) the date that such Option or 
+Limited Right expires in accordance with its terms.  During such period, the 
+Option or Limited Right may be exercised by a Grantee who becomes Disabled 
+with respect to the same number of Shares, in the same manner and to the same 
+extent if the Grantee had continued employment or service on the Board during 
+such period.
+
+                                       18
+
+<PAGE>
+
+     12.5 In the case of a Key Employee, the Option or Limited Right shall 
+lapse immediately upon termination of employment of the Grantee  for Cause.
+
+     12.6 In the event of the Grantee's Retirement, the Option or Limited 
+Right shall remain exercisable by the retired Grantee until the Award expires 
+by its terms and may be exercised by the retired Grantee to the same extent 
+as if he or she had continued employment or service on the Board during such 
+period; provided, however, if the Grantee dies before the Option or Limited 
+Right expires, such Award shall be exercisable only by the Successor of the 
+deceased Grantee to the extent that the deceased Grantee was entitled at the 
+date of his or her death.
+
+     12.7 Pursuant to subsections 9.5 and 9.6, a Restricted Stock Award shall 
+be subject to such restrictions in the event of the death, Disability, 
+Retirement or other termination of employment of the Grantee as are set forth 
+in the applicable Restricted Stock Agreement.
+
+13.  CHANGE IN CONTROL
+
+     13.1 In the event of a Change in Control, an Award granted to a Key 
+Employee shall be affected as follows:
+
+     (a)  In the event of a Change in Control which does not have the prior 
+written approval of a majority of the Continuing Directors, and 
+notwithstanding any conditions or restrictions contained in an agreement 
+related to any Award, any Options (not issued in tandem with a Restricted 
+Stock Award) and Limited Rights outstanding to a Grantee shall become 
+immediately exercisable and any restrictions on any Restricted Stock (not 
+issued in tandem with an Option) shall lapse on the date of such a Change in 
+Control.  If an Option is issued in tandem with a Restricted Stock Award, the 
+outstanding Option shall become immediately exercisable, or the restrictions 
+on the Restricted Stock shall lapse, on the date of such a Change in Control, 
+as elected by the Grantee.  Any such election shall be made by the Grantee 
+within thirty (30) days after such Change in Control by giving notice to the 
+Committee, or the Secretary of any successor corporation or other entity.
+
+                                       19
+
+<PAGE>
+
+     (b)  In the event of a Change in Control which does have the prior 
+written approval of a majority of the Continuing Directors, the Committee in 
+its sole discretion may, notwithstanding any conditions or restrictions 
+contained in an agreement related to any Award, provide that:  (i) all 
+Options or Limited Rights, or both, will become immediately exercisable 
+and/or all restrictions on Restricted Stock will lapse, or (ii) all Options, 
+Limited Rights and Restricted Stock Awards will be exchanged for options, 
+limited rights and restricted stock awards of the acquiring or surviving 
+corporation of equal or, except in the case of ISOs, greater value.
+
+     13.2 In the event that a Non-Employee Director's membership on the Board 
+terminates within one year following a Change in Control which does not have 
+the prior written approval of a majority of the Continuing Directors, any 
+unexercised NSOs shall become fully exercisable.
+
+     13.3 For the purposes of subsections 13.1 and 13.2, a Change in Control 
+shall not have the prior written approval of a majority of the Continuing 
+Directors, unless such approval occurs prior to such Change in Control.
+
+     13.4  In the event of a sale of substantially all of the assets of the 
+Company, or a merger, consolidation or share exchange involving the Company, 
+all obligations of the Company under the Plan with respect to Awards granted 
+hereunder shall be binding on the successor to the transaction.  Employment 
+of a Key Employee with such a successor shall be considered employment of the 
+Key Employee with the Company for purposes of the Plan.
+
+14.  EXERCISE OF AWARDS
+
+     14.1 A person entitled to exercise an Option or Limited Right may do so 
+by delivery of a written notice to that effect specifying the number of 
+Shares with respect to which the Option or Limited Right is being exercised 
+and any other information the Committee may prescribe.  The notice shall be 
+accompanied, in the case of an Option, by payment as described in subsection 
+14.2.  The notice of exercise of a Limited Right shall be accompanied by the 
+Grantee's copy of the writing or writings evidencing the grant
+
+                                       20
+
+<PAGE>
+
+of the Limited Right and the related Option.  Shares issued upon exercise of 
+an Option, or in respect of a Restricted Stock Award, shall be issued only in 
+the name of the Grantee.  All notices or requests provided for herein shall 
+be delivered to the Secretary of the Company.
+
+     14.2 Except as otherwise provided in the Plan or in any Option 
+Agreement, the Grantee shall pay the purchase price of the Shares upon 
+exercise of any Option (i) in cash, (ii) in cash received from a 
+broker-dealer to whom the Grantee has submitted an exercise notice consisting 
+of a fully endorsed Option (however, in the case of an insider subject to 
+Section 16 of the Securities Exchange Act of 1934, this payment option shall 
+only be available to the extent such insider complies with Regulation T 
+issued by the Federal Reserve Board), (iii) by delivering Shares having an 
+aggregate Fair Market Value on the date of exercise equal to the Option 
+exercise price, (iv) by directing the Company to withhold such number of 
+Shares otherwise issuable upon exercise of such Option having an aggregate 
+Fair Market Value on the date of exercise equal to the Option exercise price, 
+(v) in the case of a Key Employee, by such other medium of payment as the 
+Committee, in its discretion, shall authorize at the time of grant, or (vi) 
+by any combination of (i), (ii), (iii), (iv) and (v).  In the case of an 
+election pursuant to (i) or (ii) above, cash shall mean cash or a certified 
+or cashier's check issued by a federally insured bank or savings and loan 
+association, and made payable to AAR CORP.  In the case of payment pursuant 
+to (ii), (iii) or (iv) above, the Grantee's election must be made on or prior 
+to the date of exercise and must be irrevocable.  In lieu of a separate 
+election governing each exercise of an Award, a Grantee may file a blanket 
+election with the Committee which shall govern all future exercises of Awards 
+until revoked by the Grantee. The Company shall issue, in the name of the 
+Grantee, stock certificates representing the total number of Shares issuable 
+pursuant to the exercise of any Option as soon as reasonably practicable 
+after such exercise, provided that any Shares purchased by a Grantee through 
+a broker-dealer pursuant to clause (ii) above shall be delivered to such 
+broker-dealer in accordance with 12 C.F.R. Section 220.3(e)(4) or other 
+applicable provision of law.
+
+                                       21
+
+<PAGE>
+
+15.  EFFECTIVE DATE OF THE PLAN/AMENDMENT OF AWARDS
+
+     The Plan will become effective on July 16, 1992, contingent upon its 
+approval at a meeting of the Company's stockholders by the affirmative votes 
+of the holders of a majority of the Company's voting securities present or 
+represented and entitled to vote at a meeting duly held within twelve months 
+thereafter in accordance with Delaware law and continue thereafter until 
+terminated by the Board of Directors.  The terms of any Award may be amended 
+at any time prior to the end of their Term in accordance with the Plan.  No 
+such amendment may adversely affect the interest of the Grantee of such Award 
+without such Grantee's written consent.
+
+16.  DATE OF AWARD
+
+     The date of an Award shall be the date on which the Committee's 
+determination to grant the same is final, or such later date as shall be 
+specified by the Committee in connection with its determination.
+
+17.  STOCKHOLDER STATUS
+
+     No person shall have any rights as a stockholder by virtue of the grant 
+of an Award under the Plan except with respect to Shares actually issued to 
+that person.
+
+18.  POSTPONEMENT OF EXERCISE
+
+     The Committee may postpone any exercise of an Option or the distribution 
+of any portion of a Restricted Stock Award for such time as the Committee in 
+its sole discretion may deem necessary in order to permit the Company (i) to 
+effect, amend or maintain any necessary registration of the Plan or the 
+Shares issuable upon the exercise of an Option or distributable in 
+satisfaction of a Restricted Stock Award under the Securities Act of 1933, as 
+amended, or the securities laws of any applicable jurisdiction, (ii) to 
+permit any action to be taken in order to (A) list such Shares on a stock 
+exchange if Shares are then listed on such exchange or (B) comply with 
+restrictions or regulations incident to the maintenance of a public market 
+for its Shares, including any rules or regulations of any stock exchange on 
+which the Shares
+
+                                       22
+
+<PAGE>
+
+are listed, or (iii) to determine that such Shares and the Plan are exempt 
+from such registration or that no action of the kind referred to in (ii)(B) 
+above needs to be taken; and the Company shall not be obligated by virtue of 
+any terms and conditions of any Award or any provision of the Plan to 
+recognize the exercise of an Option or to sell or issue Shares in violation 
+of the Securities Act of 1933 or the law of any government having 
+jurisdiction thereof.  Any such postponement shall not extend the Term of an 
+Option or shorten the Term of any restriction attached to any Restricted 
+Stock Award and neither the Company nor its directors or officers shall have 
+any obligation or liability to the Grantee of an Award, to the Grantee's 
+Successor or to any other person with respect to any Shares as to which the 
+Option shall lapse because of such postponement or as to which issuance under 
+a Restricted Stock Award was delayed.
+
+19.  TERMINATION, SUSPENSION OR MODIFICATION OF PLAN
+
+     The Board may at any time terminate, suspend or modify the Plan without 
+the authorization of stockholders to the extent allowed by law, including 
+without limitation any rules issued by the Securities and Exchange Commission 
+under Section 16 of the Securities Exchange Act of 1934.
+
+     No termination, suspension or modification of the Plan shall adversely 
+affect any right acquired by any Grantee or any Successor under an Award 
+granted before the date of such termination, suspension or modification, 
+unless such Grantee or Successor shall consent; but it shall be conclusively 
+presumed that any adjustment for changes in capitalization as provided for 
+herein does not adversely affect any such right.  Any member of the Board who 
+is an officer or employee of the Company shall be without vote on any 
+proposed amendment to the Plan, or on any other matter which might affect 
+that member's individual interest under the Plan.
+
+20.  TAXES
+
+     Upon the Taxable Date of any Award, the Company shall have the right to
+require the Grantee to remit to the Company an amount in cash sufficient to
+satisfy all federal, state and local withholding tax requirements prior to the
+delivery by the Company
+
+                                       23
+
+<PAGE>
+
+of cash or any certificate or certificates for Shares. Whenever payments 
+under the Plan are to be made in cash, such payments shall be net of any 
+amounts sufficient to satisfy all federal, state, local and foreign 
+withholding tax requirements.  In connection with an Award in the form of 
+Shares and in lieu of making a cash payment to the Company, the Grantee may 
+elect to satisfy his or her tax withholding obligation incurred in connection 
+with the Taxable Date of an Option or Restricted Stock Award by (i) directing 
+the Company to withhold a portion of the Shares otherwise distributable to 
+the Grantee, or (ii) by transferring to the Company a certain number of 
+Shares (either subject to such Restricted Stock Award or previously owned), 
+such Shares being valued at the Fair Market Value for the Shares on such 
+Taxable Date.  Notwithstanding any provision of the Plan to the contrary, a 
+Grantee's election pursuant to the preceding sentence (i) must be made on or 
+prior to the date as of which income is realized by the Grantee in connection 
+with such Option or Restricted Stock Award, and (ii) must be irrevocable.  In 
+lieu of a separate election on each Taxable Date of an Award, a Grantee may 
+file a blanket election with the Committee which shall govern all future 
+Taxable Dates until revoked by the Grantee.
+
+     If the holder of Shares purchased in connection with the exercise of an 
+Incentive Stock Option disposes of such Shares within two years of the date 
+such ISO was granted or within one year of such exercise, he shall notify the 
+Company of such disposition and remit an amount necessary to satisfy 
+applicable withholding requirements including those arising under federal 
+income tax laws. If such holder does not remit such amount, the Company may 
+withhold all or a portion of any salary then or in the future owed to such 
+holder as necessary to satisfy such requirements.
+
+21.  TENURE
+
+     Nothing contained in the Plan shall be construed as a contract of 
+employment between the Company and any person, nor shall the Plan be deemed 
+to give any person the right to be retained in the employ of the Company or 
+limit the right of the Company to employ or discharge any person with or 
+without Cause, or to discipline any Employee.
+
+                                       24
+
+<PAGE>
+
+22.  APPLICATION OF PROCEEDS
+
+     The cash proceeds received by the Company from the sale of its Shares 
+under the Plan shall be used for general corporate purposes.
+
+23.  OTHER ACTIONS
+
+     Nothing in the Plan shall be construed to limit the authority of the 
+Company to exercise its corporate rights and powers, including, by way of 
+illustration and not by way of limitation, the right to grant options for 
+proper corporate purposes otherwise than under the Plan to any employee or 
+any other person, firm, corporation, association or other entity, or to grant 
+options to, or assume options of, any person in connection with the 
+acquisition, by purchase, lease, merger, consolidation or otherwise, of all 
+or any part of the business and assets of any person, firm, corporation, 
+association or other entity.
+
+24.  LOAN AGREEMENTS
+
+     Each Award shall be subject to the condition that the Company shall not 
+be obligated to issue or transfer its Shares or to pay an amount in cash to 
+the Grantee thereof on its exercise, or otherwise, if the Committee or the 
+Board determines that such issuance, transfer, or payment, would violate any 
+covenant in any loan agreement or other contract to which the Company or a 
+Subsidiary is a party.
+
+25.  NOTICES
+
+     Notices given pursuant to the Plan shall be in writing and shall be 
+deemed received when personally delivered or three  days after mailed by 
+United States registered or certified mail, return receipt requested, 
+addressee only, postage prepaid.  Notice to the Company shall be directed to:
+
+               Corporate Secretary
+               AAR CORP.
+               1111 Nicholas Boulevard
+               Elk Grove Village, Illinois   60007
+
+
+                                       25
+
+<PAGE>
+
+Notices to or with respect to a Grantee shall be directed to the Grantee, or 
+the Successor of a deceased Grantee, at the Grantee's home address on the 
+records of the Company.
+
+26.  AAR CORP. STOCK OPTION PLAN FOR NON-EMPLOYEE DIRECTORS
+
+     The AAR CORP. Stock Option Plan for Non-Employee Directors, dated August 
+1, 1988 ("Non-Employee Directors Plan") is hereby terminated concurrent with 
+the effective date hereof, and no further options thereunder shall be granted 
+after such termination; provided, however, that such termination shall not 
+affect any options outstanding thereunder which shall continue to be subject 
+to the terms and conditions of the Non-Employee Directors Plan and the 
+written agreements evidencing such options.  The Committee hereunder shall 
+have authority to interpret and administer such options and applicable 
+agreements. This Amendment and Restatement has been executed by the Company 
+by its duly authorized officer effective as of July 16, 1992 and attested by 
+its Secretary.
+
+                                   AAR CORP.
+
+
+
+                                   By
+                                     --------------------------------------
+                                             Chairman of the Board
+
+ATTEST:
+
+
+
+- ----------------------------- 
+Howard A. Pulsifer, Secretary
+
+
+SEAL
+
+
+
+
+
+                                       26
+
+<PAGE>
+
+    AAR CORP.                                                   PROXY
+
+    THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS FOR THE 
+P   1997 ANNUAL MEETING OF STOCKHOLDERS TO BE HELD IN THE SHAREHOLDERS', 
+    ROOM (21ST FLOOR) OF BANK OF AMERICA ILLINOIS, 231 S. LASALLE STREET,
+R   CHICAGO, ILLINOIS, ON WEDNESDAY, OCTOBER 8, 1997, AT 3:00 P.M. (CST).
+
+O
+    The undersigned hereby appoints IRA A. EICHNER and HOWARD A. PULSIFER, 
+X   or either of them, with full power of substitution, as Proxies, and 
+    hereby authorizes them to represent the undersigned at the 1997 Annual 
+Y   Meeting of Stockholders of AAR CORP. to be held on October 8, 1997, or 
+    any adjournment thereof, and to vote all shares of AAR CORP. Common 
+    Stock which the undersigned would be entitled to vote if personally 
+    present.
+
+1.   Election of three Class I directors, nominees: Erwin E. Schulze,
+     Joel D. Spungin, and David P. Storch;
+2.   Amendment to the AAR CORP. Stock Benefit Plan ("Plan") to limit
+     to 300,000 the number of shares of Common Stock that may be granted
+     under the Plan to any grantee during any 12-month period;
+3.   Approval of Performance Goals under the Long-Term Performance
+     Restricted Stock Incentive program for the Chief Executive Officer;
+4.   Approval of AAR CORP. Section 162(m) Performance-Based Annual
+     Cash Bonus Program for executive officers.
+
+AS TO EACH ITEM SET FORTH ON THE REVERSE HEREOF, THIS PROXY WILL BE
+VOTED IN THE MANNER DIRECTED ON THE REVERSE SIDE AND, IF NO DIRECTION
+IS GIVEN, WILL BE VOTED FOR ITEMS 1, 2, 3, AND 4. As to any other
+business that may come before the Annual Meeting, or any adjournment
+thereof, this Proxy will be voted in the discretion of the proxies.
+
+(Continued and to be dated and signed on reverse side.)
+
+
+<PAGE>
+
+
+/X/  PLEASE MARK YOUR                                                       6019
+     VOTES AS IN THIS
+     EXAMPLE.
+
+
+     THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" ITEMS 1, 2, 3, AND 4 
+     DESCRIBED IN THE PROXY STATEMENT:
+
+
+1. Election of three       FOR               WITHHOLD AUTHORITY    
+   Class I directors    ALL NOMINEES*     TO VOTE FOR ALL NOMINEES 
+
+   (nominees: Erwin E.    /  /                    /  /
+   Schulze, Joel D. 
+   Spungin, and David P.
+   Storch).
+
+     *(Instructions: to withhold authority to vote for any individual nominee, 
+     write that nominee's name(s) in the space below)
+
+     ------------------------------------------------
+
+
+2.  Amendment to the AAR CORP.           FOR     AGAINST     ABSTAIN
+    Stock Benefit Plan                  /  /      /  /        /  /
+
+
+3.  Approval of Performance Goals       /  /      /  /        /  /
+
+
+4.  Approval of AAR CORP. Section       /  /      /  /        /  /
+    162(m) Performance-Based 
+    Annual Cash Bonus Program
+
+
+(Please sign as name appears opposite. Joint owners should all sign. Executors,
+administrators, trustees, etc. should so indicate when signing. If signer is a
+corporation, sign full corporate name by duly authorized officer who adds his or
+her name and title.)
+
+
+- ----------------------------------------
+
+
+- ----------------------------------------
+  SIGNATURE(S)                  DATE
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
