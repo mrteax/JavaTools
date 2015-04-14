@@ -3,6 +3,7 @@ package com.tea.data;
 import java.io.File;
 import java.util.ArrayList;
 
+import com.tea.analyzer.HtmlAnalyzer;
 import com.tea.fileUtils.FileUtils;
 
 public class KeywordExtractor {
@@ -14,7 +15,6 @@ public class KeywordExtractor {
 		String filename;
 		boolean isHtml;
 		String targetStr;
-		
 	}
 	
 	private void analyser() {
@@ -24,6 +24,10 @@ public class KeywordExtractor {
 			for (File file : folder.listFiles()) {
 				content = FileUtils.readFileLinesToArrayList(file);
 				boolean isHtml = isHtmlText(content);
+				if (isHtml) {
+					HtmlAnalyzer.getHtmlText(file);
+					return;
+				}
 			}
 		}
 	}
