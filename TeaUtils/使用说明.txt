@@ -1,0 +1,20 @@
+使用说明：
+
+1. 先创建一个配置文件，文件内容如下：
+FOLDER(指的是需要解析的文本存储的文件夹路径)
+KEYWORD1（关键词1）
+KEYWORD2（关键词2）
+INTERVAL（两个关键词之间相距的最多字符数）
+（请主意，文件中每一个元素都是单独的一行，严格匹配，下面举个例子：）
+/Users/xjntea/workspace/github/JavaTools/TeaUtils/data/interval_keywords
+pre-tax
+income
+50
+
+
+
+2. 运行命令行并到附件中.jar文件夹下，运行如下命令：
+java -jar parser.jar <filePath>
+注：<filePath>为1中创建的配置文件的绝对路径（包含文件名）,不包含"<" 和 ">"
+
+3. 结果会放在配置文件第一项的目录中新建了一个results目录底下

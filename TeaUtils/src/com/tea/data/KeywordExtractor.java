@@ -4,28 +4,29 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Set;
+import java.util.TreeSet;
 
 import com.tea.analyzer.HtmlAnalyzer;
 import com.tea.fileUtils.FileUtils;
 
 public class KeywordExtractor {
 	private final static int MAX_RESULTS_PER_FILE = 5000;
-	final int interval = 50;
 	
 	String folderPath = "data/interval_keywords";
-	String rulePath = "data/internalKeywords/rule/rule.csv";
-	String resPath = "data/keywords_result/results";
-	private String mKeyword1 = "pre tax";
-	private String mKeyword2 = "income";
+	
+	private String mKeyword1 = "";
+	private String mKeyword2 = "";
+	private int interval = 0;
 	private String mFilename;
 	private boolean mIsHtml;
 	private String mText;
 	
-	private ArrayList<Result> resultsArray = new ArrayList<KeywordExtractor.Result>();
+//	private ArrayList<String> resultsSet = new ArrayList<String>();
 	private ArrayList<Integer> keywordOneIndexes = new ArrayList<Integer>();
 	private ArrayList<Integer> keywordTwoIndexes = new ArrayList<Integer>();
+	private TreeSet<String> resultsSet = new TreeSet<String>();
  	private int resultIndex = 0;
+	private String configPath;
 	
 	
 	class Result {
@@ -42,46 +43,77 @@ public class KeywordExtractor {
 			this.targetStr = targetStr;
 			this.keyword1 = keyword1;
 			this.keyword2 = keyword2;
+			this.interval = interval;
 		}
 		@Override
 		public String toString() {
 			StringBuffer sb = new StringBuffer();
-			sb.append(filename);
-			sb.append(SEPERATOR);
-			sb.append(keyword1);
-			sb.append(SEPERATOR);
-			sb.append(keyword2);
-			sb.append(SEPERATOR);
-			sb.append(interval);
-			sb.append(SEPERATOR);
-			sb.append(isHtml);
-			sb.append(SEPERATOR);
-			sb.append(targetStr);
-			sb.append("\n");
+			sb.append(filename).append(SEPERATOR).append(keyword1).append(SEPERATOR).append(keyword2).append(SEPERATOR)
+			.append(interval).append(SEPERATOR).append(isHtml).append(SEPERATOR).append("\"").append(targetStr)
+			.append("\"").append("\n");
 			
 			return sb.toString();
 		}
 	}
-	
+	//FOLDER,KEYWORD1,KEYWORD2,INTERVAL
+	public KeywordExtractor(String path) {
+		configPath = path;
+	}
+
 	private void analyser() {
+		if (configPath == null || configPath.length() == 0) {
+			System.out.println("config file path error");
+			return;
+		}
+		File configFile = new File(configPath);
+		if (!configFile.exists()) {
+			System.out.println("config file path error");
+			return;
+		}
+		ArrayList<String> config = FileUtils.readFileLinesToArrayList(configFile);
+		//FOLDER,KEYWORD1,KEYWORD2,INTERVAL
+		folderPath = config.get(0);
+		mKeyword1 = config.get(1).toLowerCase();
+		mKeyword2 = config.get(2).toLowerCase();
+		interval = Integer.parseInt(config.get(3));
+		
 		File folder = new File(folderPath);
 		if (folder.isDirectory()) {
 			ArrayList<String> content;
-			String htmlTxt = null;
+			mText = null;
 			for (File file : folder.listFiles()) {
+				if (file.isDirectory()) {
+					System.out.println(file.getPath() + " is a directory");
+					continue;
+				}
 				mFilename = file.getName();
+				System.out.println("parsing file: " + mFilename);
 				content = FileUtils.readFileLinesToArrayList(file);
+				if (content == null) {
+					System.out.println(file.getPath() + " : read failed");
+					continue;
+				}
 				boolean isHtml = isHtmlText(content);
 				mIsHtml = isHtml;
-				htmlTxt = HtmlAnalyzer.getHtmlText(file);
-				processTxt(file, htmlTxt, isHtml);
+				mText = HtmlAnalyzer.getHtmlText(file);
+				processTxt(isHtml);
+				resultIndex++;
+				clear();
 			}
 			writeBack();
 		}
 	}
 	
+	private void clear() {
+		keywordOneIndexes.clear();
+		keywordTwoIndexes.clear();
+		mText = "";
+		mFilename = "";
+		mIsHtml = false;
+	}
+
 	private void writeBack() {
-		File dir = new File(resPath);
+		File dir = new File(folderPath, "results");
 			try {
 				if (!dir.exists()) {
 					dir.mkdir();
@@ -91,8 +123,8 @@ public class KeywordExtractor {
 					ret.createNewFile();
 				}
 				FileWriter fw = new FileWriter(ret);
-				for (Result result : resultsArray) {
-					fw.append(result.toString());
+				for (String result : resultsSet) {
+					fw.append(result);
 					fw.flush();
 				}
 				fw.close();
@@ -101,26 +133,13 @@ public class KeywordExtractor {
 			}
 	}
 
-	private void processTxt(File file, String text, boolean isHtml) {
-		if (file == null || text == null) {
+	private void processTxt(boolean isHtml) {
+		if (mText == null) {
 			return;
 		}
-		String fileName = file.getName();
-		text = text.trim().replaceAll(" +", " ");
-//		String[] sentences = text.split(".");
-//		for (int i = 0; i < sentences.length; i++) {
-//			String sen1 = sentences[i];
-//			int index = sen1.indexOf(mKeyword1);
-//			if (index >= 0) {
-//				if (sen1.indexOf(mKeyword2) > index) {
-//					resultIndex++;
-//					
-//				}
-//			}
-//		}
-		mText = text;
-		fillKeyworkOneList(keywordOneIndexes, mKeyword1, text, 0);
-		fillKeyworkOneList(keywordTwoIndexes, mKeyword2, text, 0);
+		mText = mText.trim().replaceAll(" +", " ").toLowerCase();
+		fillKeyworkOneList(keywordOneIndexes, mKeyword1, mText, 0);
+		fillKeyworkOneList(keywordTwoIndexes, mKeyword2, mText, 0);
 		
 		compareList();
 	}
@@ -131,12 +150,10 @@ public class KeywordExtractor {
 			for (int j = 0; j < keywordTwoIndexes.size(); j++) {
 				int two = keywordTwoIndexes.get(j).intValue();
 				if (one < two && (two - one + mKeyword1.length()) <= interval) {
-					int firstPoint = mText.substring(0, one).lastIndexOf(".");
-					int lastPoint = mText.substring(two).indexOf(".") + two;
-					Result ret = new Result(mFilename, mIsHtml, mText.substring(firstPoint, lastPoint + 1), mKeyword1, mKeyword2, interval);
-					resultsArray.add(ret);
-					System.out.println(mFilename + " : " + mIsHtml + " : " + mKeyword1 + " : " + mKeyword2 + " : " + interval + " : " + mText.substring(firstPoint, lastPoint + 1));
-					resultIndex++;
+					int firstPoint = mText.substring(0, one).lastIndexOf(".") + 1;
+					int lastPoint = mText.substring(two).indexOf(".") + two + 1;
+					Result ret = new Result(mFilename, mIsHtml, mText.substring(firstPoint, lastPoint), mKeyword1, mKeyword2, interval);
+					resultsSet.add(ret.toString());
 				}
 			}
 		}
@@ -144,10 +161,11 @@ public class KeywordExtractor {
 
 	private void fillKeyworkOneList(ArrayList<Integer> keywordIndexes, String mKeyword, String text, int offset) {
 		int index = text.indexOf(mKeyword);
-		if (index >= 0) {
+ 		if (index >= 0) {
 			keywordIndexes.add(index + offset);
-			offset = index + mKeyword.length();
-			fillKeyworkOneList(keywordIndexes, mKeyword, text.substring(offset), offset);
+			int start = index + mKeyword.length();
+			offset = index + offset + mKeyword.length();
+			fillKeyworkOneList(keywordIndexes, mKeyword, text.substring(start), offset);
 		}
 	}
 
@@ -161,7 +179,11 @@ public class KeywordExtractor {
 	}
 	
 	public static void main(String[] args) {
-		KeywordExtractor ke = new KeywordExtractor();
+		if (args.length < 1) {
+			System.out.println("please input config path");
+			return;
+		}
+		KeywordExtractor ke = new KeywordExtractor(args[0]);
 		ke.analyser();
 	}
 }
