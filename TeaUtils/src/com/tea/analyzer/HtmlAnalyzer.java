@@ -11,7 +11,6 @@ public class HtmlAnalyzer {
 		String ret = null;
 		Document doc = Jsoup.parse(html);
 		ret = doc.text();
-		System.out.println(ret);
 		return ret;
 	}
 	
@@ -21,7 +20,6 @@ public class HtmlAnalyzer {
 		try {
 			doc = Jsoup.parse(file, null);
 			ret = doc.text();
-			System.out.println(ret);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
